@@ -1,0 +1,1202 @@
+[
+  {
+    "teacher_id": 1,
+    "name": "Mr. Vinod Khanna",
+    "email": "vinod.khanna@college.edu",
+    "username": "teacher1",
+    "password": "pass1",
+    "branch": "CS",
+    "branch_name": "Computer Science",
+    "year": 1,
+    "role": "HOD & Class Coordinator",
+    "subjects": [
+      "Mathematics",
+      "Computer Science"
+    ]
+  },
+  {
+    "teacher_id": 2,
+    "name": "Prof. Amit Kumar",
+    "email": "amit.kumar@college.edu",
+    "username": "teacher2",
+    "password": "pass2",
+    "branch": "CS",
+    "branch_name": "Computer Science",
+    "year": 1,
+    "role": "Faculty Advisor",
+    "subjects": [
+      "Data Structures",
+      "Physics"
+    ]
+  },
+  {
+    "teacher_id": 3,
+    "name": "Dr. Swati Kaur",
+    "email": "swati.kaur@college.edu",
+    "username": "teacher3",
+    "password": "pass3",
+    "branch": "CS",
+    "branch_name": "Computer Science",
+    "year": 1,
+    "role": "Subject Teacher 1",
+    "subjects": [
+      "Computer Science",
+      "Mathematics"
+    ]
+  },
+  {
+    "teacher_id": 4,
+    "name": "Mr. Pooja Sethi",
+    "email": "pooja.sethi@college.edu",
+    "username": "teacher4",
+    "password": "pass4",
+    "branch": "CS",
+    "branch_name": "Computer Science",
+    "year": 1,
+    "role": "Subject Teacher 2",
+    "subjects": [
+      "Computer Science",
+      "Mathematics"
+    ]
+  },
+  {
+    "teacher_id": 5,
+    "name": "Prof. Nisha Gupta",
+    "email": "nisha.gupta@college.edu",
+    "username": "teacher5",
+    "password": "pass5",
+    "branch": "CS",
+    "branch_name": "Computer Science",
+    "year": 2,
+    "role": "Class Coordinator",
+    "subjects": [
+      "Physics",
+      "Mathematics"
+    ]
+  },
+  {
+    "teacher_id": 6,
+    "name": "Prof. Neha Tiwari",
+    "email": "neha.tiwari@college.edu",
+    "username": "teacher6",
+    "password": "pass6",
+    "branch": "CS",
+    "branch_name": "Computer Science",
+    "year": 2,
+    "role": "Faculty Advisor",
+    "subjects": [
+      "Data Structures",
+      "Physics"
+    ]
+  },
+  {
+    "teacher_id": 7,
+    "name": "Mr. Sonal Bhatia",
+    "email": "sonal.bhatia@college.edu",
+    "username": "teacher7",
+    "password": "pass7",
+    "branch": "CS",
+    "branch_name": "Computer Science",
+    "year": 2,
+    "role": "Subject Teacher 1",
+    "subjects": [
+      "Data Structures",
+      "Physics"
+    ]
+  },
+  {
+    "teacher_id": 8,
+    "name": "Dr. Sanjay Tiwari",
+    "email": "sanjay.tiwari@college.edu",
+    "username": "teacher8",
+    "password": "pass8",
+    "branch": "CS",
+    "branch_name": "Computer Science",
+    "year": 2,
+    "role": "Subject Teacher 2",
+    "subjects": [
+      "Physics",
+      "Computer Science"
+    ]
+  },
+  {
+    "teacher_id": 9,
+    "name": "Prof. Naveen Verma",
+    "email": "naveen.verma@college.edu",
+    "username": "teacher9",
+    "password": "pass9",
+    "branch": "CS",
+    "branch_name": "Computer Science",
+    "year": 3,
+    "role": "Class Coordinator",
+    "subjects": [
+      "Mathematics",
+      "Data Structures"
+    ]
+  },
+  {
+    "teacher_id": 10,
+    "name": "Prof. Divya Shah",
+    "email": "divya.shah@college.edu",
+    "username": "teacher10",
+    "password": "pass10",
+    "branch": "CS",
+    "branch_name": "Computer Science",
+    "year": 3,
+    "role": "Faculty Advisor",
+    "subjects": [
+      "Physics",
+      "Mathematics"
+    ]
+  },
+  {
+    "teacher_id": 11,
+    "name": "Dr. Meera Arora",
+    "email": "meera.arora@college.edu",
+    "username": "teacher11",
+    "password": "pass11",
+    "branch": "CS",
+    "branch_name": "Computer Science",
+    "year": 3,
+    "role": "Subject Teacher 1",
+    "subjects": [
+      "Computer Science",
+      "Data Structures"
+    ]
+  },
+  {
+    "teacher_id": 12,
+    "name": "Ms. Divya Verma",
+    "email": "divya.verma@college.edu",
+    "username": "teacher12",
+    "password": "pass12",
+    "branch": "CS",
+    "branch_name": "Computer Science",
+    "year": 3,
+    "role": "Subject Teacher 2",
+    "subjects": [
+      "Physics",
+      "Mathematics"
+    ]
+  },
+  {
+    "teacher_id": 13,
+    "name": "Ms. Rajesh Ali",
+    "email": "rajesh.ali@college.edu",
+    "username": "teacher13",
+    "password": "pass13",
+    "branch": "CS",
+    "branch_name": "Computer Science",
+    "year": 4,
+    "role": "Class Coordinator",
+    "subjects": [
+      "Computer Science",
+      "Mathematics"
+    ]
+  },
+  {
+    "teacher_id": 14,
+    "name": "Mr. Kavita Hussain",
+    "email": "kavita.hussain@college.edu",
+    "username": "teacher14",
+    "password": "pass14",
+    "branch": "CS",
+    "branch_name": "Computer Science",
+    "year": 4,
+    "role": "Faculty Advisor",
+    "subjects": [
+      "Mathematics",
+      "Data Structures"
+    ]
+  },
+  {
+    "teacher_id": 15,
+    "name": "Prof. Vijay Nair",
+    "email": "vijay.nair@college.edu",
+    "username": "teacher15",
+    "password": "pass15",
+    "branch": "CS",
+    "branch_name": "Computer Science",
+    "year": 4,
+    "role": "Subject Teacher 1",
+    "subjects": [
+      "Physics",
+      "Mathematics"
+    ]
+  },
+  {
+    "teacher_id": 16,
+    "name": "Ms. Naveen Bhatia",
+    "email": "naveen.bhatia@college.edu",
+    "username": "teacher16",
+    "password": "pass16",
+    "branch": "CS",
+    "branch_name": "Computer Science",
+    "year": 4,
+    "role": "Subject Teacher 2",
+    "subjects": [
+      "Mathematics",
+      "Computer Science"
+    ]
+  },
+  {
+    "teacher_id": 17,
+    "name": "Ms. Amit Kapoor",
+    "email": "amit.kapoor@college.edu",
+    "username": "teacher17",
+    "password": "pass17",
+    "branch": "EC",
+    "branch_name": "Electronics & Communication",
+    "year": 1,
+    "role": "HOD & Class Coordinator",
+    "subjects": [
+      "Mathematics",
+      "Computer Science"
+    ]
+  },
+  {
+    "teacher_id": 18,
+    "name": "Dr. Sanjay Gupta",
+    "email": "sanjay.gupta@college.edu",
+    "username": "teacher18",
+    "password": "pass18",
+    "branch": "EC",
+    "branch_name": "Electronics & Communication",
+    "year": 1,
+    "role": "Faculty Advisor",
+    "subjects": [
+      "Computer Science",
+      "Mathematics"
+    ]
+  },
+  {
+    "teacher_id": 19,
+    "name": "Prof. Vinod Shah",
+    "email": "vinod.shah@college.edu",
+    "username": "teacher19",
+    "password": "pass19",
+    "branch": "EC",
+    "branch_name": "Electronics & Communication",
+    "year": 1,
+    "role": "Subject Teacher 1",
+    "subjects": [
+      "Physics",
+      "Electronics"
+    ]
+  },
+  {
+    "teacher_id": 20,
+    "name": "Dr. Vijay Jain",
+    "email": "vijay.jain@college.edu",
+    "username": "teacher20",
+    "password": "pass20",
+    "branch": "EC",
+    "branch_name": "Electronics & Communication",
+    "year": 1,
+    "role": "Subject Teacher 2",
+    "subjects": [
+      "Mathematics",
+      "Electronics"
+    ]
+  },
+  {
+    "teacher_id": 21,
+    "name": "Ms. Meera Patel",
+    "email": "meera.patel@college.edu",
+    "username": "teacher21",
+    "password": "pass21",
+    "branch": "EC",
+    "branch_name": "Electronics & Communication",
+    "year": 2,
+    "role": "Class Coordinator",
+    "subjects": [
+      "Mathematics",
+      "Computer Science"
+    ]
+  },
+  {
+    "teacher_id": 22,
+    "name": "Dr. Naveen Reddy",
+    "email": "naveen.reddy@college.edu",
+    "username": "teacher22",
+    "password": "pass22",
+    "branch": "EC",
+    "branch_name": "Electronics & Communication",
+    "year": 2,
+    "role": "Faculty Advisor",
+    "subjects": [
+      "Computer Science",
+      "Electronics"
+    ]
+  },
+  {
+    "teacher_id": 23,
+    "name": "Ms. Sunita Shah",
+    "email": "sunita.shah@college.edu",
+    "username": "teacher23",
+    "password": "pass23",
+    "branch": "EC",
+    "branch_name": "Electronics & Communication",
+    "year": 2,
+    "role": "Subject Teacher 1",
+    "subjects": [
+      "Computer Science",
+      "Mathematics"
+    ]
+  },
+  {
+    "teacher_id": 24,
+    "name": "Mr. Priya Mishra",
+    "email": "priya.mishra@college.edu",
+    "username": "teacher24",
+    "password": "pass24",
+    "branch": "EC",
+    "branch_name": "Electronics & Communication",
+    "year": 2,
+    "role": "Subject Teacher 2",
+    "subjects": [
+      "Mathematics",
+      "Computer Science"
+    ]
+  },
+  {
+    "teacher_id": 25,
+    "name": "Dr. Amit Sinha",
+    "email": "amit.sinha@college.edu",
+    "username": "teacher25",
+    "password": "pass25",
+    "branch": "EC",
+    "branch_name": "Electronics & Communication",
+    "year": 3,
+    "role": "Class Coordinator",
+    "subjects": [
+      "Computer Science",
+      "Mathematics"
+    ]
+  },
+  {
+    "teacher_id": 26,
+    "name": "Mr. Rajesh Ali",
+    "email": "rajesh.ali@college.edu",
+    "username": "teacher26",
+    "password": "pass26",
+    "branch": "EC",
+    "branch_name": "Electronics & Communication",
+    "year": 3,
+    "role": "Faculty Advisor",
+    "subjects": [
+      "Computer Science",
+      "Electronics"
+    ]
+  },
+  {
+    "teacher_id": 27,
+    "name": "Mr. Nisha Pandey",
+    "email": "nisha.pandey@college.edu",
+    "username": "teacher27",
+    "password": "pass27",
+    "branch": "EC",
+    "branch_name": "Electronics & Communication",
+    "year": 3,
+    "role": "Subject Teacher 1",
+    "subjects": [
+      "Physics",
+      "Mathematics"
+    ]
+  },
+  {
+    "teacher_id": 28,
+    "name": "Ms. Sanjay Banerjee",
+    "email": "sanjay.banerjee@college.edu",
+    "username": "teacher28",
+    "password": "pass28",
+    "branch": "EC",
+    "branch_name": "Electronics & Communication",
+    "year": 3,
+    "role": "Subject Teacher 2",
+    "subjects": [
+      "Computer Science",
+      "Physics"
+    ]
+  },
+  {
+    "teacher_id": 29,
+    "name": "Dr. Preeti Joshi",
+    "email": "preeti.joshi@college.edu",
+    "username": "teacher29",
+    "password": "pass29",
+    "branch": "EC",
+    "branch_name": "Electronics & Communication",
+    "year": 4,
+    "role": "Class Coordinator",
+    "subjects": [
+      "Computer Science",
+      "Mathematics"
+    ]
+  },
+  {
+    "teacher_id": 30,
+    "name": "Prof. Suresh Sharma",
+    "email": "suresh.sharma@college.edu",
+    "username": "teacher30",
+    "password": "pass30",
+    "branch": "EC",
+    "branch_name": "Electronics & Communication",
+    "year": 4,
+    "role": "Faculty Advisor",
+    "subjects": [
+      "Mathematics",
+      "Physics"
+    ]
+  },
+  {
+    "teacher_id": 31,
+    "name": "Dr. Sonal Reddy",
+    "email": "sonal.reddy@college.edu",
+    "username": "teacher31",
+    "password": "pass31",
+    "branch": "EC",
+    "branch_name": "Electronics & Communication",
+    "year": 4,
+    "role": "Subject Teacher 1",
+    "subjects": [
+      "Mathematics",
+      "Electronics"
+    ]
+  },
+  {
+    "teacher_id": 32,
+    "name": "Mr. Swati Ghosh",
+    "email": "swati.ghosh@college.edu",
+    "username": "teacher32",
+    "password": "pass32",
+    "branch": "EC",
+    "branch_name": "Electronics & Communication",
+    "year": 4,
+    "role": "Subject Teacher 2",
+    "subjects": [
+      "Physics",
+      "Mathematics"
+    ]
+  },
+  {
+    "teacher_id": 33,
+    "name": "Prof. Alok Nair",
+    "email": "alok.nair@college.edu",
+    "username": "teacher33",
+    "password": "pass33",
+    "branch": "ME",
+    "branch_name": "Mechanical Engineering",
+    "year": 1,
+    "role": "HOD & Class Coordinator",
+    "subjects": [
+      "Mechanical Engineering",
+      "Chemistry"
+    ]
+  },
+  {
+    "teacher_id": 34,
+    "name": "Ms. Naveen Hussain",
+    "email": "naveen.hussain@college.edu",
+    "username": "teacher34",
+    "password": "pass34",
+    "branch": "ME",
+    "branch_name": "Mechanical Engineering",
+    "year": 1,
+    "role": "Faculty Advisor",
+    "subjects": [
+      "Mathematics",
+      "Physics"
+    ]
+  },
+  {
+    "teacher_id": 35,
+    "name": "Ms. Meera Mehta",
+    "email": "meera.mehta@college.edu",
+    "username": "teacher35",
+    "password": "pass35",
+    "branch": "ME",
+    "branch_name": "Mechanical Engineering",
+    "year": 1,
+    "role": "Subject Teacher 1",
+    "subjects": [
+      "Chemistry",
+      "Physics"
+    ]
+  },
+  {
+    "teacher_id": 36,
+    "name": "Ms. Neha Das",
+    "email": "neha.das@college.edu",
+    "username": "teacher36",
+    "password": "pass36",
+    "branch": "ME",
+    "branch_name": "Mechanical Engineering",
+    "year": 1,
+    "role": "Subject Teacher 2",
+    "subjects": [
+      "Mechanical Engineering",
+      "Physics"
+    ]
+  },
+  {
+    "teacher_id": 37,
+    "name": "Mr. Preeti Shah",
+    "email": "preeti.shah@college.edu",
+    "username": "teacher37",
+    "password": "pass37",
+    "branch": "ME",
+    "branch_name": "Mechanical Engineering",
+    "year": 2,
+    "role": "Class Coordinator",
+    "subjects": [
+      "Chemistry",
+      "Mathematics"
+    ]
+  },
+  {
+    "teacher_id": 38,
+    "name": "Prof. Pooja Patel",
+    "email": "pooja.patel@college.edu",
+    "username": "teacher38",
+    "password": "pass38",
+    "branch": "ME",
+    "branch_name": "Mechanical Engineering",
+    "year": 2,
+    "role": "Faculty Advisor",
+    "subjects": [
+      "Physics",
+      "Chemistry"
+    ]
+  },
+  {
+    "teacher_id": 39,
+    "name": "Dr. Rakesh Kumar",
+    "email": "rakesh.kumar@college.edu",
+    "username": "teacher39",
+    "password": "pass39",
+    "branch": "ME",
+    "branch_name": "Mechanical Engineering",
+    "year": 2,
+    "role": "Subject Teacher 1",
+    "subjects": [
+      "Mechanical Engineering",
+      "Physics"
+    ]
+  },
+  {
+    "teacher_id": 40,
+    "name": "Ms. Manoj Ali",
+    "email": "manoj.ali@college.edu",
+    "username": "teacher40",
+    "password": "pass40",
+    "branch": "ME",
+    "branch_name": "Mechanical Engineering",
+    "year": 2,
+    "role": "Subject Teacher 2",
+    "subjects": [
+      "Mechanical Engineering",
+      "Chemistry"
+    ]
+  },
+  {
+    "teacher_id": 41,
+    "name": "Mr. Sonal Nair",
+    "email": "sonal.nair@college.edu",
+    "username": "teacher41",
+    "password": "pass41",
+    "branch": "ME",
+    "branch_name": "Mechanical Engineering",
+    "year": 3,
+    "role": "Class Coordinator",
+    "subjects": [
+      "Mathematics",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "teacher_id": 42,
+    "name": "Mr. Ajay Khan",
+    "email": "ajay.khan@college.edu",
+    "username": "teacher42",
+    "password": "pass42",
+    "branch": "ME",
+    "branch_name": "Mechanical Engineering",
+    "year": 3,
+    "role": "Faculty Advisor",
+    "subjects": [
+      "Physics",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "teacher_id": 43,
+    "name": "Mr. Nisha Mukherjee",
+    "email": "nisha.mukherjee@college.edu",
+    "username": "teacher43",
+    "password": "pass43",
+    "branch": "ME",
+    "branch_name": "Mechanical Engineering",
+    "year": 3,
+    "role": "Subject Teacher 1",
+    "subjects": [
+      "Chemistry",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "teacher_id": 44,
+    "name": "Ms. Vijay Ahmed",
+    "email": "vijay.ahmed@college.edu",
+    "username": "teacher44",
+    "password": "pass44",
+    "branch": "ME",
+    "branch_name": "Mechanical Engineering",
+    "year": 3,
+    "role": "Subject Teacher 2",
+    "subjects": [
+      "Mathematics",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "teacher_id": 45,
+    "name": "Mr. Rajesh Mukherjee",
+    "email": "rajesh.mukherjee@college.edu",
+    "username": "teacher45",
+    "password": "pass45",
+    "branch": "ME",
+    "branch_name": "Mechanical Engineering",
+    "year": 4,
+    "role": "Class Coordinator",
+    "subjects": [
+      "Chemistry",
+      "Physics"
+    ]
+  },
+  {
+    "teacher_id": 46,
+    "name": "Mr. Neha Nair",
+    "email": "neha.nair@college.edu",
+    "username": "teacher46",
+    "password": "pass46",
+    "branch": "ME",
+    "branch_name": "Mechanical Engineering",
+    "year": 4,
+    "role": "Faculty Advisor",
+    "subjects": [
+      "Mathematics",
+      "Chemistry"
+    ]
+  },
+  {
+    "teacher_id": 47,
+    "name": "Dr. Swati Das",
+    "email": "swati.das@college.edu",
+    "username": "teacher47",
+    "password": "pass47",
+    "branch": "ME",
+    "branch_name": "Mechanical Engineering",
+    "year": 4,
+    "role": "Subject Teacher 1",
+    "subjects": [
+      "Mechanical Engineering",
+      "Physics"
+    ]
+  },
+  {
+    "teacher_id": 48,
+    "name": "Mr. Alok Shah",
+    "email": "alok.shah@college.edu",
+    "username": "teacher48",
+    "password": "pass48",
+    "branch": "ME",
+    "branch_name": "Mechanical Engineering",
+    "year": 4,
+    "role": "Subject Teacher 2",
+    "subjects": [
+      "Chemistry",
+      "Mathematics"
+    ]
+  },
+  {
+    "teacher_id": 49,
+    "name": "Dr. Sunita Saxena",
+    "email": "sunita.saxena@college.edu",
+    "username": "teacher49",
+    "password": "pass49",
+    "branch": "CE",
+    "branch_name": "Civil Engineering",
+    "year": 1,
+    "role": "HOD & Class Coordinator",
+    "subjects": [
+      "Civil Engineering",
+      "Chemistry"
+    ]
+  },
+  {
+    "teacher_id": 50,
+    "name": "Prof. Vinod Khanna",
+    "email": "vinod.khanna@college.edu",
+    "username": "teacher50",
+    "password": "pass50",
+    "branch": "CE",
+    "branch_name": "Civil Engineering",
+    "year": 1,
+    "role": "Faculty Advisor",
+    "subjects": [
+      "Mathematics",
+      "Civil Engineering"
+    ]
+  },
+  {
+    "teacher_id": 51,
+    "name": "Mr. Amit Nair",
+    "email": "amit.nair@college.edu",
+    "username": "teacher51",
+    "password": "pass51",
+    "branch": "CE",
+    "branch_name": "Civil Engineering",
+    "year": 1,
+    "role": "Subject Teacher 1",
+    "subjects": [
+      "Physics",
+      "Mathematics"
+    ]
+  },
+  {
+    "teacher_id": 52,
+    "name": "Dr. Preeti Nair",
+    "email": "preeti.nair@college.edu",
+    "username": "teacher52",
+    "password": "pass52",
+    "branch": "CE",
+    "branch_name": "Civil Engineering",
+    "year": 1,
+    "role": "Subject Teacher 2",
+    "subjects": [
+      "Physics",
+      "Chemistry"
+    ]
+  },
+  {
+    "teacher_id": 53,
+    "name": "Prof. Ramesh Choudhury",
+    "email": "ramesh.choudhury@college.edu",
+    "username": "teacher53",
+    "password": "pass53",
+    "branch": "CE",
+    "branch_name": "Civil Engineering",
+    "year": 2,
+    "role": "Class Coordinator",
+    "subjects": [
+      "Mathematics",
+      "Chemistry"
+    ]
+  },
+  {
+    "teacher_id": 54,
+    "name": "Ms. Sonal Agarwal",
+    "email": "sonal.agarwal@college.edu",
+    "username": "teacher54",
+    "password": "pass54",
+    "branch": "CE",
+    "branch_name": "Civil Engineering",
+    "year": 2,
+    "role": "Faculty Advisor",
+    "subjects": [
+      "Civil Engineering",
+      "Chemistry"
+    ]
+  },
+  {
+    "teacher_id": 55,
+    "name": "Prof. Naveen Khan",
+    "email": "naveen.khan@college.edu",
+    "username": "teacher55",
+    "password": "pass55",
+    "branch": "CE",
+    "branch_name": "Civil Engineering",
+    "year": 2,
+    "role": "Subject Teacher 1",
+    "subjects": [
+      "Physics",
+      "Mathematics"
+    ]
+  },
+  {
+    "teacher_id": 56,
+    "name": "Dr. Swati Verma",
+    "email": "swati.verma@college.edu",
+    "username": "teacher56",
+    "password": "pass56",
+    "branch": "CE",
+    "branch_name": "Civil Engineering",
+    "year": 2,
+    "role": "Subject Teacher 2",
+    "subjects": [
+      "Mathematics",
+      "Physics"
+    ]
+  },
+  {
+    "teacher_id": 57,
+    "name": "Mr. Ashok Shah",
+    "email": "ashok.shah@college.edu",
+    "username": "teacher57",
+    "password": "pass57",
+    "branch": "CE",
+    "branch_name": "Civil Engineering",
+    "year": 3,
+    "role": "Class Coordinator",
+    "subjects": [
+      "Civil Engineering",
+      "Chemistry"
+    ]
+  },
+  {
+    "teacher_id": 58,
+    "name": "Ms. Manoj Desai",
+    "email": "manoj.desai@college.edu",
+    "username": "teacher58",
+    "password": "pass58",
+    "branch": "CE",
+    "branch_name": "Civil Engineering",
+    "year": 3,
+    "role": "Faculty Advisor",
+    "subjects": [
+      "Mathematics",
+      "Physics"
+    ]
+  },
+  {
+    "teacher_id": 59,
+    "name": "Dr. Vinod Shah",
+    "email": "vinod.shah@college.edu",
+    "username": "teacher59",
+    "password": "pass59",
+    "branch": "CE",
+    "branch_name": "Civil Engineering",
+    "year": 3,
+    "role": "Subject Teacher 1",
+    "subjects": [
+      "Chemistry",
+      "Physics"
+    ]
+  },
+  {
+    "teacher_id": 60,
+    "name": "Mr. Deepak Arora",
+    "email": "deepak.arora@college.edu",
+    "username": "teacher60",
+    "password": "pass60",
+    "branch": "CE",
+    "branch_name": "Civil Engineering",
+    "year": 3,
+    "role": "Subject Teacher 2",
+    "subjects": [
+      "Physics",
+      "Mathematics"
+    ]
+  },
+  {
+    "teacher_id": 61,
+    "name": "Prof. Priya Arora",
+    "email": "priya.arora@college.edu",
+    "username": "teacher61",
+    "password": "pass61",
+    "branch": "CE",
+    "branch_name": "Civil Engineering",
+    "year": 4,
+    "role": "Class Coordinator",
+    "subjects": [
+      "Chemistry",
+      "Civil Engineering"
+    ]
+  },
+  {
+    "teacher_id": 62,
+    "name": "Mr. Sonal Jain",
+    "email": "sonal.jain@college.edu",
+    "username": "teacher62",
+    "password": "pass62",
+    "branch": "CE",
+    "branch_name": "Civil Engineering",
+    "year": 4,
+    "role": "Faculty Advisor",
+    "subjects": [
+      "Civil Engineering",
+      "Chemistry"
+    ]
+  },
+  {
+    "teacher_id": 63,
+    "name": "Ms. Divya Ahmed",
+    "email": "divya.ahmed@college.edu",
+    "username": "teacher63",
+    "password": "pass63",
+    "branch": "CE",
+    "branch_name": "Civil Engineering",
+    "year": 4,
+    "role": "Subject Teacher 1",
+    "subjects": [
+      "Chemistry",
+      "Civil Engineering"
+    ]
+  },
+  {
+    "teacher_id": 64,
+    "name": "Prof. Anil Iyer",
+    "email": "anil.iyer@college.edu",
+    "username": "teacher64",
+    "password": "pass64",
+    "branch": "CE",
+    "branch_name": "Civil Engineering",
+    "year": 4,
+    "role": "Subject Teacher 2",
+    "subjects": [
+      "Chemistry",
+      "Civil Engineering"
+    ]
+  },
+  {
+    "teacher_id": 65,
+    "name": "Dr. Suresh Ahmed",
+    "email": "suresh.ahmed@college.edu",
+    "username": "teacher65",
+    "password": "pass65",
+    "branch": "EE",
+    "branch_name": "Electrical Engineering",
+    "year": 1,
+    "role": "HOD & Class Coordinator",
+    "subjects": [
+      "Computer Science",
+      "Mathematics"
+    ]
+  },
+  {
+    "teacher_id": 66,
+    "name": "Ms. Swati Ali",
+    "email": "swati.ali@college.edu",
+    "username": "teacher66",
+    "password": "pass66",
+    "branch": "EE",
+    "branch_name": "Electrical Engineering",
+    "year": 1,
+    "role": "Faculty Advisor",
+    "subjects": [
+      "Mathematics",
+      "Physics"
+    ]
+  },
+  {
+    "teacher_id": 67,
+    "name": "Mr. Anil Das",
+    "email": "anil.das@college.edu",
+    "username": "teacher67",
+    "password": "pass67",
+    "branch": "EE",
+    "branch_name": "Electrical Engineering",
+    "year": 1,
+    "role": "Subject Teacher 1",
+    "subjects": [
+      "Mathematics",
+      "Electronics"
+    ]
+  },
+  {
+    "teacher_id": 68,
+    "name": "Dr. Priya Tiwari",
+    "email": "priya.tiwari@college.edu",
+    "username": "teacher68",
+    "password": "pass68",
+    "branch": "EE",
+    "branch_name": "Electrical Engineering",
+    "year": 1,
+    "role": "Subject Teacher 2",
+    "subjects": [
+      "Physics",
+      "Mathematics"
+    ]
+  },
+  {
+    "teacher_id": 69,
+    "name": "Ms. Anita Shah",
+    "email": "anita.shah@college.edu",
+    "username": "teacher69",
+    "password": "pass69",
+    "branch": "EE",
+    "branch_name": "Electrical Engineering",
+    "year": 2,
+    "role": "Class Coordinator",
+    "subjects": [
+      "Physics",
+      "Mathematics"
+    ]
+  },
+  {
+    "teacher_id": 70,
+    "name": "Prof. Preeti Patel",
+    "email": "preeti.patel@college.edu",
+    "username": "teacher70",
+    "password": "pass70",
+    "branch": "EE",
+    "branch_name": "Electrical Engineering",
+    "year": 2,
+    "role": "Faculty Advisor",
+    "subjects": [
+      "Physics",
+      "Electronics"
+    ]
+  },
+  {
+    "teacher_id": 71,
+    "name": "Dr. Swati Shah",
+    "email": "swati.shah@college.edu",
+    "username": "teacher71",
+    "password": "pass71",
+    "branch": "EE",
+    "branch_name": "Electrical Engineering",
+    "year": 2,
+    "role": "Subject Teacher 1",
+    "subjects": [
+      "Computer Science",
+      "Electronics"
+    ]
+  },
+  {
+    "teacher_id": 72,
+    "name": "Ms. Rajesh Bhatia",
+    "email": "rajesh.bhatia@college.edu",
+    "username": "teacher72",
+    "password": "pass72",
+    "branch": "EE",
+    "branch_name": "Electrical Engineering",
+    "year": 2,
+    "role": "Subject Teacher 2",
+    "subjects": [
+      "Mathematics",
+      "Physics"
+    ]
+  },
+  {
+    "teacher_id": 73,
+    "name": "Ms. Manoj Bhatia",
+    "email": "manoj.bhatia@college.edu",
+    "username": "teacher73",
+    "password": "pass73",
+    "branch": "EE",
+    "branch_name": "Electrical Engineering",
+    "year": 3,
+    "role": "Class Coordinator",
+    "subjects": [
+      "Electronics",
+      "Computer Science"
+    ]
+  },
+  {
+    "teacher_id": 74,
+    "name": "Mr. Ritu Kaur",
+    "email": "ritu.kaur@college.edu",
+    "username": "teacher74",
+    "password": "pass74",
+    "branch": "EE",
+    "branch_name": "Electrical Engineering",
+    "year": 3,
+    "role": "Faculty Advisor",
+    "subjects": [
+      "Mathematics",
+      "Electronics"
+    ]
+  },
+  {
+    "teacher_id": 75,
+    "name": "Dr. Suresh Desai",
+    "email": "suresh.desai@college.edu",
+    "username": "teacher75",
+    "password": "pass75",
+    "branch": "EE",
+    "branch_name": "Electrical Engineering",
+    "year": 3,
+    "role": "Subject Teacher 1",
+    "subjects": [
+      "Physics",
+      "Mathematics"
+    ]
+  },
+  {
+    "teacher_id": 76,
+    "name": "Prof. Priya Sharma",
+    "email": "priya.sharma@college.edu",
+    "username": "teacher76",
+    "password": "pass76",
+    "branch": "EE",
+    "branch_name": "Electrical Engineering",
+    "year": 3,
+    "role": "Subject Teacher 2",
+    "subjects": [
+      "Computer Science",
+      "Physics"
+    ]
+  },
+  {
+    "teacher_id": 77,
+    "name": "Ms. Alok Arora",
+    "email": "alok.arora@college.edu",
+    "username": "teacher77",
+    "password": "pass77",
+    "branch": "EE",
+    "branch_name": "Electrical Engineering",
+    "year": 4,
+    "role": "Class Coordinator",
+    "subjects": [
+      "Electronics",
+      "Computer Science"
+    ]
+  },
+  {
+    "teacher_id": 78,
+    "name": "Ms. Kavita Desai",
+    "email": "kavita.desai@college.edu",
+    "username": "teacher78",
+    "password": "pass78",
+    "branch": "EE",
+    "branch_name": "Electrical Engineering",
+    "year": 4,
+    "role": "Faculty Advisor",
+    "subjects": [
+      "Computer Science",
+      "Electronics"
+    ]
+  },
+  {
+    "teacher_id": 79,
+    "name": "Dr. Anil Pandey",
+    "email": "anil.pandey@college.edu",
+    "username": "teacher79",
+    "password": "pass79",
+    "branch": "EE",
+    "branch_name": "Electrical Engineering",
+    "year": 4,
+    "role": "Subject Teacher 1",
+    "subjects": [
+      "Electronics",
+      "Computer Science"
+    ]
+  },
+  {
+    "teacher_id": 80,
+    "name": "Prof. Ramesh Agarwal",
+    "email": "ramesh.agarwal@college.edu",
+    "username": "teacher80",
+    "password": "pass80",
+    "branch": "EE",
+    "branch_name": "Electrical Engineering",
+    "year": 4,
+    "role": "Subject Teacher 2",
+    "subjects": [
+      "Electronics",
+      "Computer Science"
+    ]
+  }
+]

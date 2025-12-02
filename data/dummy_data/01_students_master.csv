@@ -1,0 +1,866 @@
+student_id,roll_number,first_name,last_name,full_name,gender,age,date_of_birth,email,phone,city,location_type,branch,branch_name,year,semester,admission_date,status,primary_teacher_id,class_coordinator
+1,CS211001,Siddharth,Pandey,Siddharth Pandey,Male,18,2007-03-01,siddharth.pandey1@student.college.edu,+917879110406,Visakhapatnam,Rural,CS,Computer Science,1,1,2025-08-01,Active,1,Mr. Vinod Khanna
+2,CS211002,Ritvik,Patel,Ritvik Patel,Male,17,2007-02-05,ritvik.patel2@student.college.edu,+919513585923,Chennai,Rural,CS,Computer Science,1,1,2025-08-01,Active,1,Mr. Vinod Khanna
+3,CS211003,Ayaan,Desai,Ayaan Desai,Male,19,2007-04-26,ayaan.desai3@student.college.edu,+917509331178,Kolkata,Semi-Urban,CS,Computer Science,1,1,2025-08-01,Active,1,Mr. Vinod Khanna
+4,CS211004,Prisha,Hussain,Prisha Hussain,Female,18,2007-10-04,prisha.hussain4@student.college.edu,+918198983067,Coimbatore,Rural,CS,Computer Science,1,1,2025-08-01,Active,1,Mr. Vinod Khanna
+5,CS211005,Samar,Choudhury,Samar Choudhury,Male,18,2007-05-07,samar.choudhury5@student.college.edu,+918548983244,Ghaziabad,Urban,CS,Computer Science,1,1,2025-08-01,Active,1,Mr. Vinod Khanna
+6,CS211006,Sneha,Bose,Sneha Bose,Female,19,2007-07-08,sneha.bose6@student.college.edu,+919889208714,Jaipur,Urban,CS,Computer Science,1,1,2025-08-01,Active,1,Mr. Vinod Khanna
+7,CS211007,Nikhil,Nair,Nikhil Nair,Male,19,2007-07-18,nikhil.nair7@student.college.edu,+917327360856,Bangalore,Semi-Urban,CS,Computer Science,1,1,2025-08-01,Active,1,Mr. Vinod Khanna
+8,CS211008,Aanya,Singh,Aanya Singh,Female,19,2007-10-16,aanya.singh8@student.college.edu,+917709201069,Nagpur,Rural,CS,Computer Science,1,1,2025-08-01,Active,1,Mr. Vinod Khanna
+9,CS211009,Simran,Bhatia,Simran Bhatia,Female,18,2007-09-01,simran.bhatia9@student.college.edu,+919724778297,Delhi,Rural,CS,Computer Science,1,1,2025-08-01,Active,1,Mr. Vinod Khanna
+10,CS211010,Yash,Banerjee,Yash Banerjee,Male,19,2007-10-08,yash.banerjee10@student.college.edu,+918958145667,Pune,Rural,CS,Computer Science,1,1,2025-08-01,Active,1,Mr. Vinod Khanna
+11,CS211011,Sandeep,Tiwari,Sandeep Tiwari,Male,18,2007-03-23,sandeep.tiwari11@student.college.edu,+919052508984,Coimbatore,Urban,CS,Computer Science,1,1,2025-08-01,Active,1,Mr. Vinod Khanna
+12,CS211012,Vikram,Desai,Vikram Desai,Male,18,2007-11-02,vikram.desai12@student.college.edu,+918576135716,Ludhiana,Rural,CS,Computer Science,1,1,2025-08-01,Active,1,Mr. Vinod Khanna
+13,CS211013,Kiaan,Ali,Kiaan Ali,Male,19,2007-09-16,kiaan.ali13@student.college.edu,+917641999671,Coimbatore,Rural,CS,Computer Science,1,1,2025-08-01,Active,1,Mr. Vinod Khanna
+14,CS211014,Tanvi,Patel,Tanvi Patel,Female,19,2007-01-16,tanvi.patel14@student.college.edu,+918565006151,Pune,Semi-Urban,CS,Computer Science,1,1,2025-08-01,Active,1,Mr. Vinod Khanna
+15,CS211015,Siddharth,Ali,Siddharth Ali,Male,19,2007-09-10,siddharth.ali15@student.college.edu,+917707308299,Pune,Semi-Urban,CS,Computer Science,1,1,2025-08-01,Active,1,Mr. Vinod Khanna
+16,CS211016,Ajay,Khan,Ajay Khan,Male,18,2007-07-23,ajay.khan16@student.college.edu,+917284291670,Indore,Rural,CS,Computer Science,1,1,2025-08-01,Active,1,Mr. Vinod Khanna
+17,CS211017,Siya,Bhatia,Siya Bhatia,Female,18,2007-11-04,siya.bhatia17@student.college.edu,+917378866214,Nagpur,Semi-Urban,CS,Computer Science,1,1,2025-08-01,Active,1,Mr. Vinod Khanna
+18,CS211018,Reyansh,Chopra,Reyansh Chopra,Male,18,2007-03-19,reyansh.chopra18@student.college.edu,+917238593717,Lucknow,Urban,CS,Computer Science,1,1,2025-08-01,Active,1,Mr. Vinod Khanna
+19,CS211019,Ananya,Jain,Ananya Jain,Female,19,2007-06-27,ananya.jain19@student.college.edu,+917804496131,Ludhiana,Semi-Urban,CS,Computer Science,1,1,2025-08-01,Active,1,Mr. Vinod Khanna
+20,CS211020,Prakash,Verma,Prakash Verma,Male,18,2007-11-16,prakash.verma20@student.college.edu,+917576837119,Kanpur,Rural,CS,Computer Science,1,1,2025-08-01,Active,1,Mr. Vinod Khanna
+21,CS211021,Sakshi,Nair,Sakshi Nair,Female,17,2007-10-25,sakshi.nair21@student.college.edu,+917281963441,Indore,Urban,CS,Computer Science,1,1,2025-08-01,Active,1,Mr. Vinod Khanna
+22,CS211022,Rohan,Mukherjee,Rohan Mukherjee,Male,17,2007-10-28,rohan.mukherjee22@student.college.edu,+917788025687,Lucknow,Semi-Urban,CS,Computer Science,1,1,2025-08-01,Active,1,Mr. Vinod Khanna
+23,CS211023,Divya,Gupta,Divya Gupta,Female,19,2007-02-28,divya.gupta23@student.college.edu,+919173914803,Kanpur,Semi-Urban,CS,Computer Science,1,1,2025-08-01,Active,1,Mr. Vinod Khanna
+24,CS211024,Reyansh,Patel,Reyansh Patel,Male,19,2007-08-17,reyansh.patel24@student.college.edu,+917750555297,Visakhapatnam,Rural,CS,Computer Science,1,1,2025-08-01,Active,1,Mr. Vinod Khanna
+25,CS211025,Diya,Mehta,Diya Mehta,Female,19,2007-06-23,diya.mehta25@student.college.edu,+918857135789,Indore,Rural,CS,Computer Science,1,1,2025-08-01,Active,1,Mr. Vinod Khanna
+26,CS211026,Priya,Sharma,Priya Sharma,Female,18,2007-12-11,priya.sharma26@student.college.edu,+918242887172,Lucknow,Urban,CS,Computer Science,1,1,2025-08-01,Active,1,Mr. Vinod Khanna
+27,CS211027,Deepak,Jain,Deepak Jain,Male,17,2007-05-06,deepak.jain27@student.college.edu,+917625941162,Visakhapatnam,Semi-Urban,CS,Computer Science,1,1,2025-08-01,Active,1,Mr. Vinod Khanna
+28,CS211028,Simran,Banerjee,Simran Banerjee,Female,19,2007-09-20,simran.banerjee28@student.college.edu,+919640706528,Hyderabad,Rural,CS,Computer Science,1,1,2025-08-01,Active,1,Mr. Vinod Khanna
+29,CS211029,Siya,Gupta,Siya Gupta,Female,17,2007-11-28,siya.gupta29@student.college.edu,+918350633818,Patna,Urban,CS,Computer Science,1,1,2025-08-01,Active,1,Mr. Vinod Khanna
+30,CS211030,Manoj,Bhatia,Manoj Bhatia,Male,17,2007-10-16,manoj.bhatia30@student.college.edu,+918868181229,Ghaziabad,Rural,CS,Computer Science,1,1,2025-08-01,Active,1,Mr. Vinod Khanna
+31,CS212001,Ayaan,Mukherjee,Ayaan Mukherjee,Male,17,2007-10-19,ayaan.mukherjee31@student.college.edu,+919714670208,Kanpur,Urban,CS,Computer Science,1,2,2025-08-01,Active,1,Mr. Vinod Khanna
+32,CS212002,Manish,Hussain,Manish Hussain,Male,18,2007-03-01,manish.hussain32@student.college.edu,+918700582138,Indore,Rural,CS,Computer Science,1,2,2025-08-01,Active,1,Mr. Vinod Khanna
+33,CS212003,Deepak,Shah,Deepak Shah,Male,19,2007-12-02,deepak.shah33@student.college.edu,+917367459064,Mumbai,Semi-Urban,CS,Computer Science,1,2,2025-08-01,Active,1,Mr. Vinod Khanna
+34,CS212004,Priya,Das,Priya Das,Female,18,2007-09-24,priya.das34@student.college.edu,+918249038278,Nagpur,Urban,CS,Computer Science,1,2,2025-08-01,Active,1,Mr. Vinod Khanna
+35,CS212005,Riya,Agarwal,Riya Agarwal,Female,17,2007-02-18,riya.agarwal35@student.college.edu,+919874170239,Bangalore,Rural,CS,Computer Science,1,2,2025-08-01,Active,1,Mr. Vinod Khanna
+36,CS212006,Prisha,Bose,Prisha Bose,Female,17,2007-05-04,prisha.bose36@student.college.edu,+919289525968,Ghaziabad,Semi-Urban,CS,Computer Science,1,2,2025-08-01,Active,1,Mr. Vinod Khanna
+37,CS212007,Preeti,Khanna,Preeti Khanna,Female,19,2007-04-13,preeti.khanna37@student.college.edu,+918645731549,Bangalore,Rural,CS,Computer Science,1,2,2025-08-01,Active,1,Mr. Vinod Khanna
+38,CS212008,Aditya,Gupta,Aditya Gupta,Male,18,2007-05-30,aditya.gupta38@student.college.edu,+917792389362,Visakhapatnam,Rural,CS,Computer Science,1,2,2025-08-01,Active,1,Mr. Vinod Khanna
+39,CS212009,Aadhya,Reddy,Aadhya Reddy,Female,18,2007-12-20,aadhya.reddy39@student.college.edu,+917699596453,Chennai,Rural,CS,Computer Science,1,2,2025-08-01,Active,1,Mr. Vinod Khanna
+40,CS212010,Preeti,Verma,Preeti Verma,Female,18,2007-10-16,preeti.verma40@student.college.edu,+919937882504,Patna,Semi-Urban,CS,Computer Science,1,2,2025-08-01,Active,1,Mr. Vinod Khanna
+41,CS212011,Neha,Choudhury,Neha Choudhury,Female,18,2007-04-20,neha.choudhury41@student.college.edu,+918066470329,Ludhiana,Urban,CS,Computer Science,1,2,2025-08-01,Active,1,Mr. Vinod Khanna
+42,CS212012,Ravi,Malhotra,Ravi Malhotra,Male,18,2007-01-07,ravi.malhotra42@student.college.edu,+919598745885,Lucknow,Urban,CS,Computer Science,1,2,2025-08-01,Active,1,Mr. Vinod Khanna
+43,CS212013,Krishna,Kapoor,Krishna Kapoor,Male,18,2007-07-21,krishna.kapoor43@student.college.edu,+919346587288,Chennai,Rural,CS,Computer Science,1,2,2025-08-01,Active,1,Mr. Vinod Khanna
+44,CS212014,Ravi,Jain,Ravi Jain,Male,17,2007-05-21,ravi.jain44@student.college.edu,+918350093179,Jaipur,Rural,CS,Computer Science,1,2,2025-08-01,Active,1,Mr. Vinod Khanna
+45,CS212015,Ansh,Reddy,Ansh Reddy,Male,17,2007-02-24,ansh.reddy45@student.college.edu,+918929134207,Nagpur,Rural,CS,Computer Science,1,2,2025-08-01,Active,1,Mr. Vinod Khanna
+46,CS212016,Tanvi,Patel,Tanvi Patel,Female,19,2007-05-07,tanvi.patel46@student.college.edu,+919786694841,Indore,Semi-Urban,CS,Computer Science,1,2,2025-08-01,Active,1,Mr. Vinod Khanna
+47,CS212017,Shaurya,Ahmed,Shaurya Ahmed,Male,18,2007-04-22,shaurya.ahmed47@student.college.edu,+917123477948,Vadodara,Rural,CS,Computer Science,1,2,2025-08-01,Active,1,Mr. Vinod Khanna
+48,CS212018,Ritika,Shah,Ritika Shah,Female,19,2007-08-24,ritika.shah48@student.college.edu,+917667231227,Kanpur,Rural,CS,Computer Science,1,2,2025-08-01,Active,1,Mr. Vinod Khanna
+49,CS212019,Raj,Khanna,Raj Khanna,Male,18,2007-09-09,raj.khanna49@student.college.edu,+918583250309,Lucknow,Urban,CS,Computer Science,1,2,2025-08-01,Active,1,Mr. Vinod Khanna
+50,CS212020,Atharv,Banerjee,Atharv Banerjee,Male,17,2007-03-19,atharv.banerjee50@student.college.edu,+919825714689,Visakhapatnam,Urban,CS,Computer Science,1,2,2025-08-01,Active,1,Mr. Vinod Khanna
+51,CS212021,Naksh,Tiwari,Naksh Tiwari,Male,19,2007-01-19,naksh.tiwari51@student.college.edu,+919769064869,Bhopal,Semi-Urban,CS,Computer Science,1,2,2025-08-01,Active,1,Mr. Vinod Khanna
+52,CS212022,Tanvi,Iyer,Tanvi Iyer,Female,19,2007-04-14,tanvi.iyer52@student.college.edu,+919555220648,Ludhiana,Semi-Urban,CS,Computer Science,1,2,2025-08-01,Active,1,Mr. Vinod Khanna
+53,CS212023,Abhinav,Kaur,Abhinav Kaur,Male,19,2007-06-28,abhinav.kaur53@student.college.edu,+918336781261,Mumbai,Semi-Urban,CS,Computer Science,1,2,2025-08-01,Active,1,Mr. Vinod Khanna
+54,CS212024,Myra,Singh,Myra Singh,Female,18,2007-08-25,myra.singh54@student.college.edu,+917502543810,Ghaziabad,Semi-Urban,CS,Computer Science,1,2,2025-08-01,Active,1,Mr. Vinod Khanna
+55,CS212025,Priya,Shah,Priya Shah,Female,18,2007-09-12,priya.shah55@student.college.edu,+917208983615,Bhopal,Rural,CS,Computer Science,1,2,2025-08-01,Active,1,Mr. Vinod Khanna
+56,CS212026,Shanaya,Das,Shanaya Das,Female,19,2007-04-07,shanaya.das56@student.college.edu,+917714750801,Kolkata,Urban,CS,Computer Science,1,2,2025-08-01,Active,1,Mr. Vinod Khanna
+57,CS212027,Divya,Joshi,Divya Joshi,Female,17,2007-07-31,divya.joshi57@student.college.edu,+918846095596,Kanpur,Rural,CS,Computer Science,1,2,2025-08-01,Active,1,Mr. Vinod Khanna
+58,CS212028,Kavya,Pandey,Kavya Pandey,Female,18,2007-10-25,kavya.pandey58@student.college.edu,+917590689314,Chennai,Rural,CS,Computer Science,1,2,2025-08-01,Active,1,Mr. Vinod Khanna
+59,CS212029,Siddharth,Malhotra,Siddharth Malhotra,Male,19,2007-10-25,siddharth.malhotra59@student.college.edu,+918981228645,Mumbai,Urban,CS,Computer Science,1,2,2025-08-01,Active,1,Mr. Vinod Khanna
+60,CS212030,Nisha,Mehta,Nisha Mehta,Female,18,2007-04-15,nisha.mehta60@student.college.edu,+917369167854,Pune,Semi-Urban,CS,Computer Science,1,2,2025-08-01,Active,1,Mr. Vinod Khanna
+61,CS221001,Saanvi,Sethi,Saanvi Sethi,Female,18,2006-08-09,saanvi.sethi61@student.college.edu,+917272522069,Kolkata,Semi-Urban,CS,Computer Science,2,1,2025-08-01,Active,5,Prof. Nisha Gupta
+62,CS221002,Suresh,Chatterjee,Suresh Chatterjee,Male,20,2006-09-24,suresh.chatterjee62@student.college.edu,+918792879051,Visakhapatnam,Rural,CS,Computer Science,2,1,2025-08-01,Active,5,Prof. Nisha Gupta
+63,CS221003,Priya,Singh,Priya Singh,Female,18,2006-02-14,priya.singh63@student.college.edu,+917830798823,Delhi,Rural,CS,Computer Science,2,1,2025-08-01,Active,5,Prof. Nisha Gupta
+64,CS221004,Kian,Nair,Kian Nair,Male,18,2006-05-27,kian.nair64@student.college.edu,+917635640149,Bangalore,Semi-Urban,CS,Computer Science,2,1,2025-08-01,Active,5,Prof. Nisha Gupta
+65,CS221005,Meera,Jain,Meera Jain,Female,20,2006-11-29,meera.jain65@student.college.edu,+918178236693,Kanpur,Semi-Urban,CS,Computer Science,2,1,2025-08-01,Active,5,Prof. Nisha Gupta
+66,CS221006,Priya,Pillai,Priya Pillai,Female,18,2006-04-16,priya.pillai66@student.college.edu,+918886327373,Ludhiana,Rural,CS,Computer Science,2,1,2025-08-01,Active,5,Prof. Nisha Gupta
+67,CS221007,Swati,Patel,Swati Patel,Female,20,2006-05-01,swati.patel67@student.college.edu,+917188578391,Vadodara,Rural,CS,Computer Science,2,1,2025-08-01,Active,5,Prof. Nisha Gupta
+68,CS221008,Suresh,Malhotra,Suresh Malhotra,Male,20,2006-09-26,suresh.malhotra68@student.college.edu,+918819837038,Bhopal,Semi-Urban,CS,Computer Science,2,1,2025-08-01,Active,5,Prof. Nisha Gupta
+69,CS221009,Atharv,Kapoor,Atharv Kapoor,Male,20,2006-04-01,atharv.kapoor69@student.college.edu,+919544917942,Bangalore,Semi-Urban,CS,Computer Science,2,1,2025-08-01,Active,5,Prof. Nisha Gupta
+70,CS221010,Zara,Pillai,Zara Pillai,Female,20,2006-09-24,zara.pillai70@student.college.edu,+917968459554,Kanpur,Semi-Urban,CS,Computer Science,2,1,2025-08-01,Active,5,Prof. Nisha Gupta
+71,CS221011,Mira,Joshi,Mira Joshi,Female,20,2006-08-30,mira.joshi71@student.college.edu,+919139609763,Pune,Urban,CS,Computer Science,2,1,2025-08-01,Active,5,Prof. Nisha Gupta
+72,CS221012,Sneha,Kumar,Sneha Kumar,Female,19,2006-08-17,sneha.kumar72@student.college.edu,+919541449668,Bhopal,Semi-Urban,CS,Computer Science,2,1,2025-08-01,Active,5,Prof. Nisha Gupta
+73,CS221013,Amit,Arora,Amit Arora,Male,20,2006-03-27,amit.arora73@student.college.edu,+917030386874,Vadodara,Semi-Urban,CS,Computer Science,2,1,2025-08-01,Active,5,Prof. Nisha Gupta
+74,CS221014,Meera,Kaur,Meera Kaur,Female,19,2006-08-11,meera.kaur74@student.college.edu,+917243766707,Delhi,Rural,CS,Computer Science,2,1,2025-08-01,Active,5,Prof. Nisha Gupta
+75,CS221015,Vihaan,Singh,Vihaan Singh,Male,18,2006-04-19,vihaan.singh75@student.college.edu,+918032380790,Bhopal,Rural,CS,Computer Science,2,1,2025-08-01,Active,5,Prof. Nisha Gupta
+76,CS221016,Ishaan,Choudhury,Ishaan Choudhury,Male,18,2006-06-14,ishaan.choudhury76@student.college.edu,+917051578947,Chennai,Semi-Urban,CS,Computer Science,2,1,2025-08-01,Active,5,Prof. Nisha Gupta
+77,CS221017,Aryan,Singh,Aryan Singh,Male,19,2006-11-04,aryan.singh77@student.college.edu,+918808028138,Nagpur,Rural,CS,Computer Science,2,1,2025-08-01,Active,5,Prof. Nisha Gupta
+78,CS221018,Siya,Mehta,Siya Mehta,Female,19,2006-01-18,siya.mehta78@student.college.edu,+919676343047,Bangalore,Urban,CS,Computer Science,2,1,2025-08-01,Active,5,Prof. Nisha Gupta
+79,CS221019,Aanya,Agarwal,Aanya Agarwal,Female,18,2006-07-30,aanya.agarwal79@student.college.edu,+917004585972,Chennai,Urban,CS,Computer Science,2,1,2025-08-01,Active,5,Prof. Nisha Gupta
+80,CS221020,Ajay,Ahmed,Ajay Ahmed,Male,20,2006-08-26,ajay.ahmed80@student.college.edu,+917921027930,Chennai,Semi-Urban,CS,Computer Science,2,1,2025-08-01,Active,5,Prof. Nisha Gupta
+81,CS221021,Divya,Agarwal,Divya Agarwal,Female,19,2006-10-10,divya.agarwal81@student.college.edu,+918760234439,Mumbai,Semi-Urban,CS,Computer Science,2,1,2025-08-01,Active,5,Prof. Nisha Gupta
+82,CS221022,Ishita,Rao,Ishita Rao,Female,18,2006-07-09,ishita.rao82@student.college.edu,+918710781646,Pune,Rural,CS,Computer Science,2,1,2025-08-01,Active,5,Prof. Nisha Gupta
+83,CS221023,Rahul,Bose,Rahul Bose,Male,18,2006-12-21,rahul.bose83@student.college.edu,+917009929070,Ghaziabad,Urban,CS,Computer Science,2,1,2025-08-01,Active,5,Prof. Nisha Gupta
+84,CS221024,Shanaya,Ghosh,Shanaya Ghosh,Female,20,2006-03-14,shanaya.ghosh84@student.college.edu,+917428253972,Indore,Rural,CS,Computer Science,2,1,2025-08-01,Active,5,Prof. Nisha Gupta
+85,CS221025,Divya,Sethi,Divya Sethi,Female,20,2006-09-28,divya.sethi85@student.college.edu,+918663479895,Bhopal,Urban,CS,Computer Science,2,1,2025-08-01,Active,5,Prof. Nisha Gupta
+86,CS221026,Aanya,Iyer,Aanya Iyer,Female,19,2006-07-23,aanya.iyer86@student.college.edu,+918246587147,Hyderabad,Rural,CS,Computer Science,2,1,2025-08-01,Active,5,Prof. Nisha Gupta
+87,CS221027,Shanaya,Nair,Shanaya Nair,Female,18,2006-08-26,shanaya.nair87@student.college.edu,+918022250548,Hyderabad,Semi-Urban,CS,Computer Science,2,1,2025-08-01,Active,5,Prof. Nisha Gupta
+88,CS222001,Suresh,Kumar,Suresh Kumar,Male,18,2006-02-04,suresh.kumar88@student.college.edu,+919439863524,Bangalore,Rural,CS,Computer Science,2,2,2025-08-01,Active,5,Prof. Nisha Gupta
+89,CS222002,Kiaan,Rao,Kiaan Rao,Male,19,2006-05-02,kiaan.rao89@student.college.edu,+917824617284,Hyderabad,Rural,CS,Computer Science,2,2,2025-08-01,Active,5,Prof. Nisha Gupta
+90,CS222003,Shivansh,Ghosh,Shivansh Ghosh,Male,18,2006-06-07,shivansh.ghosh90@student.college.edu,+917664162688,Ludhiana,Rural,CS,Computer Science,2,2,2025-08-01,Active,5,Prof. Nisha Gupta
+91,CS222004,Naksh,Kapoor,Naksh Kapoor,Male,20,2006-05-29,naksh.kapoor91@student.college.edu,+917661454320,Mumbai,Semi-Urban,CS,Computer Science,2,2,2025-08-01,Active,5,Prof. Nisha Gupta
+92,CS222005,Kian,Chatterjee,Kian Chatterjee,Male,18,2006-07-14,kian.chatterjee92@student.college.edu,+919545821215,Lucknow,Semi-Urban,CS,Computer Science,2,2,2025-08-01,Active,5,Prof. Nisha Gupta
+93,CS222006,Navya,Ali,Navya Ali,Female,19,2006-07-06,navya.ali93@student.college.edu,+917218332240,Bhopal,Semi-Urban,CS,Computer Science,2,2,2025-08-01,Active,5,Prof. Nisha Gupta
+94,CS222007,Vihaan,Banerjee,Vihaan Banerjee,Male,19,2006-03-29,vihaan.banerjee94@student.college.edu,+917141479285,Kolkata,Rural,CS,Computer Science,2,2,2025-08-01,Active,5,Prof. Nisha Gupta
+95,CS222008,Kian,Reddy,Kian Reddy,Male,19,2006-04-15,kian.reddy95@student.college.edu,+918992596765,Mumbai,Semi-Urban,CS,Computer Science,2,2,2025-08-01,Active,5,Prof. Nisha Gupta
+96,CS222009,Pooja,Shah,Pooja Shah,Female,20,2006-11-15,pooja.shah96@student.college.edu,+919059931346,Patna,Urban,CS,Computer Science,2,2,2025-08-01,Active,5,Prof. Nisha Gupta
+97,CS222010,Aarohi,Iyer,Aarohi Iyer,Female,20,2006-02-27,aarohi.iyer97@student.college.edu,+917375539687,Coimbatore,Urban,CS,Computer Science,2,2,2025-08-01,Active,5,Prof. Nisha Gupta
+98,CS222011,Anvi,Verma,Anvi Verma,Female,20,2006-03-17,anvi.verma98@student.college.edu,+917927673525,Ghaziabad,Semi-Urban,CS,Computer Science,2,2,2025-08-01,Active,5,Prof. Nisha Gupta
+99,CS222012,Ishita,Mehta,Ishita Mehta,Female,18,2006-04-17,ishita.mehta99@student.college.edu,+917127517736,Visakhapatnam,Semi-Urban,CS,Computer Science,2,2,2025-08-01,Active,5,Prof. Nisha Gupta
+100,CS222013,Ritvik,Kumar,Ritvik Kumar,Male,18,2006-12-19,ritvik.kumar100@student.college.edu,+917906592301,Delhi,Urban,CS,Computer Science,2,2,2025-08-01,Active,5,Prof. Nisha Gupta
+101,CS222014,Aanya,Tiwari,Aanya Tiwari,Female,18,2006-05-17,aanya.tiwari101@student.college.edu,+917792656913,Nagpur,Semi-Urban,CS,Computer Science,2,2,2025-08-01,Active,5,Prof. Nisha Gupta
+102,CS222015,Ankit,Khan,Ankit Khan,Male,20,2006-01-13,ankit.khan102@student.college.edu,+919614714342,Vadodara,Rural,CS,Computer Science,2,2,2025-08-01,Active,5,Prof. Nisha Gupta
+103,CS222016,Kiaan,Khan,Kiaan Khan,Male,18,2006-03-13,kiaan.khan103@student.college.edu,+918675232634,Kanpur,Semi-Urban,CS,Computer Science,2,2,2025-08-01,Active,5,Prof. Nisha Gupta
+104,CS222017,Divya,Kaur,Divya Kaur,Female,19,2006-12-31,divya.kaur104@student.college.edu,+917975765528,Ludhiana,Semi-Urban,CS,Computer Science,2,2,2025-08-01,Active,5,Prof. Nisha Gupta
+105,CS222018,Nikhil,Reddy,Nikhil Reddy,Male,19,2006-03-17,nikhil.reddy105@student.college.edu,+917694559664,Visakhapatnam,Urban,CS,Computer Science,2,2,2025-08-01,Active,5,Prof. Nisha Gupta
+106,CS222019,Simran,Ghosh,Simran Ghosh,Female,20,2006-02-23,simran.ghosh106@student.college.edu,+918645809395,Coimbatore,Rural,CS,Computer Science,2,2,2025-08-01,Active,5,Prof. Nisha Gupta
+107,CS222020,Rahul,Malhotra,Rahul Malhotra,Male,20,2006-07-19,rahul.malhotra107@student.college.edu,+919691996082,Mumbai,Urban,CS,Computer Science,2,2,2025-08-01,Active,5,Prof. Nisha Gupta
+108,CS222021,Anjali,Saxena,Anjali Saxena,Female,19,2006-12-15,anjali.saxena108@student.college.edu,+919620657949,Bangalore,Urban,CS,Computer Science,2,2,2025-08-01,Active,5,Prof. Nisha Gupta
+109,CS222022,Vedant,Joshi,Vedant Joshi,Male,18,2006-01-16,vedant.joshi109@student.college.edu,+919394648896,Bhopal,Semi-Urban,CS,Computer Science,2,2,2025-08-01,Active,5,Prof. Nisha Gupta
+110,CS222023,Rohan,Mishra,Rohan Mishra,Male,19,2006-12-16,rohan.mishra110@student.college.edu,+919564734335,Bhopal,Urban,CS,Computer Science,2,2,2025-08-01,Active,5,Prof. Nisha Gupta
+111,CS222024,Navya,Banerjee,Navya Banerjee,Female,18,2006-07-21,navya.banerjee111@student.college.edu,+919606140867,Coimbatore,Urban,CS,Computer Science,2,2,2025-08-01,Active,5,Prof. Nisha Gupta
+112,CS222025,Dhruv,Gupta,Dhruv Gupta,Male,18,2006-01-23,dhruv.gupta112@student.college.edu,+917684038341,Nagpur,Semi-Urban,CS,Computer Science,2,2,2025-08-01,Active,5,Prof. Nisha Gupta
+113,CS222026,Myra,Arora,Myra Arora,Female,18,2006-02-04,myra.arora113@student.college.edu,+918495730147,Coimbatore,Semi-Urban,CS,Computer Science,2,2,2025-08-01,Active,5,Prof. Nisha Gupta
+114,CS222027,Reyansh,Ghosh,Reyansh Ghosh,Male,20,2006-04-22,reyansh.ghosh114@student.college.edu,+917958764473,Kanpur,Urban,CS,Computer Science,2,2,2025-08-01,Active,5,Prof. Nisha Gupta
+115,CS222028,Ravi,Bhatia,Ravi Bhatia,Male,18,2006-03-17,ravi.bhatia115@student.college.edu,+918981978040,Pune,Urban,CS,Computer Science,2,2,2025-08-01,Active,5,Prof. Nisha Gupta
+116,CS231001,Neha,Agarwal,Neha Agarwal,Female,21,2005-09-20,neha.agarwal116@student.college.edu,+917312511853,Mumbai,Rural,CS,Computer Science,3,1,2025-08-01,Active,9,Prof. Naveen Verma
+117,CS231002,Swati,Saxena,Swati Saxena,Female,21,2005-07-29,swati.saxena117@student.college.edu,+918247509229,Vadodara,Semi-Urban,CS,Computer Science,3,1,2025-08-01,Active,9,Prof. Naveen Verma
+118,CS231003,Abhinav,Desai,Abhinav Desai,Male,19,2005-03-09,abhinav.desai118@student.college.edu,+919984393198,Coimbatore,Rural,CS,Computer Science,3,1,2025-08-01,Active,9,Prof. Naveen Verma
+119,CS231004,Meera,Kumar,Meera Kumar,Female,19,2005-10-16,meera.kumar119@student.college.edu,+918765976629,Kolkata,Semi-Urban,CS,Computer Science,3,1,2025-08-01,Active,9,Prof. Naveen Verma
+120,CS231005,Suresh,Mishra,Suresh Mishra,Male,19,2005-03-01,suresh.mishra120@student.college.edu,+919868779899,Jaipur,Rural,CS,Computer Science,3,1,2025-08-01,Active,9,Prof. Naveen Verma
+121,CS231006,Mira,Bose,Mira Bose,Female,19,2005-11-29,mira.bose121@student.college.edu,+917658769200,Mumbai,Rural,CS,Computer Science,3,1,2025-08-01,Active,9,Prof. Naveen Verma
+122,CS231007,Karthik,Sinha,Karthik Sinha,Male,19,2005-01-05,karthik.sinha122@student.college.edu,+917542383646,Ahmedabad,Rural,CS,Computer Science,3,1,2025-08-01,Active,9,Prof. Naveen Verma
+123,CS231008,Amit,Ghosh,Amit Ghosh,Male,20,2005-02-26,amit.ghosh123@student.college.edu,+917860035772,Ahmedabad,Semi-Urban,CS,Computer Science,3,1,2025-08-01,Active,9,Prof. Naveen Verma
+124,CS231009,Arjun,Singh,Arjun Singh,Male,20,2005-10-05,arjun.singh124@student.college.edu,+919473779197,Kanpur,Rural,CS,Computer Science,3,1,2025-08-01,Active,9,Prof. Naveen Verma
+125,CS231010,Tara,Gupta,Tara Gupta,Female,19,2005-07-03,tara.gupta125@student.college.edu,+917505157685,Vadodara,Rural,CS,Computer Science,3,1,2025-08-01,Active,9,Prof. Naveen Verma
+126,CS231011,Aadhya,Joshi,Aadhya Joshi,Female,19,2005-09-28,aadhya.joshi126@student.college.edu,+919865068858,Bhopal,Rural,CS,Computer Science,3,1,2025-08-01,Active,9,Prof. Naveen Verma
+127,CS231012,Naksh,Mishra,Naksh Mishra,Male,20,2005-04-12,naksh.mishra127@student.college.edu,+917377367695,Lucknow,Rural,CS,Computer Science,3,1,2025-08-01,Active,9,Prof. Naveen Verma
+128,CS231013,Samar,Gupta,Samar Gupta,Male,21,2005-10-30,samar.gupta128@student.college.edu,+919983769300,Visakhapatnam,Semi-Urban,CS,Computer Science,3,1,2025-08-01,Active,9,Prof. Naveen Verma
+129,CS231014,Vikram,Nair,Vikram Nair,Male,21,2005-07-20,vikram.nair129@student.college.edu,+918843472267,Pune,Semi-Urban,CS,Computer Science,3,1,2025-08-01,Active,9,Prof. Naveen Verma
+130,CS231015,Shanaya,Hussain,Shanaya Hussain,Female,19,2005-03-01,shanaya.hussain130@student.college.edu,+919394930829,Pune,Rural,CS,Computer Science,3,1,2025-08-01,Active,9,Prof. Naveen Verma
+131,CS231016,Shanaya,Agarwal,Shanaya Agarwal,Female,21,2005-11-23,shanaya.agarwal131@student.college.edu,+917560761671,Patna,Semi-Urban,CS,Computer Science,3,1,2025-08-01,Active,9,Prof. Naveen Verma
+132,CS231017,Suman,Khan,Suman Khan,Female,19,2005-11-25,suman.khan132@student.college.edu,+918118798003,Indore,Rural,CS,Computer Science,3,1,2025-08-01,Active,9,Prof. Naveen Verma
+133,CS231018,Priya,Nair,Priya Nair,Female,19,2005-05-13,priya.nair133@student.college.edu,+918713103681,Kanpur,Rural,CS,Computer Science,3,1,2025-08-01,Active,9,Prof. Naveen Verma
+134,CS231019,Aarav,Pillai,Aarav Pillai,Male,20,2005-01-25,aarav.pillai134@student.college.edu,+918185635340,Kolkata,Urban,CS,Computer Science,3,1,2025-08-01,Active,9,Prof. Naveen Verma
+135,CS231020,Pooja,Kaur,Pooja Kaur,Female,21,2005-09-28,pooja.kaur135@student.college.edu,+918392667875,Kolkata,Semi-Urban,CS,Computer Science,3,1,2025-08-01,Active,9,Prof. Naveen Verma
+136,CS231021,Tara,Ahmed,Tara Ahmed,Female,20,2005-11-01,tara.ahmed136@student.college.edu,+919391733857,Hyderabad,Rural,CS,Computer Science,3,1,2025-08-01,Active,9,Prof. Naveen Verma
+137,CS231022,Pranav,Bose,Pranav Bose,Male,19,2005-03-29,pranav.bose137@student.college.edu,+917846498678,Kolkata,Semi-Urban,CS,Computer Science,3,1,2025-08-01,Active,9,Prof. Naveen Verma
+138,CS231023,Ravi,Gupta,Ravi Gupta,Male,19,2005-03-28,ravi.gupta138@student.college.edu,+917915629449,Coimbatore,Urban,CS,Computer Science,3,1,2025-08-01,Active,9,Prof. Naveen Verma
+139,CS231024,Samar,Desai,Samar Desai,Male,20,2005-12-17,samar.desai139@student.college.edu,+917568596475,Hyderabad,Rural,CS,Computer Science,3,1,2025-08-01,Active,9,Prof. Naveen Verma
+140,CS231025,Anika,Agarwal,Anika Agarwal,Female,21,2005-03-09,anika.agarwal140@student.college.edu,+918449383582,Jaipur,Semi-Urban,CS,Computer Science,3,1,2025-08-01,Active,9,Prof. Naveen Verma
+141,CS232001,Ishita,Hussain,Ishita Hussain,Female,20,2005-01-09,ishita.hussain141@student.college.edu,+917378563285,Coimbatore,Semi-Urban,CS,Computer Science,3,2,2025-08-01,Active,9,Prof. Naveen Verma
+142,CS232002,Deepak,Sethi,Deepak Sethi,Male,20,2005-06-04,deepak.sethi142@student.college.edu,+918214291937,Visakhapatnam,Semi-Urban,CS,Computer Science,3,2,2025-08-01,Active,9,Prof. Naveen Verma
+143,CS232003,Myra,Verma,Myra Verma,Female,20,2005-11-26,myra.verma143@student.college.edu,+917137672502,Kolkata,Urban,CS,Computer Science,3,2,2025-08-01,Active,9,Prof. Naveen Verma
+144,CS232004,Deepak,Hussain,Deepak Hussain,Male,19,2005-11-06,deepak.hussain144@student.college.edu,+917541358796,Patna,Rural,CS,Computer Science,3,2,2025-08-01,Active,9,Prof. Naveen Verma
+145,CS232005,Atharv,Bose,Atharv Bose,Male,19,2005-02-20,atharv.bose145@student.college.edu,+918581243683,Ludhiana,Urban,CS,Computer Science,3,2,2025-08-01,Active,9,Prof. Naveen Verma
+146,CS232006,Rekha,Das,Rekha Das,Female,19,2005-09-25,rekha.das146@student.college.edu,+918968800361,Vadodara,Urban,CS,Computer Science,3,2,2025-08-01,Active,9,Prof. Naveen Verma
+147,CS232007,Rani,Bose,Rani Bose,Female,19,2005-09-23,rani.bose147@student.college.edu,+919590689530,Mumbai,Semi-Urban,CS,Computer Science,3,2,2025-08-01,Active,9,Prof. Naveen Verma
+148,CS232008,Kavya,Reddy,Kavya Reddy,Female,19,2005-08-06,kavya.reddy148@student.college.edu,+919232095101,Hyderabad,Semi-Urban,CS,Computer Science,3,2,2025-08-01,Active,9,Prof. Naveen Verma
+149,CS232009,Siya,Chatterjee,Siya Chatterjee,Female,19,2005-07-10,siya.chatterjee149@student.college.edu,+917460194330,Delhi,Urban,CS,Computer Science,3,2,2025-08-01,Active,9,Prof. Naveen Verma
+150,CS232010,Nisha,Rao,Nisha Rao,Female,19,2005-03-19,nisha.rao150@student.college.edu,+917001006353,Nagpur,Rural,CS,Computer Science,3,2,2025-08-01,Active,9,Prof. Naveen Verma
+151,CS232011,Shaurya,Tiwari,Shaurya Tiwari,Male,19,2005-06-05,shaurya.tiwari151@student.college.edu,+919908590031,Jaipur,Rural,CS,Computer Science,3,2,2025-08-01,Active,9,Prof. Naveen Verma
+152,CS232012,Raj,Choudhury,Raj Choudhury,Male,20,2005-09-03,raj.choudhury152@student.college.edu,+917238079480,Indore,Urban,CS,Computer Science,3,2,2025-08-01,Active,9,Prof. Naveen Verma
+153,CS232013,Navya,Malhotra,Navya Malhotra,Female,21,2005-07-30,navya.malhotra153@student.college.edu,+919151815195,Delhi,Rural,CS,Computer Science,3,2,2025-08-01,Active,9,Prof. Naveen Verma
+154,CS232014,Pari,Reddy,Pari Reddy,Female,21,2005-03-24,pari.reddy154@student.college.edu,+918950416331,Lucknow,Urban,CS,Computer Science,3,2,2025-08-01,Active,9,Prof. Naveen Verma
+155,CS232015,Shaurya,Chatterjee,Shaurya Chatterjee,Male,21,2005-12-31,shaurya.chatterjee155@student.college.edu,+918551941940,Nagpur,Rural,CS,Computer Science,3,2,2025-08-01,Active,9,Prof. Naveen Verma
+156,CS232016,Yash,Rao,Yash Rao,Male,20,2005-05-17,yash.rao156@student.college.edu,+917888154666,Coimbatore,Rural,CS,Computer Science,3,2,2025-08-01,Active,9,Prof. Naveen Verma
+157,CS232017,Varun,Ali,Varun Ali,Male,19,2005-06-09,varun.ali157@student.college.edu,+918543979290,Pune,Rural,CS,Computer Science,3,2,2025-08-01,Active,9,Prof. Naveen Verma
+158,CS232018,Atharv,Sethi,Atharv Sethi,Male,19,2005-11-04,atharv.sethi158@student.college.edu,+919391630028,Pune,Semi-Urban,CS,Computer Science,3,2,2025-08-01,Active,9,Prof. Naveen Verma
+159,CS232019,Reyansh,Tiwari,Reyansh Tiwari,Male,20,2005-12-07,reyansh.tiwari159@student.college.edu,+917496111211,Kolkata,Semi-Urban,CS,Computer Science,3,2,2025-08-01,Active,9,Prof. Naveen Verma
+160,CS232020,Kabir,Khan,Kabir Khan,Male,19,2005-11-20,kabir.khan160@student.college.edu,+917112094276,Kolkata,Semi-Urban,CS,Computer Science,3,2,2025-08-01,Active,9,Prof. Naveen Verma
+161,CS232021,Harshit,Desai,Harshit Desai,Male,20,2005-11-29,harshit.desai161@student.college.edu,+918202824685,Indore,Urban,CS,Computer Science,3,2,2025-08-01,Active,9,Prof. Naveen Verma
+162,CS232022,Swati,Ali,Swati Ali,Female,21,2005-01-18,swati.ali162@student.college.edu,+918698552852,Visakhapatnam,Semi-Urban,CS,Computer Science,3,2,2025-08-01,Active,9,Prof. Naveen Verma
+163,CS232023,Anvi,Kapoor,Anvi Kapoor,Female,21,2005-03-11,anvi.kapoor163@student.college.edu,+917405649460,Ahmedabad,Rural,CS,Computer Science,3,2,2025-08-01,Active,9,Prof. Naveen Verma
+164,CS232024,Suman,Malhotra,Suman Malhotra,Female,20,2005-06-28,suman.malhotra164@student.college.edu,+918523818361,Nagpur,Rural,CS,Computer Science,3,2,2025-08-01,Active,9,Prof. Naveen Verma
+165,CS232025,Sara,Khan,Sara Khan,Female,19,2005-04-11,sara.khan165@student.college.edu,+917142602699,Kolkata,Urban,CS,Computer Science,3,2,2025-08-01,Active,9,Prof. Naveen Verma
+166,CS241001,Harshit,Singh,Harshit Singh,Male,20,2004-01-23,harshit.singh166@student.college.edu,+919309349815,Pune,Urban,CS,Computer Science,4,1,2025-08-01,Active,13,Ms. Rajesh Ali
+167,CS241002,Kiaan,Reddy,Kiaan Reddy,Male,20,2004-04-21,kiaan.reddy167@student.college.edu,+919524340301,Ludhiana,Urban,CS,Computer Science,4,1,2025-08-01,Active,13,Ms. Rajesh Ali
+168,CS241003,Amit,Agarwal,Amit Agarwal,Male,21,2004-01-21,amit.agarwal168@student.college.edu,+918149575636,Lucknow,Semi-Urban,CS,Computer Science,4,1,2025-08-01,Active,13,Ms. Rajesh Ali
+169,CS241004,Sunita,Arora,Sunita Arora,Female,22,2004-07-08,sunita.arora169@student.college.edu,+918263873891,Kolkata,Semi-Urban,CS,Computer Science,4,1,2025-08-01,Active,13,Ms. Rajesh Ali
+170,CS241005,Shaurya,Khanna,Shaurya Khanna,Male,21,2004-06-30,shaurya.khanna170@student.college.edu,+917447119647,Indore,Rural,CS,Computer Science,4,1,2025-08-01,Active,13,Ms. Rajesh Ali
+171,CS241006,Pari,Ali,Pari Ali,Female,20,2004-10-02,pari.ali171@student.college.edu,+918935369158,Ahmedabad,Rural,CS,Computer Science,4,1,2025-08-01,Active,13,Ms. Rajesh Ali
+172,CS241007,Vivaan,Agarwal,Vivaan Agarwal,Male,21,2004-02-24,vivaan.agarwal172@student.college.edu,+917131779389,Vadodara,Rural,CS,Computer Science,4,1,2025-08-01,Active,13,Ms. Rajesh Ali
+173,CS241008,Kavya,Khan,Kavya Khan,Female,20,2004-04-13,kavya.khan173@student.college.edu,+919149686612,Mumbai,Rural,CS,Computer Science,4,1,2025-08-01,Active,13,Ms. Rajesh Ali
+174,CS241009,Samar,Rao,Samar Rao,Male,22,2004-12-20,samar.rao174@student.college.edu,+918518409425,Bangalore,Semi-Urban,CS,Computer Science,4,1,2025-08-01,Active,13,Ms. Rajesh Ali
+175,CS241010,Preeti,Ahmed,Preeti Ahmed,Female,21,2004-07-08,preeti.ahmed175@student.college.edu,+918786840859,Lucknow,Rural,CS,Computer Science,4,1,2025-08-01,Active,13,Ms. Rajesh Ali
+176,CS241011,Prakash,Reddy,Prakash Reddy,Male,21,2004-04-22,prakash.reddy176@student.college.edu,+919343225544,Mumbai,Rural,CS,Computer Science,4,1,2025-08-01,Active,13,Ms. Rajesh Ali
+177,CS241012,Arjun,Pillai,Arjun Pillai,Male,21,2004-12-17,arjun.pillai177@student.college.edu,+917809833512,Indore,Rural,CS,Computer Science,4,1,2025-08-01,Active,13,Ms. Rajesh Ali
+178,CS241013,Rohan,Agarwal,Rohan Agarwal,Male,20,2004-12-25,rohan.agarwal178@student.college.edu,+918649319144,Bangalore,Urban,CS,Computer Science,4,1,2025-08-01,Active,13,Ms. Rajesh Ali
+179,CS241014,Preeti,Bose,Preeti Bose,Female,20,2004-07-31,preeti.bose179@student.college.edu,+918735750560,Chennai,Urban,CS,Computer Science,4,1,2025-08-01,Active,13,Ms. Rajesh Ali
+180,CS241015,Rohan,Khan,Rohan Khan,Male,21,2004-06-02,rohan.khan180@student.college.edu,+918263223433,Ludhiana,Urban,CS,Computer Science,4,1,2025-08-01,Active,13,Ms. Rajesh Ali
+181,CS241016,Nikhil,Rao,Nikhil Rao,Male,21,2004-06-25,nikhil.rao181@student.college.edu,+917235924608,Nagpur,Rural,CS,Computer Science,4,1,2025-08-01,Active,13,Ms. Rajesh Ali
+182,CS241017,Rani,Malhotra,Rani Malhotra,Female,22,2004-03-26,rani.malhotra182@student.college.edu,+917751959794,Vadodara,Rural,CS,Computer Science,4,1,2025-08-01,Active,13,Ms. Rajesh Ali
+183,CS241018,Siddharth,Desai,Siddharth Desai,Male,21,2004-04-12,siddharth.desai183@student.college.edu,+917486836215,Kolkata,Urban,CS,Computer Science,4,1,2025-08-01,Active,13,Ms. Rajesh Ali
+184,CS241019,Yash,Kaur,Yash Kaur,Male,21,2004-06-02,yash.kaur184@student.college.edu,+918754478851,Delhi,Semi-Urban,CS,Computer Science,4,1,2025-08-01,Active,13,Ms. Rajesh Ali
+185,CS241020,Karthik,Mehta,Karthik Mehta,Male,22,2004-05-17,karthik.mehta185@student.college.edu,+919207155934,Jaipur,Urban,CS,Computer Science,4,1,2025-08-01,Active,13,Ms. Rajesh Ali
+186,CS241021,Ayaan,Nair,Ayaan Nair,Male,20,2004-08-15,ayaan.nair186@student.college.edu,+917959035776,Visakhapatnam,Rural,CS,Computer Science,4,1,2025-08-01,Active,13,Ms. Rajesh Ali
+187,CS241022,Harshit,Kumar,Harshit Kumar,Male,22,2004-05-20,harshit.kumar187@student.college.edu,+917260792534,Patna,Urban,CS,Computer Science,4,1,2025-08-01,Active,13,Ms. Rajesh Ali
+188,CS242001,Pranav,Nair,Pranav Nair,Male,20,2004-08-14,pranav.nair188@student.college.edu,+918239020953,Jaipur,Urban,CS,Computer Science,4,2,2025-08-01,Active,13,Ms. Rajesh Ali
+189,CS242002,Preeti,Reddy,Preeti Reddy,Female,20,2004-09-14,preeti.reddy189@student.college.edu,+919534621960,Nagpur,Urban,CS,Computer Science,4,2,2025-08-01,Active,13,Ms. Rajesh Ali
+190,CS242003,Rahul,Tiwari,Rahul Tiwari,Male,22,2004-01-07,rahul.tiwari190@student.college.edu,+917889514452,Lucknow,Urban,CS,Computer Science,4,2,2025-08-01,Active,13,Ms. Rajesh Ali
+191,CS242004,Ananya,Ahmed,Ananya Ahmed,Female,22,2004-03-02,ananya.ahmed191@student.college.edu,+919967847748,Delhi,Rural,CS,Computer Science,4,2,2025-08-01,Active,13,Ms. Rajesh Ali
+192,CS242005,Swati,Ghosh,Swati Ghosh,Female,20,2004-03-13,swati.ghosh192@student.college.edu,+917292701292,Bhopal,Semi-Urban,CS,Computer Science,4,2,2025-08-01,Active,13,Ms. Rajesh Ali
+193,CS242006,Avni,Das,Avni Das,Female,20,2004-12-09,avni.das193@student.college.edu,+917713811238,Bhopal,Rural,CS,Computer Science,4,2,2025-08-01,Active,13,Ms. Rajesh Ali
+194,CS242007,Anika,Verma,Anika Verma,Female,21,2004-03-18,anika.verma194@student.college.edu,+918624506493,Jaipur,Urban,CS,Computer Science,4,2,2025-08-01,Active,13,Ms. Rajesh Ali
+195,CS242008,Varun,Gupta,Varun Gupta,Male,22,2004-07-25,varun.gupta195@student.college.edu,+917844144177,Mumbai,Semi-Urban,CS,Computer Science,4,2,2025-08-01,Active,13,Ms. Rajesh Ali
+196,CS242009,Sunita,Sethi,Sunita Sethi,Female,22,2004-04-11,sunita.sethi196@student.college.edu,+919475312420,Ghaziabad,Semi-Urban,CS,Computer Science,4,2,2025-08-01,Active,13,Ms. Rajesh Ali
+197,CS242010,Tara,Nair,Tara Nair,Female,20,2004-11-27,tara.nair197@student.college.edu,+918912529042,Delhi,Semi-Urban,CS,Computer Science,4,2,2025-08-01,Active,13,Ms. Rajesh Ali
+198,CS242011,Vedant,Desai,Vedant Desai,Male,20,2004-08-28,vedant.desai198@student.college.edu,+919419132079,Kanpur,Semi-Urban,CS,Computer Science,4,2,2025-08-01,Active,13,Ms. Rajesh Ali
+199,CS242012,Raj,Das,Raj Das,Male,22,2004-09-13,raj.das199@student.college.edu,+919569752494,Delhi,Urban,CS,Computer Science,4,2,2025-08-01,Active,13,Ms. Rajesh Ali
+200,CS242013,Rani,Bhatia,Rani Bhatia,Female,20,2004-05-27,rani.bhatia200@student.college.edu,+918481156361,Chennai,Urban,CS,Computer Science,4,2,2025-08-01,Active,13,Ms. Rajesh Ali
+201,CS242014,Mira,Sethi,Mira Sethi,Female,22,2004-02-17,mira.sethi201@student.college.edu,+919768102602,Vadodara,Semi-Urban,CS,Computer Science,4,2,2025-08-01,Active,13,Ms. Rajesh Ali
+202,CS242015,Vihaan,Pandey,Vihaan Pandey,Male,22,2004-06-11,vihaan.pandey202@student.college.edu,+917685779283,Ghaziabad,Semi-Urban,CS,Computer Science,4,2,2025-08-01,Active,13,Ms. Rajesh Ali
+203,CS242016,Manish,Malhotra,Manish Malhotra,Male,20,2004-08-29,manish.malhotra203@student.college.edu,+918240628246,Ludhiana,Rural,CS,Computer Science,4,2,2025-08-01,Active,13,Ms. Rajesh Ali
+204,CS242017,Varun,Mishra,Varun Mishra,Male,21,2004-10-04,varun.mishra204@student.college.edu,+917406484922,Delhi,Semi-Urban,CS,Computer Science,4,2,2025-08-01,Active,13,Ms. Rajesh Ali
+205,CS242018,Saanvi,Joshi,Saanvi Joshi,Female,20,2004-10-15,saanvi.joshi205@student.college.edu,+917849703394,Jaipur,Rural,CS,Computer Science,4,2,2025-08-01,Active,13,Ms. Rajesh Ali
+206,CS242019,Ishaan,Choudhury,Ishaan Choudhury,Male,20,2004-07-27,ishaan.choudhury206@student.college.edu,+919707359842,Hyderabad,Semi-Urban,CS,Computer Science,4,2,2025-08-01,Active,13,Ms. Rajesh Ali
+207,CS242020,Vedant,Hussain,Vedant Hussain,Male,22,2004-09-30,vedant.hussain207@student.college.edu,+919898191780,Pune,Urban,CS,Computer Science,4,2,2025-08-01,Active,13,Ms. Rajesh Ali
+208,CS242021,Siya,Shah,Siya Shah,Female,21,2004-01-27,siya.shah208@student.college.edu,+918694908521,Ghaziabad,Urban,CS,Computer Science,4,2,2025-08-01,Active,13,Ms. Rajesh Ali
+209,CS242022,Aarav,Arora,Aarav Arora,Male,22,2004-12-12,aarav.arora209@student.college.edu,+918909565554,Chennai,Rural,CS,Computer Science,4,2,2025-08-01,Active,13,Ms. Rajesh Ali
+210,CS242023,Aditya,Shah,Aditya Shah,Male,20,2004-01-16,aditya.shah210@student.college.edu,+917270115108,Jaipur,Semi-Urban,CS,Computer Science,4,2,2025-08-01,Active,13,Ms. Rajesh Ali
+211,EC211001,Aadhya,Kumar,Aadhya Kumar,Female,18,2007-06-05,aadhya.kumar211@student.college.edu,+919982195582,Jaipur,Semi-Urban,EC,Electronics & Communication,1,1,2025-08-01,Active,17,Ms. Amit Kapoor
+212,EC211002,Aditi,Shah,Aditi Shah,Female,17,2007-11-30,aditi.shah212@student.college.edu,+917301526840,Indore,Rural,EC,Electronics & Communication,1,1,2025-08-01,Active,17,Ms. Amit Kapoor
+213,EC211003,Tanvi,Bose,Tanvi Bose,Female,18,2007-05-21,tanvi.bose213@student.college.edu,+919070754203,Kolkata,Semi-Urban,EC,Electronics & Communication,1,1,2025-08-01,Active,17,Ms. Amit Kapoor
+214,EC211004,Aditi,Ahmed,Aditi Ahmed,Female,19,2007-11-09,aditi.ahmed214@student.college.edu,+918219650390,Pune,Rural,EC,Electronics & Communication,1,1,2025-08-01,Active,17,Ms. Amit Kapoor
+215,EC211005,Ravi,Kapoor,Ravi Kapoor,Male,18,2007-04-27,ravi.kapoor215@student.college.edu,+918528273523,Ghaziabad,Semi-Urban,EC,Electronics & Communication,1,1,2025-08-01,Active,17,Ms. Amit Kapoor
+216,EC211006,Manoj,Bose,Manoj Bose,Male,18,2007-01-02,manoj.bose216@student.college.edu,+919038241654,Visakhapatnam,Semi-Urban,EC,Electronics & Communication,1,1,2025-08-01,Active,17,Ms. Amit Kapoor
+217,EC211007,Ritvik,Kumar,Ritvik Kumar,Male,19,2007-01-24,ritvik.kumar217@student.college.edu,+917107186456,Bhopal,Semi-Urban,EC,Electronics & Communication,1,1,2025-08-01,Active,17,Ms. Amit Kapoor
+218,EC211008,Raj,Choudhury,Raj Choudhury,Male,19,2007-05-11,raj.choudhury218@student.college.edu,+917531208156,Ahmedabad,Semi-Urban,EC,Electronics & Communication,1,1,2025-08-01,Active,17,Ms. Amit Kapoor
+219,EC211009,Daksh,Gupta,Daksh Gupta,Male,17,2007-01-07,daksh.gupta219@student.college.edu,+917235303744,Ahmedabad,Semi-Urban,EC,Electronics & Communication,1,1,2025-08-01,Active,17,Ms. Amit Kapoor
+220,EC211010,Abhinav,Agarwal,Abhinav Agarwal,Male,18,2007-04-09,abhinav.agarwal220@student.college.edu,+919813402285,Nagpur,Urban,EC,Electronics & Communication,1,1,2025-08-01,Active,17,Ms. Amit Kapoor
+221,EC211011,Rekha,Mishra,Rekha Mishra,Female,19,2007-03-03,rekha.mishra221@student.college.edu,+917452748841,Ahmedabad,Semi-Urban,EC,Electronics & Communication,1,1,2025-08-01,Active,17,Ms. Amit Kapoor
+222,EC211012,Anjali,Mishra,Anjali Mishra,Female,18,2007-01-05,anjali.mishra222@student.college.edu,+919924699595,Ahmedabad,Urban,EC,Electronics & Communication,1,1,2025-08-01,Active,17,Ms. Amit Kapoor
+223,EC211013,Navya,Khan,Navya Khan,Female,19,2007-08-19,navya.khan223@student.college.edu,+919157739229,Ahmedabad,Urban,EC,Electronics & Communication,1,1,2025-08-01,Active,17,Ms. Amit Kapoor
+224,EC211014,Kabir,Joshi,Kabir Joshi,Male,17,2007-12-23,kabir.joshi224@student.college.edu,+919688864697,Kanpur,Urban,EC,Electronics & Communication,1,1,2025-08-01,Active,17,Ms. Amit Kapoor
+225,EC211015,Neha,Agarwal,Neha Agarwal,Female,17,2007-07-25,neha.agarwal225@student.college.edu,+919664393374,Vadodara,Rural,EC,Electronics & Communication,1,1,2025-08-01,Active,17,Ms. Amit Kapoor
+226,EC211016,Prisha,Joshi,Prisha Joshi,Female,17,2007-07-30,prisha.joshi226@student.college.edu,+918937201656,Vadodara,Semi-Urban,EC,Electronics & Communication,1,1,2025-08-01,Active,17,Ms. Amit Kapoor
+227,EC211017,Kian,Tiwari,Kian Tiwari,Male,18,2007-09-16,kian.tiwari227@student.college.edu,+917813854198,Coimbatore,Rural,EC,Electronics & Communication,1,1,2025-08-01,Active,17,Ms. Amit Kapoor
+228,EC211018,Atharv,Banerjee,Atharv Banerjee,Male,18,2007-09-27,atharv.banerjee228@student.college.edu,+917342466124,Ahmedabad,Semi-Urban,EC,Electronics & Communication,1,1,2025-08-01,Active,17,Ms. Amit Kapoor
+229,EC211019,Vihaan,Ghosh,Vihaan Ghosh,Male,18,2007-12-24,vihaan.ghosh229@student.college.edu,+919774189333,Mumbai,Rural,EC,Electronics & Communication,1,1,2025-08-01,Active,17,Ms. Amit Kapoor
+230,EC211020,Atharv,Shah,Atharv Shah,Male,17,2007-10-05,atharv.shah230@student.college.edu,+919717913709,Visakhapatnam,Rural,EC,Electronics & Communication,1,1,2025-08-01,Active,17,Ms. Amit Kapoor
+231,EC211021,Siya,Khanna,Siya Khanna,Female,19,2007-11-25,siya.khanna231@student.college.edu,+917597950284,Indore,Rural,EC,Electronics & Communication,1,1,2025-08-01,Active,17,Ms. Amit Kapoor
+232,EC211022,Ajay,Rao,Ajay Rao,Male,19,2007-06-16,ajay.rao232@student.college.edu,+919730908817,Visakhapatnam,Semi-Urban,EC,Electronics & Communication,1,1,2025-08-01,Active,17,Ms. Amit Kapoor
+233,EC211023,Shaurya,Chatterjee,Shaurya Chatterjee,Male,19,2007-12-03,shaurya.chatterjee233@student.college.edu,+917883914814,Bhopal,Rural,EC,Electronics & Communication,1,1,2025-08-01,Active,17,Ms. Amit Kapoor
+234,EC211024,Siya,Bose,Siya Bose,Female,17,2007-04-22,siya.bose234@student.college.edu,+918281406868,Jaipur,Rural,EC,Electronics & Communication,1,1,2025-08-01,Active,17,Ms. Amit Kapoor
+235,EC211025,Shaurya,Kaur,Shaurya Kaur,Male,19,2007-02-06,shaurya.kaur235@student.college.edu,+918319868232,Ahmedabad,Semi-Urban,EC,Electronics & Communication,1,1,2025-08-01,Active,17,Ms. Amit Kapoor
+236,EC212001,Sandeep,Mishra,Sandeep Mishra,Male,18,2007-03-27,sandeep.mishra236@student.college.edu,+917859945262,Hyderabad,Rural,EC,Electronics & Communication,1,2,2025-08-01,Active,17,Ms. Amit Kapoor
+237,EC212002,Sunita,Singh,Sunita Singh,Female,18,2007-07-20,sunita.singh237@student.college.edu,+917099555607,Ahmedabad,Semi-Urban,EC,Electronics & Communication,1,2,2025-08-01,Active,17,Ms. Amit Kapoor
+238,EC212003,Suresh,Khan,Suresh Khan,Male,19,2007-01-06,suresh.khan238@student.college.edu,+918381649127,Pune,Semi-Urban,EC,Electronics & Communication,1,2,2025-08-01,Active,17,Ms. Amit Kapoor
+239,EC212004,Aditi,Malhotra,Aditi Malhotra,Female,19,2007-02-23,aditi.malhotra239@student.college.edu,+919001818917,Kolkata,Rural,EC,Electronics & Communication,1,2,2025-08-01,Active,17,Ms. Amit Kapoor
+240,EC212005,Atharv,Banerjee,Atharv Banerjee,Male,19,2007-10-01,atharv.banerjee240@student.college.edu,+917294650977,Vadodara,Rural,EC,Electronics & Communication,1,2,2025-08-01,Active,17,Ms. Amit Kapoor
+241,EC212006,Aryan,Hussain,Aryan Hussain,Male,17,2007-09-02,aryan.hussain241@student.college.edu,+917865066673,Visakhapatnam,Rural,EC,Electronics & Communication,1,2,2025-08-01,Active,17,Ms. Amit Kapoor
+242,EC212007,Tanvi,Sinha,Tanvi Sinha,Female,17,2007-07-19,tanvi.sinha242@student.college.edu,+919199432193,Kolkata,Semi-Urban,EC,Electronics & Communication,1,2,2025-08-01,Active,17,Ms. Amit Kapoor
+243,EC212008,Deepak,Arora,Deepak Arora,Male,17,2007-07-23,deepak.arora243@student.college.edu,+919698297477,Bangalore,Semi-Urban,EC,Electronics & Communication,1,2,2025-08-01,Active,17,Ms. Amit Kapoor
+244,EC212009,Prakash,Malhotra,Prakash Malhotra,Male,19,2007-03-19,prakash.malhotra244@student.college.edu,+918337878899,Kanpur,Semi-Urban,EC,Electronics & Communication,1,2,2025-08-01,Active,17,Ms. Amit Kapoor
+245,EC212010,Kian,Banerjee,Kian Banerjee,Male,19,2007-06-03,kian.banerjee245@student.college.edu,+918061423522,Nagpur,Rural,EC,Electronics & Communication,1,2,2025-08-01,Active,17,Ms. Amit Kapoor
+246,EC212011,Karthik,Gupta,Karthik Gupta,Male,17,2007-09-18,karthik.gupta246@student.college.edu,+918692924737,Kanpur,Semi-Urban,EC,Electronics & Communication,1,2,2025-08-01,Active,17,Ms. Amit Kapoor
+247,EC212012,Kiaan,Bose,Kiaan Bose,Male,19,2007-02-21,kiaan.bose247@student.college.edu,+918883345698,Visakhapatnam,Semi-Urban,EC,Electronics & Communication,1,2,2025-08-01,Active,17,Ms. Amit Kapoor
+248,EC212013,Vedant,Hussain,Vedant Hussain,Male,18,2007-09-01,vedant.hussain248@student.college.edu,+919352952756,Patna,Urban,EC,Electronics & Communication,1,2,2025-08-01,Active,17,Ms. Amit Kapoor
+249,EC212014,Ritvik,Pillai,Ritvik Pillai,Male,18,2007-10-17,ritvik.pillai249@student.college.edu,+917731772580,Nagpur,Semi-Urban,EC,Electronics & Communication,1,2,2025-08-01,Active,17,Ms. Amit Kapoor
+250,EC212015,Diya,Iyer,Diya Iyer,Female,19,2007-06-25,diya.iyer250@student.college.edu,+917460035963,Hyderabad,Rural,EC,Electronics & Communication,1,2,2025-08-01,Active,17,Ms. Amit Kapoor
+251,EC212016,Swati,Kumar,Swati Kumar,Female,19,2007-12-15,swati.kumar251@student.college.edu,+918269696791,Hyderabad,Urban,EC,Electronics & Communication,1,2,2025-08-01,Active,17,Ms. Amit Kapoor
+252,EC212017,Nikhil,Desai,Nikhil Desai,Male,19,2007-10-23,nikhil.desai252@student.college.edu,+919659916588,Indore,Semi-Urban,EC,Electronics & Communication,1,2,2025-08-01,Active,17,Ms. Amit Kapoor
+253,EC212018,Sai,Malhotra,Sai Malhotra,Male,17,2007-09-22,sai.malhotra253@student.college.edu,+917947723847,Bhopal,Semi-Urban,EC,Electronics & Communication,1,2,2025-08-01,Active,17,Ms. Amit Kapoor
+254,EC212019,Samar,Kapoor,Samar Kapoor,Male,17,2007-01-14,samar.kapoor254@student.college.edu,+917634130453,Kolkata,Semi-Urban,EC,Electronics & Communication,1,2,2025-08-01,Active,17,Ms. Amit Kapoor
+255,EC212020,Abhinav,Banerjee,Abhinav Banerjee,Male,19,2007-10-31,abhinav.banerjee255@student.college.edu,+919883929973,Kanpur,Urban,EC,Electronics & Communication,1,2,2025-08-01,Active,17,Ms. Amit Kapoor
+256,EC212021,Navya,Khanna,Navya Khanna,Female,17,2007-04-15,navya.khanna256@student.college.edu,+919271017688,Chennai,Rural,EC,Electronics & Communication,1,2,2025-08-01,Active,17,Ms. Amit Kapoor
+257,EC212022,Rekha,Iyer,Rekha Iyer,Female,17,2007-01-04,rekha.iyer257@student.college.edu,+918792489510,Pune,Semi-Urban,EC,Electronics & Communication,1,2,2025-08-01,Active,17,Ms. Amit Kapoor
+258,EC212023,Anjali,Reddy,Anjali Reddy,Female,18,2007-11-11,anjali.reddy258@student.college.edu,+917262039940,Ludhiana,Semi-Urban,EC,Electronics & Communication,1,2,2025-08-01,Active,17,Ms. Amit Kapoor
+259,EC212024,Shanaya,Saxena,Shanaya Saxena,Female,17,2007-06-17,shanaya.saxena259@student.college.edu,+918547762139,Nagpur,Semi-Urban,EC,Electronics & Communication,1,2,2025-08-01,Active,17,Ms. Amit Kapoor
+260,EC212025,Rani,Nair,Rani Nair,Female,17,2007-07-15,rani.nair260@student.college.edu,+917684605850,Hyderabad,Rural,EC,Electronics & Communication,1,2,2025-08-01,Active,17,Ms. Amit Kapoor
+261,EC221001,Deepak,Pandey,Deepak Pandey,Male,18,2006-11-23,deepak.pandey261@student.college.edu,+918217153524,Jaipur,Rural,EC,Electronics & Communication,2,1,2025-08-01,Active,21,Ms. Meera Patel
+262,EC221002,Rahul,Saxena,Rahul Saxena,Male,20,2006-11-22,rahul.saxena262@student.college.edu,+919992536180,Ghaziabad,Semi-Urban,EC,Electronics & Communication,2,1,2025-08-01,Active,21,Ms. Meera Patel
+263,EC221003,Sara,Agarwal,Sara Agarwal,Female,19,2006-12-09,sara.agarwal263@student.college.edu,+918786827557,Bhopal,Rural,EC,Electronics & Communication,2,1,2025-08-01,Active,21,Ms. Meera Patel
+264,EC221004,Nikhil,Ahmed,Nikhil Ahmed,Male,20,2006-02-26,nikhil.ahmed264@student.college.edu,+917565227256,Lucknow,Semi-Urban,EC,Electronics & Communication,2,1,2025-08-01,Active,21,Ms. Meera Patel
+265,EC221005,Naksh,Das,Naksh Das,Male,19,2006-08-03,naksh.das265@student.college.edu,+918422272886,Bangalore,Semi-Urban,EC,Electronics & Communication,2,1,2025-08-01,Active,21,Ms. Meera Patel
+266,EC221006,Atharv,Tiwari,Atharv Tiwari,Male,18,2006-06-24,atharv.tiwari266@student.college.edu,+917415402335,Patna,Rural,EC,Electronics & Communication,2,1,2025-08-01,Active,21,Ms. Meera Patel
+267,EC221007,Tara,Bhatia,Tara Bhatia,Female,19,2006-02-09,tara.bhatia267@student.college.edu,+919881016215,Bhopal,Urban,EC,Electronics & Communication,2,1,2025-08-01,Active,21,Ms. Meera Patel
+268,EC221008,Rekha,Ali,Rekha Ali,Female,19,2006-10-08,rekha.ali268@student.college.edu,+917690778876,Visakhapatnam,Rural,EC,Electronics & Communication,2,1,2025-08-01,Active,21,Ms. Meera Patel
+269,EC221009,Shruti,Singh,Shruti Singh,Female,19,2006-02-01,shruti.singh269@student.college.edu,+917429957697,Ahmedabad,Urban,EC,Electronics & Communication,2,1,2025-08-01,Active,21,Ms. Meera Patel
+270,EC221010,Aditi,Patel,Aditi Patel,Female,18,2006-01-06,aditi.patel270@student.college.edu,+917488249832,Chennai,Rural,EC,Electronics & Communication,2,1,2025-08-01,Active,21,Ms. Meera Patel
+271,EC221011,Preeti,Bhatia,Preeti Bhatia,Female,19,2006-04-21,preeti.bhatia271@student.college.edu,+917857621114,Ahmedabad,Rural,EC,Electronics & Communication,2,1,2025-08-01,Active,21,Ms. Meera Patel
+272,EC221012,Kavya,Jain,Kavya Jain,Female,20,2006-03-23,kavya.jain272@student.college.edu,+917328330336,Patna,Rural,EC,Electronics & Communication,2,1,2025-08-01,Active,21,Ms. Meera Patel
+273,EC221013,Anika,Saxena,Anika Saxena,Female,19,2006-10-04,anika.saxena273@student.college.edu,+919948846353,Visakhapatnam,Rural,EC,Electronics & Communication,2,1,2025-08-01,Active,21,Ms. Meera Patel
+274,EC221014,Kian,Patel,Kian Patel,Male,18,2006-01-03,kian.patel274@student.college.edu,+919496157881,Ghaziabad,Urban,EC,Electronics & Communication,2,1,2025-08-01,Active,21,Ms. Meera Patel
+275,EC221015,Rudra,Desai,Rudra Desai,Male,18,2006-01-25,rudra.desai275@student.college.edu,+918577529410,Jaipur,Urban,EC,Electronics & Communication,2,1,2025-08-01,Active,21,Ms. Meera Patel
+276,EC221016,Anvi,Singh,Anvi Singh,Female,19,2006-06-03,anvi.singh276@student.college.edu,+917328313627,Kolkata,Urban,EC,Electronics & Communication,2,1,2025-08-01,Active,21,Ms. Meera Patel
+277,EC221017,Ritvik,Gupta,Ritvik Gupta,Male,19,2006-06-18,ritvik.gupta277@student.college.edu,+917717070376,Kolkata,Rural,EC,Electronics & Communication,2,1,2025-08-01,Active,21,Ms. Meera Patel
+278,EC221018,Aryan,Jain,Aryan Jain,Male,20,2006-12-15,aryan.jain278@student.college.edu,+919463258727,Ahmedabad,Rural,EC,Electronics & Communication,2,1,2025-08-01,Active,21,Ms. Meera Patel
+279,EC221019,Kriti,Pillai,Kriti Pillai,Female,18,2006-09-01,kriti.pillai279@student.college.edu,+918261928646,Vadodara,Semi-Urban,EC,Electronics & Communication,2,1,2025-08-01,Active,21,Ms. Meera Patel
+280,EC221020,Siddharth,Reddy,Siddharth Reddy,Male,18,2006-10-13,siddharth.reddy280@student.college.edu,+917432521438,Kanpur,Rural,EC,Electronics & Communication,2,1,2025-08-01,Active,21,Ms. Meera Patel
+281,EC221021,Vedant,Kaur,Vedant Kaur,Male,19,2006-05-22,vedant.kaur281@student.college.edu,+917848643613,Lucknow,Urban,EC,Electronics & Communication,2,1,2025-08-01,Active,21,Ms. Meera Patel
+282,EC221022,Rani,Chatterjee,Rani Chatterjee,Female,18,2006-09-30,rani.chatterjee282@student.college.edu,+917764661783,Ludhiana,Semi-Urban,EC,Electronics & Communication,2,1,2025-08-01,Active,21,Ms. Meera Patel
+283,EC221023,Ritvik,Bose,Ritvik Bose,Male,20,2006-06-01,ritvik.bose283@student.college.edu,+917388417915,Nagpur,Urban,EC,Electronics & Communication,2,1,2025-08-01,Active,21,Ms. Meera Patel
+284,EC221024,Tara,Pillai,Tara Pillai,Female,20,2006-05-23,tara.pillai284@student.college.edu,+917059969701,Ghaziabad,Semi-Urban,EC,Electronics & Communication,2,1,2025-08-01,Active,21,Ms. Meera Patel
+285,EC222001,Riya,Desai,Riya Desai,Female,19,2006-04-16,riya.desai285@student.college.edu,+918539178902,Nagpur,Urban,EC,Electronics & Communication,2,2,2025-08-01,Active,21,Ms. Meera Patel
+286,EC222002,Prisha,Kaur,Prisha Kaur,Female,18,2006-11-10,prisha.kaur286@student.college.edu,+919555875149,Ahmedabad,Semi-Urban,EC,Electronics & Communication,2,2,2025-08-01,Active,21,Ms. Meera Patel
+287,EC222003,Kavya,Chopra,Kavya Chopra,Female,20,2006-09-29,kavya.chopra287@student.college.edu,+919796515608,Jaipur,Semi-Urban,EC,Electronics & Communication,2,2,2025-08-01,Active,21,Ms. Meera Patel
+288,EC222004,Shruti,Kumar,Shruti Kumar,Female,18,2006-06-05,shruti.kumar288@student.college.edu,+917269380095,Mumbai,Rural,EC,Electronics & Communication,2,2,2025-08-01,Active,21,Ms. Meera Patel
+289,EC222005,Preeti,Sharma,Preeti Sharma,Female,18,2006-07-27,preeti.sharma289@student.college.edu,+917939151104,Kanpur,Rural,EC,Electronics & Communication,2,2,2025-08-01,Active,21,Ms. Meera Patel
+290,EC222006,Sneha,Tiwari,Sneha Tiwari,Female,18,2006-04-16,sneha.tiwari290@student.college.edu,+919816945165,Visakhapatnam,Rural,EC,Electronics & Communication,2,2,2025-08-01,Active,21,Ms. Meera Patel
+291,EC222007,Myra,Hussain,Myra Hussain,Female,19,2006-01-12,myra.hussain291@student.college.edu,+918539136629,Chennai,Urban,EC,Electronics & Communication,2,2,2025-08-01,Active,21,Ms. Meera Patel
+292,EC222008,Riya,Kapoor,Riya Kapoor,Female,19,2006-12-30,riya.kapoor292@student.college.edu,+917926564913,Hyderabad,Urban,EC,Electronics & Communication,2,2,2025-08-01,Active,21,Ms. Meera Patel
+293,EC222009,Divya,Malhotra,Divya Malhotra,Female,19,2006-03-13,divya.malhotra293@student.college.edu,+919460894227,Delhi,Semi-Urban,EC,Electronics & Communication,2,2,2025-08-01,Active,21,Ms. Meera Patel
+294,EC222010,Abhinav,Ghosh,Abhinav Ghosh,Male,19,2006-11-13,abhinav.ghosh294@student.college.edu,+919689119355,Pune,Semi-Urban,EC,Electronics & Communication,2,2,2025-08-01,Active,21,Ms. Meera Patel
+295,EC222011,Anika,Rao,Anika Rao,Female,18,2006-03-20,anika.rao295@student.college.edu,+917291832928,Kolkata,Semi-Urban,EC,Electronics & Communication,2,2,2025-08-01,Active,21,Ms. Meera Patel
+296,EC222012,Siya,Gupta,Siya Gupta,Female,19,2006-11-23,siya.gupta296@student.college.edu,+917855064463,Chennai,Urban,EC,Electronics & Communication,2,2,2025-08-01,Active,21,Ms. Meera Patel
+297,EC222013,Sneha,Patel,Sneha Patel,Female,18,2006-07-01,sneha.patel297@student.college.edu,+918928588669,Lucknow,Urban,EC,Electronics & Communication,2,2,2025-08-01,Active,21,Ms. Meera Patel
+298,EC222014,Saanvi,Kapoor,Saanvi Kapoor,Female,19,2006-08-09,saanvi.kapoor298@student.college.edu,+919993525884,Patna,Rural,EC,Electronics & Communication,2,2,2025-08-01,Active,21,Ms. Meera Patel
+299,EC222015,Daksh,Ahmed,Daksh Ahmed,Male,19,2006-06-24,daksh.ahmed299@student.college.edu,+919118152881,Coimbatore,Rural,EC,Electronics & Communication,2,2,2025-08-01,Active,21,Ms. Meera Patel
+300,EC222016,Sara,Chatterjee,Sara Chatterjee,Female,20,2006-11-16,sara.chatterjee300@student.college.edu,+918863524295,Bhopal,Semi-Urban,EC,Electronics & Communication,2,2,2025-08-01,Active,21,Ms. Meera Patel
+301,EC222017,Varun,Kapoor,Varun Kapoor,Male,18,2006-12-11,varun.kapoor301@student.college.edu,+917052527770,Pune,Rural,EC,Electronics & Communication,2,2,2025-08-01,Active,21,Ms. Meera Patel
+302,EC222018,Sunita,Joshi,Sunita Joshi,Female,20,2006-07-23,sunita.joshi302@student.college.edu,+919968363903,Nagpur,Semi-Urban,EC,Electronics & Communication,2,2,2025-08-01,Active,21,Ms. Meera Patel
+303,EC222019,Ananya,Desai,Ananya Desai,Female,18,2006-12-04,ananya.desai303@student.college.edu,+918541422122,Jaipur,Rural,EC,Electronics & Communication,2,2,2025-08-01,Active,21,Ms. Meera Patel
+304,EC222020,Sneha,Pandey,Sneha Pandey,Female,18,2006-04-10,sneha.pandey304@student.college.edu,+917305691720,Patna,Semi-Urban,EC,Electronics & Communication,2,2,2025-08-01,Active,21,Ms. Meera Patel
+305,EC222021,Priya,Kumar,Priya Kumar,Female,19,2006-09-27,priya.kumar305@student.college.edu,+918245400439,Ghaziabad,Rural,EC,Electronics & Communication,2,2,2025-08-01,Active,21,Ms. Meera Patel
+306,EC222022,Shanaya,Choudhury,Shanaya Choudhury,Female,19,2006-04-10,shanaya.choudhury306@student.college.edu,+919225735465,Indore,Semi-Urban,EC,Electronics & Communication,2,2,2025-08-01,Active,21,Ms. Meera Patel
+307,EC222023,Prakash,Singh,Prakash Singh,Male,18,2006-09-01,prakash.singh307@student.college.edu,+917914425467,Vadodara,Urban,EC,Electronics & Communication,2,2,2025-08-01,Active,21,Ms. Meera Patel
+308,EC222024,Dhruv,Pillai,Dhruv Pillai,Male,20,2006-10-11,dhruv.pillai308@student.college.edu,+919626488558,Vadodara,Urban,EC,Electronics & Communication,2,2,2025-08-01,Active,21,Ms. Meera Patel
+309,EC231001,Reyansh,Kapoor,Reyansh Kapoor,Male,21,2005-10-20,reyansh.kapoor309@student.college.edu,+919281116552,Delhi,Rural,EC,Electronics & Communication,3,1,2025-08-01,Active,25,Dr. Amit Sinha
+310,EC231002,Rani,Khanna,Rani Khanna,Female,21,2005-10-20,rani.khanna310@student.college.edu,+917941469946,Ghaziabad,Rural,EC,Electronics & Communication,3,1,2025-08-01,Active,25,Dr. Amit Sinha
+311,EC231003,Rani,Arora,Rani Arora,Female,19,2005-08-12,rani.arora311@student.college.edu,+918996644536,Lucknow,Semi-Urban,EC,Electronics & Communication,3,1,2025-08-01,Active,25,Dr. Amit Sinha
+312,EC231004,Shruti,Jain,Shruti Jain,Female,20,2005-06-09,shruti.jain312@student.college.edu,+918663415470,Chennai,Rural,EC,Electronics & Communication,3,1,2025-08-01,Active,25,Dr. Amit Sinha
+313,EC231005,Navya,Mishra,Navya Mishra,Female,19,2005-05-08,navya.mishra313@student.college.edu,+919175354588,Ghaziabad,Semi-Urban,EC,Electronics & Communication,3,1,2025-08-01,Active,25,Dr. Amit Sinha
+314,EC231006,Kiara,Das,Kiara Das,Female,20,2005-03-22,kiara.das314@student.college.edu,+918821649878,Bangalore,Rural,EC,Electronics & Communication,3,1,2025-08-01,Active,25,Dr. Amit Sinha
+315,EC231007,Reyansh,Arora,Reyansh Arora,Male,19,2005-02-02,reyansh.arora315@student.college.edu,+918039530810,Delhi,Urban,EC,Electronics & Communication,3,1,2025-08-01,Active,25,Dr. Amit Sinha
+316,EC231008,Rahul,Khan,Rahul Khan,Male,19,2005-02-26,rahul.khan316@student.college.edu,+919211067326,Bangalore,Rural,EC,Electronics & Communication,3,1,2025-08-01,Active,25,Dr. Amit Sinha
+317,EC231009,Kriti,Choudhury,Kriti Choudhury,Female,19,2005-10-22,kriti.choudhury317@student.college.edu,+919138874573,Pune,Semi-Urban,EC,Electronics & Communication,3,1,2025-08-01,Active,25,Dr. Amit Sinha
+318,EC231010,Ansh,Khanna,Ansh Khanna,Male,19,2005-01-11,ansh.khanna318@student.college.edu,+917431049157,Patna,Semi-Urban,EC,Electronics & Communication,3,1,2025-08-01,Active,25,Dr. Amit Sinha
+319,EC231011,Kian,Singh,Kian Singh,Male,21,2005-07-19,kian.singh319@student.college.edu,+918945853877,Bangalore,Urban,EC,Electronics & Communication,3,1,2025-08-01,Active,25,Dr. Amit Sinha
+320,EC231012,Myra,Bose,Myra Bose,Female,19,2005-09-07,myra.bose320@student.college.edu,+919215803437,Ahmedabad,Rural,EC,Electronics & Communication,3,1,2025-08-01,Active,25,Dr. Amit Sinha
+321,EC231013,Atharv,Sharma,Atharv Sharma,Male,20,2005-11-29,atharv.sharma321@student.college.edu,+918645941045,Pune,Semi-Urban,EC,Electronics & Communication,3,1,2025-08-01,Active,25,Dr. Amit Sinha
+322,EC231014,Ankit,Pandey,Ankit Pandey,Male,19,2005-10-21,ankit.pandey322@student.college.edu,+918962744727,Mumbai,Urban,EC,Electronics & Communication,3,1,2025-08-01,Active,25,Dr. Amit Sinha
+323,EC231015,Prisha,Banerjee,Prisha Banerjee,Female,19,2005-11-16,prisha.banerjee323@student.college.edu,+918405631603,Kanpur,Rural,EC,Electronics & Communication,3,1,2025-08-01,Active,25,Dr. Amit Sinha
+324,EC231016,Amit,Bhatia,Amit Bhatia,Male,21,2005-09-01,amit.bhatia324@student.college.edu,+918759205178,Bangalore,Semi-Urban,EC,Electronics & Communication,3,1,2025-08-01,Active,25,Dr. Amit Sinha
+325,EC231017,Ira,Reddy,Ira Reddy,Female,20,2005-04-22,ira.reddy325@student.college.edu,+918601328030,Patna,Urban,EC,Electronics & Communication,3,1,2025-08-01,Active,25,Dr. Amit Sinha
+326,EC231018,Meera,Verma,Meera Verma,Female,19,2005-12-08,meera.verma326@student.college.edu,+919983979783,Coimbatore,Rural,EC,Electronics & Communication,3,1,2025-08-01,Active,25,Dr. Amit Sinha
+327,EC231019,Riya,Mehta,Riya Mehta,Female,21,2005-08-22,riya.mehta327@student.college.edu,+917076744066,Hyderabad,Urban,EC,Electronics & Communication,3,1,2025-08-01,Active,25,Dr. Amit Sinha
+328,EC231020,Simran,Tiwari,Simran Tiwari,Female,21,2005-12-30,simran.tiwari328@student.college.edu,+917385471968,Visakhapatnam,Semi-Urban,EC,Electronics & Communication,3,1,2025-08-01,Active,25,Dr. Amit Sinha
+329,EC231021,Kiara,Singh,Kiara Singh,Female,20,2005-06-20,kiara.singh329@student.college.edu,+917811719101,Ghaziabad,Rural,EC,Electronics & Communication,3,1,2025-08-01,Active,25,Dr. Amit Sinha
+330,EC231022,Aarav,Ali,Aarav Ali,Male,21,2005-09-22,aarav.ali330@student.college.edu,+917764758303,Coimbatore,Semi-Urban,EC,Electronics & Communication,3,1,2025-08-01,Active,25,Dr. Amit Sinha
+331,EC232001,Vedant,Kapoor,Vedant Kapoor,Male,21,2005-07-05,vedant.kapoor331@student.college.edu,+917374728063,Patna,Rural,EC,Electronics & Communication,3,2,2025-08-01,Active,25,Dr. Amit Sinha
+332,EC232002,Tara,Kaur,Tara Kaur,Female,20,2005-04-28,tara.kaur332@student.college.edu,+917475362061,Chennai,Rural,EC,Electronics & Communication,3,2,2025-08-01,Active,25,Dr. Amit Sinha
+333,EC232003,Shivansh,Patel,Shivansh Patel,Male,21,2005-04-04,shivansh.patel333@student.college.edu,+917579949195,Kanpur,Urban,EC,Electronics & Communication,3,2,2025-08-01,Active,25,Dr. Amit Sinha
+334,EC232004,Saanvi,Jain,Saanvi Jain,Female,19,2005-10-27,saanvi.jain334@student.college.edu,+918282978819,Indore,Semi-Urban,EC,Electronics & Communication,3,2,2025-08-01,Active,25,Dr. Amit Sinha
+335,EC232005,Swati,Hussain,Swati Hussain,Female,19,2005-04-27,swati.hussain335@student.college.edu,+917782532224,Nagpur,Urban,EC,Electronics & Communication,3,2,2025-08-01,Active,25,Dr. Amit Sinha
+336,EC232006,Samar,Banerjee,Samar Banerjee,Male,20,2005-07-13,samar.banerjee336@student.college.edu,+917719581461,Indore,Rural,EC,Electronics & Communication,3,2,2025-08-01,Active,25,Dr. Amit Sinha
+337,EC232007,Manish,Arora,Manish Arora,Male,19,2005-03-23,manish.arora337@student.college.edu,+918879403367,Visakhapatnam,Semi-Urban,EC,Electronics & Communication,3,2,2025-08-01,Active,25,Dr. Amit Sinha
+338,EC232008,Kiara,Tiwari,Kiara Tiwari,Female,19,2005-07-22,kiara.tiwari338@student.college.edu,+919575471702,Ahmedabad,Rural,EC,Electronics & Communication,3,2,2025-08-01,Active,25,Dr. Amit Sinha
+339,EC232009,Siddharth,Bose,Siddharth Bose,Male,20,2005-10-20,siddharth.bose339@student.college.edu,+919091825069,Mumbai,Rural,EC,Electronics & Communication,3,2,2025-08-01,Active,25,Dr. Amit Sinha
+340,EC232010,Aanya,Bose,Aanya Bose,Female,21,2005-07-05,aanya.bose340@student.college.edu,+918312097746,Coimbatore,Semi-Urban,EC,Electronics & Communication,3,2,2025-08-01,Active,25,Dr. Amit Sinha
+341,EC232011,Raj,Chopra,Raj Chopra,Male,21,2005-10-08,raj.chopra341@student.college.edu,+917509816800,Delhi,Urban,EC,Electronics & Communication,3,2,2025-08-01,Active,25,Dr. Amit Sinha
+342,EC232012,Naksh,Ali,Naksh Ali,Male,20,2005-10-02,naksh.ali342@student.college.edu,+919960620700,Mumbai,Rural,EC,Electronics & Communication,3,2,2025-08-01,Active,25,Dr. Amit Sinha
+343,EC232013,Mira,Bose,Mira Bose,Female,19,2005-01-19,mira.bose343@student.college.edu,+919969980271,Pune,Semi-Urban,EC,Electronics & Communication,3,2,2025-08-01,Active,25,Dr. Amit Sinha
+344,EC232014,Suman,Jain,Suman Jain,Female,20,2005-10-14,suman.jain344@student.college.edu,+919549392360,Indore,Semi-Urban,EC,Electronics & Communication,3,2,2025-08-01,Active,25,Dr. Amit Sinha
+345,EC232015,Saanvi,Ahmed,Saanvi Ahmed,Female,21,2005-09-25,saanvi.ahmed345@student.college.edu,+919057425215,Vadodara,Semi-Urban,EC,Electronics & Communication,3,2,2025-08-01,Active,25,Dr. Amit Sinha
+346,EC232016,Kiaan,Kapoor,Kiaan Kapoor,Male,20,2005-09-24,kiaan.kapoor346@student.college.edu,+918479505925,Coimbatore,Rural,EC,Electronics & Communication,3,2,2025-08-01,Active,25,Dr. Amit Sinha
+347,EC232017,Sneha,Kaur,Sneha Kaur,Female,19,2005-12-06,sneha.kaur347@student.college.edu,+919129203396,Bangalore,Semi-Urban,EC,Electronics & Communication,3,2,2025-08-01,Active,25,Dr. Amit Sinha
+348,EC232018,Ritika,Ghosh,Ritika Ghosh,Female,20,2005-07-14,ritika.ghosh348@student.college.edu,+917084920881,Nagpur,Semi-Urban,EC,Electronics & Communication,3,2,2025-08-01,Active,25,Dr. Amit Sinha
+349,EC232019,Avni,Malhotra,Avni Malhotra,Female,20,2005-11-06,avni.malhotra349@student.college.edu,+918854742351,Kanpur,Rural,EC,Electronics & Communication,3,2,2025-08-01,Active,25,Dr. Amit Sinha
+350,EC232020,Ishaan,Banerjee,Ishaan Banerjee,Male,20,2005-08-06,ishaan.banerjee350@student.college.edu,+918978251747,Bangalore,Urban,EC,Electronics & Communication,3,2,2025-08-01,Active,25,Dr. Amit Sinha
+351,EC232021,Kiaan,Khanna,Kiaan Khanna,Male,21,2005-08-03,kiaan.khanna351@student.college.edu,+919472713894,Patna,Rural,EC,Electronics & Communication,3,2,2025-08-01,Active,25,Dr. Amit Sinha
+352,EC232022,Myra,Tiwari,Myra Tiwari,Female,21,2005-04-03,myra.tiwari352@student.college.edu,+919167966029,Vadodara,Urban,EC,Electronics & Communication,3,2,2025-08-01,Active,25,Dr. Amit Sinha
+353,EC232023,Priya,Hussain,Priya Hussain,Female,19,2005-07-03,priya.hussain353@student.college.edu,+917924141788,Chennai,Rural,EC,Electronics & Communication,3,2,2025-08-01,Active,25,Dr. Amit Sinha
+354,EC241001,Sneha,Reddy,Sneha Reddy,Female,21,2004-01-31,sneha.reddy354@student.college.edu,+919470441201,Indore,Rural,EC,Electronics & Communication,4,1,2025-08-01,Active,29,Dr. Preeti Joshi
+355,EC241002,Ananya,Chatterjee,Ananya Chatterjee,Female,22,2004-05-13,ananya.chatterjee355@student.college.edu,+919341778583,Vadodara,Semi-Urban,EC,Electronics & Communication,4,1,2025-08-01,Active,29,Dr. Preeti Joshi
+356,EC241003,Suresh,Ahmed,Suresh Ahmed,Male,21,2004-09-06,suresh.ahmed356@student.college.edu,+918969526769,Kolkata,Semi-Urban,EC,Electronics & Communication,4,1,2025-08-01,Active,29,Dr. Preeti Joshi
+357,EC241004,Navya,Bhatia,Navya Bhatia,Female,22,2004-04-12,navya.bhatia357@student.college.edu,+917287191024,Kolkata,Semi-Urban,EC,Electronics & Communication,4,1,2025-08-01,Active,29,Dr. Preeti Joshi
+358,EC241005,Myra,Mishra,Myra Mishra,Female,20,2004-02-03,myra.mishra358@student.college.edu,+918304157753,Bangalore,Rural,EC,Electronics & Communication,4,1,2025-08-01,Active,29,Dr. Preeti Joshi
+359,EC241006,Siya,Ahmed,Siya Ahmed,Female,22,2004-07-15,siya.ahmed359@student.college.edu,+917448056121,Nagpur,Urban,EC,Electronics & Communication,4,1,2025-08-01,Active,29,Dr. Preeti Joshi
+360,EC241007,Suresh,Tiwari,Suresh Tiwari,Male,21,2004-03-11,suresh.tiwari360@student.college.edu,+919243419945,Chennai,Urban,EC,Electronics & Communication,4,1,2025-08-01,Active,29,Dr. Preeti Joshi
+361,EC241008,Harshit,Joshi,Harshit Joshi,Male,22,2004-01-18,harshit.joshi361@student.college.edu,+917069859624,Bangalore,Semi-Urban,EC,Electronics & Communication,4,1,2025-08-01,Active,29,Dr. Preeti Joshi
+362,EC241009,Kavya,Saxena,Kavya Saxena,Female,22,2004-05-05,kavya.saxena362@student.college.edu,+919542079387,Ludhiana,Semi-Urban,EC,Electronics & Communication,4,1,2025-08-01,Active,29,Dr. Preeti Joshi
+363,EC241010,Ajay,Malhotra,Ajay Malhotra,Male,20,2004-11-12,ajay.malhotra363@student.college.edu,+917609756576,Mumbai,Semi-Urban,EC,Electronics & Communication,4,1,2025-08-01,Active,29,Dr. Preeti Joshi
+364,EC241011,Anvi,Mehta,Anvi Mehta,Female,21,2004-01-31,anvi.mehta364@student.college.edu,+917899271005,Ahmedabad,Urban,EC,Electronics & Communication,4,1,2025-08-01,Active,29,Dr. Preeti Joshi
+365,EC241012,Ananya,Pillai,Ananya Pillai,Female,21,2004-06-14,ananya.pillai365@student.college.edu,+918625020324,Kolkata,Rural,EC,Electronics & Communication,4,1,2025-08-01,Active,29,Dr. Preeti Joshi
+366,EC241013,Ishita,Iyer,Ishita Iyer,Female,20,2004-12-07,ishita.iyer366@student.college.edu,+917741832714,Pune,Semi-Urban,EC,Electronics & Communication,4,1,2025-08-01,Active,29,Dr. Preeti Joshi
+367,EC241014,Aanya,Jain,Aanya Jain,Female,20,2004-04-23,aanya.jain367@student.college.edu,+919714846903,Jaipur,Semi-Urban,EC,Electronics & Communication,4,1,2025-08-01,Active,29,Dr. Preeti Joshi
+368,EC241015,Anjali,Kaur,Anjali Kaur,Female,20,2004-01-12,anjali.kaur368@student.college.edu,+919482838526,Pune,Rural,EC,Electronics & Communication,4,1,2025-08-01,Active,29,Dr. Preeti Joshi
+369,EC241016,Saanvi,Mehta,Saanvi Mehta,Female,22,2004-12-10,saanvi.mehta369@student.college.edu,+917930964514,Vadodara,Urban,EC,Electronics & Communication,4,1,2025-08-01,Active,29,Dr. Preeti Joshi
+370,EC241017,Pooja,Rao,Pooja Rao,Female,20,2004-05-28,pooja.rao370@student.college.edu,+919349467852,Indore,Rural,EC,Electronics & Communication,4,1,2025-08-01,Active,29,Dr. Preeti Joshi
+371,EC241018,Ira,Verma,Ira Verma,Female,21,2004-06-06,ira.verma371@student.college.edu,+918655487610,Pune,Semi-Urban,EC,Electronics & Communication,4,1,2025-08-01,Active,29,Dr. Preeti Joshi
+372,EC241019,Manoj,Iyer,Manoj Iyer,Male,20,2004-09-22,manoj.iyer372@student.college.edu,+918915307016,Visakhapatnam,Rural,EC,Electronics & Communication,4,1,2025-08-01,Active,29,Dr. Preeti Joshi
+373,EC241020,Shanaya,Jain,Shanaya Jain,Female,22,2004-10-07,shanaya.jain373@student.college.edu,+919933640552,Vadodara,Rural,EC,Electronics & Communication,4,1,2025-08-01,Active,29,Dr. Preeti Joshi
+374,EC242001,Anjali,Malhotra,Anjali Malhotra,Female,20,2004-06-28,anjali.malhotra374@student.college.edu,+919642215038,Bangalore,Urban,EC,Electronics & Communication,4,2,2025-08-01,Active,29,Dr. Preeti Joshi
+375,EC242002,Priya,Khanna,Priya Khanna,Female,22,2004-08-31,priya.khanna375@student.college.edu,+917917420842,Chennai,Urban,EC,Electronics & Communication,4,2,2025-08-01,Active,29,Dr. Preeti Joshi
+376,EC242003,Tara,Singh,Tara Singh,Female,22,2004-04-26,tara.singh376@student.college.edu,+918915246591,Hyderabad,Semi-Urban,EC,Electronics & Communication,4,2,2025-08-01,Active,29,Dr. Preeti Joshi
+377,EC242004,Aarav,Mukherjee,Aarav Mukherjee,Male,22,2004-06-07,aarav.mukherjee377@student.college.edu,+917377891788,Patna,Semi-Urban,EC,Electronics & Communication,4,2,2025-08-01,Active,29,Dr. Preeti Joshi
+378,EC242005,Sunita,Chatterjee,Sunita Chatterjee,Female,21,2004-04-10,sunita.chatterjee378@student.college.edu,+918065294865,Delhi,Rural,EC,Electronics & Communication,4,2,2025-08-01,Active,29,Dr. Preeti Joshi
+379,EC242006,Karthik,Bose,Karthik Bose,Male,21,2004-10-22,karthik.bose379@student.college.edu,+919917692655,Lucknow,Semi-Urban,EC,Electronics & Communication,4,2,2025-08-01,Active,29,Dr. Preeti Joshi
+380,EC242007,Arjun,Ahmed,Arjun Ahmed,Male,20,2004-12-24,arjun.ahmed380@student.college.edu,+918164214770,Pune,Rural,EC,Electronics & Communication,4,2,2025-08-01,Active,29,Dr. Preeti Joshi
+381,EC242008,Aadhya,Khanna,Aadhya Khanna,Female,22,2004-10-05,aadhya.khanna381@student.college.edu,+919499549112,Vadodara,Rural,EC,Electronics & Communication,4,2,2025-08-01,Active,29,Dr. Preeti Joshi
+382,EC242009,Shruti,Sharma,Shruti Sharma,Female,20,2004-07-26,shruti.sharma382@student.college.edu,+918387250433,Kolkata,Urban,EC,Electronics & Communication,4,2,2025-08-01,Active,29,Dr. Preeti Joshi
+383,EC242010,Rudra,Iyer,Rudra Iyer,Male,20,2004-07-08,rudra.iyer383@student.college.edu,+919193740542,Visakhapatnam,Rural,EC,Electronics & Communication,4,2,2025-08-01,Active,29,Dr. Preeti Joshi
+384,EC242011,Karthik,Kapoor,Karthik Kapoor,Male,20,2004-02-12,karthik.kapoor384@student.college.edu,+919131610127,Bhopal,Rural,EC,Electronics & Communication,4,2,2025-08-01,Active,29,Dr. Preeti Joshi
+385,EC242012,Arjun,Kaur,Arjun Kaur,Male,22,2004-04-23,arjun.kaur385@student.college.edu,+918058245442,Chennai,Urban,EC,Electronics & Communication,4,2,2025-08-01,Active,29,Dr. Preeti Joshi
+386,EC242013,Yash,Hussain,Yash Hussain,Male,20,2004-03-22,yash.hussain386@student.college.edu,+918792969468,Ahmedabad,Urban,EC,Electronics & Communication,4,2,2025-08-01,Active,29,Dr. Preeti Joshi
+387,EC242014,Meera,Chatterjee,Meera Chatterjee,Female,20,2004-07-13,meera.chatterjee387@student.college.edu,+919140413639,Hyderabad,Rural,EC,Electronics & Communication,4,2,2025-08-01,Active,29,Dr. Preeti Joshi
+388,EC242015,Mira,Mukherjee,Mira Mukherjee,Female,20,2004-05-02,mira.mukherjee388@student.college.edu,+917352728246,Ludhiana,Urban,EC,Electronics & Communication,4,2,2025-08-01,Active,29,Dr. Preeti Joshi
+389,EC242016,Kunal,Agarwal,Kunal Agarwal,Male,22,2004-03-29,kunal.agarwal389@student.college.edu,+917653931297,Nagpur,Rural,EC,Electronics & Communication,4,2,2025-08-01,Active,29,Dr. Preeti Joshi
+390,EC242017,Kiaan,Joshi,Kiaan Joshi,Male,20,2004-06-21,kiaan.joshi390@student.college.edu,+917675832386,Ludhiana,Semi-Urban,EC,Electronics & Communication,4,2,2025-08-01,Active,29,Dr. Preeti Joshi
+391,EC242018,Suresh,Bose,Suresh Bose,Male,20,2004-08-20,suresh.bose391@student.college.edu,+919118879436,Nagpur,Urban,EC,Electronics & Communication,4,2,2025-08-01,Active,29,Dr. Preeti Joshi
+392,EC242019,Shanaya,Ahmed,Shanaya Ahmed,Female,20,2004-02-23,shanaya.ahmed392@student.college.edu,+917665486024,Visakhapatnam,Rural,EC,Electronics & Communication,4,2,2025-08-01,Active,29,Dr. Preeti Joshi
+393,EC242020,Atharv,Ahmed,Atharv Ahmed,Male,21,2004-01-06,atharv.ahmed393@student.college.edu,+919455017285,Hyderabad,Semi-Urban,EC,Electronics & Communication,4,2,2025-08-01,Active,29,Dr. Preeti Joshi
+394,ME211001,Neha,Reddy,Neha Reddy,Female,18,2007-02-07,neha.reddy394@student.college.edu,+919750869473,Kolkata,Urban,ME,Mechanical Engineering,1,1,2025-08-01,Active,33,Prof. Alok Nair
+395,ME211002,Ansh,Pillai,Ansh Pillai,Male,17,2007-05-21,ansh.pillai395@student.college.edu,+917878539859,Kanpur,Semi-Urban,ME,Mechanical Engineering,1,1,2025-08-01,Active,33,Prof. Alok Nair
+396,ME211003,Suman,Shah,Suman Shah,Female,19,2007-06-02,suman.shah396@student.college.edu,+919015148047,Patna,Rural,ME,Mechanical Engineering,1,1,2025-08-01,Active,33,Prof. Alok Nair
+397,ME211004,Divya,Khan,Divya Khan,Female,17,2007-09-02,divya.khan397@student.college.edu,+919871368951,Chennai,Rural,ME,Mechanical Engineering,1,1,2025-08-01,Active,33,Prof. Alok Nair
+398,ME211005,Rudra,Ali,Rudra Ali,Male,19,2007-07-15,rudra.ali398@student.college.edu,+918910950781,Ghaziabad,Semi-Urban,ME,Mechanical Engineering,1,1,2025-08-01,Active,33,Prof. Alok Nair
+399,ME211006,Sai,Choudhury,Sai Choudhury,Male,18,2007-02-06,sai.choudhury399@student.college.edu,+917676112688,Delhi,Rural,ME,Mechanical Engineering,1,1,2025-08-01,Active,33,Prof. Alok Nair
+400,ME211007,Arjun,Jain,Arjun Jain,Male,18,2007-02-02,arjun.jain400@student.college.edu,+917142580202,Nagpur,Rural,ME,Mechanical Engineering,1,1,2025-08-01,Active,33,Prof. Alok Nair
+401,ME211008,Simran,Khanna,Simran Khanna,Female,19,2007-12-21,simran.khanna401@student.college.edu,+917160804166,Pune,Rural,ME,Mechanical Engineering,1,1,2025-08-01,Active,33,Prof. Alok Nair
+402,ME211009,Dhruv,Shah,Dhruv Shah,Male,18,2007-03-14,dhruv.shah402@student.college.edu,+917131400179,Bangalore,Rural,ME,Mechanical Engineering,1,1,2025-08-01,Active,33,Prof. Alok Nair
+403,ME211010,Pari,Mehta,Pari Mehta,Female,19,2007-08-31,pari.mehta403@student.college.edu,+917787991669,Bangalore,Semi-Urban,ME,Mechanical Engineering,1,1,2025-08-01,Active,33,Prof. Alok Nair
+404,ME211011,Tara,Shah,Tara Shah,Female,18,2007-08-25,tara.shah404@student.college.edu,+918541550904,Ludhiana,Rural,ME,Mechanical Engineering,1,1,2025-08-01,Active,33,Prof. Alok Nair
+405,ME211012,Shivansh,Das,Shivansh Das,Male,17,2007-08-27,shivansh.das405@student.college.edu,+919440193823,Ludhiana,Urban,ME,Mechanical Engineering,1,1,2025-08-01,Active,33,Prof. Alok Nair
+406,ME211013,Aryan,Sinha,Aryan Sinha,Male,17,2007-04-19,aryan.sinha406@student.college.edu,+917530093651,Indore,Rural,ME,Mechanical Engineering,1,1,2025-08-01,Active,33,Prof. Alok Nair
+407,ME211014,Harshit,Kaur,Harshit Kaur,Male,17,2007-12-18,harshit.kaur407@student.college.edu,+919032200453,Chennai,Semi-Urban,ME,Mechanical Engineering,1,1,2025-08-01,Active,33,Prof. Alok Nair
+408,ME211015,Ira,Choudhury,Ira Choudhury,Female,19,2007-04-30,ira.choudhury408@student.college.edu,+918425493126,Chennai,Urban,ME,Mechanical Engineering,1,1,2025-08-01,Active,33,Prof. Alok Nair
+409,ME211016,Anjali,Kumar,Anjali Kumar,Female,18,2007-09-21,anjali.kumar409@student.college.edu,+917213325604,Ahmedabad,Rural,ME,Mechanical Engineering,1,1,2025-08-01,Active,33,Prof. Alok Nair
+410,ME211017,Kriti,Gupta,Kriti Gupta,Female,19,2007-06-23,kriti.gupta410@student.college.edu,+919660792416,Delhi,Semi-Urban,ME,Mechanical Engineering,1,1,2025-08-01,Active,33,Prof. Alok Nair
+411,ME211018,Rani,Choudhury,Rani Choudhury,Female,19,2007-04-24,rani.choudhury411@student.college.edu,+919419402367,Coimbatore,Rural,ME,Mechanical Engineering,1,1,2025-08-01,Active,33,Prof. Alok Nair
+412,ME211019,Preeti,Ali,Preeti Ali,Female,19,2007-02-13,preeti.ali412@student.college.edu,+919889613965,Chennai,Semi-Urban,ME,Mechanical Engineering,1,1,2025-08-01,Active,33,Prof. Alok Nair
+413,ME211020,Dhruv,Rao,Dhruv Rao,Male,19,2007-10-08,dhruv.rao413@student.college.edu,+918930224672,Indore,Semi-Urban,ME,Mechanical Engineering,1,1,2025-08-01,Active,33,Prof. Alok Nair
+414,ME211021,Harshit,Gupta,Harshit Gupta,Male,18,2007-02-08,harshit.gupta414@student.college.edu,+918707153478,Bangalore,Semi-Urban,ME,Mechanical Engineering,1,1,2025-08-01,Active,33,Prof. Alok Nair
+415,ME211022,Sara,Saxena,Sara Saxena,Female,19,2007-09-10,sara.saxena415@student.college.edu,+917692503890,Indore,Urban,ME,Mechanical Engineering,1,1,2025-08-01,Active,33,Prof. Alok Nair
+416,ME212001,Manish,Kumar,Manish Kumar,Male,17,2007-12-08,manish.kumar416@student.college.edu,+919139625449,Coimbatore,Semi-Urban,ME,Mechanical Engineering,1,2,2025-08-01,Active,33,Prof. Alok Nair
+417,ME212002,Nisha,Kumar,Nisha Kumar,Female,18,2007-09-24,nisha.kumar417@student.college.edu,+917045419113,Lucknow,Rural,ME,Mechanical Engineering,1,2,2025-08-01,Active,33,Prof. Alok Nair
+418,ME212003,Sunita,Agarwal,Sunita Agarwal,Female,17,2007-11-15,sunita.agarwal418@student.college.edu,+919908906509,Chennai,Rural,ME,Mechanical Engineering,1,2,2025-08-01,Active,33,Prof. Alok Nair
+419,ME212004,Ishita,Mishra,Ishita Mishra,Female,17,2007-07-14,ishita.mishra419@student.college.edu,+918916935646,Ahmedabad,Rural,ME,Mechanical Engineering,1,2,2025-08-01,Active,33,Prof. Alok Nair
+420,ME212005,Preeti,Chatterjee,Preeti Chatterjee,Female,19,2007-06-08,preeti.chatterjee420@student.college.edu,+919536926659,Pune,Rural,ME,Mechanical Engineering,1,2,2025-08-01,Active,33,Prof. Alok Nair
+421,ME212006,Siya,Reddy,Siya Reddy,Female,19,2007-12-11,siya.reddy421@student.college.edu,+918932295605,Pune,Semi-Urban,ME,Mechanical Engineering,1,2,2025-08-01,Active,33,Prof. Alok Nair
+422,ME212007,Aadhya,Bhatia,Aadhya Bhatia,Female,19,2007-03-16,aadhya.bhatia422@student.college.edu,+919157323771,Delhi,Rural,ME,Mechanical Engineering,1,2,2025-08-01,Active,33,Prof. Alok Nair
+423,ME212008,Pooja,Sinha,Pooja Sinha,Female,19,2007-01-18,pooja.sinha423@student.college.edu,+918597424395,Mumbai,Semi-Urban,ME,Mechanical Engineering,1,2,2025-08-01,Active,33,Prof. Alok Nair
+424,ME212009,Kiara,Hussain,Kiara Hussain,Female,18,2007-01-09,kiara.hussain424@student.college.edu,+918002105017,Patna,Rural,ME,Mechanical Engineering,1,2,2025-08-01,Active,33,Prof. Alok Nair
+425,ME212010,Ajay,Pandey,Ajay Pandey,Male,17,2007-08-14,ajay.pandey425@student.college.edu,+917836286375,Visakhapatnam,Rural,ME,Mechanical Engineering,1,2,2025-08-01,Active,33,Prof. Alok Nair
+426,ME212011,Kian,Ali,Kian Ali,Male,19,2007-06-23,kian.ali426@student.college.edu,+918473553830,Chennai,Semi-Urban,ME,Mechanical Engineering,1,2,2025-08-01,Active,33,Prof. Alok Nair
+427,ME212012,Manoj,Agarwal,Manoj Agarwal,Male,19,2007-10-27,manoj.agarwal427@student.college.edu,+918319919448,Delhi,Urban,ME,Mechanical Engineering,1,2,2025-08-01,Active,33,Prof. Alok Nair
+428,ME212013,Sandeep,Verma,Sandeep Verma,Male,18,2007-04-20,sandeep.verma428@student.college.edu,+919355345897,Ahmedabad,Rural,ME,Mechanical Engineering,1,2,2025-08-01,Active,33,Prof. Alok Nair
+429,ME212014,Harshit,Pillai,Harshit Pillai,Male,19,2007-02-20,harshit.pillai429@student.college.edu,+919516295635,Vadodara,Rural,ME,Mechanical Engineering,1,2,2025-08-01,Active,33,Prof. Alok Nair
+430,ME212015,Rahul,Choudhury,Rahul Choudhury,Male,18,2007-07-15,rahul.choudhury430@student.college.edu,+917003739477,Vadodara,Semi-Urban,ME,Mechanical Engineering,1,2,2025-08-01,Active,33,Prof. Alok Nair
+431,ME212016,Manoj,Khan,Manoj Khan,Male,17,2007-07-01,manoj.khan431@student.college.edu,+919551718305,Chennai,Urban,ME,Mechanical Engineering,1,2,2025-08-01,Active,33,Prof. Alok Nair
+432,ME212017,Sneha,Sethi,Sneha Sethi,Female,18,2007-12-12,sneha.sethi432@student.college.edu,+917363385985,Hyderabad,Rural,ME,Mechanical Engineering,1,2,2025-08-01,Active,33,Prof. Alok Nair
+433,ME212018,Shanaya,Mehta,Shanaya Mehta,Female,19,2007-02-25,shanaya.mehta433@student.college.edu,+919701486743,Ludhiana,Urban,ME,Mechanical Engineering,1,2,2025-08-01,Active,33,Prof. Alok Nair
+434,ME212019,Sunita,Ahmed,Sunita Ahmed,Female,17,2007-09-15,sunita.ahmed434@student.college.edu,+917312006411,Bhopal,Rural,ME,Mechanical Engineering,1,2,2025-08-01,Active,33,Prof. Alok Nair
+435,ME212020,Neha,Pillai,Neha Pillai,Female,18,2007-06-05,neha.pillai435@student.college.edu,+918015337308,Pune,Semi-Urban,ME,Mechanical Engineering,1,2,2025-08-01,Active,33,Prof. Alok Nair
+436,ME212021,Suman,Pandey,Suman Pandey,Female,19,2007-03-25,suman.pandey436@student.college.edu,+918648414477,Vadodara,Rural,ME,Mechanical Engineering,1,2,2025-08-01,Active,33,Prof. Alok Nair
+437,ME212022,Myra,Pillai,Myra Pillai,Female,19,2007-03-01,myra.pillai437@student.college.edu,+917737076834,Kanpur,Semi-Urban,ME,Mechanical Engineering,1,2,2025-08-01,Active,33,Prof. Alok Nair
+438,ME212023,Kunal,Kapoor,Kunal Kapoor,Male,17,2007-03-02,kunal.kapoor438@student.college.edu,+918375240783,Ghaziabad,Urban,ME,Mechanical Engineering,1,2,2025-08-01,Active,33,Prof. Alok Nair
+439,ME221001,Prakash,Mishra,Prakash Mishra,Male,18,2006-04-11,prakash.mishra439@student.college.edu,+918946838351,Vadodara,Semi-Urban,ME,Mechanical Engineering,2,1,2025-08-01,Active,37,Mr. Preeti Shah
+440,ME221002,Kunal,Nair,Kunal Nair,Male,20,2006-06-26,kunal.nair440@student.college.edu,+918427480294,Patna,Rural,ME,Mechanical Engineering,2,1,2025-08-01,Active,37,Mr. Preeti Shah
+441,ME221003,Rahul,Das,Rahul Das,Male,20,2006-02-20,rahul.das441@student.college.edu,+919218094841,Vadodara,Semi-Urban,ME,Mechanical Engineering,2,1,2025-08-01,Active,37,Mr. Preeti Shah
+442,ME221004,Kiara,Desai,Kiara Desai,Female,20,2006-11-30,kiara.desai442@student.college.edu,+919988039229,Nagpur,Rural,ME,Mechanical Engineering,2,1,2025-08-01,Active,37,Mr. Preeti Shah
+443,ME221005,Yash,Ali,Yash Ali,Male,20,2006-06-21,yash.ali443@student.college.edu,+918720146880,Kolkata,Semi-Urban,ME,Mechanical Engineering,2,1,2025-08-01,Active,37,Mr. Preeti Shah
+444,ME221006,Anvi,Bhatia,Anvi Bhatia,Female,19,2006-07-21,anvi.bhatia444@student.college.edu,+919486431079,Pune,Urban,ME,Mechanical Engineering,2,1,2025-08-01,Active,37,Mr. Preeti Shah
+445,ME221007,Sandeep,Kapoor,Sandeep Kapoor,Male,18,2006-07-24,sandeep.kapoor445@student.college.edu,+918040475885,Bhopal,Urban,ME,Mechanical Engineering,2,1,2025-08-01,Active,37,Mr. Preeti Shah
+446,ME221008,Deepak,Singh,Deepak Singh,Male,19,2006-10-16,deepak.singh446@student.college.edu,+918300556762,Indore,Rural,ME,Mechanical Engineering,2,1,2025-08-01,Active,37,Mr. Preeti Shah
+447,ME221009,Kian,Mehta,Kian Mehta,Male,19,2006-07-28,kian.mehta447@student.college.edu,+918136976824,Visakhapatnam,Urban,ME,Mechanical Engineering,2,1,2025-08-01,Active,37,Mr. Preeti Shah
+448,ME221010,Prakash,Kaur,Prakash Kaur,Male,18,2006-11-22,prakash.kaur448@student.college.edu,+919807070068,Hyderabad,Urban,ME,Mechanical Engineering,2,1,2025-08-01,Active,37,Mr. Preeti Shah
+449,ME221011,Ayaan,Nair,Ayaan Nair,Male,19,2006-01-08,ayaan.nair449@student.college.edu,+918328809369,Nagpur,Urban,ME,Mechanical Engineering,2,1,2025-08-01,Active,37,Mr. Preeti Shah
+450,ME221012,Ravi,Mukherjee,Ravi Mukherjee,Male,19,2006-06-05,ravi.mukherjee450@student.college.edu,+918543701633,Chennai,Semi-Urban,ME,Mechanical Engineering,2,1,2025-08-01,Active,37,Mr. Preeti Shah
+451,ME221013,Manish,Mehta,Manish Mehta,Male,19,2006-03-29,manish.mehta451@student.college.edu,+919708962029,Pune,Semi-Urban,ME,Mechanical Engineering,2,1,2025-08-01,Active,37,Mr. Preeti Shah
+452,ME221014,Rahul,Rao,Rahul Rao,Male,18,2006-07-30,rahul.rao452@student.college.edu,+917323228243,Kolkata,Semi-Urban,ME,Mechanical Engineering,2,1,2025-08-01,Active,37,Mr. Preeti Shah
+453,ME221015,Rohan,Saxena,Rohan Saxena,Male,20,2006-10-31,rohan.saxena453@student.college.edu,+919850122045,Bhopal,Urban,ME,Mechanical Engineering,2,1,2025-08-01,Active,37,Mr. Preeti Shah
+454,ME221016,Pranav,Jain,Pranav Jain,Male,18,2006-02-09,pranav.jain454@student.college.edu,+919814305288,Bhopal,Semi-Urban,ME,Mechanical Engineering,2,1,2025-08-01,Active,37,Mr. Preeti Shah
+455,ME221017,Mira,Kapoor,Mira Kapoor,Female,19,2006-02-22,mira.kapoor455@student.college.edu,+918889388479,Bangalore,Semi-Urban,ME,Mechanical Engineering,2,1,2025-08-01,Active,37,Mr. Preeti Shah
+456,ME221018,Tanvi,Verma,Tanvi Verma,Female,19,2006-07-17,tanvi.verma456@student.college.edu,+917657853149,Coimbatore,Rural,ME,Mechanical Engineering,2,1,2025-08-01,Active,37,Mr. Preeti Shah
+457,ME221019,Karthik,Bhatia,Karthik Bhatia,Male,19,2006-05-10,karthik.bhatia457@student.college.edu,+919069042145,Kanpur,Rural,ME,Mechanical Engineering,2,1,2025-08-01,Active,37,Mr. Preeti Shah
+458,ME221020,Pooja,Tiwari,Pooja Tiwari,Female,18,2006-05-12,pooja.tiwari458@student.college.edu,+917102056274,Vadodara,Urban,ME,Mechanical Engineering,2,1,2025-08-01,Active,37,Mr. Preeti Shah
+459,ME221021,Aanya,Kumar,Aanya Kumar,Female,19,2006-08-04,aanya.kumar459@student.college.edu,+919864124149,Indore,Rural,ME,Mechanical Engineering,2,1,2025-08-01,Active,37,Mr. Preeti Shah
+460,ME222001,Mira,Rao,Mira Rao,Female,18,2006-02-25,mira.rao460@student.college.edu,+917605575134,Mumbai,Rural,ME,Mechanical Engineering,2,2,2025-08-01,Active,37,Mr. Preeti Shah
+461,ME222002,Sunita,Bhatia,Sunita Bhatia,Female,18,2006-04-25,sunita.bhatia461@student.college.edu,+919568024761,Patna,Urban,ME,Mechanical Engineering,2,2,2025-08-01,Active,37,Mr. Preeti Shah
+462,ME222003,Raj,Agarwal,Raj Agarwal,Male,19,2006-08-27,raj.agarwal462@student.college.edu,+919739203593,Coimbatore,Urban,ME,Mechanical Engineering,2,2,2025-08-01,Active,37,Mr. Preeti Shah
+463,ME222004,Preeti,Saxena,Preeti Saxena,Female,19,2006-03-11,preeti.saxena463@student.college.edu,+918420983567,Mumbai,Semi-Urban,ME,Mechanical Engineering,2,2,2025-08-01,Active,37,Mr. Preeti Shah
+464,ME222005,Kavya,Desai,Kavya Desai,Female,19,2006-04-18,kavya.desai464@student.college.edu,+917223794250,Ghaziabad,Semi-Urban,ME,Mechanical Engineering,2,2,2025-08-01,Active,37,Mr. Preeti Shah
+465,ME222006,Deepak,Chopra,Deepak Chopra,Male,18,2006-08-26,deepak.chopra465@student.college.edu,+919878328271,Visakhapatnam,Semi-Urban,ME,Mechanical Engineering,2,2,2025-08-01,Active,37,Mr. Preeti Shah
+466,ME222007,Karthik,Rao,Karthik Rao,Male,18,2006-01-14,karthik.rao466@student.college.edu,+919219612727,Ghaziabad,Urban,ME,Mechanical Engineering,2,2,2025-08-01,Active,37,Mr. Preeti Shah
+467,ME222008,Sara,Ghosh,Sara Ghosh,Female,20,2006-02-18,sara.ghosh467@student.college.edu,+918990089933,Bhopal,Rural,ME,Mechanical Engineering,2,2,2025-08-01,Active,37,Mr. Preeti Shah
+468,ME222009,Rani,Sethi,Rani Sethi,Female,19,2006-07-03,rani.sethi468@student.college.edu,+917607030660,Ludhiana,Semi-Urban,ME,Mechanical Engineering,2,2,2025-08-01,Active,37,Mr. Preeti Shah
+469,ME222010,Krishna,Joshi,Krishna Joshi,Male,20,2006-03-10,krishna.joshi469@student.college.edu,+919933414800,Kanpur,Urban,ME,Mechanical Engineering,2,2,2025-08-01,Active,37,Mr. Preeti Shah
+470,ME222011,Siya,Ghosh,Siya Ghosh,Female,19,2006-10-14,siya.ghosh470@student.college.edu,+918216204729,Vadodara,Urban,ME,Mechanical Engineering,2,2,2025-08-01,Active,37,Mr. Preeti Shah
+471,ME222012,Ananya,Verma,Ananya Verma,Female,19,2006-06-14,ananya.verma471@student.college.edu,+919826862032,Patna,Urban,ME,Mechanical Engineering,2,2,2025-08-01,Active,37,Mr. Preeti Shah
+472,ME222013,Dhruv,Pillai,Dhruv Pillai,Male,20,2006-05-13,dhruv.pillai472@student.college.edu,+917915022568,Kanpur,Semi-Urban,ME,Mechanical Engineering,2,2,2025-08-01,Active,37,Mr. Preeti Shah
+473,ME222014,Vihaan,Bhatia,Vihaan Bhatia,Male,20,2006-05-19,vihaan.bhatia473@student.college.edu,+917412957199,Hyderabad,Semi-Urban,ME,Mechanical Engineering,2,2,2025-08-01,Active,37,Mr. Preeti Shah
+474,ME222015,Pranav,Mukherjee,Pranav Mukherjee,Male,20,2006-10-26,pranav.mukherjee474@student.college.edu,+919571497243,Visakhapatnam,Rural,ME,Mechanical Engineering,2,2,2025-08-01,Active,37,Mr. Preeti Shah
+475,ME222016,Avni,Jain,Avni Jain,Female,19,2006-03-29,avni.jain475@student.college.edu,+917974498360,Ludhiana,Urban,ME,Mechanical Engineering,2,2,2025-08-01,Active,37,Mr. Preeti Shah
+476,ME222017,Ankit,Desai,Ankit Desai,Male,20,2006-01-29,ankit.desai476@student.college.edu,+918170733517,Jaipur,Semi-Urban,ME,Mechanical Engineering,2,2,2025-08-01,Active,37,Mr. Preeti Shah
+477,ME222018,Sandeep,Desai,Sandeep Desai,Male,19,2006-12-07,sandeep.desai477@student.college.edu,+918297310449,Bangalore,Semi-Urban,ME,Mechanical Engineering,2,2,2025-08-01,Active,37,Mr. Preeti Shah
+478,ME222019,Preeti,Bhatia,Preeti Bhatia,Female,19,2006-09-13,preeti.bhatia478@student.college.edu,+917440886311,Bhopal,Rural,ME,Mechanical Engineering,2,2,2025-08-01,Active,37,Mr. Preeti Shah
+479,ME222020,Ishaan,Shah,Ishaan Shah,Male,18,2006-07-07,ishaan.shah479@student.college.edu,+918663640158,Hyderabad,Rural,ME,Mechanical Engineering,2,2,2025-08-01,Active,37,Mr. Preeti Shah
+480,ME222021,Vedant,Agarwal,Vedant Agarwal,Male,19,2006-02-20,vedant.agarwal480@student.college.edu,+918081371808,Chennai,Rural,ME,Mechanical Engineering,2,2,2025-08-01,Active,37,Mr. Preeti Shah
+481,ME231001,Navya,Khanna,Navya Khanna,Female,21,2005-12-02,navya.khanna481@student.college.edu,+918308152363,Bangalore,Urban,ME,Mechanical Engineering,3,1,2025-08-01,Active,41,Mr. Sonal Nair
+482,ME231002,Vedant,Jain,Vedant Jain,Male,19,2005-04-12,vedant.jain482@student.college.edu,+919478845169,Vadodara,Rural,ME,Mechanical Engineering,3,1,2025-08-01,Active,41,Mr. Sonal Nair
+483,ME231003,Diya,Nair,Diya Nair,Female,21,2005-09-17,diya.nair483@student.college.edu,+918895690906,Visakhapatnam,Rural,ME,Mechanical Engineering,3,1,2025-08-01,Active,41,Mr. Sonal Nair
+484,ME231004,Suman,Chatterjee,Suman Chatterjee,Female,20,2005-05-05,suman.chatterjee484@student.college.edu,+919723082766,Visakhapatnam,Urban,ME,Mechanical Engineering,3,1,2025-08-01,Active,41,Mr. Sonal Nair
+485,ME231005,Amit,Pandey,Amit Pandey,Male,20,2005-08-25,amit.pandey485@student.college.edu,+918352042669,Visakhapatnam,Rural,ME,Mechanical Engineering,3,1,2025-08-01,Active,41,Mr. Sonal Nair
+486,ME231006,Neha,Sethi,Neha Sethi,Female,19,2005-04-15,neha.sethi486@student.college.edu,+918065223830,Delhi,Rural,ME,Mechanical Engineering,3,1,2025-08-01,Active,41,Mr. Sonal Nair
+487,ME231007,Ishaan,Ahmed,Ishaan Ahmed,Male,19,2005-11-02,ishaan.ahmed487@student.college.edu,+917131941851,Visakhapatnam,Rural,ME,Mechanical Engineering,3,1,2025-08-01,Active,41,Mr. Sonal Nair
+488,ME231008,Shanaya,Reddy,Shanaya Reddy,Female,21,2005-10-28,shanaya.reddy488@student.college.edu,+918296011077,Ludhiana,Rural,ME,Mechanical Engineering,3,1,2025-08-01,Active,41,Mr. Sonal Nair
+489,ME231009,Saanvi,Chatterjee,Saanvi Chatterjee,Female,20,2005-03-09,saanvi.chatterjee489@student.college.edu,+917332250335,Ahmedabad,Rural,ME,Mechanical Engineering,3,1,2025-08-01,Active,41,Mr. Sonal Nair
+490,ME231010,Arjun,Kapoor,Arjun Kapoor,Male,21,2005-02-14,arjun.kapoor490@student.college.edu,+918852115321,Nagpur,Rural,ME,Mechanical Engineering,3,1,2025-08-01,Active,41,Mr. Sonal Nair
+491,ME231011,Sakshi,Ghosh,Sakshi Ghosh,Female,21,2005-07-10,sakshi.ghosh491@student.college.edu,+918313451945,Vadodara,Rural,ME,Mechanical Engineering,3,1,2025-08-01,Active,41,Mr. Sonal Nair
+492,ME231012,Amit,Joshi,Amit Joshi,Male,19,2005-08-04,amit.joshi492@student.college.edu,+918769718922,Patna,Semi-Urban,ME,Mechanical Engineering,3,1,2025-08-01,Active,41,Mr. Sonal Nair
+493,ME231013,Ajay,Rao,Ajay Rao,Male,20,2005-07-28,ajay.rao493@student.college.edu,+919447609057,Ahmedabad,Urban,ME,Mechanical Engineering,3,1,2025-08-01,Active,41,Mr. Sonal Nair
+494,ME231014,Aarav,Desai,Aarav Desai,Male,21,2005-06-29,aarav.desai494@student.college.edu,+919293993865,Bhopal,Semi-Urban,ME,Mechanical Engineering,3,1,2025-08-01,Active,41,Mr. Sonal Nair
+495,ME231015,Daksh,Das,Daksh Das,Male,20,2005-06-02,daksh.das495@student.college.edu,+917510735750,Bhopal,Semi-Urban,ME,Mechanical Engineering,3,1,2025-08-01,Active,41,Mr. Sonal Nair
+496,ME231016,Aarohi,Reddy,Aarohi Reddy,Female,20,2005-05-04,aarohi.reddy496@student.college.edu,+917762032254,Bhopal,Semi-Urban,ME,Mechanical Engineering,3,1,2025-08-01,Active,41,Mr. Sonal Nair
+497,ME231017,Swati,Saxena,Swati Saxena,Female,19,2005-10-01,swati.saxena497@student.college.edu,+917273127281,Pune,Semi-Urban,ME,Mechanical Engineering,3,1,2025-08-01,Active,41,Mr. Sonal Nair
+498,ME231018,Dhruv,Das,Dhruv Das,Male,20,2005-12-20,dhruv.das498@student.college.edu,+919658345638,Patna,Urban,ME,Mechanical Engineering,3,1,2025-08-01,Active,41,Mr. Sonal Nair
+499,ME231019,Myra,Desai,Myra Desai,Female,20,2005-03-13,myra.desai499@student.college.edu,+918474178885,Lucknow,Semi-Urban,ME,Mechanical Engineering,3,1,2025-08-01,Active,41,Mr. Sonal Nair
+500,ME231020,Ansh,Chatterjee,Ansh Chatterjee,Male,21,2005-02-20,ansh.chatterjee500@student.college.edu,+918608262394,Pune,Rural,ME,Mechanical Engineering,3,1,2025-08-01,Active,41,Mr. Sonal Nair
+501,ME232001,Pooja,Reddy,Pooja Reddy,Female,19,2005-02-16,pooja.reddy501@student.college.edu,+917485502085,Pune,Urban,ME,Mechanical Engineering,3,2,2025-08-01,Active,41,Mr. Sonal Nair
+502,ME232002,Prakash,Pillai,Prakash Pillai,Male,19,2005-10-05,prakash.pillai502@student.college.edu,+917177558712,Kanpur,Urban,ME,Mechanical Engineering,3,2,2025-08-01,Active,41,Mr. Sonal Nair
+503,ME232003,Diya,Das,Diya Das,Female,19,2005-07-03,diya.das503@student.college.edu,+918987547995,Lucknow,Rural,ME,Mechanical Engineering,3,2,2025-08-01,Active,41,Mr. Sonal Nair
+504,ME232004,Rohan,Kaur,Rohan Kaur,Male,20,2005-08-26,rohan.kaur504@student.college.edu,+918172552164,Bangalore,Urban,ME,Mechanical Engineering,3,2,2025-08-01,Active,41,Mr. Sonal Nair
+505,ME232005,Aadhya,Mishra,Aadhya Mishra,Female,19,2005-01-19,aadhya.mishra505@student.college.edu,+917296196929,Visakhapatnam,Rural,ME,Mechanical Engineering,3,2,2025-08-01,Active,41,Mr. Sonal Nair
+506,ME232006,Avni,Chopra,Avni Chopra,Female,21,2005-08-17,avni.chopra506@student.college.edu,+917152400650,Ahmedabad,Rural,ME,Mechanical Engineering,3,2,2025-08-01,Active,41,Mr. Sonal Nair
+507,ME232007,Sneha,Chatterjee,Sneha Chatterjee,Female,20,2005-06-12,sneha.chatterjee507@student.college.edu,+919447161089,Vadodara,Semi-Urban,ME,Mechanical Engineering,3,2,2025-08-01,Active,41,Mr. Sonal Nair
+508,ME232008,Ishita,Pillai,Ishita Pillai,Female,19,2005-12-25,ishita.pillai508@student.college.edu,+918045237118,Kolkata,Semi-Urban,ME,Mechanical Engineering,3,2,2025-08-01,Active,41,Mr. Sonal Nair
+509,ME232009,Myra,Bose,Myra Bose,Female,20,2005-11-13,myra.bose509@student.college.edu,+917368939704,Ludhiana,Rural,ME,Mechanical Engineering,3,2,2025-08-01,Active,41,Mr. Sonal Nair
+510,ME232010,Ajay,Ahmed,Ajay Ahmed,Male,19,2005-07-08,ajay.ahmed510@student.college.edu,+917074276708,Indore,Semi-Urban,ME,Mechanical Engineering,3,2,2025-08-01,Active,41,Mr. Sonal Nair
+511,ME232011,Sunita,Sinha,Sunita Sinha,Female,19,2005-05-24,sunita.sinha511@student.college.edu,+918852812758,Visakhapatnam,Rural,ME,Mechanical Engineering,3,2,2025-08-01,Active,41,Mr. Sonal Nair
+512,ME232012,Kunal,Desai,Kunal Desai,Male,19,2005-06-26,kunal.desai512@student.college.edu,+918919943277,Delhi,Semi-Urban,ME,Mechanical Engineering,3,2,2025-08-01,Active,41,Mr. Sonal Nair
+513,ME232013,Suman,Sinha,Suman Sinha,Female,21,2005-03-16,suman.sinha513@student.college.edu,+917711122628,Indore,Rural,ME,Mechanical Engineering,3,2,2025-08-01,Active,41,Mr. Sonal Nair
+514,ME232014,Ritika,Reddy,Ritika Reddy,Female,20,2005-12-30,ritika.reddy514@student.college.edu,+917077339225,Bangalore,Semi-Urban,ME,Mechanical Engineering,3,2,2025-08-01,Active,41,Mr. Sonal Nair
+515,ME232015,Deepak,Choudhury,Deepak Choudhury,Male,20,2005-04-10,deepak.choudhury515@student.college.edu,+917153067510,Patna,Semi-Urban,ME,Mechanical Engineering,3,2,2025-08-01,Active,41,Mr. Sonal Nair
+516,ME232016,Pranav,Arora,Pranav Arora,Male,21,2005-06-20,pranav.arora516@student.college.edu,+917149848806,Patna,Semi-Urban,ME,Mechanical Engineering,3,2,2025-08-01,Active,41,Mr. Sonal Nair
+517,ME232017,Rohan,Khan,Rohan Khan,Male,20,2005-05-02,rohan.khan517@student.college.edu,+918378580331,Delhi,Urban,ME,Mechanical Engineering,3,2,2025-08-01,Active,41,Mr. Sonal Nair
+518,ME232018,Anjali,Bose,Anjali Bose,Female,19,2005-09-03,anjali.bose518@student.college.edu,+917788391845,Ghaziabad,Rural,ME,Mechanical Engineering,3,2,2025-08-01,Active,41,Mr. Sonal Nair
+519,ME232019,Priya,Kumar,Priya Kumar,Female,20,2005-05-02,priya.kumar519@student.college.edu,+917910996720,Coimbatore,Rural,ME,Mechanical Engineering,3,2,2025-08-01,Active,41,Mr. Sonal Nair
+520,ME232020,Anika,Pandey,Anika Pandey,Female,20,2005-11-27,anika.pandey520@student.college.edu,+918483800419,Nagpur,Rural,ME,Mechanical Engineering,3,2,2025-08-01,Active,41,Mr. Sonal Nair
+521,ME241001,Vikram,Kumar,Vikram Kumar,Male,21,2004-01-21,vikram.kumar521@student.college.edu,+918255845197,Indore,Rural,ME,Mechanical Engineering,4,1,2025-08-01,Active,45,Mr. Rajesh Mukherjee
+522,ME241002,Deepak,Choudhury,Deepak Choudhury,Male,22,2004-12-03,deepak.choudhury522@student.college.edu,+918127170305,Coimbatore,Rural,ME,Mechanical Engineering,4,1,2025-08-01,Active,45,Mr. Rajesh Mukherjee
+523,ME241003,Zara,Kapoor,Zara Kapoor,Female,22,2004-12-09,zara.kapoor523@student.college.edu,+918047845158,Lucknow,Rural,ME,Mechanical Engineering,4,1,2025-08-01,Active,45,Mr. Rajesh Mukherjee
+524,ME241004,Vihaan,Sharma,Vihaan Sharma,Male,20,2004-09-08,vihaan.sharma524@student.college.edu,+917409142915,Bangalore,Semi-Urban,ME,Mechanical Engineering,4,1,2025-08-01,Active,45,Mr. Rajesh Mukherjee
+525,ME241005,Ravi,Pillai,Ravi Pillai,Male,22,2004-04-08,ravi.pillai525@student.college.edu,+917051745771,Ludhiana,Rural,ME,Mechanical Engineering,4,1,2025-08-01,Active,45,Mr. Rajesh Mukherjee
+526,ME241006,Harshit,Shah,Harshit Shah,Male,21,2004-11-07,harshit.shah526@student.college.edu,+918036131086,Coimbatore,Rural,ME,Mechanical Engineering,4,1,2025-08-01,Active,45,Mr. Rajesh Mukherjee
+527,ME241007,Karthik,Ali,Karthik Ali,Male,20,2004-05-25,karthik.ali527@student.college.edu,+919105558305,Ahmedabad,Semi-Urban,ME,Mechanical Engineering,4,1,2025-08-01,Active,45,Mr. Rajesh Mukherjee
+528,ME241008,Diya,Sharma,Diya Sharma,Female,21,2004-04-19,diya.sharma528@student.college.edu,+917864595249,Bhopal,Rural,ME,Mechanical Engineering,4,1,2025-08-01,Active,45,Mr. Rajesh Mukherjee
+529,ME241009,Aryan,Mukherjee,Aryan Mukherjee,Male,20,2004-07-21,aryan.mukherjee529@student.college.edu,+917663423883,Ghaziabad,Urban,ME,Mechanical Engineering,4,1,2025-08-01,Active,45,Mr. Rajesh Mukherjee
+530,ME241010,Kavya,Pillai,Kavya Pillai,Female,21,2004-02-13,kavya.pillai530@student.college.edu,+918419741536,Nagpur,Rural,ME,Mechanical Engineering,4,1,2025-08-01,Active,45,Mr. Rajesh Mukherjee
+531,ME241011,Myra,Verma,Myra Verma,Female,22,2004-08-21,myra.verma531@student.college.edu,+917995654885,Mumbai,Semi-Urban,ME,Mechanical Engineering,4,1,2025-08-01,Active,45,Mr. Rajesh Mukherjee
+532,ME241012,Ansh,Bhatia,Ansh Bhatia,Male,20,2004-01-23,ansh.bhatia532@student.college.edu,+917341198326,Chennai,Semi-Urban,ME,Mechanical Engineering,4,1,2025-08-01,Active,45,Mr. Rajesh Mukherjee
+533,ME241013,Shivansh,Malhotra,Shivansh Malhotra,Male,22,2004-08-29,shivansh.malhotra533@student.college.edu,+918364035540,Pune,Urban,ME,Mechanical Engineering,4,1,2025-08-01,Active,45,Mr. Rajesh Mukherjee
+534,ME241014,Aadhya,Tiwari,Aadhya Tiwari,Female,20,2004-04-29,aadhya.tiwari534@student.college.edu,+919272623793,Hyderabad,Semi-Urban,ME,Mechanical Engineering,4,1,2025-08-01,Active,45,Mr. Rajesh Mukherjee
+535,ME241015,Amit,Chopra,Amit Chopra,Male,22,2004-06-07,amit.chopra535@student.college.edu,+919279496996,Nagpur,Rural,ME,Mechanical Engineering,4,1,2025-08-01,Active,45,Mr. Rajesh Mukherjee
+536,ME241016,Shaurya,Banerjee,Shaurya Banerjee,Male,22,2004-12-18,shaurya.banerjee536@student.college.edu,+917138766931,Ghaziabad,Semi-Urban,ME,Mechanical Engineering,4,1,2025-08-01,Active,45,Mr. Rajesh Mukherjee
+537,ME241017,Advait,Hussain,Advait Hussain,Male,20,2004-06-19,advait.hussain537@student.college.edu,+919427123506,Ahmedabad,Semi-Urban,ME,Mechanical Engineering,4,1,2025-08-01,Active,45,Mr. Rajesh Mukherjee
+538,ME241018,Arnav,Mehta,Arnav Mehta,Male,21,2004-09-03,arnav.mehta538@student.college.edu,+919015026735,Patna,Urban,ME,Mechanical Engineering,4,1,2025-08-01,Active,45,Mr. Rajesh Mukherjee
+539,ME241019,Nikhil,Jain,Nikhil Jain,Male,20,2004-12-26,nikhil.jain539@student.college.edu,+918149484983,Nagpur,Semi-Urban,ME,Mechanical Engineering,4,1,2025-08-01,Active,45,Mr. Rajesh Mukherjee
+540,ME242001,Aryan,Reddy,Aryan Reddy,Male,22,2004-12-29,aryan.reddy540@student.college.edu,+919662414366,Ghaziabad,Rural,ME,Mechanical Engineering,4,2,2025-08-01,Active,45,Mr. Rajesh Mukherjee
+541,ME242002,Shanaya,Joshi,Shanaya Joshi,Female,21,2004-01-04,shanaya.joshi541@student.college.edu,+918536956491,Ludhiana,Rural,ME,Mechanical Engineering,4,2,2025-08-01,Active,45,Mr. Rajesh Mukherjee
+542,ME242003,Arjun,Chopra,Arjun Chopra,Male,20,2004-12-19,arjun.chopra542@student.college.edu,+917230088145,Coimbatore,Urban,ME,Mechanical Engineering,4,2,2025-08-01,Active,45,Mr. Rajesh Mukherjee
+543,ME242004,Meera,Mishra,Meera Mishra,Female,20,2004-08-20,meera.mishra543@student.college.edu,+918932613791,Ghaziabad,Rural,ME,Mechanical Engineering,4,2,2025-08-01,Active,45,Mr. Rajesh Mukherjee
+544,ME242005,Amit,Sharma,Amit Sharma,Male,22,2004-08-25,amit.sharma544@student.college.edu,+918188480317,Jaipur,Urban,ME,Mechanical Engineering,4,2,2025-08-01,Active,45,Mr. Rajesh Mukherjee
+545,ME242006,Deepak,Banerjee,Deepak Banerjee,Male,21,2004-12-07,deepak.banerjee545@student.college.edu,+918542848258,Bangalore,Rural,ME,Mechanical Engineering,4,2,2025-08-01,Active,45,Mr. Rajesh Mukherjee
+546,ME242007,Sneha,Kumar,Sneha Kumar,Female,22,2004-02-07,sneha.kumar546@student.college.edu,+917743792401,Indore,Semi-Urban,ME,Mechanical Engineering,4,2,2025-08-01,Active,45,Mr. Rajesh Mukherjee
+547,ME242008,Mira,Singh,Mira Singh,Female,21,2004-07-17,mira.singh547@student.college.edu,+917152712135,Delhi,Semi-Urban,ME,Mechanical Engineering,4,2,2025-08-01,Active,45,Mr. Rajesh Mukherjee
+548,ME242009,Kavya,Tiwari,Kavya Tiwari,Female,20,2004-01-20,kavya.tiwari548@student.college.edu,+917873484868,Jaipur,Semi-Urban,ME,Mechanical Engineering,4,2,2025-08-01,Active,45,Mr. Rajesh Mukherjee
+549,ME242010,Siddharth,Chopra,Siddharth Chopra,Male,21,2004-03-12,siddharth.chopra549@student.college.edu,+917905904902,Ludhiana,Semi-Urban,ME,Mechanical Engineering,4,2,2025-08-01,Active,45,Mr. Rajesh Mukherjee
+550,ME242011,Kian,Shah,Kian Shah,Male,20,2004-03-07,kian.shah550@student.college.edu,+919647518625,Nagpur,Rural,ME,Mechanical Engineering,4,2,2025-08-01,Active,45,Mr. Rajesh Mukherjee
+551,ME242012,Vedant,Reddy,Vedant Reddy,Male,22,2004-05-09,vedant.reddy551@student.college.edu,+919662987020,Vadodara,Rural,ME,Mechanical Engineering,4,2,2025-08-01,Active,45,Mr. Rajesh Mukherjee
+552,ME242013,Rohan,Arora,Rohan Arora,Male,22,2004-03-15,rohan.arora552@student.college.edu,+917363928761,Indore,Semi-Urban,ME,Mechanical Engineering,4,2,2025-08-01,Active,45,Mr. Rajesh Mukherjee
+553,ME242014,Kavya,Chopra,Kavya Chopra,Female,20,2004-02-15,kavya.chopra553@student.college.edu,+918142721376,Indore,Urban,ME,Mechanical Engineering,4,2,2025-08-01,Active,45,Mr. Rajesh Mukherjee
+554,ME242015,Suman,Ghosh,Suman Ghosh,Female,21,2004-04-22,suman.ghosh554@student.college.edu,+917000001231,Indore,Rural,ME,Mechanical Engineering,4,2,2025-08-01,Active,45,Mr. Rajesh Mukherjee
+555,ME242016,Ajay,Sethi,Ajay Sethi,Male,22,2004-08-02,ajay.sethi555@student.college.edu,+917755722935,Vadodara,Urban,ME,Mechanical Engineering,4,2,2025-08-01,Active,45,Mr. Rajesh Mukherjee
+556,ME242017,Shaurya,Ghosh,Shaurya Ghosh,Male,20,2004-07-21,shaurya.ghosh556@student.college.edu,+917871548564,Chennai,Urban,ME,Mechanical Engineering,4,2,2025-08-01,Active,45,Mr. Rajesh Mukherjee
+557,ME242018,Pooja,Ghosh,Pooja Ghosh,Female,22,2004-06-20,pooja.ghosh557@student.college.edu,+918727148974,Coimbatore,Rural,ME,Mechanical Engineering,4,2,2025-08-01,Active,45,Mr. Rajesh Mukherjee
+558,ME242019,Siya,Malhotra,Siya Malhotra,Female,20,2004-04-11,siya.malhotra558@student.college.edu,+917760012751,Vadodara,Rural,ME,Mechanical Engineering,4,2,2025-08-01,Active,45,Mr. Rajesh Mukherjee
+559,CE211001,Neha,Choudhury,Neha Choudhury,Female,19,2007-10-09,neha.choudhury559@student.college.edu,+919275227467,Coimbatore,Semi-Urban,CE,Civil Engineering,1,1,2025-08-01,Active,49,Dr. Sunita Saxena
+560,CE211002,Ira,Arora,Ira Arora,Female,19,2007-12-27,ira.arora560@student.college.edu,+919981492441,Bangalore,Rural,CE,Civil Engineering,1,1,2025-08-01,Active,49,Dr. Sunita Saxena
+561,CE211003,Deepak,Kumar,Deepak Kumar,Male,19,2007-03-20,deepak.kumar561@student.college.edu,+918683488148,Jaipur,Rural,CE,Civil Engineering,1,1,2025-08-01,Active,49,Dr. Sunita Saxena
+562,CE211004,Kiaan,Jain,Kiaan Jain,Male,18,2007-07-22,kiaan.jain562@student.college.edu,+919603708066,Jaipur,Rural,CE,Civil Engineering,1,1,2025-08-01,Active,49,Dr. Sunita Saxena
+563,CE211005,Reyansh,Bhatia,Reyansh Bhatia,Male,18,2007-05-15,reyansh.bhatia563@student.college.edu,+919821734843,Coimbatore,Urban,CE,Civil Engineering,1,1,2025-08-01,Active,49,Dr. Sunita Saxena
+564,CE211006,Shruti,Singh,Shruti Singh,Female,19,2007-04-01,shruti.singh564@student.college.edu,+918291763661,Vadodara,Semi-Urban,CE,Civil Engineering,1,1,2025-08-01,Active,49,Dr. Sunita Saxena
+565,CE211007,Yash,Mishra,Yash Mishra,Male,18,2007-04-15,yash.mishra565@student.college.edu,+917831682611,Kolkata,Rural,CE,Civil Engineering,1,1,2025-08-01,Active,49,Dr. Sunita Saxena
+566,CE211008,Harshit,Joshi,Harshit Joshi,Male,17,2007-08-10,harshit.joshi566@student.college.edu,+919933763008,Vadodara,Rural,CE,Civil Engineering,1,1,2025-08-01,Active,49,Dr. Sunita Saxena
+567,CE211009,Suresh,Sharma,Suresh Sharma,Male,18,2007-08-02,suresh.sharma567@student.college.edu,+919496349359,Coimbatore,Urban,CE,Civil Engineering,1,1,2025-08-01,Active,49,Dr. Sunita Saxena
+568,CE211010,Krishna,Ahmed,Krishna Ahmed,Male,19,2007-06-06,krishna.ahmed568@student.college.edu,+919835855112,Kanpur,Rural,CE,Civil Engineering,1,1,2025-08-01,Active,49,Dr. Sunita Saxena
+569,CE211011,Ritvik,Sharma,Ritvik Sharma,Male,19,2007-12-22,ritvik.sharma569@student.college.edu,+917632977230,Vadodara,Urban,CE,Civil Engineering,1,1,2025-08-01,Active,49,Dr. Sunita Saxena
+570,CE211012,Anvi,Ghosh,Anvi Ghosh,Female,17,2007-02-10,anvi.ghosh570@student.college.edu,+917864232697,Ghaziabad,Rural,CE,Civil Engineering,1,1,2025-08-01,Active,49,Dr. Sunita Saxena
+571,CE211013,Aarohi,Chatterjee,Aarohi Chatterjee,Female,19,2007-12-15,aarohi.chatterjee571@student.college.edu,+919580110011,Jaipur,Semi-Urban,CE,Civil Engineering,1,1,2025-08-01,Active,49,Dr. Sunita Saxena
+572,CE211014,Ansh,Shah,Ansh Shah,Male,19,2007-07-07,ansh.shah572@student.college.edu,+917251513738,Kanpur,Urban,CE,Civil Engineering,1,1,2025-08-01,Active,49,Dr. Sunita Saxena
+573,CE211015,Pranav,Arora,Pranav Arora,Male,17,2007-03-19,pranav.arora573@student.college.edu,+917460581889,Coimbatore,Semi-Urban,CE,Civil Engineering,1,1,2025-08-01,Active,49,Dr. Sunita Saxena
+574,CE211016,Nisha,Mishra,Nisha Mishra,Female,19,2007-07-07,nisha.mishra574@student.college.edu,+919815396969,Jaipur,Rural,CE,Civil Engineering,1,1,2025-08-01,Active,49,Dr. Sunita Saxena
+575,CE211017,Rudra,Rao,Rudra Rao,Male,18,2007-12-05,rudra.rao575@student.college.edu,+918889483464,Nagpur,Semi-Urban,CE,Civil Engineering,1,1,2025-08-01,Active,49,Dr. Sunita Saxena
+576,CE211018,Swati,Bose,Swati Bose,Female,17,2007-06-16,swati.bose576@student.college.edu,+918969675883,Patna,Rural,CE,Civil Engineering,1,1,2025-08-01,Active,49,Dr. Sunita Saxena
+577,CE211019,Arjun,Malhotra,Arjun Malhotra,Male,19,2007-02-15,arjun.malhotra577@student.college.edu,+918177875931,Ghaziabad,Semi-Urban,CE,Civil Engineering,1,1,2025-08-01,Active,49,Dr. Sunita Saxena
+578,CE211020,Pooja,Mukherjee,Pooja Mukherjee,Female,19,2007-10-04,pooja.mukherjee578@student.college.edu,+917284627627,Ludhiana,Semi-Urban,CE,Civil Engineering,1,1,2025-08-01,Active,49,Dr. Sunita Saxena
+579,CE212001,Rohan,Malhotra,Rohan Malhotra,Male,19,2007-04-13,rohan.malhotra579@student.college.edu,+918475413339,Delhi,Semi-Urban,CE,Civil Engineering,1,2,2025-08-01,Active,49,Dr. Sunita Saxena
+580,CE212002,Aanya,Rao,Aanya Rao,Female,18,2007-11-07,aanya.rao580@student.college.edu,+918122186182,Chennai,Rural,CE,Civil Engineering,1,2,2025-08-01,Active,49,Dr. Sunita Saxena
+581,CE212003,Kavya,Jain,Kavya Jain,Female,18,2007-02-24,kavya.jain581@student.college.edu,+917306258796,Ghaziabad,Urban,CE,Civil Engineering,1,2,2025-08-01,Active,49,Dr. Sunita Saxena
+582,CE212004,Harshit,Singh,Harshit Singh,Male,18,2007-09-17,harshit.singh582@student.college.edu,+919987492105,Bangalore,Rural,CE,Civil Engineering,1,2,2025-08-01,Active,49,Dr. Sunita Saxena
+583,CE212005,Shruti,Hussain,Shruti Hussain,Female,19,2007-01-03,shruti.hussain583@student.college.edu,+919947597955,Ghaziabad,Semi-Urban,CE,Civil Engineering,1,2,2025-08-01,Active,49,Dr. Sunita Saxena
+584,CE212006,Rani,Khan,Rani Khan,Female,18,2007-12-06,rani.khan584@student.college.edu,+917494477977,Delhi,Rural,CE,Civil Engineering,1,2,2025-08-01,Active,49,Dr. Sunita Saxena
+585,CE212007,Vivaan,Pillai,Vivaan Pillai,Male,17,2007-02-13,vivaan.pillai585@student.college.edu,+918655965284,Coimbatore,Semi-Urban,CE,Civil Engineering,1,2,2025-08-01,Active,49,Dr. Sunita Saxena
+586,CE212008,Pari,Hussain,Pari Hussain,Female,19,2007-12-14,pari.hussain586@student.college.edu,+917180296444,Bangalore,Rural,CE,Civil Engineering,1,2,2025-08-01,Active,49,Dr. Sunita Saxena
+587,CE212009,Ritvik,Khanna,Ritvik Khanna,Male,19,2007-08-30,ritvik.khanna587@student.college.edu,+917419074461,Jaipur,Urban,CE,Civil Engineering,1,2,2025-08-01,Active,49,Dr. Sunita Saxena
+588,CE212010,Kiaan,Sethi,Kiaan Sethi,Male,18,2007-07-30,kiaan.sethi588@student.college.edu,+917299677273,Ghaziabad,Semi-Urban,CE,Civil Engineering,1,2,2025-08-01,Active,49,Dr. Sunita Saxena
+589,CE212011,Rudra,Kumar,Rudra Kumar,Male,18,2007-07-16,rudra.kumar589@student.college.edu,+918936308836,Lucknow,Rural,CE,Civil Engineering,1,2,2025-08-01,Active,49,Dr. Sunita Saxena
+590,CE212012,Siddharth,Verma,Siddharth Verma,Male,17,2007-09-04,siddharth.verma590@student.college.edu,+917623530775,Coimbatore,Semi-Urban,CE,Civil Engineering,1,2,2025-08-01,Active,49,Dr. Sunita Saxena
+591,CE212013,Sara,Kumar,Sara Kumar,Female,17,2007-06-18,sara.kumar591@student.college.edu,+918776918315,Mumbai,Rural,CE,Civil Engineering,1,2,2025-08-01,Active,49,Dr. Sunita Saxena
+592,CE212014,Prisha,Mukherjee,Prisha Mukherjee,Female,18,2007-04-28,prisha.mukherjee592@student.college.edu,+917753663261,Jaipur,Urban,CE,Civil Engineering,1,2,2025-08-01,Active,49,Dr. Sunita Saxena
+593,CE212015,Mira,Chatterjee,Mira Chatterjee,Female,19,2007-12-08,mira.chatterjee593@student.college.edu,+919185656106,Indore,Rural,CE,Civil Engineering,1,2,2025-08-01,Active,49,Dr. Sunita Saxena
+594,CE212016,Anjali,Patel,Anjali Patel,Female,19,2007-11-25,anjali.patel594@student.college.edu,+918582164123,Hyderabad,Rural,CE,Civil Engineering,1,2,2025-08-01,Active,49,Dr. Sunita Saxena
+595,CE212017,Ajay,Pandey,Ajay Pandey,Male,17,2007-05-25,ajay.pandey595@student.college.edu,+919562114141,Ghaziabad,Urban,CE,Civil Engineering,1,2,2025-08-01,Active,49,Dr. Sunita Saxena
+596,CE212018,Kunal,Saxena,Kunal Saxena,Male,18,2007-02-20,kunal.saxena596@student.college.edu,+919951629359,Delhi,Rural,CE,Civil Engineering,1,2,2025-08-01,Active,49,Dr. Sunita Saxena
+597,CE212019,Suman,Saxena,Suman Saxena,Female,17,2007-09-17,suman.saxena597@student.college.edu,+919509643031,Kolkata,Semi-Urban,CE,Civil Engineering,1,2,2025-08-01,Active,49,Dr. Sunita Saxena
+598,CE212020,Diya,Singh,Diya Singh,Female,17,2007-05-29,diya.singh598@student.college.edu,+918186649746,Lucknow,Rural,CE,Civil Engineering,1,2,2025-08-01,Active,49,Dr. Sunita Saxena
+599,CE221001,Aanya,Gupta,Aanya Gupta,Female,19,2006-07-08,aanya.gupta599@student.college.edu,+917772279666,Bhopal,Rural,CE,Civil Engineering,2,1,2025-08-01,Active,53,Prof. Ramesh Choudhury
+600,CE221002,Ajay,Kumar,Ajay Kumar,Male,18,2006-04-16,ajay.kumar600@student.college.edu,+918878839227,Lucknow,Urban,CE,Civil Engineering,2,1,2025-08-01,Active,53,Prof. Ramesh Choudhury
+601,CE221003,Ansh,Hussain,Ansh Hussain,Male,19,2006-01-09,ansh.hussain601@student.college.edu,+917111300744,Coimbatore,Semi-Urban,CE,Civil Engineering,2,1,2025-08-01,Active,53,Prof. Ramesh Choudhury
+602,CE221004,Ananya,Khanna,Ananya Khanna,Female,18,2006-03-28,ananya.khanna602@student.college.edu,+918141427366,Visakhapatnam,Semi-Urban,CE,Civil Engineering,2,1,2025-08-01,Active,53,Prof. Ramesh Choudhury
+603,CE221005,Nisha,Hussain,Nisha Hussain,Female,18,2006-04-16,nisha.hussain603@student.college.edu,+919643930953,Mumbai,Urban,CE,Civil Engineering,2,1,2025-08-01,Active,53,Prof. Ramesh Choudhury
+604,CE221006,Siya,Chopra,Siya Chopra,Female,19,2006-11-30,siya.chopra604@student.college.edu,+918409163487,Kanpur,Rural,CE,Civil Engineering,2,1,2025-08-01,Active,53,Prof. Ramesh Choudhury
+605,CE221007,Ajay,Tiwari,Ajay Tiwari,Male,19,2006-11-20,ajay.tiwari605@student.college.edu,+917166726354,Visakhapatnam,Semi-Urban,CE,Civil Engineering,2,1,2025-08-01,Active,53,Prof. Ramesh Choudhury
+606,CE221008,Ananya,Ghosh,Ananya Ghosh,Female,19,2006-01-27,ananya.ghosh606@student.college.edu,+918607449749,Coimbatore,Semi-Urban,CE,Civil Engineering,2,1,2025-08-01,Active,53,Prof. Ramesh Choudhury
+607,CE221009,Atharv,Iyer,Atharv Iyer,Male,18,2006-03-17,atharv.iyer607@student.college.edu,+919474865672,Pune,Rural,CE,Civil Engineering,2,1,2025-08-01,Active,53,Prof. Ramesh Choudhury
+608,CE221010,Vivaan,Bhatia,Vivaan Bhatia,Male,18,2006-10-12,vivaan.bhatia608@student.college.edu,+918116686460,Ludhiana,Rural,CE,Civil Engineering,2,1,2025-08-01,Active,53,Prof. Ramesh Choudhury
+609,CE221011,Daksh,Khanna,Daksh Khanna,Male,19,2006-07-21,daksh.khanna609@student.college.edu,+918389386879,Bangalore,Semi-Urban,CE,Civil Engineering,2,1,2025-08-01,Active,53,Prof. Ramesh Choudhury
+610,CE221012,Diya,Mishra,Diya Mishra,Female,18,2006-05-14,diya.mishra610@student.college.edu,+918766161396,Coimbatore,Semi-Urban,CE,Civil Engineering,2,1,2025-08-01,Active,53,Prof. Ramesh Choudhury
+611,CE221013,Atharv,Hussain,Atharv Hussain,Male,19,2006-08-22,atharv.hussain611@student.college.edu,+918419845118,Indore,Rural,CE,Civil Engineering,2,1,2025-08-01,Active,53,Prof. Ramesh Choudhury
+612,CE221014,Simran,Sharma,Simran Sharma,Female,19,2006-10-31,simran.sharma612@student.college.edu,+917552818034,Patna,Rural,CE,Civil Engineering,2,1,2025-08-01,Active,53,Prof. Ramesh Choudhury
+613,CE221015,Priya,Mehta,Priya Mehta,Female,18,2006-04-11,priya.mehta613@student.college.edu,+917930550844,Ghaziabad,Urban,CE,Civil Engineering,2,1,2025-08-01,Active,53,Prof. Ramesh Choudhury
+614,CE221016,Saanvi,Arora,Saanvi Arora,Female,20,2006-07-16,saanvi.arora614@student.college.edu,+918733798534,Ghaziabad,Semi-Urban,CE,Civil Engineering,2,1,2025-08-01,Active,53,Prof. Ramesh Choudhury
+615,CE221017,Shivansh,Reddy,Shivansh Reddy,Male,18,2006-03-06,shivansh.reddy615@student.college.edu,+917682563101,Vadodara,Urban,CE,Civil Engineering,2,1,2025-08-01,Active,53,Prof. Ramesh Choudhury
+616,CE221018,Aarav,Agarwal,Aarav Agarwal,Male,20,2006-08-31,aarav.agarwal616@student.college.edu,+918375230743,Ghaziabad,Urban,CE,Civil Engineering,2,1,2025-08-01,Active,53,Prof. Ramesh Choudhury
+617,CE221019,Tara,Gupta,Tara Gupta,Female,18,2006-03-08,tara.gupta617@student.college.edu,+919500300096,Chennai,Rural,CE,Civil Engineering,2,1,2025-08-01,Active,53,Prof. Ramesh Choudhury
+618,CE222001,Aarohi,Iyer,Aarohi Iyer,Female,18,2006-08-15,aarohi.iyer618@student.college.edu,+918604178610,Ludhiana,Semi-Urban,CE,Civil Engineering,2,2,2025-08-01,Active,53,Prof. Ramesh Choudhury
+619,CE222002,Ira,Choudhury,Ira Choudhury,Female,19,2006-07-12,ira.choudhury619@student.college.edu,+917386491833,Bangalore,Semi-Urban,CE,Civil Engineering,2,2,2025-08-01,Active,53,Prof. Ramesh Choudhury
+620,CE222003,Ishaan,Kapoor,Ishaan Kapoor,Male,18,2006-01-15,ishaan.kapoor620@student.college.edu,+918279668152,Kanpur,Semi-Urban,CE,Civil Engineering,2,2,2025-08-01,Active,53,Prof. Ramesh Choudhury
+621,CE222004,Dhruv,Jain,Dhruv Jain,Male,20,2006-04-10,dhruv.jain621@student.college.edu,+917148684289,Hyderabad,Rural,CE,Civil Engineering,2,2,2025-08-01,Active,53,Prof. Ramesh Choudhury
+622,CE222005,Deepak,Kumar,Deepak Kumar,Male,20,2006-05-16,deepak.kumar622@student.college.edu,+918767175610,Hyderabad,Semi-Urban,CE,Civil Engineering,2,2,2025-08-01,Active,53,Prof. Ramesh Choudhury
+623,CE222006,Anjali,Nair,Anjali Nair,Female,20,2006-10-06,anjali.nair623@student.college.edu,+917324893783,Delhi,Rural,CE,Civil Engineering,2,2,2025-08-01,Active,53,Prof. Ramesh Choudhury
+624,CE222007,Neha,Agarwal,Neha Agarwal,Female,18,2006-02-08,neha.agarwal624@student.college.edu,+919560716541,Kanpur,Rural,CE,Civil Engineering,2,2,2025-08-01,Active,53,Prof. Ramesh Choudhury
+625,CE222008,Diya,Mehta,Diya Mehta,Female,19,2006-08-01,diya.mehta625@student.college.edu,+919873897644,Delhi,Semi-Urban,CE,Civil Engineering,2,2,2025-08-01,Active,53,Prof. Ramesh Choudhury
+626,CE222009,Sara,Sharma,Sara Sharma,Female,19,2006-02-25,sara.sharma626@student.college.edu,+917787740891,Ghaziabad,Semi-Urban,CE,Civil Engineering,2,2,2025-08-01,Active,53,Prof. Ramesh Choudhury
+627,CE222010,Sunita,Tiwari,Sunita Tiwari,Female,20,2006-11-20,sunita.tiwari627@student.college.edu,+918806931584,Delhi,Semi-Urban,CE,Civil Engineering,2,2,2025-08-01,Active,53,Prof. Ramesh Choudhury
+628,CE222011,Aanya,Chatterjee,Aanya Chatterjee,Female,19,2006-08-30,aanya.chatterjee628@student.college.edu,+919437037930,Bangalore,Semi-Urban,CE,Civil Engineering,2,2,2025-08-01,Active,53,Prof. Ramesh Choudhury
+629,CE222012,Arjun,Arora,Arjun Arora,Male,19,2006-03-20,arjun.arora629@student.college.edu,+918592070115,Bangalore,Semi-Urban,CE,Civil Engineering,2,2,2025-08-01,Active,53,Prof. Ramesh Choudhury
+630,CE222013,Sara,Bose,Sara Bose,Female,20,2006-02-17,sara.bose630@student.college.edu,+919440068236,Patna,Semi-Urban,CE,Civil Engineering,2,2,2025-08-01,Active,53,Prof. Ramesh Choudhury
+631,CE222014,Ayaan,Verma,Ayaan Verma,Male,20,2006-10-03,ayaan.verma631@student.college.edu,+918243638973,Ghaziabad,Rural,CE,Civil Engineering,2,2,2025-08-01,Active,53,Prof. Ramesh Choudhury
+632,CE222015,Ritika,Hussain,Ritika Hussain,Female,19,2006-04-03,ritika.hussain632@student.college.edu,+919958182837,Pune,Urban,CE,Civil Engineering,2,2,2025-08-01,Active,53,Prof. Ramesh Choudhury
+633,CE222016,Pooja,Patel,Pooja Patel,Female,19,2006-05-13,pooja.patel633@student.college.edu,+918784099768,Kolkata,Urban,CE,Civil Engineering,2,2,2025-08-01,Active,53,Prof. Ramesh Choudhury
+634,CE222017,Siddharth,Choudhury,Siddharth Choudhury,Male,20,2006-07-27,siddharth.choudhury634@student.college.edu,+918512567855,Patna,Semi-Urban,CE,Civil Engineering,2,2,2025-08-01,Active,53,Prof. Ramesh Choudhury
+635,CE222018,Shaurya,Saxena,Shaurya Saxena,Male,18,2006-02-14,shaurya.saxena635@student.college.edu,+917621338213,Chennai,Rural,CE,Civil Engineering,2,2,2025-08-01,Active,53,Prof. Ramesh Choudhury
+636,CE222019,Rani,Pandey,Rani Pandey,Female,20,2006-05-18,rani.pandey636@student.college.edu,+918387175118,Kolkata,Rural,CE,Civil Engineering,2,2,2025-08-01,Active,53,Prof. Ramesh Choudhury
+637,CE231001,Diya,Ghosh,Diya Ghosh,Female,20,2005-03-10,diya.ghosh637@student.college.edu,+918229038122,Visakhapatnam,Urban,CE,Civil Engineering,3,1,2025-08-01,Active,57,Mr. Ashok Shah
+638,CE231002,Sai,Ali,Sai Ali,Male,20,2005-12-03,sai.ali638@student.college.edu,+917191982721,Patna,Semi-Urban,CE,Civil Engineering,3,1,2025-08-01,Active,57,Mr. Ashok Shah
+639,CE231003,Aditi,Verma,Aditi Verma,Female,20,2005-12-20,aditi.verma639@student.college.edu,+918004000596,Coimbatore,Urban,CE,Civil Engineering,3,1,2025-08-01,Active,57,Mr. Ashok Shah
+640,CE231004,Navya,Pandey,Navya Pandey,Female,21,2005-12-17,navya.pandey640@student.college.edu,+917146170270,Vadodara,Semi-Urban,CE,Civil Engineering,3,1,2025-08-01,Active,57,Mr. Ashok Shah
+641,CE231005,Aarav,Shah,Aarav Shah,Male,19,2005-09-01,aarav.shah641@student.college.edu,+918999083211,Chennai,Rural,CE,Civil Engineering,3,1,2025-08-01,Active,57,Mr. Ashok Shah
+642,CE231006,Ajay,Kaur,Ajay Kaur,Male,19,2005-02-23,ajay.kaur642@student.college.edu,+917406321124,Visakhapatnam,Semi-Urban,CE,Civil Engineering,3,1,2025-08-01,Active,57,Mr. Ashok Shah
+643,CE231007,Sneha,Das,Sneha Das,Female,21,2005-06-09,sneha.das643@student.college.edu,+919891165580,Chennai,Urban,CE,Civil Engineering,3,1,2025-08-01,Active,57,Mr. Ashok Shah
+644,CE231008,Shanaya,Sinha,Shanaya Sinha,Female,19,2005-09-12,shanaya.sinha644@student.college.edu,+917864557568,Visakhapatnam,Semi-Urban,CE,Civil Engineering,3,1,2025-08-01,Active,57,Mr. Ashok Shah
+645,CE231009,Amit,Iyer,Amit Iyer,Male,21,2005-06-11,amit.iyer645@student.college.edu,+918207662362,Ludhiana,Rural,CE,Civil Engineering,3,1,2025-08-01,Active,57,Mr. Ashok Shah
+646,CE231010,Suresh,Saxena,Suresh Saxena,Male,20,2005-06-29,suresh.saxena646@student.college.edu,+917679398412,Bhopal,Semi-Urban,CE,Civil Engineering,3,1,2025-08-01,Active,57,Mr. Ashok Shah
+647,CE231011,Arjun,Nair,Arjun Nair,Male,20,2005-04-19,arjun.nair647@student.college.edu,+917430667477,Vadodara,Urban,CE,Civil Engineering,3,1,2025-08-01,Active,57,Mr. Ashok Shah
+648,CE231012,Myra,Hussain,Myra Hussain,Female,19,2005-07-19,myra.hussain648@student.college.edu,+917956400103,Vadodara,Semi-Urban,CE,Civil Engineering,3,1,2025-08-01,Active,57,Mr. Ashok Shah
+649,CE231013,Naksh,Nair,Naksh Nair,Male,20,2005-10-15,naksh.nair649@student.college.edu,+919688001470,Mumbai,Rural,CE,Civil Engineering,3,1,2025-08-01,Active,57,Mr. Ashok Shah
+650,CE231014,Diya,Jain,Diya Jain,Female,20,2005-04-17,diya.jain650@student.college.edu,+919144232820,Vadodara,Rural,CE,Civil Engineering,3,1,2025-08-01,Active,57,Mr. Ashok Shah
+651,CE231015,Nisha,Das,Nisha Das,Female,19,2005-09-12,nisha.das651@student.college.edu,+919574322483,Mumbai,Rural,CE,Civil Engineering,3,1,2025-08-01,Active,57,Mr. Ashok Shah
+652,CE231016,Ishaan,Choudhury,Ishaan Choudhury,Male,20,2005-08-20,ishaan.choudhury652@student.college.edu,+918515566780,Visakhapatnam,Rural,CE,Civil Engineering,3,1,2025-08-01,Active,57,Mr. Ashok Shah
+653,CE231017,Yash,Das,Yash Das,Male,20,2005-08-02,yash.das653@student.college.edu,+917103947917,Chennai,Rural,CE,Civil Engineering,3,1,2025-08-01,Active,57,Mr. Ashok Shah
+654,CE232001,Aarav,Mehta,Aarav Mehta,Male,20,2005-08-31,aarav.mehta654@student.college.edu,+917724461513,Delhi,Semi-Urban,CE,Civil Engineering,3,2,2025-08-01,Active,57,Mr. Ashok Shah
+655,CE232002,Riya,Iyer,Riya Iyer,Female,21,2005-06-20,riya.iyer655@student.college.edu,+919959676969,Ahmedabad,Semi-Urban,CE,Civil Engineering,3,2,2025-08-01,Active,57,Mr. Ashok Shah
+656,CE232003,Sara,Ali,Sara Ali,Female,20,2005-02-20,sara.ali656@student.college.edu,+917796243526,Patna,Urban,CE,Civil Engineering,3,2,2025-08-01,Active,57,Mr. Ashok Shah
+657,CE232004,Ishita,Nair,Ishita Nair,Female,19,2005-02-16,ishita.nair657@student.college.edu,+919494661470,Ahmedabad,Semi-Urban,CE,Civil Engineering,3,2,2025-08-01,Active,57,Mr. Ashok Shah
+658,CE232005,Sara,Mukherjee,Sara Mukherjee,Female,21,2005-06-11,sara.mukherjee658@student.college.edu,+918599499873,Chennai,Urban,CE,Civil Engineering,3,2,2025-08-01,Active,57,Mr. Ashok Shah
+659,CE232006,Sara,Das,Sara Das,Female,21,2005-08-10,sara.das659@student.college.edu,+917489551006,Kanpur,Semi-Urban,CE,Civil Engineering,3,2,2025-08-01,Active,57,Mr. Ashok Shah
+660,CE232007,Atharv,Joshi,Atharv Joshi,Male,19,2005-09-27,atharv.joshi660@student.college.edu,+919571334233,Coimbatore,Rural,CE,Civil Engineering,3,2,2025-08-01,Active,57,Mr. Ashok Shah
+661,CE232008,Pari,Sharma,Pari Sharma,Female,21,2005-06-20,pari.sharma661@student.college.edu,+917172608818,Nagpur,Semi-Urban,CE,Civil Engineering,3,2,2025-08-01,Active,57,Mr. Ashok Shah
+662,CE232009,Karthik,Kumar,Karthik Kumar,Male,20,2005-10-04,karthik.kumar662@student.college.edu,+917852345505,Chennai,Urban,CE,Civil Engineering,3,2,2025-08-01,Active,57,Mr. Ashok Shah
+663,CE232010,Siya,Reddy,Siya Reddy,Female,19,2005-02-06,siya.reddy663@student.college.edu,+918042000408,Vadodara,Rural,CE,Civil Engineering,3,2,2025-08-01,Active,57,Mr. Ashok Shah
+664,CE232011,Anvi,Iyer,Anvi Iyer,Female,19,2005-03-26,anvi.iyer664@student.college.edu,+917589684852,Patna,Rural,CE,Civil Engineering,3,2,2025-08-01,Active,57,Mr. Ashok Shah
+665,CE232012,Nikhil,Kumar,Nikhil Kumar,Male,19,2005-08-17,nikhil.kumar665@student.college.edu,+919565690454,Ludhiana,Rural,CE,Civil Engineering,3,2,2025-08-01,Active,57,Mr. Ashok Shah
+666,CE232013,Prisha,Shah,Prisha Shah,Female,21,2005-03-07,prisha.shah666@student.college.edu,+918906733532,Mumbai,Rural,CE,Civil Engineering,3,2,2025-08-01,Active,57,Mr. Ashok Shah
+667,CE232014,Pari,Ghosh,Pari Ghosh,Female,21,2005-11-26,pari.ghosh667@student.college.edu,+918241815366,Visakhapatnam,Urban,CE,Civil Engineering,3,2,2025-08-01,Active,57,Mr. Ashok Shah
+668,CE232015,Mira,Bose,Mira Bose,Female,19,2005-07-26,mira.bose668@student.college.edu,+919530833884,Chennai,Rural,CE,Civil Engineering,3,2,2025-08-01,Active,57,Mr. Ashok Shah
+669,CE232016,Anika,Tiwari,Anika Tiwari,Female,19,2005-07-10,anika.tiwari669@student.college.edu,+919547159211,Bhopal,Semi-Urban,CE,Civil Engineering,3,2,2025-08-01,Active,57,Mr. Ashok Shah
+670,CE232017,Saanvi,Reddy,Saanvi Reddy,Female,21,2005-08-05,saanvi.reddy670@student.college.edu,+918496367169,Jaipur,Rural,CE,Civil Engineering,3,2,2025-08-01,Active,57,Mr. Ashok Shah
+671,CE232018,Kavya,Joshi,Kavya Joshi,Female,19,2005-04-21,kavya.joshi671@student.college.edu,+917398051589,Kanpur,Rural,CE,Civil Engineering,3,2,2025-08-01,Active,57,Mr. Ashok Shah
+672,CE241001,Sunita,Iyer,Sunita Iyer,Female,20,2004-10-14,sunita.iyer672@student.college.edu,+918200442302,Chennai,Semi-Urban,CE,Civil Engineering,4,1,2025-08-01,Active,61,Prof. Priya Arora
+673,CE241002,Kunal,Mukherjee,Kunal Mukherjee,Male,22,2004-05-23,kunal.mukherjee673@student.college.edu,+918648182309,Mumbai,Semi-Urban,CE,Civil Engineering,4,1,2025-08-01,Active,61,Prof. Priya Arora
+674,CE241003,Daksh,Reddy,Daksh Reddy,Male,22,2004-12-12,daksh.reddy674@student.college.edu,+919711641008,Bhopal,Urban,CE,Civil Engineering,4,1,2025-08-01,Active,61,Prof. Priya Arora
+675,CE241004,Daksh,Sharma,Daksh Sharma,Male,21,2004-12-17,daksh.sharma675@student.college.edu,+919284560205,Coimbatore,Urban,CE,Civil Engineering,4,1,2025-08-01,Active,61,Prof. Priya Arora
+676,CE241005,Sara,Bose,Sara Bose,Female,22,2004-09-10,sara.bose676@student.college.edu,+917164353555,Visakhapatnam,Semi-Urban,CE,Civil Engineering,4,1,2025-08-01,Active,61,Prof. Priya Arora
+677,CE241006,Kiara,Mishra,Kiara Mishra,Female,20,2004-10-11,kiara.mishra677@student.college.edu,+919355865534,Indore,Rural,CE,Civil Engineering,4,1,2025-08-01,Active,61,Prof. Priya Arora
+678,CE241007,Samar,Kaur,Samar Kaur,Male,20,2004-09-29,samar.kaur678@student.college.edu,+919561395925,Visakhapatnam,Semi-Urban,CE,Civil Engineering,4,1,2025-08-01,Active,61,Prof. Priya Arora
+679,CE241008,Ishita,Khan,Ishita Khan,Female,22,2004-04-10,ishita.khan679@student.college.edu,+919333607498,Indore,Semi-Urban,CE,Civil Engineering,4,1,2025-08-01,Active,61,Prof. Priya Arora
+680,CE241009,Anika,Malhotra,Anika Malhotra,Female,22,2004-11-25,anika.malhotra680@student.college.edu,+918948784286,Pune,Rural,CE,Civil Engineering,4,1,2025-08-01,Active,61,Prof. Priya Arora
+681,CE241010,Siya,Singh,Siya Singh,Female,21,2004-04-23,siya.singh681@student.college.edu,+919017056630,Bangalore,Urban,CE,Civil Engineering,4,1,2025-08-01,Active,61,Prof. Priya Arora
+682,CE241011,Vihaan,Reddy,Vihaan Reddy,Male,21,2004-02-27,vihaan.reddy682@student.college.edu,+918772878321,Mumbai,Semi-Urban,CE,Civil Engineering,4,1,2025-08-01,Active,61,Prof. Priya Arora
+683,CE241012,Meera,Shah,Meera Shah,Female,20,2004-11-15,meera.shah683@student.college.edu,+919211161136,Ludhiana,Semi-Urban,CE,Civil Engineering,4,1,2025-08-01,Active,61,Prof. Priya Arora
+684,CE241013,Ira,Singh,Ira Singh,Female,22,2004-07-18,ira.singh684@student.college.edu,+918323351238,Mumbai,Semi-Urban,CE,Civil Engineering,4,1,2025-08-01,Active,61,Prof. Priya Arora
+685,CE241014,Diya,Iyer,Diya Iyer,Female,21,2004-04-19,diya.iyer685@student.college.edu,+919949448116,Vadodara,Semi-Urban,CE,Civil Engineering,4,1,2025-08-01,Active,61,Prof. Priya Arora
+686,CE241015,Aarav,Sethi,Aarav Sethi,Male,22,2004-07-12,aarav.sethi686@student.college.edu,+917785849431,Indore,Semi-Urban,CE,Civil Engineering,4,1,2025-08-01,Active,61,Prof. Priya Arora
+687,CE241016,Rudra,Kapoor,Rudra Kapoor,Male,21,2004-09-25,rudra.kapoor687@student.college.edu,+918530656390,Lucknow,Semi-Urban,CE,Civil Engineering,4,1,2025-08-01,Active,61,Prof. Priya Arora
+688,CE242001,Ananya,Agarwal,Ananya Agarwal,Female,20,2004-06-27,ananya.agarwal688@student.college.edu,+917022903149,Visakhapatnam,Urban,CE,Civil Engineering,4,2,2025-08-01,Active,61,Prof. Priya Arora
+689,CE242002,Ankit,Choudhury,Ankit Choudhury,Male,22,2004-04-25,ankit.choudhury689@student.college.edu,+917054363349,Bangalore,Rural,CE,Civil Engineering,4,2,2025-08-01,Active,61,Prof. Priya Arora
+690,CE242003,Sunita,Das,Sunita Das,Female,22,2004-05-14,sunita.das690@student.college.edu,+917823679451,Delhi,Rural,CE,Civil Engineering,4,2,2025-08-01,Active,61,Prof. Priya Arora
+691,CE242004,Nisha,Sethi,Nisha Sethi,Female,21,2004-01-18,nisha.sethi691@student.college.edu,+917525091521,Nagpur,Rural,CE,Civil Engineering,4,2,2025-08-01,Active,61,Prof. Priya Arora
+692,CE242005,Anvi,Patel,Anvi Patel,Female,22,2004-12-01,anvi.patel692@student.college.edu,+918128869963,Visakhapatnam,Semi-Urban,CE,Civil Engineering,4,2,2025-08-01,Active,61,Prof. Priya Arora
+693,CE242006,Kian,Shah,Kian Shah,Male,22,2004-11-03,kian.shah693@student.college.edu,+919913264883,Pune,Urban,CE,Civil Engineering,4,2,2025-08-01,Active,61,Prof. Priya Arora
+694,CE242007,Vikram,Agarwal,Vikram Agarwal,Male,21,2004-05-09,vikram.agarwal694@student.college.edu,+918824721333,Ludhiana,Rural,CE,Civil Engineering,4,2,2025-08-01,Active,61,Prof. Priya Arora
+695,CE242008,Shanaya,Kumar,Shanaya Kumar,Female,22,2004-03-25,shanaya.kumar695@student.college.edu,+919124842671,Kanpur,Semi-Urban,CE,Civil Engineering,4,2,2025-08-01,Active,61,Prof. Priya Arora
+696,CE242009,Samar,Das,Samar Das,Male,21,2004-05-05,samar.das696@student.college.edu,+918914170557,Bhopal,Semi-Urban,CE,Civil Engineering,4,2,2025-08-01,Active,61,Prof. Priya Arora
+697,CE242010,Rani,Pillai,Rani Pillai,Female,21,2004-12-19,rani.pillai697@student.college.edu,+919096468568,Indore,Rural,CE,Civil Engineering,4,2,2025-08-01,Active,61,Prof. Priya Arora
+698,CE242011,Navya,Arora,Navya Arora,Female,21,2004-11-12,navya.arora698@student.college.edu,+919485679606,Ghaziabad,Semi-Urban,CE,Civil Engineering,4,2,2025-08-01,Active,61,Prof. Priya Arora
+699,CE242012,Tanvi,Ali,Tanvi Ali,Female,21,2004-06-18,tanvi.ali699@student.college.edu,+919761786837,Bangalore,Semi-Urban,CE,Civil Engineering,4,2,2025-08-01,Active,61,Prof. Priya Arora
+700,CE242013,Kavya,Bose,Kavya Bose,Female,20,2004-06-09,kavya.bose700@student.college.edu,+919176278203,Ghaziabad,Semi-Urban,CE,Civil Engineering,4,2,2025-08-01,Active,61,Prof. Priya Arora
+701,CE242014,Rani,Mishra,Rani Mishra,Female,21,2004-02-24,rani.mishra701@student.college.edu,+919013205402,Bhopal,Semi-Urban,CE,Civil Engineering,4,2,2025-08-01,Active,61,Prof. Priya Arora
+702,CE242015,Priya,Agarwal,Priya Agarwal,Female,21,2004-06-09,priya.agarwal702@student.college.edu,+918219740899,Ghaziabad,Semi-Urban,CE,Civil Engineering,4,2,2025-08-01,Active,61,Prof. Priya Arora
+703,CE242016,Sara,Kumar,Sara Kumar,Female,22,2004-07-01,sara.kumar703@student.college.edu,+919139239953,Hyderabad,Semi-Urban,CE,Civil Engineering,4,2,2025-08-01,Active,61,Prof. Priya Arora
+704,EE211001,Simran,Mishra,Simran Mishra,Female,19,2007-04-28,simran.mishra704@student.college.edu,+919584308806,Kanpur,Semi-Urban,EE,Electrical Engineering,1,1,2025-08-01,Active,65,Dr. Suresh Ahmed
+705,EE211002,Vihaan,Mehta,Vihaan Mehta,Male,19,2007-12-06,vihaan.mehta705@student.college.edu,+919166934549,Visakhapatnam,Rural,EE,Electrical Engineering,1,1,2025-08-01,Active,65,Dr. Suresh Ahmed
+706,EE211003,Swati,Sinha,Swati Sinha,Female,18,2007-10-26,swati.sinha706@student.college.edu,+919262860122,Pune,Rural,EE,Electrical Engineering,1,1,2025-08-01,Active,65,Dr. Suresh Ahmed
+707,EE211004,Samar,Kaur,Samar Kaur,Male,17,2007-10-26,samar.kaur707@student.college.edu,+919314502747,Bhopal,Semi-Urban,EE,Electrical Engineering,1,1,2025-08-01,Active,65,Dr. Suresh Ahmed
+708,EE211005,Pooja,Chatterjee,Pooja Chatterjee,Female,17,2007-02-28,pooja.chatterjee708@student.college.edu,+917831399346,Kanpur,Rural,EE,Electrical Engineering,1,1,2025-08-01,Active,65,Dr. Suresh Ahmed
+709,EE211006,Ira,Kumar,Ira Kumar,Female,19,2007-08-30,ira.kumar709@student.college.edu,+919309368332,Hyderabad,Rural,EE,Electrical Engineering,1,1,2025-08-01,Active,65,Dr. Suresh Ahmed
+710,EE211007,Shanaya,Choudhury,Shanaya Choudhury,Female,19,2007-09-20,shanaya.choudhury710@student.college.edu,+918762842546,Chennai,Rural,EE,Electrical Engineering,1,1,2025-08-01,Active,65,Dr. Suresh Ahmed
+711,EE211008,Nikhil,Kapoor,Nikhil Kapoor,Male,18,2007-11-07,nikhil.kapoor711@student.college.edu,+919851509813,Nagpur,Urban,EE,Electrical Engineering,1,1,2025-08-01,Active,65,Dr. Suresh Ahmed
+712,EE211009,Anika,Chopra,Anika Chopra,Female,19,2007-01-24,anika.chopra712@student.college.edu,+918941167328,Coimbatore,Urban,EE,Electrical Engineering,1,1,2025-08-01,Active,65,Dr. Suresh Ahmed
+713,EE211010,Ananya,Khanna,Ananya Khanna,Female,19,2007-01-19,ananya.khanna713@student.college.edu,+918533861358,Nagpur,Urban,EE,Electrical Engineering,1,1,2025-08-01,Active,65,Dr. Suresh Ahmed
+714,EE211011,Dhruv,Pillai,Dhruv Pillai,Male,17,2007-04-05,dhruv.pillai714@student.college.edu,+919484530456,Kanpur,Rural,EE,Electrical Engineering,1,1,2025-08-01,Active,65,Dr. Suresh Ahmed
+715,EE211012,Siddharth,Tiwari,Siddharth Tiwari,Male,17,2007-03-25,siddharth.tiwari715@student.college.edu,+918478520802,Hyderabad,Semi-Urban,EE,Electrical Engineering,1,1,2025-08-01,Active,65,Dr. Suresh Ahmed
+716,EE211013,Vikram,Bhatia,Vikram Bhatia,Male,18,2007-03-18,vikram.bhatia716@student.college.edu,+919164679584,Patna,Rural,EE,Electrical Engineering,1,1,2025-08-01,Active,65,Dr. Suresh Ahmed
+717,EE211014,Saanvi,Nair,Saanvi Nair,Female,19,2007-03-18,saanvi.nair717@student.college.edu,+919904582511,Nagpur,Rural,EE,Electrical Engineering,1,1,2025-08-01,Active,65,Dr. Suresh Ahmed
+718,EE211015,Aditya,Tiwari,Aditya Tiwari,Male,19,2007-07-05,aditya.tiwari718@student.college.edu,+918371160631,Lucknow,Urban,EE,Electrical Engineering,1,1,2025-08-01,Active,65,Dr. Suresh Ahmed
+719,EE211016,Preeti,Ali,Preeti Ali,Female,18,2007-05-28,preeti.ali719@student.college.edu,+918169811168,Kolkata,Rural,EE,Electrical Engineering,1,1,2025-08-01,Active,65,Dr. Suresh Ahmed
+720,EE211017,Pranav,Verma,Pranav Verma,Male,18,2007-01-01,pranav.verma720@student.college.edu,+917486327168,Coimbatore,Rural,EE,Electrical Engineering,1,1,2025-08-01,Active,65,Dr. Suresh Ahmed
+721,EE211018,Ira,Bhatia,Ira Bhatia,Female,19,2007-03-09,ira.bhatia721@student.college.edu,+918631223171,Nagpur,Semi-Urban,EE,Electrical Engineering,1,1,2025-08-01,Active,65,Dr. Suresh Ahmed
+722,EE211019,Pari,Banerjee,Pari Banerjee,Female,17,2007-01-09,pari.banerjee722@student.college.edu,+918063076067,Ahmedabad,Rural,EE,Electrical Engineering,1,1,2025-08-01,Active,65,Dr. Suresh Ahmed
+723,EE211020,Rani,Shah,Rani Shah,Female,17,2007-10-25,rani.shah723@student.college.edu,+918133847532,Mumbai,Semi-Urban,EE,Electrical Engineering,1,1,2025-08-01,Active,65,Dr. Suresh Ahmed
+724,EE211021,Swati,Mukherjee,Swati Mukherjee,Female,17,2007-09-02,swati.mukherjee724@student.college.edu,+918513450036,Coimbatore,Semi-Urban,EE,Electrical Engineering,1,1,2025-08-01,Active,65,Dr. Suresh Ahmed
+725,EE211022,Vedant,Shah,Vedant Shah,Male,18,2007-01-07,vedant.shah725@student.college.edu,+919568512758,Pune,Semi-Urban,EE,Electrical Engineering,1,1,2025-08-01,Active,65,Dr. Suresh Ahmed
+726,EE212001,Aditi,Arora,Aditi Arora,Female,17,2007-12-10,aditi.arora726@student.college.edu,+918546389136,Lucknow,Rural,EE,Electrical Engineering,1,2,2025-08-01,Active,65,Dr. Suresh Ahmed
+727,EE212002,Ankit,Das,Ankit Das,Male,18,2007-09-20,ankit.das727@student.college.edu,+918345469197,Hyderabad,Semi-Urban,EE,Electrical Engineering,1,2,2025-08-01,Active,65,Dr. Suresh Ahmed
+728,EE212003,Rudra,Shah,Rudra Shah,Male,17,2007-04-11,rudra.shah728@student.college.edu,+917165777764,Chennai,Semi-Urban,EE,Electrical Engineering,1,2,2025-08-01,Active,65,Dr. Suresh Ahmed
+729,EE212004,Ananya,Bose,Ananya Bose,Female,18,2007-08-28,ananya.bose729@student.college.edu,+918071930934,Kolkata,Semi-Urban,EE,Electrical Engineering,1,2,2025-08-01,Active,65,Dr. Suresh Ahmed
+730,EE212005,Anvi,Banerjee,Anvi Banerjee,Female,18,2007-07-19,anvi.banerjee730@student.college.edu,+919807873898,Lucknow,Rural,EE,Electrical Engineering,1,2,2025-08-01,Active,65,Dr. Suresh Ahmed
+731,EE212006,Aarav,Reddy,Aarav Reddy,Male,19,2007-08-24,aarav.reddy731@student.college.edu,+917322385805,Nagpur,Rural,EE,Electrical Engineering,1,2,2025-08-01,Active,65,Dr. Suresh Ahmed
+732,EE212007,Anjali,Sinha,Anjali Sinha,Female,18,2007-06-30,anjali.sinha732@student.college.edu,+917959222793,Delhi,Semi-Urban,EE,Electrical Engineering,1,2,2025-08-01,Active,65,Dr. Suresh Ahmed
+733,EE212008,Suresh,Ali,Suresh Ali,Male,17,2007-10-06,suresh.ali733@student.college.edu,+918069958650,Ahmedabad,Rural,EE,Electrical Engineering,1,2,2025-08-01,Active,65,Dr. Suresh Ahmed
+734,EE212009,Tanvi,Ghosh,Tanvi Ghosh,Female,17,2007-05-28,tanvi.ghosh734@student.college.edu,+918837650877,Delhi,Rural,EE,Electrical Engineering,1,2,2025-08-01,Active,65,Dr. Suresh Ahmed
+735,EE212010,Pari,Singh,Pari Singh,Female,17,2007-08-28,pari.singh735@student.college.edu,+919566991403,Hyderabad,Semi-Urban,EE,Electrical Engineering,1,2,2025-08-01,Active,65,Dr. Suresh Ahmed
+736,EE212011,Manish,Chopra,Manish Chopra,Male,19,2007-07-19,manish.chopra736@student.college.edu,+918054804932,Indore,Rural,EE,Electrical Engineering,1,2,2025-08-01,Active,65,Dr. Suresh Ahmed
+737,EE212012,Navya,Tiwari,Navya Tiwari,Female,17,2007-05-30,navya.tiwari737@student.college.edu,+918037133608,Vadodara,Semi-Urban,EE,Electrical Engineering,1,2,2025-08-01,Active,65,Dr. Suresh Ahmed
+738,EE212013,Shivansh,Choudhury,Shivansh Choudhury,Male,17,2007-08-19,shivansh.choudhury738@student.college.edu,+917185546201,Hyderabad,Semi-Urban,EE,Electrical Engineering,1,2,2025-08-01,Active,65,Dr. Suresh Ahmed
+739,EE212014,Shruti,Nair,Shruti Nair,Female,19,2007-04-12,shruti.nair739@student.college.edu,+918353981270,Vadodara,Rural,EE,Electrical Engineering,1,2,2025-08-01,Active,65,Dr. Suresh Ahmed
+740,EE212015,Myra,Saxena,Myra Saxena,Female,17,2007-09-14,myra.saxena740@student.college.edu,+918045501495,Ludhiana,Urban,EE,Electrical Engineering,1,2,2025-08-01,Active,65,Dr. Suresh Ahmed
+741,EE212016,Divya,Kumar,Divya Kumar,Female,19,2007-03-27,divya.kumar741@student.college.edu,+918658376061,Ahmedabad,Semi-Urban,EE,Electrical Engineering,1,2,2025-08-01,Active,65,Dr. Suresh Ahmed
+742,EE212017,Rohan,Iyer,Rohan Iyer,Male,19,2007-11-05,rohan.iyer742@student.college.edu,+919262215448,Bhopal,Rural,EE,Electrical Engineering,1,2,2025-08-01,Active,65,Dr. Suresh Ahmed
+743,EE212018,Kabir,Kaur,Kabir Kaur,Male,17,2007-10-04,kabir.kaur743@student.college.edu,+917087782780,Pune,Semi-Urban,EE,Electrical Engineering,1,2,2025-08-01,Active,65,Dr. Suresh Ahmed
+744,EE212019,Vihaan,Jain,Vihaan Jain,Male,18,2007-01-28,vihaan.jain744@student.college.edu,+919564661889,Jaipur,Rural,EE,Electrical Engineering,1,2,2025-08-01,Active,65,Dr. Suresh Ahmed
+745,EE212020,Sunita,Bose,Sunita Bose,Female,17,2007-12-23,sunita.bose745@student.college.edu,+918216453443,Nagpur,Semi-Urban,EE,Electrical Engineering,1,2,2025-08-01,Active,65,Dr. Suresh Ahmed
+746,EE212021,Vedant,Sharma,Vedant Sharma,Male,19,2007-12-19,vedant.sharma746@student.college.edu,+919515918365,Patna,Urban,EE,Electrical Engineering,1,2,2025-08-01,Active,65,Dr. Suresh Ahmed
+747,EE212022,Swati,Ahmed,Swati Ahmed,Female,17,2007-08-09,swati.ahmed747@student.college.edu,+917237099125,Vadodara,Rural,EE,Electrical Engineering,1,2,2025-08-01,Active,65,Dr. Suresh Ahmed
+748,EE212023,Anvi,Sethi,Anvi Sethi,Female,17,2007-03-16,anvi.sethi748@student.college.edu,+919352498968,Mumbai,Urban,EE,Electrical Engineering,1,2,2025-08-01,Active,65,Dr. Suresh Ahmed
+749,EE221001,Avni,Reddy,Avni Reddy,Female,20,2006-07-31,avni.reddy749@student.college.edu,+918238683346,Hyderabad,Urban,EE,Electrical Engineering,2,1,2025-08-01,Active,69,Ms. Anita Shah
+750,EE221002,Shruti,Pandey,Shruti Pandey,Female,18,2006-12-27,shruti.pandey750@student.college.edu,+917841417002,Bangalore,Rural,EE,Electrical Engineering,2,1,2025-08-01,Active,69,Ms. Anita Shah
+751,EE221003,Dhruv,Kaur,Dhruv Kaur,Male,20,2006-12-10,dhruv.kaur751@student.college.edu,+919078445347,Ahmedabad,Rural,EE,Electrical Engineering,2,1,2025-08-01,Active,69,Ms. Anita Shah
+752,EE221004,Pari,Khanna,Pari Khanna,Female,18,2006-09-28,pari.khanna752@student.college.edu,+919528445516,Visakhapatnam,Urban,EE,Electrical Engineering,2,1,2025-08-01,Active,69,Ms. Anita Shah
+753,EE221005,Ishaan,Khanna,Ishaan Khanna,Male,20,2006-01-22,ishaan.khanna753@student.college.edu,+918752158193,Vadodara,Urban,EE,Electrical Engineering,2,1,2025-08-01,Active,69,Ms. Anita Shah
+754,EE221006,Samar,Mishra,Samar Mishra,Male,19,2006-10-23,samar.mishra754@student.college.edu,+918073433713,Vadodara,Semi-Urban,EE,Electrical Engineering,2,1,2025-08-01,Active,69,Ms. Anita Shah
+755,EE221007,Rohan,Ahmed,Rohan Ahmed,Male,20,2006-11-03,rohan.ahmed755@student.college.edu,+919990095962,Ludhiana,Rural,EE,Electrical Engineering,2,1,2025-08-01,Active,69,Ms. Anita Shah
+756,EE221008,Siddharth,Das,Siddharth Das,Male,20,2006-07-12,siddharth.das756@student.college.edu,+918398897704,Pune,Urban,EE,Electrical Engineering,2,1,2025-08-01,Active,69,Ms. Anita Shah
+757,EE221009,Atharv,Sinha,Atharv Sinha,Male,20,2006-10-24,atharv.sinha757@student.college.edu,+919284153141,Vadodara,Semi-Urban,EE,Electrical Engineering,2,1,2025-08-01,Active,69,Ms. Anita Shah
+758,EE221010,Aditi,Choudhury,Aditi Choudhury,Female,18,2006-01-05,aditi.choudhury758@student.college.edu,+917703536802,Bhopal,Urban,EE,Electrical Engineering,2,1,2025-08-01,Active,69,Ms. Anita Shah
+759,EE221011,Kabir,Pillai,Kabir Pillai,Male,19,2006-08-17,kabir.pillai759@student.college.edu,+917855554948,Nagpur,Urban,EE,Electrical Engineering,2,1,2025-08-01,Active,69,Ms. Anita Shah
+760,EE221012,Kiaan,Banerjee,Kiaan Banerjee,Male,19,2006-07-10,kiaan.banerjee760@student.college.edu,+919955071129,Kolkata,Semi-Urban,EE,Electrical Engineering,2,1,2025-08-01,Active,69,Ms. Anita Shah
+761,EE221013,Nisha,Mukherjee,Nisha Mukherjee,Female,20,2006-07-07,nisha.mukherjee761@student.college.edu,+918501511908,Nagpur,Semi-Urban,EE,Electrical Engineering,2,1,2025-08-01,Active,69,Ms. Anita Shah
+762,EE221014,Harshit,Gupta,Harshit Gupta,Male,19,2006-11-03,harshit.gupta762@student.college.edu,+918763129474,Mumbai,Rural,EE,Electrical Engineering,2,1,2025-08-01,Active,69,Ms. Anita Shah
+763,EE221015,Varun,Chopra,Varun Chopra,Male,20,2006-11-07,varun.chopra763@student.college.edu,+918237018810,Indore,Semi-Urban,EE,Electrical Engineering,2,1,2025-08-01,Active,69,Ms. Anita Shah
+764,EE221016,Nisha,Mishra,Nisha Mishra,Female,19,2006-08-24,nisha.mishra764@student.college.edu,+917300407622,Mumbai,Semi-Urban,EE,Electrical Engineering,2,1,2025-08-01,Active,69,Ms. Anita Shah
+765,EE221017,Sakshi,Bose,Sakshi Bose,Female,20,2006-11-04,sakshi.bose765@student.college.edu,+918646743411,Lucknow,Rural,EE,Electrical Engineering,2,1,2025-08-01,Active,69,Ms. Anita Shah
+766,EE221018,Sara,Mukherjee,Sara Mukherjee,Female,20,2006-05-12,sara.mukherjee766@student.college.edu,+917713770485,Ludhiana,Urban,EE,Electrical Engineering,2,1,2025-08-01,Active,69,Ms. Anita Shah
+767,EE221019,Kiara,Sinha,Kiara Sinha,Female,19,2006-12-10,kiara.sinha767@student.college.edu,+919583445101,Kanpur,Rural,EE,Electrical Engineering,2,1,2025-08-01,Active,69,Ms. Anita Shah
+768,EE221020,Anvi,Kaur,Anvi Kaur,Female,18,2006-09-08,anvi.kaur768@student.college.edu,+918498298596,Indore,Rural,EE,Electrical Engineering,2,1,2025-08-01,Active,69,Ms. Anita Shah
+769,EE221021,Myra,Kapoor,Myra Kapoor,Female,18,2006-02-01,myra.kapoor769@student.college.edu,+919209022397,Delhi,Urban,EE,Electrical Engineering,2,1,2025-08-01,Active,69,Ms. Anita Shah
+770,EE222001,Siya,Das,Siya Das,Female,18,2006-07-06,siya.das770@student.college.edu,+917812603568,Chennai,Semi-Urban,EE,Electrical Engineering,2,2,2025-08-01,Active,69,Ms. Anita Shah
+771,EE222002,Anvi,Banerjee,Anvi Banerjee,Female,20,2006-03-25,anvi.banerjee771@student.college.edu,+919026285902,Visakhapatnam,Urban,EE,Electrical Engineering,2,2,2025-08-01,Active,69,Ms. Anita Shah
+772,EE222003,Rekha,Mehta,Rekha Mehta,Female,20,2006-08-19,rekha.mehta772@student.college.edu,+918745209328,Bhopal,Semi-Urban,EE,Electrical Engineering,2,2,2025-08-01,Active,69,Ms. Anita Shah
+773,EE222004,Kunal,Rao,Kunal Rao,Male,19,2006-06-28,kunal.rao773@student.college.edu,+917781902432,Bangalore,Rural,EE,Electrical Engineering,2,2,2025-08-01,Active,69,Ms. Anita Shah
+774,EE222005,Kavya,Saxena,Kavya Saxena,Female,18,2006-04-07,kavya.saxena774@student.college.edu,+919928145440,Nagpur,Semi-Urban,EE,Electrical Engineering,2,2,2025-08-01,Active,69,Ms. Anita Shah
+775,EE222006,Ayaan,Verma,Ayaan Verma,Male,19,2006-05-30,ayaan.verma775@student.college.edu,+919033438767,Bhopal,Urban,EE,Electrical Engineering,2,2,2025-08-01,Active,69,Ms. Anita Shah
+776,EE222007,Aditi,Malhotra,Aditi Malhotra,Female,19,2006-12-20,aditi.malhotra776@student.college.edu,+918208564415,Lucknow,Rural,EE,Electrical Engineering,2,2,2025-08-01,Active,69,Ms. Anita Shah
+777,EE222008,Ishaan,Kaur,Ishaan Kaur,Male,19,2006-01-31,ishaan.kaur777@student.college.edu,+919766650107,Bangalore,Semi-Urban,EE,Electrical Engineering,2,2,2025-08-01,Active,69,Ms. Anita Shah
+778,EE222009,Simran,Kapoor,Simran Kapoor,Female,18,2006-08-21,simran.kapoor778@student.college.edu,+917985782066,Patna,Urban,EE,Electrical Engineering,2,2,2025-08-01,Active,69,Ms. Anita Shah
+779,EE222010,Arnav,Sethi,Arnav Sethi,Male,19,2006-01-14,arnav.sethi779@student.college.edu,+918443431853,Jaipur,Urban,EE,Electrical Engineering,2,2,2025-08-01,Active,69,Ms. Anita Shah
+780,EE222011,Saanvi,Sharma,Saanvi Sharma,Female,20,2006-12-19,saanvi.sharma780@student.college.edu,+918582650119,Kolkata,Semi-Urban,EE,Electrical Engineering,2,2,2025-08-01,Active,69,Ms. Anita Shah
+781,EE222012,Kiara,Mehta,Kiara Mehta,Female,20,2006-03-25,kiara.mehta781@student.college.edu,+918551333438,Ghaziabad,Semi-Urban,EE,Electrical Engineering,2,2,2025-08-01,Active,69,Ms. Anita Shah
+782,EE222013,Divya,Banerjee,Divya Banerjee,Female,18,2006-06-14,divya.banerjee782@student.college.edu,+917686606409,Kanpur,Semi-Urban,EE,Electrical Engineering,2,2,2025-08-01,Active,69,Ms. Anita Shah
+783,EE222014,Arnav,Kumar,Arnav Kumar,Male,20,2006-04-26,arnav.kumar783@student.college.edu,+919403151814,Kolkata,Semi-Urban,EE,Electrical Engineering,2,2,2025-08-01,Active,69,Ms. Anita Shah
+784,EE222015,Suresh,Arora,Suresh Arora,Male,19,2006-11-27,suresh.arora784@student.college.edu,+919110587947,Hyderabad,Semi-Urban,EE,Electrical Engineering,2,2,2025-08-01,Active,69,Ms. Anita Shah
+785,EE222016,Sneha,Joshi,Sneha Joshi,Female,19,2006-04-28,sneha.joshi785@student.college.edu,+919150303605,Nagpur,Rural,EE,Electrical Engineering,2,2,2025-08-01,Active,69,Ms. Anita Shah
+786,EE222017,Shruti,Desai,Shruti Desai,Female,19,2006-04-07,shruti.desai786@student.college.edu,+917945952307,Bangalore,Semi-Urban,EE,Electrical Engineering,2,2,2025-08-01,Active,69,Ms. Anita Shah
+787,EE222018,Navya,Joshi,Navya Joshi,Female,18,2006-04-21,navya.joshi787@student.college.edu,+919993436073,Kolkata,Semi-Urban,EE,Electrical Engineering,2,2,2025-08-01,Active,69,Ms. Anita Shah
+788,EE222019,Aryan,Sharma,Aryan Sharma,Male,18,2006-06-27,aryan.sharma788@student.college.edu,+918713049859,Nagpur,Semi-Urban,EE,Electrical Engineering,2,2,2025-08-01,Active,69,Ms. Anita Shah
+789,EE222020,Yash,Verma,Yash Verma,Male,19,2006-08-23,yash.verma789@student.college.edu,+917435927714,Patna,Urban,EE,Electrical Engineering,2,2,2025-08-01,Active,69,Ms. Anita Shah
+790,EE222021,Vivaan,Chopra,Vivaan Chopra,Male,19,2006-11-23,vivaan.chopra790@student.college.edu,+917999330823,Ghaziabad,Rural,EE,Electrical Engineering,2,2,2025-08-01,Active,69,Ms. Anita Shah
+791,EE231001,Shaurya,Desai,Shaurya Desai,Male,19,2005-11-27,shaurya.desai791@student.college.edu,+918242933070,Visakhapatnam,Urban,EE,Electrical Engineering,3,1,2025-08-01,Active,73,Ms. Manoj Bhatia
+792,EE231002,Ansh,Rao,Ansh Rao,Male,19,2005-01-20,ansh.rao792@student.college.edu,+919499912477,Kanpur,Urban,EE,Electrical Engineering,3,1,2025-08-01,Active,73,Ms. Manoj Bhatia
+793,EE231003,Manoj,Jain,Manoj Jain,Male,20,2005-10-25,manoj.jain793@student.college.edu,+917227666502,Pune,Urban,EE,Electrical Engineering,3,1,2025-08-01,Active,73,Ms. Manoj Bhatia
+794,EE231004,Siya,Mehta,Siya Mehta,Female,19,2005-03-13,siya.mehta794@student.college.edu,+917145957265,Pune,Rural,EE,Electrical Engineering,3,1,2025-08-01,Active,73,Ms. Manoj Bhatia
+795,EE231005,Shivansh,Sharma,Shivansh Sharma,Male,21,2005-05-30,shivansh.sharma795@student.college.edu,+917949487060,Vadodara,Urban,EE,Electrical Engineering,3,1,2025-08-01,Active,73,Ms. Manoj Bhatia
+796,EE231006,Advait,Reddy,Advait Reddy,Male,20,2005-08-28,advait.reddy796@student.college.edu,+918500149424,Bangalore,Urban,EE,Electrical Engineering,3,1,2025-08-01,Active,73,Ms. Manoj Bhatia
+797,EE231007,Arnav,Ali,Arnav Ali,Male,19,2005-05-02,arnav.ali797@student.college.edu,+917242670885,Jaipur,Semi-Urban,EE,Electrical Engineering,3,1,2025-08-01,Active,73,Ms. Manoj Bhatia
+798,EE231008,Avni,Sharma,Avni Sharma,Female,20,2005-12-11,avni.sharma798@student.college.edu,+918632697978,Vadodara,Semi-Urban,EE,Electrical Engineering,3,1,2025-08-01,Active,73,Ms. Manoj Bhatia
+799,EE231009,Shruti,Reddy,Shruti Reddy,Female,20,2005-10-04,shruti.reddy799@student.college.edu,+918186584359,Bhopal,Rural,EE,Electrical Engineering,3,1,2025-08-01,Active,73,Ms. Manoj Bhatia
+800,EE231010,Sunita,Nair,Sunita Nair,Female,19,2005-11-15,sunita.nair800@student.college.edu,+917092803151,Kolkata,Rural,EE,Electrical Engineering,3,1,2025-08-01,Active,73,Ms. Manoj Bhatia
+801,EE231011,Ritvik,Chatterjee,Ritvik Chatterjee,Male,19,2005-07-07,ritvik.chatterjee801@student.college.edu,+919772027318,Lucknow,Semi-Urban,EE,Electrical Engineering,3,1,2025-08-01,Active,73,Ms. Manoj Bhatia
+802,EE231012,Aarav,Desai,Aarav Desai,Male,20,2005-08-30,aarav.desai802@student.college.edu,+918137696104,Bangalore,Semi-Urban,EE,Electrical Engineering,3,1,2025-08-01,Active,73,Ms. Manoj Bhatia
+803,EE231013,Pooja,Ghosh,Pooja Ghosh,Female,20,2005-12-01,pooja.ghosh803@student.college.edu,+919551486096,Bhopal,Urban,EE,Electrical Engineering,3,1,2025-08-01,Active,73,Ms. Manoj Bhatia
+804,EE231014,Karthik,Saxena,Karthik Saxena,Male,21,2005-08-01,karthik.saxena804@student.college.edu,+917159317776,Ahmedabad,Rural,EE,Electrical Engineering,3,1,2025-08-01,Active,73,Ms. Manoj Bhatia
+805,EE231015,Vivaan,Das,Vivaan Das,Male,19,2005-03-22,vivaan.das805@student.college.edu,+918633893543,Ghaziabad,Rural,EE,Electrical Engineering,3,1,2025-08-01,Active,73,Ms. Manoj Bhatia
+806,EE231016,Kabir,Rao,Kabir Rao,Male,19,2005-06-09,kabir.rao806@student.college.edu,+918153206999,Indore,Semi-Urban,EE,Electrical Engineering,3,1,2025-08-01,Active,73,Ms. Manoj Bhatia
+807,EE231017,Manoj,Saxena,Manoj Saxena,Male,20,2005-09-04,manoj.saxena807@student.college.edu,+917163888770,Chennai,Rural,EE,Electrical Engineering,3,1,2025-08-01,Active,73,Ms. Manoj Bhatia
+808,EE231018,Ira,Mishra,Ira Mishra,Female,19,2005-06-20,ira.mishra808@student.college.edu,+918552436543,Bhopal,Semi-Urban,EE,Electrical Engineering,3,1,2025-08-01,Active,73,Ms. Manoj Bhatia
+809,EE231019,Kian,Jain,Kian Jain,Male,20,2005-11-02,kian.jain809@student.college.edu,+917145581867,Jaipur,Urban,EE,Electrical Engineering,3,1,2025-08-01,Active,73,Ms. Manoj Bhatia
+810,EE231020,Naksh,Ghosh,Naksh Ghosh,Male,19,2005-05-07,naksh.ghosh810@student.college.edu,+919206227039,Jaipur,Semi-Urban,EE,Electrical Engineering,3,1,2025-08-01,Active,73,Ms. Manoj Bhatia
+811,EE232001,Arjun,Rao,Arjun Rao,Male,19,2005-08-06,arjun.rao811@student.college.edu,+918054837212,Lucknow,Rural,EE,Electrical Engineering,3,2,2025-08-01,Active,73,Ms. Manoj Bhatia
+812,EE232002,Kiara,Reddy,Kiara Reddy,Female,21,2005-07-17,kiara.reddy812@student.college.edu,+919187430539,Delhi,Rural,EE,Electrical Engineering,3,2,2025-08-01,Active,73,Ms. Manoj Bhatia
+813,EE232003,Aarav,Kapoor,Aarav Kapoor,Male,20,2005-09-08,aarav.kapoor813@student.college.edu,+918031020929,Nagpur,Rural,EE,Electrical Engineering,3,2,2025-08-01,Active,73,Ms. Manoj Bhatia
+814,EE232004,Kian,Ghosh,Kian Ghosh,Male,20,2005-08-24,kian.ghosh814@student.college.edu,+919875976567,Mumbai,Urban,EE,Electrical Engineering,3,2,2025-08-01,Active,73,Ms. Manoj Bhatia
+815,EE232005,Raj,Arora,Raj Arora,Male,21,2005-02-01,raj.arora815@student.college.edu,+917429366537,Bangalore,Semi-Urban,EE,Electrical Engineering,3,2,2025-08-01,Active,73,Ms. Manoj Bhatia
+816,EE232006,Prakash,Bhatia,Prakash Bhatia,Male,19,2005-01-15,prakash.bhatia816@student.college.edu,+918414156331,Lucknow,Rural,EE,Electrical Engineering,3,2,2025-08-01,Active,73,Ms. Manoj Bhatia
+817,EE232007,Manoj,Kaur,Manoj Kaur,Male,19,2005-06-07,manoj.kaur817@student.college.edu,+919735528728,Nagpur,Urban,EE,Electrical Engineering,3,2,2025-08-01,Active,73,Ms. Manoj Bhatia
+818,EE232008,Aarohi,Nair,Aarohi Nair,Female,20,2005-06-26,aarohi.nair818@student.college.edu,+919400177365,Kolkata,Rural,EE,Electrical Engineering,3,2,2025-08-01,Active,73,Ms. Manoj Bhatia
+819,EE232009,Sunita,Joshi,Sunita Joshi,Female,21,2005-10-07,sunita.joshi819@student.college.edu,+919242428033,Pune,Urban,EE,Electrical Engineering,3,2,2025-08-01,Active,73,Ms. Manoj Bhatia
+820,EE232010,Vedant,Gupta,Vedant Gupta,Male,20,2005-09-13,vedant.gupta820@student.college.edu,+919229852712,Bangalore,Rural,EE,Electrical Engineering,3,2,2025-08-01,Active,73,Ms. Manoj Bhatia
+821,EE232011,Vihaan,Banerjee,Vihaan Banerjee,Male,21,2005-10-31,vihaan.banerjee821@student.college.edu,+919257611620,Lucknow,Rural,EE,Electrical Engineering,3,2,2025-08-01,Active,73,Ms. Manoj Bhatia
+822,EE232012,Varun,Saxena,Varun Saxena,Male,19,2005-02-25,varun.saxena822@student.college.edu,+919729759516,Chennai,Semi-Urban,EE,Electrical Engineering,3,2,2025-08-01,Active,73,Ms. Manoj Bhatia
+823,EE232013,Sneha,Ahmed,Sneha Ahmed,Female,21,2005-06-24,sneha.ahmed823@student.college.edu,+917376002680,Pune,Rural,EE,Electrical Engineering,3,2,2025-08-01,Active,73,Ms. Manoj Bhatia
+824,EE232014,Aarohi,Reddy,Aarohi Reddy,Female,20,2005-07-05,aarohi.reddy824@student.college.edu,+917080955620,Pune,Rural,EE,Electrical Engineering,3,2,2025-08-01,Active,73,Ms. Manoj Bhatia
+825,EE232015,Kabir,Malhotra,Kabir Malhotra,Male,19,2005-12-27,kabir.malhotra825@student.college.edu,+918769345981,Indore,Rural,EE,Electrical Engineering,3,2,2025-08-01,Active,73,Ms. Manoj Bhatia
+826,EE232016,Anvi,Desai,Anvi Desai,Female,21,2005-05-25,anvi.desai826@student.college.edu,+919590541309,Jaipur,Urban,EE,Electrical Engineering,3,2,2025-08-01,Active,73,Ms. Manoj Bhatia
+827,EE232017,Tanvi,Ghosh,Tanvi Ghosh,Female,20,2005-12-08,tanvi.ghosh827@student.college.edu,+919753667673,Patna,Semi-Urban,EE,Electrical Engineering,3,2,2025-08-01,Active,73,Ms. Manoj Bhatia
+828,EE232018,Siddharth,Das,Siddharth Das,Male,21,2005-06-23,siddharth.das828@student.college.edu,+918206947400,Patna,Rural,EE,Electrical Engineering,3,2,2025-08-01,Active,73,Ms. Manoj Bhatia
+829,EE232019,Samar,Khan,Samar Khan,Male,21,2005-11-26,samar.khan829@student.college.edu,+919895679690,Pune,Rural,EE,Electrical Engineering,3,2,2025-08-01,Active,73,Ms. Manoj Bhatia
+830,EE232020,Meera,Khan,Meera Khan,Female,20,2005-03-29,meera.khan830@student.college.edu,+919812221872,Ghaziabad,Rural,EE,Electrical Engineering,3,2,2025-08-01,Active,73,Ms. Manoj Bhatia
+831,EE241001,Priya,Iyer,Priya Iyer,Female,22,2004-05-27,priya.iyer831@student.college.edu,+918708300260,Vadodara,Semi-Urban,EE,Electrical Engineering,4,1,2025-08-01,Active,77,Ms. Alok Arora
+832,EE241002,Avni,Desai,Avni Desai,Female,22,2004-07-09,avni.desai832@student.college.edu,+917627581128,Ghaziabad,Semi-Urban,EE,Electrical Engineering,4,1,2025-08-01,Active,77,Ms. Alok Arora
+833,EE241003,Nikhil,Gupta,Nikhil Gupta,Male,21,2004-02-22,nikhil.gupta833@student.college.edu,+918769926413,Chennai,Semi-Urban,EE,Electrical Engineering,4,1,2025-08-01,Active,77,Ms. Alok Arora
+834,EE241004,Harshit,Arora,Harshit Arora,Male,22,2004-10-30,harshit.arora834@student.college.edu,+918722378913,Chennai,Urban,EE,Electrical Engineering,4,1,2025-08-01,Active,77,Ms. Alok Arora
+835,EE241005,Prisha,Bose,Prisha Bose,Female,20,2004-06-14,prisha.bose835@student.college.edu,+917160777986,Kolkata,Urban,EE,Electrical Engineering,4,1,2025-08-01,Active,77,Ms. Alok Arora
+836,EE241006,Anvi,Kaur,Anvi Kaur,Female,21,2004-08-17,anvi.kaur836@student.college.edu,+917661508432,Patna,Rural,EE,Electrical Engineering,4,1,2025-08-01,Active,77,Ms. Alok Arora
+837,EE241007,Sneha,Sethi,Sneha Sethi,Female,20,2004-08-24,sneha.sethi837@student.college.edu,+918827087755,Nagpur,Rural,EE,Electrical Engineering,4,1,2025-08-01,Active,77,Ms. Alok Arora
+838,EE241008,Sai,Arora,Sai Arora,Male,22,2004-03-09,sai.arora838@student.college.edu,+917976897352,Kolkata,Semi-Urban,EE,Electrical Engineering,4,1,2025-08-01,Active,77,Ms. Alok Arora
+839,EE241009,Sunita,Ahmed,Sunita Ahmed,Female,21,2004-05-30,sunita.ahmed839@student.college.edu,+918977237859,Delhi,Rural,EE,Electrical Engineering,4,1,2025-08-01,Active,77,Ms. Alok Arora
+840,EE241010,Diya,Shah,Diya Shah,Female,22,2004-10-12,diya.shah840@student.college.edu,+917341662321,Bangalore,Semi-Urban,EE,Electrical Engineering,4,1,2025-08-01,Active,77,Ms. Alok Arora
+841,EE241011,Manish,Chatterjee,Manish Chatterjee,Male,20,2004-03-17,manish.chatterjee841@student.college.edu,+919285697926,Ghaziabad,Urban,EE,Electrical Engineering,4,1,2025-08-01,Active,77,Ms. Alok Arora
+842,EE241012,Navya,Iyer,Navya Iyer,Female,20,2004-12-08,navya.iyer842@student.college.edu,+918305231731,Delhi,Semi-Urban,EE,Electrical Engineering,4,1,2025-08-01,Active,77,Ms. Alok Arora
+843,EE241013,Manish,Singh,Manish Singh,Male,21,2004-06-20,manish.singh843@student.college.edu,+919488889447,Kanpur,Rural,EE,Electrical Engineering,4,1,2025-08-01,Active,77,Ms. Alok Arora
+844,EE241014,Aryan,Mukherjee,Aryan Mukherjee,Male,20,2004-09-11,aryan.mukherjee844@student.college.edu,+918423993277,Chennai,Semi-Urban,EE,Electrical Engineering,4,1,2025-08-01,Active,77,Ms. Alok Arora
+845,EE241015,Varun,Ahmed,Varun Ahmed,Male,21,2004-12-28,varun.ahmed845@student.college.edu,+918677855372,Jaipur,Rural,EE,Electrical Engineering,4,1,2025-08-01,Active,77,Ms. Alok Arora
+846,EE241016,Arjun,Khanna,Arjun Khanna,Male,21,2004-06-12,arjun.khanna846@student.college.edu,+917638648881,Chennai,Semi-Urban,EE,Electrical Engineering,4,1,2025-08-01,Active,77,Ms. Alok Arora
+847,EE241017,Kabir,Kapoor,Kabir Kapoor,Male,20,2004-10-03,kabir.kapoor847@student.college.edu,+919695622207,Visakhapatnam,Urban,EE,Electrical Engineering,4,1,2025-08-01,Active,77,Ms. Alok Arora
+848,EE242001,Vivaan,Sharma,Vivaan Sharma,Male,22,2004-10-22,vivaan.sharma848@student.college.edu,+918110540704,Kanpur,Semi-Urban,EE,Electrical Engineering,4,2,2025-08-01,Active,77,Ms. Alok Arora
+849,EE242002,Navya,Ali,Navya Ali,Female,20,2004-01-06,navya.ali849@student.college.edu,+918941475959,Bangalore,Rural,EE,Electrical Engineering,4,2,2025-08-01,Active,77,Ms. Alok Arora
+850,EE242003,Pooja,Kumar,Pooja Kumar,Female,21,2004-05-15,pooja.kumar850@student.college.edu,+917865331779,Bhopal,Semi-Urban,EE,Electrical Engineering,4,2,2025-08-01,Active,77,Ms. Alok Arora
+851,EE242004,Neha,Bose,Neha Bose,Female,21,2004-03-25,neha.bose851@student.college.edu,+919541474199,Patna,Semi-Urban,EE,Electrical Engineering,4,2,2025-08-01,Active,77,Ms. Alok Arora
+852,EE242005,Suman,Kapoor,Suman Kapoor,Female,22,2004-08-27,suman.kapoor852@student.college.edu,+919331424147,Nagpur,Semi-Urban,EE,Electrical Engineering,4,2,2025-08-01,Active,77,Ms. Alok Arora
+853,EE242006,Yash,Reddy,Yash Reddy,Male,20,2004-06-14,yash.reddy853@student.college.edu,+917811319532,Kolkata,Rural,EE,Electrical Engineering,4,2,2025-08-01,Active,77,Ms. Alok Arora
+854,EE242007,Aarav,Agarwal,Aarav Agarwal,Male,20,2004-12-08,aarav.agarwal854@student.college.edu,+917357779249,Bangalore,Urban,EE,Electrical Engineering,4,2,2025-08-01,Active,77,Ms. Alok Arora
+855,EE242008,Kian,Khanna,Kian Khanna,Male,22,2004-08-17,kian.khanna855@student.college.edu,+918011996332,Ghaziabad,Rural,EE,Electrical Engineering,4,2,2025-08-01,Active,77,Ms. Alok Arora
+856,EE242009,Arnav,Das,Arnav Das,Male,20,2004-04-13,arnav.das856@student.college.edu,+919934356095,Ludhiana,Rural,EE,Electrical Engineering,4,2,2025-08-01,Active,77,Ms. Alok Arora
+857,EE242010,Krishna,Ahmed,Krishna Ahmed,Male,22,2004-08-31,krishna.ahmed857@student.college.edu,+917460364756,Lucknow,Urban,EE,Electrical Engineering,4,2,2025-08-01,Active,77,Ms. Alok Arora
+858,EE242011,Suman,Ali,Suman Ali,Female,21,2004-04-09,suman.ali858@student.college.edu,+917382563071,Indore,Urban,EE,Electrical Engineering,4,2,2025-08-01,Active,77,Ms. Alok Arora
+859,EE242012,Advait,Das,Advait Das,Male,22,2004-10-24,advait.das859@student.college.edu,+919657543919,Kanpur,Rural,EE,Electrical Engineering,4,2,2025-08-01,Active,77,Ms. Alok Arora
+860,EE242013,Sakshi,Ghosh,Sakshi Ghosh,Female,22,2004-12-22,sakshi.ghosh860@student.college.edu,+919676866818,Pune,Semi-Urban,EE,Electrical Engineering,4,2,2025-08-01,Active,77,Ms. Alok Arora
+861,EE242014,Ishaan,Banerjee,Ishaan Banerjee,Male,20,2004-02-01,ishaan.banerjee861@student.college.edu,+919429316440,Kolkata,Semi-Urban,EE,Electrical Engineering,4,2,2025-08-01,Active,77,Ms. Alok Arora
+862,EE242015,Myra,Chatterjee,Myra Chatterjee,Female,22,2004-10-03,myra.chatterjee862@student.college.edu,+917330215616,Delhi,Urban,EE,Electrical Engineering,4,2,2025-08-01,Active,77,Ms. Alok Arora
+863,EE242016,Rani,Shah,Rani Shah,Female,21,2004-10-11,rani.shah863@student.college.edu,+917949342005,Ahmedabad,Semi-Urban,EE,Electrical Engineering,4,2,2025-08-01,Active,77,Ms. Alok Arora
+864,EE242017,Ritika,Desai,Ritika Desai,Female,21,2004-10-08,ritika.desai864@student.college.edu,+918344359040,Hyderabad,Semi-Urban,EE,Electrical Engineering,4,2,2025-08-01,Active,77,Ms. Alok Arora
+865,EE242018,Amit,Pillai,Amit Pillai,Male,21,2004-05-08,amit.pillai865@student.college.edu,+917917593017,Lucknow,Urban,EE,Electrical Engineering,4,2,2025-08-01,Active,77,Ms. Alok Arora

@@ -1,0 +1,527 @@
+student_id,report_date,behavior_type,behavior,description,reported_by,severity
+247,2025-11-13,Negative,Distracted in Class,Not paying attention,Ms. Amit Kapoor,Medium
+247,2025-09-07,Positive,Respectful Behavior,Shows respect to faculty and peers,Ms. Amit Kapoor,Positive
+247,2025-09-07,Positive,Helpful to Peers,Assists other students,Ms. Amit Kapoor,Positive
+261,2025-10-25,Positive,Respectful Behavior,Shows respect to faculty and peers,Ms. Meera Patel,Positive
+261,2025-09-24,Positive,Punctual,Always on time for classes,Ms. Meera Patel,Positive
+734,2025-09-03,Positive,Punctual,Always on time for classes,Dr. Suresh Ahmed,Positive
+418,2025-09-11,Negative,Late to Class,Frequently arrives late,Prof. Alok Nair,High
+418,2025-09-23,Positive,Respectful Behavior,Shows respect to faculty and peers,Prof. Alok Nair,Positive
+418,2025-09-12,Positive,Helpful to Peers,Assists other students,Prof. Alok Nair,Positive
+800,2025-11-09,Positive,Respectful Behavior,Shows respect to faculty and peers,Ms. Manoj Bhatia,Positive
+800,2025-10-31,Negative,Irregular Attendance,Missing classes without notice,Ms. Manoj Bhatia,Low
+800,2025-09-22,Positive,Punctual,Always on time for classes,Ms. Manoj Bhatia,Positive
+548,2025-09-16,Negative,Late to Class,Frequently arrives late,Mr. Rajesh Mukherjee,Low
+548,2025-10-23,Positive,Punctual,Always on time for classes,Mr. Rajesh Mukherjee,Positive
+239,2025-11-30,Positive,Punctual,Always on time for classes,Ms. Amit Kapoor,Positive
+73,2025-09-05,Negative,Distracted in Class,Not paying attention,Prof. Nisha Gupta,Low
+73,2025-10-01,Positive,Helpful to Peers,Assists other students,Prof. Nisha Gupta,Positive
+73,2025-10-17,Positive,Excellent Participation,Always participates actively in class,Prof. Nisha Gupta,Positive
+744,2025-09-27,Negative,Distracted in Class,Not paying attention,Dr. Suresh Ahmed,Low
+744,2025-11-20,Positive,Excellent Participation,Always participates actively in class,Dr. Suresh Ahmed,Positive
+744,2025-11-06,Positive,Good Team Player,Works well in groups,Dr. Suresh Ahmed,Positive
+20,2025-10-13,Negative,Irregular Attendance,Missing classes without notice,Mr. Vinod Khanna,High
+20,2025-11-28,Negative,Late to Class,Frequently arrives late,Mr. Vinod Khanna,High
+20,2025-11-16,Positive,Punctual,Always on time for classes,Mr. Vinod Khanna,Positive
+312,2025-09-13,Positive,Respectful Behavior,Shows respect to faculty and peers,Dr. Amit Sinha,Positive
+755,2025-11-16,Positive,Good Team Player,Works well in groups,Ms. Anita Shah,Positive
+755,2025-11-29,Positive,Excellent Participation,Always participates actively in class,Ms. Anita Shah,Positive
+215,2025-11-01,Positive,Respectful Behavior,Shows respect to faculty and peers,Ms. Amit Kapoor,Positive
+215,2025-10-30,Positive,Respectful Behavior,Shows respect to faculty and peers,Ms. Amit Kapoor,Positive
+495,2025-09-06,Positive,Helpful to Peers,Assists other students,Mr. Sonal Nair,Positive
+495,2025-10-04,Negative,Late to Class,Frequently arrives late,Mr. Sonal Nair,Low
+268,2025-11-29,Positive,Good Team Player,Works well in groups,Ms. Meera Patel,Positive
+268,2025-10-06,Positive,Respectful Behavior,Shows respect to faculty and peers,Ms. Meera Patel,Positive
+268,2025-10-03,Negative,Late to Class,Frequently arrives late,Ms. Meera Patel,Medium
+645,2025-10-20,Negative,Irregular Attendance,Missing classes without notice,Mr. Ashok Shah,Low
+305,2025-10-20,Positive,Good Team Player,Works well in groups,Ms. Meera Patel,Positive
+821,2025-09-19,Negative,Distracted in Class,Not paying attention,Ms. Manoj Bhatia,High
+821,2025-09-26,Negative,Irregular Attendance,Missing classes without notice,Ms. Manoj Bhatia,Medium
+821,2025-11-29,Negative,Irregular Attendance,Missing classes without notice,Ms. Manoj Bhatia,Medium
+474,2025-09-23,Negative,Late to Class,Frequently arrives late,Mr. Preeti Shah,Low
+474,2025-11-23,Positive,Good Team Player,Works well in groups,Mr. Preeti Shah,Positive
+474,2025-10-08,Positive,Good Team Player,Works well in groups,Mr. Preeti Shah,Positive
+194,2025-11-09,Positive,Respectful Behavior,Shows respect to faculty and peers,Ms. Rajesh Ali,Positive
+194,2025-09-08,Positive,Excellent Participation,Always participates actively in class,Ms. Rajesh Ali,Positive
+194,2025-09-12,Positive,Helpful to Peers,Assists other students,Ms. Rajesh Ali,Positive
+801,2025-10-22,Positive,Punctual,Always on time for classes,Ms. Manoj Bhatia,Positive
+726,2025-10-09,Positive,Good Team Player,Works well in groups,Dr. Suresh Ahmed,Positive
+726,2025-09-02,Positive,Respectful Behavior,Shows respect to faculty and peers,Dr. Suresh Ahmed,Positive
+313,2025-10-18,Positive,Excellent Participation,Always participates actively in class,Dr. Amit Sinha,Positive
+860,2025-09-28,Negative,Irregular Attendance,Missing classes without notice,Ms. Alok Arora,Medium
+860,2025-10-24,Positive,Respectful Behavior,Shows respect to faculty and peers,Ms. Alok Arora,Positive
+512,2025-11-22,Positive,Respectful Behavior,Shows respect to faculty and peers,Mr. Sonal Nair,Positive
+512,2025-11-15,Positive,Excellent Participation,Always participates actively in class,Mr. Sonal Nair,Positive
+512,2025-10-23,Positive,Good Team Player,Works well in groups,Mr. Sonal Nair,Positive
+574,2025-09-20,Positive,Respectful Behavior,Shows respect to faculty and peers,Dr. Sunita Saxena,Positive
+574,2025-10-21,Positive,Helpful to Peers,Assists other students,Dr. Sunita Saxena,Positive
+574,2025-10-09,Positive,Punctual,Always on time for classes,Dr. Sunita Saxena,Positive
+380,2025-10-16,Positive,Respectful Behavior,Shows respect to faculty and peers,Dr. Preeti Joshi,Positive
+380,2025-11-29,Negative,Late to Class,Frequently arrives late,Dr. Preeti Joshi,Low
+380,2025-10-03,Positive,Good Team Player,Works well in groups,Dr. Preeti Joshi,Positive
+379,2025-09-06,Positive,Helpful to Peers,Assists other students,Dr. Preeti Joshi,Positive
+99,2025-09-03,Negative,Distracted in Class,Not paying attention,Prof. Nisha Gupta,Low
+175,2025-11-02,Negative,Irregular Attendance,Missing classes without notice,Ms. Rajesh Ali,Low
+175,2025-09-27,Positive,Excellent Participation,Always participates actively in class,Ms. Rajesh Ali,Positive
+410,2025-11-01,Negative,Late to Class,Frequently arrives late,Prof. Alok Nair,High
+410,2025-09-20,Negative,Late to Class,Frequently arrives late,Prof. Alok Nair,High
+410,2025-09-19,Negative,Irregular Attendance,Missing classes without notice,Prof. Alok Nair,Low
+78,2025-09-23,Positive,Good Team Player,Works well in groups,Prof. Nisha Gupta,Positive
+78,2025-10-25,Negative,Irregular Attendance,Missing classes without notice,Prof. Nisha Gupta,Medium
+611,2025-10-05,Positive,Good Team Player,Works well in groups,Prof. Ramesh Choudhury,Positive
+611,2025-09-17,Positive,Good Team Player,Works well in groups,Prof. Ramesh Choudhury,Positive
+611,2025-10-04,Negative,Irregular Attendance,Missing classes without notice,Prof. Ramesh Choudhury,Low
+501,2025-10-28,Positive,Respectful Behavior,Shows respect to faculty and peers,Mr. Sonal Nair,Positive
+501,2025-09-12,Positive,Respectful Behavior,Shows respect to faculty and peers,Mr. Sonal Nair,Positive
+386,2025-11-22,Positive,Respectful Behavior,Shows respect to faculty and peers,Dr. Preeti Joshi,Positive
+446,2025-09-16,Positive,Punctual,Always on time for classes,Mr. Preeti Shah,Positive
+446,2025-11-05,Positive,Respectful Behavior,Shows respect to faculty and peers,Mr. Preeti Shah,Positive
+446,2025-09-13,Negative,Distracted in Class,Not paying attention,Mr. Preeti Shah,Medium
+33,2025-10-15,Positive,Excellent Participation,Always participates actively in class,Mr. Vinod Khanna,Positive
+33,2025-11-17,Negative,Distracted in Class,Not paying attention,Mr. Vinod Khanna,Low
+33,2025-10-24,Positive,Excellent Participation,Always participates actively in class,Mr. Vinod Khanna,Positive
+302,2025-10-24,Negative,Distracted in Class,Not paying attention,Ms. Meera Patel,High
+302,2025-10-04,Negative,Distracted in Class,Not paying attention,Ms. Meera Patel,High
+302,2025-11-16,Positive,Excellent Participation,Always participates actively in class,Ms. Meera Patel,Positive
+693,2025-11-03,Positive,Punctual,Always on time for classes,Prof. Priya Arora,Positive
+693,2025-11-12,Negative,Irregular Attendance,Missing classes without notice,Prof. Priya Arora,High
+693,2025-11-25,Positive,Good Team Player,Works well in groups,Prof. Priya Arora,Positive
+153,2025-10-13,Positive,Punctual,Always on time for classes,Prof. Naveen Verma,Positive
+153,2025-10-06,Negative,Distracted in Class,Not paying attention,Prof. Naveen Verma,High
+764,2025-10-25,Positive,Good Team Player,Works well in groups,Ms. Anita Shah,Positive
+764,2025-10-18,Positive,Helpful to Peers,Assists other students,Ms. Anita Shah,Positive
+764,2025-10-15,Positive,Good Team Player,Works well in groups,Ms. Anita Shah,Positive
+14,2025-11-18,Negative,Late to Class,Frequently arrives late,Mr. Vinod Khanna,Medium
+144,2025-11-18,Positive,Respectful Behavior,Shows respect to faculty and peers,Prof. Naveen Verma,Positive
+465,2025-11-04,Positive,Excellent Participation,Always participates actively in class,Mr. Preeti Shah,Positive
+465,2025-11-24,Positive,Good Team Player,Works well in groups,Mr. Preeti Shah,Positive
+721,2025-10-20,Positive,Good Team Player,Works well in groups,Dr. Suresh Ahmed,Positive
+721,2025-11-12,Negative,Late to Class,Frequently arrives late,Dr. Suresh Ahmed,Low
+489,2025-11-25,Negative,Irregular Attendance,Missing classes without notice,Mr. Sonal Nair,High
+779,2025-10-13,Positive,Excellent Participation,Always participates actively in class,Ms. Anita Shah,Positive
+179,2025-10-26,Positive,Respectful Behavior,Shows respect to faculty and peers,Ms. Rajesh Ali,Positive
+582,2025-10-04,Positive,Respectful Behavior,Shows respect to faculty and peers,Dr. Sunita Saxena,Positive
+582,2025-09-21,Positive,Respectful Behavior,Shows respect to faculty and peers,Dr. Sunita Saxena,Positive
+228,2025-09-17,Positive,Good Team Player,Works well in groups,Ms. Amit Kapoor,Positive
+228,2025-09-15,Positive,Good Team Player,Works well in groups,Ms. Amit Kapoor,Positive
+228,2025-09-16,Positive,Excellent Participation,Always participates actively in class,Ms. Amit Kapoor,Positive
+677,2025-11-16,Positive,Helpful to Peers,Assists other students,Prof. Priya Arora,Positive
+677,2025-11-23,Negative,Late to Class,Frequently arrives late,Prof. Priya Arora,High
+517,2025-11-04,Positive,Punctual,Always on time for classes,Mr. Sonal Nair,Positive
+517,2025-11-20,Positive,Excellent Participation,Always participates actively in class,Mr. Sonal Nair,Positive
+517,2025-11-21,Negative,Late to Class,Frequently arrives late,Mr. Sonal Nair,Medium
+189,2025-10-05,Negative,Distracted in Class,Not paying attention,Ms. Rajesh Ali,Low
+189,2025-09-08,Positive,Helpful to Peers,Assists other students,Ms. Rajesh Ali,Positive
+537,2025-11-29,Positive,Helpful to Peers,Assists other students,Mr. Rajesh Mukherjee,Positive
+788,2025-11-20,Negative,Late to Class,Frequently arrives late,Ms. Anita Shah,Low
+788,2025-10-17,Positive,Excellent Participation,Always participates actively in class,Ms. Anita Shah,Positive
+788,2025-10-21,Positive,Excellent Participation,Always participates actively in class,Ms. Anita Shah,Positive
+569,2025-11-07,Negative,Distracted in Class,Not paying attention,Dr. Sunita Saxena,Low
+569,2025-11-09,Positive,Good Team Player,Works well in groups,Dr. Sunita Saxena,Positive
+569,2025-11-06,Positive,Good Team Player,Works well in groups,Dr. Sunita Saxena,Positive
+566,2025-10-18,Negative,Distracted in Class,Not paying attention,Dr. Sunita Saxena,High
+566,2025-10-29,Positive,Respectful Behavior,Shows respect to faculty and peers,Dr. Sunita Saxena,Positive
+839,2025-10-24,Positive,Good Team Player,Works well in groups,Ms. Alok Arora,Positive
+839,2025-09-12,Positive,Respectful Behavior,Shows respect to faculty and peers,Ms. Alok Arora,Positive
+839,2025-09-03,Positive,Helpful to Peers,Assists other students,Ms. Alok Arora,Positive
+127,2025-10-09,Positive,Helpful to Peers,Assists other students,Prof. Naveen Verma,Positive
+127,2025-10-15,Negative,Irregular Attendance,Missing classes without notice,Prof. Naveen Verma,High
+508,2025-10-22,Positive,Respectful Behavior,Shows respect to faculty and peers,Mr. Sonal Nair,Positive
+692,2025-10-11,Positive,Good Team Player,Works well in groups,Prof. Priya Arora,Positive
+692,2025-09-21,Positive,Respectful Behavior,Shows respect to faculty and peers,Prof. Priya Arora,Positive
+787,2025-09-17,Positive,Excellent Participation,Always participates actively in class,Ms. Anita Shah,Positive
+787,2025-11-03,Positive,Respectful Behavior,Shows respect to faculty and peers,Ms. Anita Shah,Positive
+547,2025-11-16,Positive,Good Team Player,Works well in groups,Mr. Rajesh Mukherjee,Positive
+547,2025-10-14,Positive,Respectful Behavior,Shows respect to faculty and peers,Mr. Rajesh Mukherjee,Positive
+547,2025-10-23,Negative,Late to Class,Frequently arrives late,Mr. Rajesh Mukherjee,High
+304,2025-11-26,Positive,Respectful Behavior,Shows respect to faculty and peers,Ms. Meera Patel,Positive
+304,2025-11-08,Positive,Respectful Behavior,Shows respect to faculty and peers,Ms. Meera Patel,Positive
+304,2025-09-07,Negative,Late to Class,Frequently arrives late,Ms. Meera Patel,High
+116,2025-09-16,Negative,Irregular Attendance,Missing classes without notice,Prof. Naveen Verma,Low
+116,2025-10-31,Negative,Distracted in Class,Not paying attention,Prof. Naveen Verma,Low
+282,2025-10-23,Negative,Late to Class,Frequently arrives late,Ms. Meera Patel,High
+543,2025-11-27,Negative,Late to Class,Frequently arrives late,Mr. Rajesh Mukherjee,Medium
+543,2025-10-18,Positive,Excellent Participation,Always participates actively in class,Mr. Rajesh Mukherjee,Positive
+543,2025-10-09,Positive,Punctual,Always on time for classes,Mr. Rajesh Mukherjee,Positive
+199,2025-09-16,Negative,Late to Class,Frequently arrives late,Ms. Rajesh Ali,High
+199,2025-09-17,Negative,Distracted in Class,Not paying attention,Ms. Rajesh Ali,Medium
+478,2025-10-30,Positive,Excellent Participation,Always participates actively in class,Mr. Preeti Shah,Positive
+478,2025-11-07,Positive,Respectful Behavior,Shows respect to faculty and peers,Mr. Preeti Shah,Positive
+478,2025-09-29,Negative,Late to Class,Frequently arrives late,Mr. Preeti Shah,Low
+202,2025-09-23,Positive,Helpful to Peers,Assists other students,Ms. Rajesh Ali,Positive
+198,2025-10-31,Positive,Good Team Player,Works well in groups,Ms. Rajesh Ali,Positive
+432,2025-11-09,Negative,Late to Class,Frequently arrives late,Prof. Alok Nair,High
+432,2025-10-21,Negative,Late to Class,Frequently arrives late,Prof. Alok Nair,Low
+835,2025-10-18,Positive,Helpful to Peers,Assists other students,Ms. Alok Arora,Positive
+835,2025-09-13,Positive,Excellent Participation,Always participates actively in class,Ms. Alok Arora,Positive
+835,2025-09-17,Negative,Distracted in Class,Not paying attention,Ms. Alok Arora,Low
+634,2025-10-16,Positive,Punctual,Always on time for classes,Prof. Ramesh Choudhury,Positive
+634,2025-10-13,Negative,Late to Class,Frequently arrives late,Prof. Ramesh Choudhury,Low
+634,2025-10-12,Positive,Punctual,Always on time for classes,Prof. Ramesh Choudhury,Positive
+812,2025-10-04,Negative,Late to Class,Frequently arrives late,Ms. Manoj Bhatia,Medium
+812,2025-10-05,Positive,Excellent Participation,Always participates actively in class,Ms. Manoj Bhatia,Positive
+188,2025-09-14,Positive,Helpful to Peers,Assists other students,Ms. Rajesh Ali,Positive
+188,2025-11-06,Positive,Punctual,Always on time for classes,Ms. Rajesh Ali,Positive
+188,2025-11-17,Negative,Late to Class,Frequently arrives late,Ms. Rajesh Ali,Low
+859,2025-09-28,Positive,Excellent Participation,Always participates actively in class,Ms. Alok Arora,Positive
+859,2025-10-01,Positive,Respectful Behavior,Shows respect to faculty and peers,Ms. Alok Arora,Positive
+859,2025-09-12,Negative,Irregular Attendance,Missing classes without notice,Ms. Alok Arora,High
+599,2025-10-14,Negative,Late to Class,Frequently arrives late,Prof. Ramesh Choudhury,Medium
+599,2025-11-12,Positive,Excellent Participation,Always participates actively in class,Prof. Ramesh Choudhury,Positive
+39,2025-10-21,Negative,Late to Class,Frequently arrives late,Mr. Vinod Khanna,Low
+39,2025-10-30,Positive,Excellent Participation,Always participates actively in class,Mr. Vinod Khanna,Positive
+39,2025-10-30,Positive,Excellent Participation,Always participates actively in class,Mr. Vinod Khanna,Positive
+858,2025-09-24,Negative,Irregular Attendance,Missing classes without notice,Ms. Alok Arora,High
+858,2025-11-06,Negative,Irregular Attendance,Missing classes without notice,Ms. Alok Arora,Low
+167,2025-09-15,Positive,Respectful Behavior,Shows respect to faculty and peers,Ms. Rajesh Ali,Positive
+463,2025-11-22,Positive,Respectful Behavior,Shows respect to faculty and peers,Mr. Preeti Shah,Positive
+463,2025-10-30,Negative,Distracted in Class,Not paying attention,Mr. Preeti Shah,High
+463,2025-11-21,Positive,Good Team Player,Works well in groups,Mr. Preeti Shah,Positive
+767,2025-11-08,Positive,Helpful to Peers,Assists other students,Ms. Anita Shah,Positive
+767,2025-11-26,Positive,Good Team Player,Works well in groups,Ms. Anita Shah,Positive
+720,2025-09-29,Positive,Good Team Player,Works well in groups,Dr. Suresh Ahmed,Positive
+120,2025-09-11,Positive,Helpful to Peers,Assists other students,Prof. Naveen Verma,Positive
+16,2025-10-13,Negative,Distracted in Class,Not paying attention,Mr. Vinod Khanna,Medium
+16,2025-11-15,Positive,Punctual,Always on time for classes,Mr. Vinod Khanna,Positive
+16,2025-09-04,Negative,Irregular Attendance,Missing classes without notice,Mr. Vinod Khanna,Low
+453,2025-09-18,Positive,Respectful Behavior,Shows respect to faculty and peers,Mr. Preeti Shah,Positive
+453,2025-11-30,Positive,Good Team Player,Works well in groups,Mr. Preeti Shah,Positive
+515,2025-11-08,Positive,Excellent Participation,Always participates actively in class,Mr. Sonal Nair,Positive
+515,2025-11-19,Negative,Irregular Attendance,Missing classes without notice,Mr. Sonal Nair,High
+817,2025-10-16,Positive,Respectful Behavior,Shows respect to faculty and peers,Ms. Manoj Bhatia,Positive
+506,2025-09-03,Positive,Good Team Player,Works well in groups,Mr. Sonal Nair,Positive
+722,2025-10-07,Positive,Good Team Player,Works well in groups,Dr. Suresh Ahmed,Positive
+722,2025-10-12,Positive,Excellent Participation,Always participates actively in class,Dr. Suresh Ahmed,Positive
+430,2025-10-02,Negative,Distracted in Class,Not paying attention,Prof. Alok Nair,Medium
+430,2025-09-19,Negative,Late to Class,Frequently arrives late,Prof. Alok Nair,Low
+430,2025-09-04,Positive,Excellent Participation,Always participates actively in class,Prof. Alok Nair,Positive
+627,2025-11-10,Positive,Respectful Behavior,Shows respect to faculty and peers,Prof. Ramesh Choudhury,Positive
+627,2025-10-04,Negative,Irregular Attendance,Missing classes without notice,Prof. Ramesh Choudhury,High
+627,2025-09-12,Positive,Excellent Participation,Always participates actively in class,Prof. Ramesh Choudhury,Positive
+662,2025-10-07,Positive,Respectful Behavior,Shows respect to faculty and peers,Mr. Ashok Shah,Positive
+662,2025-10-09,Positive,Helpful to Peers,Assists other students,Mr. Ashok Shah,Positive
+662,2025-09-28,Positive,Respectful Behavior,Shows respect to faculty and peers,Mr. Ashok Shah,Positive
+2,2025-09-08,Positive,Punctual,Always on time for classes,Mr. Vinod Khanna,Positive
+358,2025-10-20,Negative,Late to Class,Frequently arrives late,Dr. Preeti Joshi,High
+710,2025-09-27,Negative,Irregular Attendance,Missing classes without notice,Dr. Suresh Ahmed,Low
+618,2025-10-30,Negative,Irregular Attendance,Missing classes without notice,Prof. Ramesh Choudhury,High
+618,2025-09-28,Positive,Helpful to Peers,Assists other students,Prof. Ramesh Choudhury,Positive
+618,2025-11-07,Positive,Good Team Player,Works well in groups,Prof. Ramesh Choudhury,Positive
+4,2025-10-08,Negative,Irregular Attendance,Missing classes without notice,Mr. Vinod Khanna,High
+4,2025-09-27,Positive,Respectful Behavior,Shows respect to faculty and peers,Mr. Vinod Khanna,Positive
+270,2025-09-30,Positive,Punctual,Always on time for classes,Ms. Meera Patel,Positive
+173,2025-11-20,Negative,Distracted in Class,Not paying attention,Ms. Rajesh Ali,High
+576,2025-10-17,Positive,Excellent Participation,Always participates actively in class,Dr. Sunita Saxena,Positive
+576,2025-10-26,Positive,Excellent Participation,Always participates actively in class,Dr. Sunita Saxena,Positive
+447,2025-10-10,Positive,Helpful to Peers,Assists other students,Mr. Preeti Shah,Positive
+650,2025-10-17,Positive,Helpful to Peers,Assists other students,Mr. Ashok Shah,Positive
+321,2025-11-28,Positive,Good Team Player,Works well in groups,Dr. Amit Sinha,Positive
+321,2025-09-24,Positive,Respectful Behavior,Shows respect to faculty and peers,Dr. Amit Sinha,Positive
+321,2025-11-24,Positive,Excellent Participation,Always participates actively in class,Dr. Amit Sinha,Positive
+376,2025-09-14,Positive,Helpful to Peers,Assists other students,Dr. Preeti Joshi,Positive
+804,2025-09-14,Negative,Late to Class,Frequently arrives late,Ms. Manoj Bhatia,High
+804,2025-11-18,Positive,Respectful Behavior,Shows respect to faculty and peers,Ms. Manoj Bhatia,Positive
+513,2025-10-22,Negative,Distracted in Class,Not paying attention,Mr. Sonal Nair,High
+513,2025-10-15,Negative,Late to Class,Frequently arrives late,Mr. Sonal Nair,Medium
+356,2025-09-21,Positive,Good Team Player,Works well in groups,Dr. Preeti Joshi,Positive
+356,2025-09-10,Positive,Good Team Player,Works well in groups,Dr. Preeti Joshi,Positive
+356,2025-10-30,Positive,Punctual,Always on time for classes,Dr. Preeti Joshi,Positive
+423,2025-11-30,Positive,Good Team Player,Works well in groups,Prof. Alok Nair,Positive
+526,2025-11-22,Negative,Distracted in Class,Not paying attention,Mr. Rajesh Mukherjee,High
+526,2025-11-25,Positive,Good Team Player,Works well in groups,Mr. Rajesh Mukherjee,Positive
+629,2025-09-18,Negative,Irregular Attendance,Missing classes without notice,Prof. Ramesh Choudhury,Low
+629,2025-11-03,Positive,Excellent Participation,Always participates actively in class,Prof. Ramesh Choudhury,Positive
+629,2025-09-25,Negative,Distracted in Class,Not paying attention,Prof. Ramesh Choudhury,Low
+482,2025-11-16,Positive,Punctual,Always on time for classes,Mr. Sonal Nair,Positive
+482,2025-11-17,Positive,Good Team Player,Works well in groups,Mr. Sonal Nair,Positive
+285,2025-11-23,Negative,Late to Class,Frequently arrives late,Ms. Meera Patel,High
+285,2025-11-12,Negative,Late to Class,Frequently arrives late,Ms. Meera Patel,Medium
+285,2025-11-04,Positive,Excellent Participation,Always participates actively in class,Ms. Meera Patel,Positive
+647,2025-11-28,Positive,Helpful to Peers,Assists other students,Mr. Ashok Shah,Positive
+647,2025-09-18,Negative,Irregular Attendance,Missing classes without notice,Mr. Ashok Shah,Low
+541,2025-09-13,Negative,Distracted in Class,Not paying attention,Mr. Rajesh Mukherjee,Low
+541,2025-10-12,Positive,Punctual,Always on time for classes,Mr. Rajesh Mukherjee,Positive
+377,2025-11-29,Positive,Respectful Behavior,Shows respect to faculty and peers,Dr. Preeti Joshi,Positive
+377,2025-11-07,Positive,Respectful Behavior,Shows respect to faculty and peers,Dr. Preeti Joshi,Positive
+377,2025-10-28,Positive,Respectful Behavior,Shows respect to faculty and peers,Dr. Preeti Joshi,Positive
+89,2025-09-14,Negative,Irregular Attendance,Missing classes without notice,Prof. Nisha Gupta,Low
+89,2025-11-07,Positive,Helpful to Peers,Assists other students,Prof. Nisha Gupta,Positive
+816,2025-10-28,Negative,Irregular Attendance,Missing classes without notice,Ms. Manoj Bhatia,Medium
+503,2025-10-28,Positive,Helpful to Peers,Assists other students,Mr. Sonal Nair,Positive
+503,2025-09-14,Positive,Helpful to Peers,Assists other students,Mr. Sonal Nair,Positive
+503,2025-10-04,Positive,Excellent Participation,Always participates actively in class,Mr. Sonal Nair,Positive
+100,2025-10-01,Positive,Good Team Player,Works well in groups,Prof. Nisha Gupta,Positive
+100,2025-11-20,Negative,Late to Class,Frequently arrives late,Prof. Nisha Gupta,High
+100,2025-10-21,Negative,Distracted in Class,Not paying attention,Prof. Nisha Gupta,Medium
+334,2025-10-20,Negative,Distracted in Class,Not paying attention,Dr. Amit Sinha,Medium
+334,2025-11-10,Positive,Punctual,Always on time for classes,Dr. Amit Sinha,Positive
+334,2025-09-14,Positive,Punctual,Always on time for classes,Dr. Amit Sinha,Positive
+47,2025-11-19,Negative,Late to Class,Frequently arrives late,Mr. Vinod Khanna,Medium
+86,2025-09-07,Positive,Excellent Participation,Always participates actively in class,Prof. Nisha Gupta,Positive
+86,2025-11-03,Positive,Excellent Participation,Always participates actively in class,Prof. Nisha Gupta,Positive
+86,2025-11-28,Positive,Good Team Player,Works well in groups,Prof. Nisha Gupta,Positive
+46,2025-09-04,Positive,Good Team Player,Works well in groups,Mr. Vinod Khanna,Positive
+46,2025-10-08,Negative,Late to Class,Frequently arrives late,Mr. Vinod Khanna,High
+729,2025-09-24,Positive,Respectful Behavior,Shows respect to faculty and peers,Dr. Suresh Ahmed,Positive
+729,2025-10-01,Negative,Late to Class,Frequently arrives late,Dr. Suresh Ahmed,Low
+729,2025-09-02,Positive,Excellent Participation,Always participates actively in class,Dr. Suresh Ahmed,Positive
+65,2025-10-02,Positive,Helpful to Peers,Assists other students,Prof. Nisha Gupta,Positive
+65,2025-11-25,Positive,Helpful to Peers,Assists other students,Prof. Nisha Gupta,Positive
+70,2025-11-10,Positive,Excellent Participation,Always participates actively in class,Prof. Nisha Gupta,Positive
+553,2025-11-23,Positive,Punctual,Always on time for classes,Mr. Rajesh Mukherjee,Positive
+553,2025-10-25,Positive,Respectful Behavior,Shows respect to faculty and peers,Mr. Rajesh Mukherjee,Positive
+553,2025-10-19,Negative,Late to Class,Frequently arrives late,Mr. Rajesh Mukherjee,Low
+448,2025-10-11,Negative,Late to Class,Frequently arrives late,Mr. Preeti Shah,High
+56,2025-11-15,Positive,Helpful to Peers,Assists other students,Mr. Vinod Khanna,Positive
+56,2025-11-10,Negative,Late to Class,Frequently arrives late,Mr. Vinod Khanna,Low
+56,2025-10-21,Negative,Irregular Attendance,Missing classes without notice,Mr. Vinod Khanna,High
+3,2025-10-25,Positive,Helpful to Peers,Assists other students,Mr. Vinod Khanna,Positive
+472,2025-09-13,Positive,Good Team Player,Works well in groups,Mr. Preeti Shah,Positive
+472,2025-11-19,Positive,Respectful Behavior,Shows respect to faculty and peers,Mr. Preeti Shah,Positive
+472,2025-11-29,Negative,Distracted in Class,Not paying attention,Mr. Preeti Shah,High
+494,2025-10-22,Positive,Good Team Player,Works well in groups,Mr. Sonal Nair,Positive
+712,2025-10-06,Positive,Good Team Player,Works well in groups,Dr. Suresh Ahmed,Positive
+712,2025-11-02,Positive,Punctual,Always on time for classes,Dr. Suresh Ahmed,Positive
+712,2025-10-03,Negative,Late to Class,Frequently arrives late,Dr. Suresh Ahmed,High
+411,2025-09-18,Positive,Punctual,Always on time for classes,Prof. Alok Nair,Positive
+165,2025-10-12,Positive,Good Team Player,Works well in groups,Prof. Naveen Verma,Positive
+165,2025-11-02,Positive,Helpful to Peers,Assists other students,Prof. Naveen Verma,Positive
+360,2025-09-19,Positive,Excellent Participation,Always participates actively in class,Dr. Preeti Joshi,Positive
+756,2025-10-18,Negative,Late to Class,Frequently arrives late,Ms. Anita Shah,High
+601,2025-11-06,Positive,Good Team Player,Works well in groups,Prof. Ramesh Choudhury,Positive
+601,2025-11-04,Positive,Good Team Player,Works well in groups,Prof. Ramesh Choudhury,Positive
+103,2025-11-27,Positive,Punctual,Always on time for classes,Prof. Nisha Gupta,Positive
+103,2025-10-03,Negative,Late to Class,Frequently arrives late,Prof. Nisha Gupta,Low
+317,2025-10-04,Positive,Helpful to Peers,Assists other students,Dr. Amit Sinha,Positive
+50,2025-10-09,Positive,Respectful Behavior,Shows respect to faculty and peers,Mr. Vinod Khanna,Positive
+50,2025-10-31,Negative,Irregular Attendance,Missing classes without notice,Mr. Vinod Khanna,High
+50,2025-09-21,Positive,Excellent Participation,Always participates actively in class,Mr. Vinod Khanna,Positive
+373,2025-11-26,Negative,Irregular Attendance,Missing classes without notice,Dr. Preeti Joshi,High
+373,2025-09-18,Negative,Irregular Attendance,Missing classes without notice,Dr. Preeti Joshi,Low
+373,2025-09-11,Negative,Late to Class,Frequently arrives late,Dr. Preeti Joshi,Low
+704,2025-09-04,Positive,Excellent Participation,Always participates actively in class,Dr. Suresh Ahmed,Positive
+704,2025-11-19,Negative,Late to Class,Frequently arrives late,Dr. Suresh Ahmed,Low
+342,2025-10-11,Positive,Good Team Player,Works well in groups,Dr. Amit Sinha,Positive
+134,2025-10-10,Positive,Good Team Player,Works well in groups,Prof. Naveen Verma,Positive
+134,2025-10-26,Positive,Excellent Participation,Always participates actively in class,Prof. Naveen Verma,Positive
+134,2025-11-21,Positive,Respectful Behavior,Shows respect to faculty and peers,Prof. Naveen Verma,Positive
+709,2025-10-22,Positive,Respectful Behavior,Shows respect to faculty and peers,Dr. Suresh Ahmed,Positive
+824,2025-10-01,Positive,Excellent Participation,Always participates actively in class,Ms. Manoj Bhatia,Positive
+824,2025-10-01,Positive,Excellent Participation,Always participates actively in class,Ms. Manoj Bhatia,Positive
+824,2025-10-17,Negative,Distracted in Class,Not paying attention,Ms. Manoj Bhatia,High
+442,2025-09-02,Positive,Helpful to Peers,Assists other students,Mr. Preeti Shah,Positive
+442,2025-11-20,Positive,Excellent Participation,Always participates actively in class,Mr. Preeti Shah,Positive
+274,2025-10-05,Negative,Irregular Attendance,Missing classes without notice,Ms. Meera Patel,High
+274,2025-11-19,Negative,Late to Class,Frequently arrives late,Ms. Meera Patel,Low
+735,2025-11-20,Negative,Irregular Attendance,Missing classes without notice,Dr. Suresh Ahmed,Low
+735,2025-11-04,Positive,Punctual,Always on time for classes,Dr. Suresh Ahmed,Positive
+415,2025-11-14,Negative,Irregular Attendance,Missing classes without notice,Prof. Alok Nair,Low
+718,2025-10-09,Positive,Helpful to Peers,Assists other students,Dr. Suresh Ahmed,Positive
+371,2025-09-14,Positive,Helpful to Peers,Assists other students,Dr. Preeti Joshi,Positive
+725,2025-10-04,Negative,Late to Class,Frequently arrives late,Dr. Suresh Ahmed,Medium
+725,2025-10-04,Positive,Helpful to Peers,Assists other students,Dr. Suresh Ahmed,Positive
+214,2025-11-29,Positive,Helpful to Peers,Assists other students,Ms. Amit Kapoor,Positive
+214,2025-10-24,Negative,Late to Class,Frequently arrives late,Ms. Amit Kapoor,Medium
+840,2025-09-20,Positive,Punctual,Always on time for classes,Ms. Alok Arora,Positive
+766,2025-10-14,Positive,Punctual,Always on time for classes,Ms. Anita Shah,Positive
+467,2025-09-10,Positive,Punctual,Always on time for classes,Mr. Preeti Shah,Positive
+467,2025-10-28,Positive,Respectful Behavior,Shows respect to faculty and peers,Mr. Preeti Shah,Positive
+781,2025-10-21,Positive,Excellent Participation,Always participates actively in class,Ms. Anita Shah,Positive
+781,2025-11-18,Positive,Helpful to Peers,Assists other students,Ms. Anita Shah,Positive
+781,2025-11-09,Positive,Helpful to Peers,Assists other students,Ms. Anita Shah,Positive
+139,2025-11-24,Positive,Excellent Participation,Always participates actively in class,Prof. Naveen Verma,Positive
+139,2025-11-20,Positive,Respectful Behavior,Shows respect to faculty and peers,Prof. Naveen Verma,Positive
+139,2025-09-26,Positive,Excellent Participation,Always participates actively in class,Prof. Naveen Verma,Positive
+567,2025-10-23,Positive,Punctual,Always on time for classes,Dr. Sunita Saxena,Positive
+399,2025-11-22,Positive,Helpful to Peers,Assists other students,Prof. Alok Nair,Positive
+399,2025-09-03,Positive,Good Team Player,Works well in groups,Prof. Alok Nair,Positive
+209,2025-09-23,Negative,Late to Class,Frequently arrives late,Ms. Rajesh Ali,Low
+209,2025-10-30,Positive,Excellent Participation,Always participates actively in class,Ms. Rajesh Ali,Positive
+209,2025-10-03,Negative,Late to Class,Frequently arrives late,Ms. Rajesh Ali,Medium
+689,2025-10-03,Positive,Good Team Player,Works well in groups,Prof. Priya Arora,Positive
+689,2025-10-09,Negative,Irregular Attendance,Missing classes without notice,Prof. Priya Arora,Medium
+689,2025-09-03,Negative,Distracted in Class,Not paying attention,Prof. Priya Arora,High
+362,2025-10-10,Negative,Distracted in Class,Not paying attention,Dr. Preeti Joshi,High
+362,2025-09-30,Positive,Respectful Behavior,Shows respect to faculty and peers,Dr. Preeti Joshi,Positive
+169,2025-11-16,Positive,Helpful to Peers,Assists other students,Ms. Rajesh Ali,Positive
+169,2025-11-01,Negative,Late to Class,Frequently arrives late,Ms. Rajesh Ali,High
+169,2025-09-13,Negative,Late to Class,Frequently arrives late,Ms. Rajesh Ali,High
+701,2025-09-16,Positive,Helpful to Peers,Assists other students,Prof. Priya Arora,Positive
+389,2025-09-06,Negative,Distracted in Class,Not paying attention,Dr. Preeti Joshi,Low
+389,2025-09-03,Positive,Helpful to Peers,Assists other students,Dr. Preeti Joshi,Positive
+389,2025-11-24,Positive,Excellent Participation,Always participates actively in class,Dr. Preeti Joshi,Positive
+768,2025-10-15,Positive,Helpful to Peers,Assists other students,Ms. Anita Shah,Positive
+768,2025-10-28,Negative,Irregular Attendance,Missing classes without notice,Ms. Anita Shah,Medium
+307,2025-11-07,Negative,Distracted in Class,Not paying attention,Ms. Meera Patel,Medium
+307,2025-09-27,Positive,Good Team Player,Works well in groups,Ms. Meera Patel,Positive
+307,2025-10-31,Positive,Good Team Player,Works well in groups,Ms. Meera Patel,Positive
+444,2025-10-07,Negative,Distracted in Class,Not paying attention,Mr. Preeti Shah,High
+444,2025-09-26,Negative,Irregular Attendance,Missing classes without notice,Mr. Preeti Shah,Low
+564,2025-09-10,Positive,Excellent Participation,Always participates actively in class,Dr. Sunita Saxena,Positive
+564,2025-10-12,Negative,Distracted in Class,Not paying attention,Dr. Sunita Saxena,Medium
+564,2025-11-08,Positive,Good Team Player,Works well in groups,Dr. Sunita Saxena,Positive
+62,2025-10-16,Positive,Excellent Participation,Always participates actively in class,Prof. Nisha Gupta,Positive
+741,2025-11-16,Negative,Late to Class,Frequently arrives late,Dr. Suresh Ahmed,High
+741,2025-11-02,Positive,Respectful Behavior,Shows respect to faculty and peers,Dr. Suresh Ahmed,Positive
+237,2025-10-22,Positive,Good Team Player,Works well in groups,Ms. Amit Kapoor,Positive
+254,2025-09-14,Negative,Distracted in Class,Not paying attention,Ms. Amit Kapoor,Low
+303,2025-11-18,Positive,Respectful Behavior,Shows respect to faculty and peers,Ms. Meera Patel,Positive
+262,2025-11-17,Negative,Late to Class,Frequently arrives late,Ms. Meera Patel,Medium
+224,2025-09-06,Negative,Late to Class,Frequently arrives late,Ms. Amit Kapoor,Medium
+848,2025-09-06,Positive,Good Team Player,Works well in groups,Ms. Alok Arora,Positive
+848,2025-11-28,Positive,Respectful Behavior,Shows respect to faculty and peers,Ms. Alok Arora,Positive
+246,2025-09-18,Positive,Respectful Behavior,Shows respect to faculty and peers,Ms. Amit Kapoor,Positive
+246,2025-09-20,Positive,Respectful Behavior,Shows respect to faculty and peers,Ms. Amit Kapoor,Positive
+337,2025-10-05,Negative,Irregular Attendance,Missing classes without notice,Dr. Amit Sinha,Low
+337,2025-09-22,Positive,Punctual,Always on time for classes,Dr. Amit Sinha,Positive
+335,2025-10-21,Positive,Respectful Behavior,Shows respect to faculty and peers,Dr. Amit Sinha,Positive
+335,2025-10-07,Positive,Good Team Player,Works well in groups,Dr. Amit Sinha,Positive
+420,2025-11-10,Positive,Helpful to Peers,Assists other students,Prof. Alok Nair,Positive
+420,2025-10-04,Negative,Distracted in Class,Not paying attention,Prof. Alok Nair,Medium
+420,2025-10-06,Positive,Punctual,Always on time for classes,Prof. Alok Nair,Positive
+168,2025-11-25,Negative,Distracted in Class,Not paying attention,Ms. Rajesh Ali,High
+168,2025-11-16,Negative,Late to Class,Frequently arrives late,Ms. Rajesh Ali,Low
+168,2025-10-10,Negative,Distracted in Class,Not paying attention,Ms. Rajesh Ali,Low
+137,2025-09-29,Negative,Irregular Attendance,Missing classes without notice,Prof. Naveen Verma,Low
+137,2025-10-06,Positive,Helpful to Peers,Assists other students,Prof. Naveen Verma,Positive
+757,2025-10-23,Negative,Irregular Attendance,Missing classes without notice,Ms. Anita Shah,Low
+245,2025-10-19,Positive,Excellent Participation,Always participates actively in class,Ms. Amit Kapoor,Positive
+72,2025-11-02,Positive,Good Team Player,Works well in groups,Prof. Nisha Gupta,Positive
+770,2025-11-02,Negative,Distracted in Class,Not paying attention,Ms. Anita Shah,Low
+770,2025-10-26,Positive,Excellent Participation,Always participates actively in class,Ms. Anita Shah,Positive
+200,2025-09-16,Positive,Good Team Player,Works well in groups,Ms. Rajesh Ali,Positive
+200,2025-11-11,Positive,Excellent Participation,Always participates actively in class,Ms. Rajesh Ali,Positive
+200,2025-10-03,Negative,Late to Class,Frequently arrives late,Ms. Rajesh Ali,High
+575,2025-11-01,Positive,Good Team Player,Works well in groups,Dr. Sunita Saxena,Positive
+575,2025-11-27,Negative,Distracted in Class,Not paying attention,Dr. Sunita Saxena,High
+776,2025-11-16,Positive,Punctual,Always on time for classes,Ms. Anita Shah,Positive
+823,2025-10-07,Negative,Late to Class,Frequently arrives late,Ms. Manoj Bhatia,Medium
+823,2025-09-22,Positive,Respectful Behavior,Shows respect to faculty and peers,Ms. Manoj Bhatia,Positive
+823,2025-09-29,Positive,Good Team Player,Works well in groups,Ms. Manoj Bhatia,Positive
+452,2025-11-18,Positive,Helpful to Peers,Assists other students,Mr. Preeti Shah,Positive
+219,2025-11-29,Positive,Punctual,Always on time for classes,Ms. Amit Kapoor,Positive
+219,2025-09-06,Negative,Late to Class,Frequently arrives late,Ms. Amit Kapoor,Medium
+670,2025-09-20,Negative,Late to Class,Frequently arrives late,Mr. Ashok Shah,Low
+778,2025-10-19,Negative,Irregular Attendance,Missing classes without notice,Ms. Anita Shah,High
+778,2025-09-17,Negative,Late to Class,Frequently arrives late,Ms. Anita Shah,Low
+778,2025-09-06,Negative,Distracted in Class,Not paying attention,Ms. Anita Shah,Medium
+609,2025-09-27,Negative,Distracted in Class,Not paying attention,Prof. Ramesh Choudhury,High
+609,2025-11-04,Negative,Late to Class,Frequently arrives late,Prof. Ramesh Choudhury,Low
+724,2025-09-24,Positive,Punctual,Always on time for classes,Dr. Suresh Ahmed,Positive
+648,2025-09-25,Positive,Helpful to Peers,Assists other students,Mr. Ashok Shah,Positive
+648,2025-10-26,Positive,Excellent Participation,Always participates actively in class,Mr. Ashok Shah,Positive
+648,2025-09-03,Negative,Late to Class,Frequently arrives late,Mr. Ashok Shah,High
+346,2025-10-27,Positive,Excellent Participation,Always participates actively in class,Dr. Amit Sinha,Positive
+346,2025-10-30,Positive,Good Team Player,Works well in groups,Dr. Amit Sinha,Positive
+346,2025-09-24,Negative,Irregular Attendance,Missing classes without notice,Dr. Amit Sinha,Low
+749,2025-11-13,Negative,Irregular Attendance,Missing classes without notice,Ms. Anita Shah,Medium
+586,2025-11-25,Negative,Distracted in Class,Not paying attention,Dr. Sunita Saxena,Low
+687,2025-11-13,Positive,Helpful to Peers,Assists other students,Prof. Priya Arora,Positive
+178,2025-09-08,Positive,Excellent Participation,Always participates actively in class,Ms. Rajesh Ali,Positive
+178,2025-11-14,Negative,Late to Class,Frequently arrives late,Ms. Rajesh Ali,Low
+201,2025-09-19,Negative,Late to Class,Frequently arrives late,Ms. Rajesh Ali,High
+248,2025-09-20,Negative,Distracted in Class,Not paying attention,Ms. Amit Kapoor,Medium
+71,2025-11-29,Negative,Irregular Attendance,Missing classes without notice,Prof. Nisha Gupta,Medium
+71,2025-09-14,Negative,Distracted in Class,Not paying attention,Prof. Nisha Gupta,Medium
+71,2025-09-28,Positive,Respectful Behavior,Shows respect to faculty and peers,Prof. Nisha Gupta,Positive
+135,2025-10-12,Positive,Punctual,Always on time for classes,Prof. Naveen Verma,Positive
+135,2025-09-12,Negative,Irregular Attendance,Missing classes without notice,Prof. Naveen Verma,High
+135,2025-11-12,Positive,Respectful Behavior,Shows respect to faculty and peers,Prof. Naveen Verma,Positive
+619,2025-11-15,Negative,Irregular Attendance,Missing classes without notice,Prof. Ramesh Choudhury,High
+619,2025-11-02,Positive,Respectful Behavior,Shows respect to faculty and peers,Prof. Ramesh Choudhury,Positive
+619,2025-09-21,Negative,Late to Class,Frequently arrives late,Prof. Ramesh Choudhury,High
+115,2025-09-30,Positive,Helpful to Peers,Assists other students,Prof. Nisha Gupta,Positive
+115,2025-09-24,Positive,Helpful to Peers,Assists other students,Prof. Nisha Gupta,Positive
+318,2025-10-16,Positive,Helpful to Peers,Assists other students,Dr. Amit Sinha,Positive
+464,2025-10-16,Positive,Good Team Player,Works well in groups,Mr. Preeti Shah,Positive
+126,2025-11-21,Positive,Punctual,Always on time for classes,Prof. Naveen Verma,Positive
+126,2025-09-24,Positive,Helpful to Peers,Assists other students,Prof. Naveen Verma,Positive
+126,2025-11-30,Negative,Irregular Attendance,Missing classes without notice,Prof. Naveen Verma,Medium
+484,2025-11-27,Positive,Respectful Behavior,Shows respect to faculty and peers,Mr. Sonal Nair,Positive
+484,2025-10-02,Positive,Helpful to Peers,Assists other students,Mr. Sonal Nair,Positive
+166,2025-09-09,Positive,Excellent Participation,Always participates actively in class,Ms. Rajesh Ali,Positive
+166,2025-10-20,Negative,Irregular Attendance,Missing classes without notice,Ms. Rajesh Ali,Low
+638,2025-10-10,Positive,Respectful Behavior,Shows respect to faculty and peers,Mr. Ashok Shah,Positive
+155,2025-09-25,Positive,Punctual,Always on time for classes,Prof. Naveen Verma,Positive
+632,2025-10-30,Positive,Helpful to Peers,Assists other students,Prof. Ramesh Choudhury,Positive
+565,2025-10-20,Positive,Good Team Player,Works well in groups,Dr. Sunita Saxena,Positive
+565,2025-11-11,Positive,Punctual,Always on time for classes,Dr. Sunita Saxena,Positive
+565,2025-10-07,Positive,Respectful Behavior,Shows respect to faculty and peers,Dr. Sunita Saxena,Positive
+686,2025-09-21,Positive,Helpful to Peers,Assists other students,Prof. Priya Arora,Positive
+686,2025-09-11,Negative,Late to Class,Frequently arrives late,Prof. Priya Arora,Medium
+125,2025-11-02,Positive,Good Team Player,Works well in groups,Prof. Naveen Verma,Positive
+355,2025-11-12,Positive,Respectful Behavior,Shows respect to faculty and peers,Dr. Preeti Joshi,Positive
+355,2025-10-31,Negative,Late to Class,Frequently arrives late,Dr. Preeti Joshi,High
+714,2025-11-17,Positive,Good Team Player,Works well in groups,Dr. Suresh Ahmed,Positive
+714,2025-11-02,Negative,Distracted in Class,Not paying attention,Dr. Suresh Ahmed,Medium
+714,2025-11-20,Positive,Excellent Participation,Always participates actively in class,Dr. Suresh Ahmed,Positive
+378,2025-10-01,Negative,Irregular Attendance,Missing classes without notice,Dr. Preeti Joshi,Low
+834,2025-11-17,Positive,Excellent Participation,Always participates actively in class,Ms. Alok Arora,Positive
+834,2025-10-20,Positive,Helpful to Peers,Assists other students,Ms. Alok Arora,Positive
+834,2025-09-15,Negative,Distracted in Class,Not paying attention,Ms. Alok Arora,Low
+363,2025-10-26,Negative,Late to Class,Frequently arrives late,Dr. Preeti Joshi,Medium
+363,2025-11-13,Positive,Helpful to Peers,Assists other students,Dr. Preeti Joshi,Positive
+363,2025-09-12,Positive,Punctual,Always on time for classes,Dr. Preeti Joshi,Positive
+808,2025-11-16,Negative,Irregular Attendance,Missing classes without notice,Ms. Manoj Bhatia,High
+808,2025-09-16,Negative,Late to Class,Frequently arrives late,Ms. Manoj Bhatia,High
+615,2025-09-26,Negative,Distracted in Class,Not paying attention,Prof. Ramesh Choudhury,High
+615,2025-10-05,Negative,Irregular Attendance,Missing classes without notice,Prof. Ramesh Choudhury,Medium
+615,2025-11-02,Positive,Good Team Player,Works well in groups,Prof. Ramesh Choudhury,Positive
+854,2025-11-14,Positive,Punctual,Always on time for classes,Ms. Alok Arora,Positive
+854,2025-10-10,Negative,Late to Class,Frequently arrives late,Ms. Alok Arora,High
+320,2025-11-01,Positive,Excellent Participation,Always participates actively in class,Dr. Amit Sinha,Positive
+571,2025-09-02,Positive,Respectful Behavior,Shows respect to faculty and peers,Dr. Sunita Saxena,Positive
+571,2025-11-09,Positive,Punctual,Always on time for classes,Dr. Sunita Saxena,Positive
+571,2025-09-26,Negative,Late to Class,Frequently arrives late,Dr. Sunita Saxena,High
+38,2025-10-25,Negative,Irregular Attendance,Missing classes without notice,Mr. Vinod Khanna,Medium
+45,2025-10-10,Negative,Late to Class,Frequently arrives late,Mr. Vinod Khanna,Low
+45,2025-09-07,Negative,Distracted in Class,Not paying attention,Mr. Vinod Khanna,Medium
+45,2025-09-11,Negative,Distracted in Class,Not paying attention,Mr. Vinod Khanna,Low
+367,2025-09-10,Positive,Punctual,Always on time for classes,Dr. Preeti Joshi,Positive
+184,2025-11-03,Negative,Late to Class,Frequently arrives late,Ms. Rajesh Ali,Medium
+184,2025-11-27,Positive,Punctual,Always on time for classes,Ms. Rajesh Ali,Positive
+561,2025-11-04,Negative,Late to Class,Frequently arrives late,Dr. Sunita Saxena,Medium
+561,2025-10-06,Positive,Good Team Player,Works well in groups,Dr. Sunita Saxena,Positive
+93,2025-10-15,Positive,Excellent Participation,Always participates actively in class,Prof. Nisha Gupta,Positive
+93,2025-10-07,Negative,Distracted in Class,Not paying attention,Prof. Nisha Gupta,Low
+93,2025-11-22,Negative,Distracted in Class,Not paying attention,Prof. Nisha Gupta,High
+284,2025-10-19,Negative,Distracted in Class,Not paying attention,Ms. Meera Patel,Medium
+284,2025-11-01,Positive,Helpful to Peers,Assists other students,Ms. Meera Patel,Positive
+509,2025-09-05,Positive,Respectful Behavior,Shows respect to faculty and peers,Mr. Sonal Nair,Positive
+29,2025-11-19,Negative,Late to Class,Frequently arrives late,Mr. Vinod Khanna,High
+29,2025-11-30,Positive,Good Team Player,Works well in groups,Mr. Vinod Khanna,Positive
+468,2025-10-10,Positive,Punctual,Always on time for classes,Mr. Preeti Shah,Positive
+468,2025-11-21,Positive,Punctual,Always on time for classes,Mr. Preeti Shah,Positive
+225,2025-10-08,Positive,Respectful Behavior,Shows respect to faculty and peers,Ms. Amit Kapoor,Positive
+225,2025-09-03,Positive,Respectful Behavior,Shows respect to faculty and peers,Ms. Amit Kapoor,Positive
+225,2025-10-06,Positive,Good Team Player,Works well in groups,Ms. Amit Kapoor,Positive
+279,2025-09-26,Positive,Respectful Behavior,Shows respect to faculty and peers,Ms. Meera Patel,Positive
+533,2025-11-16,Positive,Helpful to Peers,Assists other students,Mr. Rajesh Mukherjee,Positive
+533,2025-11-30,Positive,Good Team Player,Works well in groups,Mr. Rajesh Mukherjee,Positive
+533,2025-09-04,Positive,Respectful Behavior,Shows respect to faculty and peers,Mr. Rajesh Mukherjee,Positive
+109,2025-10-02,Negative,Distracted in Class,Not paying attention,Prof. Nisha Gupta,High
+109,2025-11-09,Positive,Punctual,Always on time for classes,Prof. Nisha Gupta,Positive
+109,2025-10-24,Positive,Good Team Player,Works well in groups,Prof. Nisha Gupta,Positive
+557,2025-10-12,Negative,Irregular Attendance,Missing classes without notice,Mr. Rajesh Mukherjee,Low
+557,2025-09-17,Positive,Helpful to Peers,Assists other students,Mr. Rajesh Mukherjee,Positive
+754,2025-09-04,Positive,Helpful to Peers,Assists other students,Ms. Anita Shah,Positive
+595,2025-09-02,Positive,Excellent Participation,Always participates actively in class,Dr. Sunita Saxena,Positive
+769,2025-09-06,Positive,Helpful to Peers,Assists other students,Ms. Anita Shah,Positive
+769,2025-09-04,Negative,Late to Class,Frequently arrives late,Ms. Anita Shah,High
+30,2025-09-25,Negative,Irregular Attendance,Missing classes without notice,Mr. Vinod Khanna,High
+30,2025-09-30,Positive,Respectful Behavior,Shows respect to faculty and peers,Mr. Vinod Khanna,Positive
+244,2025-11-04,Positive,Punctual,Always on time for classes,Ms. Amit Kapoor,Positive
+244,2025-10-22,Negative,Distracted in Class,Not paying attention,Ms. Amit Kapoor,Low
+244,2025-11-18,Positive,Punctual,Always on time for classes,Ms. Amit Kapoor,Positive
+562,2025-10-18,Positive,Punctual,Always on time for classes,Dr. Sunita Saxena,Positive
+562,2025-09-16,Positive,Excellent Participation,Always participates actively in class,Dr. Sunita Saxena,Positive
+562,2025-09-17,Positive,Good Team Player,Works well in groups,Dr. Sunita Saxena,Positive
+15,2025-09-23,Positive,Good Team Player,Works well in groups,Mr. Vinod Khanna,Positive
+5,2025-09-18,Negative,Distracted in Class,Not paying attention,Mr. Vinod Khanna,Low
+5,2025-10-12,Positive,Helpful to Peers,Assists other students,Mr. Vinod Khanna,Positive
+644,2025-09-28,Negative,Distracted in Class,Not paying attention,Mr. Ashok Shah,Low
+644,2025-11-13,Negative,Irregular Attendance,Missing classes without notice,Mr. Ashok Shah,Medium
+644,2025-11-11,Negative,Distracted in Class,Not paying attention,Mr. Ashok Shah,Low
+626,2025-10-29,Positive,Good Team Player,Works well in groups,Prof. Ramesh Choudhury,Positive
+626,2025-11-09,Positive,Helpful to Peers,Assists other students,Prof. Ramesh Choudhury,Positive
+626,2025-09-23,Positive,Excellent Participation,Always participates actively in class,Prof. Ramesh Choudhury,Positive

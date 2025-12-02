@@ -1,0 +1,866 @@
+student_id,total_activities,participation_status,registration_date
+1,0,Not Participating,
+2,0,Not Participating,
+3,0,Not Participating,
+4,2,Active,2025-08-28
+5,3,Active,2025-08-11
+6,0,Not Participating,
+7,1,Active,2025-08-24
+8,3,Active,2025-08-08
+9,1,Active,2025-08-03
+10,3,Active,2025-08-04
+11,1,Active,2025-08-09
+12,2,Active,2025-08-10
+13,0,Not Participating,
+14,3,Active,2025-08-15
+15,0,Not Participating,
+16,1,Active,2025-08-24
+17,0,Not Participating,
+18,0,Not Participating,
+19,0,Not Participating,
+20,0,Not Participating,
+21,2,Active,2025-08-07
+22,0,Not Participating,
+23,3,Active,2025-08-06
+24,2,Active,2025-08-02
+25,4,Active,2025-08-07
+26,0,Not Participating,
+27,0,Not Participating,
+28,3,Active,2025-08-12
+29,0,Not Participating,
+30,0,Not Participating,
+31,2,Active,2025-08-04
+32,2,Active,2025-08-16
+33,3,Active,2025-08-27
+34,1,Active,2025-08-06
+35,0,Not Participating,
+36,2,Active,2025-08-03
+37,0,Not Participating,
+38,0,Not Participating,
+39,1,Active,2025-08-12
+40,1,Active,2025-08-24
+41,1,Active,2025-08-17
+42,0,Not Participating,
+43,3,Active,2025-08-07
+44,2,Active,2025-08-22
+45,1,Active,2025-08-19
+46,0,Not Participating,
+47,0,Not Participating,
+48,0,Not Participating,
+49,2,Active,2025-08-10
+50,2,Active,2025-08-05
+51,3,Active,2025-08-04
+52,2,Active,2025-08-17
+53,2,Active,2025-08-12
+54,0,Not Participating,
+55,3,Active,2025-08-13
+56,0,Not Participating,
+57,0,Not Participating,
+58,2,Active,2025-08-05
+59,0,Not Participating,
+60,0,Not Participating,
+61,1,Active,2025-08-24
+62,1,Active,2025-08-22
+63,2,Active,2025-08-09
+64,4,Active,2025-08-12
+65,0,Not Participating,
+66,2,Active,2025-08-18
+67,0,Not Participating,
+68,1,Active,2025-08-08
+69,2,Active,2025-08-04
+70,2,Active,2025-08-20
+71,1,Active,2025-08-11
+72,2,Active,2025-08-07
+73,0,Not Participating,
+74,0,Not Participating,
+75,1,Active,2025-08-29
+76,0,Not Participating,
+77,0,Not Participating,
+78,1,Active,2025-08-11
+79,1,Active,2025-08-06
+80,1,Active,2025-08-24
+81,2,Active,2025-08-28
+82,4,Active,2025-08-04
+83,3,Active,2025-08-04
+84,3,Active,2025-08-06
+85,2,Active,2025-08-15
+86,0,Not Participating,
+87,2,Active,2025-08-02
+88,2,Active,2025-08-10
+89,1,Active,2025-08-29
+90,0,Not Participating,
+91,0,Not Participating,
+92,0,Not Participating,
+93,2,Active,2025-08-10
+94,4,Active,2025-08-05
+95,4,Active,2025-08-07
+96,2,Active,2025-08-24
+97,2,Active,2025-08-03
+98,0,Not Participating,
+99,2,Active,2025-08-16
+100,3,Active,2025-08-06
+101,0,Not Participating,
+102,0,Not Participating,
+103,1,Active,2025-08-15
+104,1,Active,2025-08-28
+105,2,Active,2025-08-12
+106,1,Active,2025-08-13
+107,3,Active,2025-08-04
+108,0,Not Participating,
+109,0,Not Participating,
+110,1,Active,2025-08-11
+111,3,Active,2025-08-22
+112,1,Active,2025-08-28
+113,2,Active,2025-08-11
+114,2,Active,2025-08-02
+115,0,Not Participating,
+116,2,Active,2025-08-06
+117,0,Not Participating,
+118,4,Active,2025-08-16
+119,0,Not Participating,
+120,1,Active,2025-08-20
+121,0,Not Participating,
+122,1,Active,2025-08-31
+123,0,Not Participating,
+124,3,Active,2025-08-03
+125,4,Active,2025-08-02
+126,3,Active,2025-08-06
+127,0,Not Participating,
+128,1,Active,2025-08-26
+129,1,Active,2025-08-29
+130,0,Not Participating,
+131,0,Not Participating,
+132,1,Active,2025-08-07
+133,3,Active,2025-08-02
+134,1,Active,2025-08-14
+135,4,Active,2025-08-04
+136,0,Not Participating,
+137,0,Not Participating,
+138,0,Not Participating,
+139,0,Not Participating,
+140,1,Active,2025-08-16
+141,1,Active,2025-08-08
+142,2,Active,2025-08-13
+143,0,Not Participating,
+144,0,Not Participating,
+145,1,Active,2025-08-29
+146,1,Active,2025-08-02
+147,0,Not Participating,
+148,0,Not Participating,
+149,1,Active,2025-08-19
+150,1,Active,2025-08-21
+151,0,Not Participating,
+152,1,Active,2025-08-10
+153,0,Not Participating,
+154,1,Active,2025-08-29
+155,0,Not Participating,
+156,0,Not Participating,
+157,0,Not Participating,
+158,3,Active,2025-08-22
+159,0,Not Participating,
+160,0,Not Participating,
+161,0,Not Participating,
+162,1,Active,2025-08-18
+163,0,Not Participating,
+164,0,Not Participating,
+165,3,Active,2025-08-15
+166,0,Not Participating,
+167,0,Not Participating,
+168,3,Active,2025-08-11
+169,2,Active,2025-08-08
+170,4,Active,2025-08-02
+171,2,Active,2025-08-12
+172,2,Active,2025-08-26
+173,2,Active,2025-08-06
+174,1,Active,2025-08-31
+175,0,Not Participating,
+176,3,Active,2025-08-02
+177,2,Active,2025-08-09
+178,0,Not Participating,
+179,0,Not Participating,
+180,0,Not Participating,
+181,0,Not Participating,
+182,1,Active,2025-08-06
+183,0,Not Participating,
+184,1,Active,2025-08-05
+185,2,Active,2025-08-19
+186,3,Active,2025-08-03
+187,2,Active,2025-08-19
+188,3,Active,2025-08-03
+189,1,Active,2025-08-12
+190,0,Not Participating,
+191,1,Active,2025-08-23
+192,2,Active,2025-08-04
+193,3,Active,2025-08-24
+194,0,Not Participating,
+195,1,Active,2025-08-25
+196,3,Active,2025-08-05
+197,2,Active,2025-08-04
+198,2,Active,2025-08-18
+199,0,Not Participating,
+200,1,Active,2025-08-15
+201,0,Not Participating,
+202,0,Not Participating,
+203,0,Not Participating,
+204,2,Active,2025-08-17
+205,1,Active,2025-08-03
+206,1,Active,2025-08-21
+207,1,Active,2025-08-10
+208,0,Not Participating,
+209,0,Not Participating,
+210,1,Active,2025-08-05
+211,1,Active,2025-08-10
+212,4,Active,2025-08-08
+213,3,Active,2025-08-03
+214,0,Not Participating,
+215,2,Active,2025-08-06
+216,3,Active,2025-08-03
+217,0,Not Participating,
+218,1,Active,2025-08-20
+219,0,Not Participating,
+220,0,Not Participating,
+221,1,Active,2025-08-04
+222,0,Not Participating,
+223,2,Active,2025-08-07
+224,2,Active,2025-08-10
+225,2,Active,2025-08-14
+226,2,Active,2025-08-18
+227,1,Active,2025-08-29
+228,1,Active,2025-08-11
+229,0,Not Participating,
+230,0,Not Participating,
+231,0,Not Participating,
+232,1,Active,2025-08-31
+233,2,Active,2025-08-18
+234,3,Active,2025-08-14
+235,0,Not Participating,
+236,0,Not Participating,
+237,3,Active,2025-08-13
+238,2,Active,2025-08-20
+239,3,Active,2025-08-16
+240,0,Not Participating,
+241,2,Active,2025-08-14
+242,0,Not Participating,
+243,2,Active,2025-08-13
+244,0,Not Participating,
+245,2,Active,2025-08-15
+246,0,Not Participating,
+247,3,Active,2025-08-05
+248,0,Not Participating,
+249,2,Active,2025-08-14
+250,4,Active,2025-08-17
+251,2,Active,2025-08-10
+252,2,Active,2025-08-19
+253,1,Active,2025-08-25
+254,1,Active,2025-08-03
+255,2,Active,2025-08-11
+256,0,Not Participating,
+257,0,Not Participating,
+258,1,Active,2025-08-12
+259,1,Active,2025-08-14
+260,3,Active,2025-08-08
+261,0,Not Participating,
+262,1,Active,2025-08-13
+263,0,Not Participating,
+264,2,Active,2025-08-05
+265,2,Active,2025-08-19
+266,2,Active,2025-08-21
+267,2,Active,2025-08-06
+268,2,Active,2025-08-07
+269,4,Active,2025-08-03
+270,0,Not Participating,
+271,2,Active,2025-08-10
+272,2,Active,2025-08-08
+273,3,Active,2025-08-03
+274,2,Active,2025-08-04
+275,0,Not Participating,
+276,0,Not Participating,
+277,2,Active,2025-08-11
+278,2,Active,2025-08-16
+279,0,Not Participating,
+280,3,Active,2025-08-17
+281,2,Active,2025-08-16
+282,1,Active,2025-08-29
+283,0,Not Participating,
+284,2,Active,2025-08-15
+285,2,Active,2025-08-10
+286,0,Not Participating,
+287,0,Not Participating,
+288,2,Active,2025-08-22
+289,0,Not Participating,
+290,0,Not Participating,
+291,0,Not Participating,
+292,0,Not Participating,
+293,1,Active,2025-08-29
+294,0,Not Participating,
+295,2,Active,2025-08-03
+296,3,Active,2025-08-13
+297,0,Not Participating,
+298,2,Active,2025-08-09
+299,2,Active,2025-08-13
+300,1,Active,2025-08-11
+301,3,Active,2025-08-10
+302,0,Not Participating,
+303,3,Active,2025-08-03
+304,0,Not Participating,
+305,3,Active,2025-08-17
+306,3,Active,2025-08-04
+307,0,Not Participating,
+308,0,Not Participating,
+309,0,Not Participating,
+310,0,Not Participating,
+311,3,Active,2025-08-02
+312,0,Not Participating,
+313,0,Not Participating,
+314,3,Active,2025-08-04
+315,0,Not Participating,
+316,2,Active,2025-08-05
+317,1,Active,2025-08-23
+318,1,Active,2025-08-22
+319,3,Active,2025-08-10
+320,2,Active,2025-08-17
+321,2,Active,2025-08-19
+322,3,Active,2025-08-10
+323,0,Not Participating,
+324,0,Not Participating,
+325,2,Active,2025-08-29
+326,0,Not Participating,
+327,4,Active,2025-08-24
+328,0,Not Participating,
+329,0,Not Participating,
+330,2,Active,2025-08-20
+331,0,Not Participating,
+332,0,Not Participating,
+333,0,Not Participating,
+334,1,Active,2025-08-09
+335,3,Active,2025-08-22
+336,0,Not Participating,
+337,2,Active,2025-08-19
+338,0,Not Participating,
+339,1,Active,2025-08-06
+340,2,Active,2025-08-24
+341,0,Not Participating,
+342,2,Active,2025-08-08
+343,1,Active,2025-08-24
+344,0,Not Participating,
+345,0,Not Participating,
+346,0,Not Participating,
+347,2,Active,2025-08-14
+348,0,Not Participating,
+349,2,Active,2025-08-02
+350,2,Active,2025-08-03
+351,0,Not Participating,
+352,2,Active,2025-08-09
+353,0,Not Participating,
+354,2,Active,2025-08-15
+355,1,Active,2025-08-05
+356,2,Active,2025-08-08
+357,1,Active,2025-08-18
+358,0,Not Participating,
+359,2,Active,2025-08-18
+360,0,Not Participating,
+361,0,Not Participating,
+362,0,Not Participating,
+363,2,Active,2025-08-21
+364,2,Active,2025-08-08
+365,0,Not Participating,
+366,1,Active,2025-08-06
+367,2,Active,2025-08-21
+368,1,Active,2025-08-27
+369,3,Active,2025-08-03
+370,2,Active,2025-08-09
+371,1,Active,2025-08-17
+372,2,Active,2025-08-07
+373,0,Not Participating,
+374,1,Active,2025-08-03
+375,2,Active,2025-08-10
+376,2,Active,2025-08-08
+377,2,Active,2025-08-27
+378,4,Active,2025-08-08
+379,0,Not Participating,
+380,2,Active,2025-08-02
+381,1,Active,2025-08-31
+382,1,Active,2025-08-30
+383,0,Not Participating,
+384,2,Active,2025-08-07
+385,1,Active,2025-08-07
+386,1,Active,2025-08-18
+387,0,Not Participating,
+388,3,Active,2025-08-18
+389,2,Active,2025-08-19
+390,0,Not Participating,
+391,0,Not Participating,
+392,1,Active,2025-08-22
+393,0,Not Participating,
+394,0,Not Participating,
+395,1,Active,2025-08-05
+396,1,Active,2025-08-21
+397,3,Active,2025-08-12
+398,2,Active,2025-08-08
+399,1,Active,2025-08-02
+400,2,Active,2025-08-09
+401,3,Active,2025-08-07
+402,1,Active,2025-08-21
+403,0,Not Participating,
+404,2,Active,2025-08-06
+405,2,Active,2025-08-08
+406,2,Active,2025-08-02
+407,1,Active,2025-08-24
+408,0,Not Participating,
+409,0,Not Participating,
+410,2,Active,2025-08-05
+411,1,Active,2025-08-03
+412,2,Active,2025-08-08
+413,0,Not Participating,
+414,0,Not Participating,
+415,0,Not Participating,
+416,0,Not Participating,
+417,4,Active,2025-08-06
+418,0,Not Participating,
+419,0,Not Participating,
+420,2,Active,2025-08-10
+421,1,Active,2025-08-03
+422,1,Active,2025-08-15
+423,0,Not Participating,
+424,2,Active,2025-08-02
+425,0,Not Participating,
+426,0,Not Participating,
+427,3,Active,2025-08-10
+428,0,Not Participating,
+429,0,Not Participating,
+430,2,Active,2025-08-08
+431,4,Active,2025-08-04
+432,3,Active,2025-08-20
+433,1,Active,2025-08-28
+434,2,Active,2025-08-23
+435,1,Active,2025-08-21
+436,2,Active,2025-08-05
+437,2,Active,2025-08-02
+438,0,Not Participating,
+439,0,Not Participating,
+440,0,Not Participating,
+441,1,Active,2025-08-11
+442,0,Not Participating,
+443,1,Active,2025-08-15
+444,3,Active,2025-08-08
+445,2,Active,2025-08-11
+446,2,Active,2025-08-14
+447,1,Active,2025-08-05
+448,3,Active,2025-08-03
+449,1,Active,2025-08-13
+450,0,Not Participating,
+451,0,Not Participating,
+452,0,Not Participating,
+453,1,Active,2025-08-10
+454,3,Active,2025-08-02
+455,1,Active,2025-08-23
+456,2,Active,2025-08-14
+457,0,Not Participating,
+458,0,Not Participating,
+459,3,Active,2025-08-13
+460,0,Not Participating,
+461,1,Active,2025-08-28
+462,1,Active,2025-08-06
+463,0,Not Participating,
+464,1,Active,2025-08-03
+465,1,Active,2025-08-30
+466,1,Active,2025-08-04
+467,3,Active,2025-08-08
+468,3,Active,2025-08-12
+469,4,Active,2025-08-08
+470,0,Not Participating,
+471,2,Active,2025-08-16
+472,3,Active,2025-08-04
+473,1,Active,2025-08-13
+474,0,Not Participating,
+475,3,Active,2025-08-16
+476,3,Active,2025-08-12
+477,1,Active,2025-08-16
+478,1,Active,2025-08-28
+479,1,Active,2025-08-31
+480,0,Not Participating,
+481,2,Active,2025-08-13
+482,0,Not Participating,
+483,2,Active,2025-08-11
+484,3,Active,2025-08-02
+485,2,Active,2025-08-05
+486,0,Not Participating,
+487,3,Active,2025-08-03
+488,2,Active,2025-08-27
+489,0,Not Participating,
+490,0,Not Participating,
+491,0,Not Participating,
+492,2,Active,2025-08-04
+493,1,Active,2025-08-27
+494,3,Active,2025-08-04
+495,0,Not Participating,
+496,0,Not Participating,
+497,2,Active,2025-08-14
+498,1,Active,2025-08-31
+499,0,Not Participating,
+500,2,Active,2025-08-03
+501,1,Active,2025-08-13
+502,0,Not Participating,
+503,4,Active,2025-08-04
+504,0,Not Participating,
+505,1,Active,2025-08-18
+506,0,Not Participating,
+507,0,Not Participating,
+508,0,Not Participating,
+509,1,Active,2025-08-12
+510,3,Active,2025-08-04
+511,4,Active,2025-08-04
+512,3,Active,2025-08-06
+513,1,Active,2025-08-13
+514,0,Not Participating,
+515,2,Active,2025-08-15
+516,0,Not Participating,
+517,1,Active,2025-08-21
+518,2,Active,2025-08-10
+519,3,Active,2025-08-03
+520,1,Active,2025-08-29
+521,3,Active,2025-08-11
+522,1,Active,2025-08-24
+523,3,Active,2025-08-04
+524,0,Not Participating,
+525,0,Not Participating,
+526,1,Active,2025-08-10
+527,2,Active,2025-08-04
+528,2,Active,2025-08-19
+529,1,Active,2025-08-21
+530,0,Not Participating,
+531,1,Active,2025-08-29
+532,2,Active,2025-08-03
+533,4,Active,2025-08-03
+534,1,Active,2025-08-29
+535,1,Active,2025-08-31
+536,1,Active,2025-08-22
+537,2,Active,2025-08-16
+538,2,Active,2025-08-02
+539,0,Not Participating,
+540,3,Active,2025-08-07
+541,3,Active,2025-08-02
+542,3,Active,2025-08-11
+543,0,Not Participating,
+544,0,Not Participating,
+545,1,Active,2025-08-08
+546,4,Active,2025-08-08
+547,0,Not Participating,
+548,0,Not Participating,
+549,0,Not Participating,
+550,2,Active,2025-08-12
+551,1,Active,2025-08-09
+552,2,Active,2025-08-05
+553,0,Not Participating,
+554,3,Active,2025-08-03
+555,1,Active,2025-08-05
+556,0,Not Participating,
+557,1,Active,2025-08-09
+558,2,Active,2025-08-06
+559,0,Not Participating,
+560,3,Active,2025-08-16
+561,0,Not Participating,
+562,3,Active,2025-08-20
+563,2,Active,2025-08-08
+564,2,Active,2025-08-11
+565,0,Not Participating,
+566,0,Not Participating,
+567,1,Active,2025-08-25
+568,1,Active,2025-08-23
+569,2,Active,2025-08-12
+570,0,Not Participating,
+571,3,Active,2025-08-06
+572,0,Not Participating,
+573,1,Active,2025-08-23
+574,3,Active,2025-08-17
+575,3,Active,2025-08-06
+576,2,Active,2025-08-23
+577,0,Not Participating,
+578,2,Active,2025-08-04
+579,3,Active,2025-08-12
+580,2,Active,2025-08-03
+581,0,Not Participating,
+582,0,Not Participating,
+583,3,Active,2025-08-05
+584,0,Not Participating,
+585,2,Active,2025-08-08
+586,1,Active,2025-08-28
+587,3,Active,2025-08-10
+588,0,Not Participating,
+589,0,Not Participating,
+590,0,Not Participating,
+591,3,Active,2025-08-02
+592,3,Active,2025-08-04
+593,0,Not Participating,
+594,2,Active,2025-08-12
+595,4,Active,2025-08-13
+596,2,Active,2025-08-09
+597,0,Not Participating,
+598,2,Active,2025-08-10
+599,0,Not Participating,
+600,3,Active,2025-08-02
+601,3,Active,2025-08-09
+602,0,Not Participating,
+603,1,Active,2025-08-10
+604,0,Not Participating,
+605,1,Active,2025-08-02
+606,1,Active,2025-08-07
+607,2,Active,2025-08-25
+608,1,Active,2025-08-22
+609,1,Active,2025-08-21
+610,0,Not Participating,
+611,1,Active,2025-08-05
+612,3,Active,2025-08-04
+613,2,Active,2025-08-06
+614,2,Active,2025-08-25
+615,2,Active,2025-08-03
+616,0,Not Participating,
+617,4,Active,2025-08-13
+618,1,Active,2025-08-02
+619,0,Not Participating,
+620,1,Active,2025-08-14
+621,0,Not Participating,
+622,1,Active,2025-08-14
+623,2,Active,2025-08-18
+624,3,Active,2025-08-14
+625,0,Not Participating,
+626,0,Not Participating,
+627,3,Active,2025-08-02
+628,2,Active,2025-08-20
+629,0,Not Participating,
+630,2,Active,2025-08-19
+631,3,Active,2025-08-03
+632,3,Active,2025-08-11
+633,1,Active,2025-08-19
+634,0,Not Participating,
+635,2,Active,2025-08-09
+636,1,Active,2025-08-23
+637,0,Not Participating,
+638,1,Active,2025-08-12
+639,3,Active,2025-08-03
+640,2,Active,2025-08-03
+641,0,Not Participating,
+642,4,Active,2025-08-09
+643,0,Not Participating,
+644,1,Active,2025-08-08
+645,0,Not Participating,
+646,0,Not Participating,
+647,0,Not Participating,
+648,3,Active,2025-08-08
+649,1,Active,2025-08-27
+650,1,Active,2025-08-26
+651,4,Active,2025-08-02
+652,0,Not Participating,
+653,0,Not Participating,
+654,3,Active,2025-08-04
+655,2,Active,2025-08-15
+656,3,Active,2025-08-06
+657,2,Active,2025-08-03
+658,2,Active,2025-08-12
+659,0,Not Participating,
+660,0,Not Participating,
+661,2,Active,2025-08-02
+662,4,Active,2025-08-13
+663,3,Active,2025-08-05
+664,0,Not Participating,
+665,3,Active,2025-08-05
+666,0,Not Participating,
+667,2,Active,2025-08-09
+668,2,Active,2025-08-04
+669,2,Active,2025-08-15
+670,1,Active,2025-08-02
+671,2,Active,2025-08-20
+672,1,Active,2025-08-03
+673,1,Active,2025-08-03
+674,0,Not Participating,
+675,0,Not Participating,
+676,2,Active,2025-08-13
+677,1,Active,2025-08-07
+678,2,Active,2025-08-17
+679,3,Active,2025-08-04
+680,1,Active,2025-08-16
+681,0,Not Participating,
+682,1,Active,2025-08-26
+683,2,Active,2025-08-06
+684,1,Active,2025-08-17
+685,2,Active,2025-08-19
+686,0,Not Participating,
+687,4,Active,2025-08-06
+688,0,Not Participating,
+689,0,Not Participating,
+690,2,Active,2025-08-03
+691,0,Not Participating,
+692,1,Active,2025-08-21
+693,1,Active,2025-08-04
+694,1,Active,2025-08-07
+695,1,Active,2025-08-17
+696,0,Not Participating,
+697,0,Not Participating,
+698,3,Active,2025-08-03
+699,1,Active,2025-08-17
+700,1,Active,2025-08-02
+701,1,Active,2025-08-05
+702,0,Not Participating,
+703,2,Active,2025-08-14
+704,0,Not Participating,
+705,4,Active,2025-08-03
+706,1,Active,2025-08-09
+707,2,Active,2025-08-02
+708,1,Active,2025-08-08
+709,0,Not Participating,
+710,2,Active,2025-08-19
+711,0,Not Participating,
+712,3,Active,2025-08-15
+713,0,Not Participating,
+714,2,Active,2025-08-06
+715,2,Active,2025-08-15
+716,0,Not Participating,
+717,0,Not Participating,
+718,0,Not Participating,
+719,3,Active,2025-08-03
+720,3,Active,2025-08-20
+721,2,Active,2025-08-10
+722,1,Active,2025-08-17
+723,0,Not Participating,
+724,0,Not Participating,
+725,2,Active,2025-08-26
+726,0,Not Participating,
+727,1,Active,2025-08-22
+728,0,Not Participating,
+729,1,Active,2025-08-05
+730,4,Active,2025-08-06
+731,1,Active,2025-08-08
+732,0,Not Participating,
+733,0,Not Participating,
+734,2,Active,2025-08-15
+735,1,Active,2025-08-19
+736,1,Active,2025-08-14
+737,2,Active,2025-08-08
+738,0,Not Participating,
+739,1,Active,2025-08-18
+740,0,Not Participating,
+741,0,Not Participating,
+742,1,Active,2025-08-22
+743,2,Active,2025-08-09
+744,2,Active,2025-08-12
+745,0,Not Participating,
+746,0,Not Participating,
+747,3,Active,2025-08-10
+748,0,Not Participating,
+749,0,Not Participating,
+750,1,Active,2025-08-26
+751,1,Active,2025-08-27
+752,2,Active,2025-08-02
+753,2,Active,2025-08-20
+754,3,Active,2025-08-02
+755,2,Active,2025-08-10
+756,0,Not Participating,
+757,1,Active,2025-08-18
+758,4,Active,2025-08-17
+759,0,Not Participating,
+760,0,Not Participating,
+761,3,Active,2025-08-17
+762,2,Active,2025-08-04
+763,3,Active,2025-08-05
+764,2,Active,2025-08-06
+765,1,Active,2025-08-31
+766,2,Active,2025-08-13
+767,1,Active,2025-08-23
+768,1,Active,2025-08-04
+769,2,Active,2025-08-28
+770,3,Active,2025-08-11
+771,2,Active,2025-08-05
+772,3,Active,2025-08-15
+773,2,Active,2025-08-14
+774,1,Active,2025-08-23
+775,4,Active,2025-08-04
+776,0,Not Participating,
+777,0,Not Participating,
+778,1,Active,2025-08-18
+779,0,Not Participating,
+780,0,Not Participating,
+781,4,Active,2025-08-06
+782,0,Not Participating,
+783,2,Active,2025-08-08
+784,3,Active,2025-08-04
+785,0,Not Participating,
+786,1,Active,2025-08-23
+787,0,Not Participating,
+788,0,Not Participating,
+789,2,Active,2025-08-12
+790,1,Active,2025-08-28
+791,1,Active,2025-08-26
+792,2,Active,2025-08-26
+793,2,Active,2025-08-04
+794,0,Not Participating,
+795,2,Active,2025-08-12
+796,1,Active,2025-08-03
+797,0,Not Participating,
+798,0,Not Participating,
+799,0,Not Participating,
+800,0,Not Participating,
+801,4,Active,2025-08-19
+802,2,Active,2025-08-03
+803,1,Active,2025-08-27
+804,3,Active,2025-08-12
+805,2,Active,2025-08-07
+806,2,Active,2025-08-02
+807,0,Not Participating,
+808,2,Active,2025-08-08
+809,0,Not Participating,
+810,0,Not Participating,
+811,0,Not Participating,
+812,1,Active,2025-08-12
+813,0,Not Participating,
+814,1,Active,2025-08-24
+815,0,Not Participating,
+816,1,Active,2025-08-10
+817,0,Not Participating,
+818,3,Active,2025-08-07
+819,1,Active,2025-08-15
+820,1,Active,2025-08-26
+821,4,Active,2025-08-02
+822,0,Not Participating,
+823,1,Active,2025-08-23
+824,1,Active,2025-08-04
+825,1,Active,2025-08-06
+826,1,Active,2025-08-18
+827,2,Active,2025-08-11
+828,0,Not Participating,
+829,0,Not Participating,
+830,1,Active,2025-08-11
+831,2,Active,2025-08-11
+832,0,Not Participating,
+833,0,Not Participating,
+834,1,Active,2025-08-14
+835,1,Active,2025-08-06
+836,3,Active,2025-08-08
+837,1,Active,2025-08-20
+838,0,Not Participating,
+839,4,Active,2025-08-11
+840,2,Active,2025-08-08
+841,0,Not Participating,
+842,0,Not Participating,
+843,3,Active,2025-08-13
+844,2,Active,2025-08-10
+845,0,Not Participating,
+846,0,Not Participating,
+847,2,Active,2025-08-10
+848,0,Not Participating,
+849,1,Active,2025-08-25
+850,2,Active,2025-08-23
+851,1,Active,2025-08-06
+852,2,Active,2025-08-12
+853,3,Active,2025-08-22
+854,2,Active,2025-08-06
+855,1,Active,2025-08-03
+856,2,Active,2025-08-07
+857,0,Not Participating,
+858,0,Not Participating,
+859,0,Not Participating,
+860,3,Active,2025-08-23
+861,2,Active,2025-08-18
+862,2,Active,2025-08-24
+863,0,Not Participating,
+864,0,Not Participating,
+865,1,Active,2025-08-18

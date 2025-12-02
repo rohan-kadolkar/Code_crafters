@@ -1,0 +1,1086 @@
+student_id,activity_name,activity_category,registration_date,role,activity_level,hours_per_week,total_events_participated,achievement,status,faculty_coordinator
+4,Innovation Club,Academic,2025-08-29,Member,Low,3,2,,Active,Mr. Vinod Khanna
+4,Cricket Team,Sports,2025-08-28,Member,Low,1,1,,Active,Mr. Vinod Khanna
+5,Robotics Club,Technical,2025-08-30,Core Team,High,8,7,,Active,Mr. Vinod Khanna
+5,Mathematics Club,Academic,2025-08-11,Active Member,Medium,4,5,,Active,Mr. Vinod Khanna
+5,Cricket Team,Sports,2025-08-21,President/Head,Very High,11,11,,Inactive,Mr. Vinod Khanna
+7,Event Management Team,Other,2025-08-24,Active Member,High,8,7,Participation Certificate,Active,Mr. Vinod Khanna
+8,NSS,Social,2025-08-25,Active Member,Medium,5,4,Best Performer Award,Active,Mr. Vinod Khanna
+8,Quiz Club,Academic,2025-08-08,Coordinator,Very High,14,18,,Active,Mr. Vinod Khanna
+8,Dance Club,Cultural,2025-08-25,Core Team,High,9,7,,Active,Mr. Vinod Khanna
+9,Basketball Team,Sports,2025-08-03,Member,Low,3,1,,Inactive,Mr. Vinod Khanna
+10,Football Team,Sports,2025-08-27,Member,Medium,6,2,,Inactive,Mr. Vinod Khanna
+10,Rotaract Club,Social,2025-08-20,Member,Low,3,0,,Active,Mr. Vinod Khanna
+10,Dance Club,Cultural,2025-08-04,Active Member,High,9,7,,Active,Mr. Vinod Khanna
+11,Web Development Club,Technical,2025-08-09,Member,Medium,6,5,,Active,Mr. Vinod Khanna
+12,Football Team,Sports,2025-08-24,Member,High,7,10,Winner - Intra College Competition,Active,Mr. Vinod Khanna
+12,Rotaract Club,Social,2025-08-10,Coordinator,Very High,13,15,,Active,Mr. Vinod Khanna
+14,Dance Club,Cultural,2025-08-15,Member,High,10,8,,Active,Mr. Vinod Khanna
+14,Basketball Team,Sports,2025-08-30,Member,Medium,6,5,,Active,Mr. Vinod Khanna
+14,Quiz Club,Academic,2025-08-18,Core Team,High,7,10,,Active,Mr. Vinod Khanna
+16,Photography Club,Cultural,2025-08-24,Active Member,High,6,10,,Inactive,Mr. Vinod Khanna
+21,Photography Club,Cultural,2025-08-07,Active Member,High,6,7,,Active,Mr. Vinod Khanna
+21,Student Council,Other,2025-08-24,Member,Medium,4,3,Winner - Inter College Competition,Active,Mr. Vinod Khanna
+23,Mathematics Club,Academic,2025-08-26,Active Member,High,9,6,,Active,Mr. Vinod Khanna
+23,Rotaract Club,Social,2025-08-21,Member,High,8,5,,Active,Mr. Vinod Khanna
+23,Dance Club,Cultural,2025-08-06,Active Member,Medium,4,2,,Active,Mr. Vinod Khanna
+24,Music Club,Cultural,2025-08-02,Coordinator,Very High,15,11,,Active,Mr. Vinod Khanna
+24,Web Development Club,Technical,2025-08-13,Member,Medium,4,3,,Active,Mr. Vinod Khanna
+25,Student Council,Other,2025-08-07,Member,High,7,7,,Inactive,Mr. Vinod Khanna
+25,AI/ML Club,Technical,2025-08-11,Active Member,Medium,3,2,,Inactive,Mr. Vinod Khanna
+25,Drama Club,Cultural,2025-08-25,Member,High,7,10,Participation Certificate,Active,Mr. Vinod Khanna
+25,Environmental Club,Social,2025-08-22,Member,Medium,5,3,,Active,Mr. Vinod Khanna
+28,Football Team,Sports,2025-08-22,Active Member,Medium,5,3,,Inactive,Mr. Vinod Khanna
+28,Dance Club,Cultural,2025-08-12,Active Member,Medium,5,5,,Active,Mr. Vinod Khanna
+28,Innovation Club,Academic,2025-08-30,Core Team,Very High,10,19,,Active,Mr. Vinod Khanna
+31,Event Management Team,Other,2025-08-04,Coordinator,Very High,10,15,,Active,Mr. Vinod Khanna
+31,Basketball Team,Sports,2025-08-25,President/Head,Very High,11,20,,Active,Mr. Vinod Khanna
+32,Dance Club,Cultural,2025-08-16,Member,Low,1,2,,Active,Mr. Vinod Khanna
+32,Cricket Team,Sports,2025-08-25,Core Team,Very High,10,20,,Active,Mr. Vinod Khanna
+33,Photography Club,Cultural,2025-08-31,Member,Low,3,1,,Active,Mr. Vinod Khanna
+33,Quiz Club,Academic,2025-08-31,Member,Medium,3,2,Best Performer Award,Inactive,Mr. Vinod Khanna
+33,College Magazine,Other,2025-08-27,Member,Low,3,0,,Active,Mr. Vinod Khanna
+34,Basketball Team,Sports,2025-08-06,Member,Low,3,0,,Inactive,Mr. Vinod Khanna
+36,Environmental Club,Social,2025-08-03,Coordinator,Very High,11,13,,Active,Mr. Vinod Khanna
+36,Web Development Club,Technical,2025-08-08,Core Team,High,7,10,,Active,Mr. Vinod Khanna
+39,Innovation Club,Academic,2025-08-12,Member,High,9,6,,Active,Mr. Vinod Khanna
+40,Coding Club,Technical,2025-08-24,Member,Low,1,1,,Active,Mr. Vinod Khanna
+41,Rotaract Club,Social,2025-08-17,Member,Low,3,1,,Active,Mr. Vinod Khanna
+43,NCC,Social,2025-08-25,Member,Low,1,1,,Active,Mr. Vinod Khanna
+43,Event Management Team,Other,2025-08-18,Member,Low,3,0,Winner - Intra College Competition,Active,Mr. Vinod Khanna
+43,Basketball Team,Sports,2025-08-07,Member,Low,2,1,,Inactive,Mr. Vinod Khanna
+44,Dance Club,Cultural,2025-08-22,President/Head,Very High,10,11,,Active,Mr. Vinod Khanna
+44,Badminton Club,Sports,2025-08-28,Member,Medium,6,2,,Active,Mr. Vinod Khanna
+45,Event Management Team,Other,2025-08-19,Member,Medium,6,4,,Active,Mr. Vinod Khanna
+49,Quiz Club,Academic,2025-08-16,Member,Low,1,0,,Active,Mr. Vinod Khanna
+49,Music Club,Cultural,2025-08-10,Core Team,High,7,9,,Active,Mr. Vinod Khanna
+50,Music Club,Cultural,2025-08-12,Member,Low,1,2,,Active,Mr. Vinod Khanna
+50,NSS,Social,2025-08-05,Member,Low,2,2,Participation Certificate,Inactive,Mr. Vinod Khanna
+51,Student Council,Other,2025-08-04,Coordinator,Very High,10,18,,Active,Mr. Vinod Khanna
+51,Football Team,Sports,2025-08-26,Member,Medium,4,2,,Active,Mr. Vinod Khanna
+51,Quiz Club,Academic,2025-08-25,Member,Medium,3,2,,Active,Mr. Vinod Khanna
+52,Innovation Club,Academic,2025-08-17,Member,Low,1,1,,Active,Mr. Vinod Khanna
+52,Robotics Club,Technical,2025-08-29,Member,Medium,6,5,,Active,Mr. Vinod Khanna
+53,Cricket Team,Sports,2025-08-20,Member,Low,1,1,Certificate of Excellence,Active,Mr. Vinod Khanna
+53,Music Club,Cultural,2025-08-12,Member,Low,2,0,,Active,Mr. Vinod Khanna
+55,Innovation Club,Academic,2025-08-20,Active Member,Medium,3,5,,Active,Mr. Vinod Khanna
+55,Event Management Team,Other,2025-08-31,Active Member,Medium,4,3,,Active,Mr. Vinod Khanna
+55,Web Development Club,Technical,2025-08-13,Member,Medium,4,4,Winner - Inter College Competition,Active,Mr. Vinod Khanna
+58,Innovation Club,Academic,2025-08-30,Member,Low,2,2,Best Performer Award,Inactive,Mr. Vinod Khanna
+58,Photography Club,Cultural,2025-08-05,Active Member,High,8,6,,Active,Mr. Vinod Khanna
+61,Basketball Team,Sports,2025-08-24,Active Member,High,9,9,,Active,Prof. Nisha Gupta
+62,Photography Club,Cultural,2025-08-22,Core Team,High,6,9,,Active,Prof. Nisha Gupta
+63,NCC,Social,2025-08-09,Active Member,High,10,8,,Active,Prof. Nisha Gupta
+63,Photography Club,Cultural,2025-08-23,Member,Medium,4,5,Winner - Inter College Competition,Active,Prof. Nisha Gupta
+64,Student Council,Other,2025-08-12,Member,High,7,8,,Inactive,Prof. Nisha Gupta
+64,Rotaract Club,Social,2025-08-30,Active Member,High,10,5,,Inactive,Prof. Nisha Gupta
+64,Web Development Club,Technical,2025-08-29,Member,Medium,3,2,,Active,Prof. Nisha Gupta
+64,Photography Club,Cultural,2025-08-18,Member,Medium,4,3,,Active,Prof. Nisha Gupta
+66,Student Council,Other,2025-08-18,Member,Low,3,2,,Active,Prof. Nisha Gupta
+66,Web Development Club,Technical,2025-08-25,Member,High,10,9,,Active,Prof. Nisha Gupta
+68,Mathematics Club,Academic,2025-08-08,Active Member,Medium,6,5,,Active,Prof. Nisha Gupta
+69,Dance Club,Cultural,2025-08-04,Member,High,8,6,Winner - Intra College Competition,Active,Prof. Nisha Gupta
+69,Environmental Club,Social,2025-08-29,Member,Low,1,1,,Inactive,Prof. Nisha Gupta
+70,Badminton Club,Sports,2025-08-29,Member,Medium,3,4,,Active,Prof. Nisha Gupta
+70,Rotaract Club,Social,2025-08-20,Member,Medium,3,3,,Active,Prof. Nisha Gupta
+71,Football Team,Sports,2025-08-11,Member,High,6,10,,Inactive,Prof. Nisha Gupta
+72,AI/ML Club,Technical,2025-08-07,Active Member,Medium,4,5,Winner - Intra College Competition,Active,Prof. Nisha Gupta
+72,Mathematics Club,Academic,2025-08-18,Active Member,Medium,6,4,Best Performer Award,Active,Prof. Nisha Gupta
+75,Music Club,Cultural,2025-08-29,Member,Low,3,1,,Active,Prof. Nisha Gupta
+78,Dance Club,Cultural,2025-08-11,Member,Medium,3,3,,Active,Prof. Nisha Gupta
+79,NCC,Social,2025-08-06,Core Team,High,8,8,,Active,Prof. Nisha Gupta
+80,Football Team,Sports,2025-08-24,Member,Low,3,0,,Active,Prof. Nisha Gupta
+81,Basketball Team,Sports,2025-08-28,Member,Low,3,2,Best Performer Award,Active,Prof. Nisha Gupta
+81,Student Council,Other,2025-08-29,Member,High,9,9,,Active,Prof. Nisha Gupta
+82,Student Council,Other,2025-08-04,Member,Low,1,0,,Active,Prof. Nisha Gupta
+82,Coding Club,Technical,2025-08-24,Active Member,Medium,3,4,,Active,Prof. Nisha Gupta
+82,Photography Club,Cultural,2025-08-07,Member,High,9,7,,Active,Prof. Nisha Gupta
+82,Football Team,Sports,2025-08-11,Member,Medium,6,2,,Active,Prof. Nisha Gupta
+83,Basketball Team,Sports,2025-08-08,Member,Medium,5,4,,Active,Prof. Nisha Gupta
+83,Robotics Club,Technical,2025-08-04,Member,Medium,5,4,,Inactive,Prof. Nisha Gupta
+83,Event Management Team,Other,2025-08-29,Member,Medium,3,5,,Active,Prof. Nisha Gupta
+84,Rotaract Club,Social,2025-08-06,Member,Low,3,1,,Active,Prof. Nisha Gupta
+84,Event Management Team,Other,2025-08-25,Member,Medium,6,3,,Active,Prof. Nisha Gupta
+84,Football Team,Sports,2025-08-08,Member,Medium,4,3,,Active,Prof. Nisha Gupta
+85,Coding Club,Technical,2025-08-19,Member,Medium,6,4,,Active,Prof. Nisha Gupta
+85,Music Club,Cultural,2025-08-15,Active Member,Medium,4,2,,Active,Prof. Nisha Gupta
+87,Rotaract Club,Social,2025-08-02,Member,High,7,7,,Active,Prof. Nisha Gupta
+87,Innovation Club,Academic,2025-08-09,Member,Medium,5,3,Winner - Inter College Competition,Active,Prof. Nisha Gupta
+88,Basketball Team,Sports,2025-08-15,Active Member,Medium,3,4,Winner - Intra College Competition,Active,Prof. Nisha Gupta
+88,Rotaract Club,Social,2025-08-10,Member,High,9,5,,Inactive,Prof. Nisha Gupta
+89,Event Management Team,Other,2025-08-29,Active Member,Medium,6,4,Winner - Inter College Competition,Active,Prof. Nisha Gupta
+93,Badminton Club,Sports,2025-08-10,Active Member,High,10,8,,Active,Prof. Nisha Gupta
+93,Web Development Club,Technical,2025-08-25,Active Member,High,7,9,,Active,Prof. Nisha Gupta
+94,Quiz Club,Academic,2025-08-30,Coordinator,Very High,13,20,,Active,Prof. Nisha Gupta
+94,Music Club,Cultural,2025-08-05,Active Member,Medium,4,3,,Active,Prof. Nisha Gupta
+94,Robotics Club,Technical,2025-08-16,Member,Medium,3,3,,Active,Prof. Nisha Gupta
+94,Basketball Team,Sports,2025-08-15,Member,High,9,5,Winner - Inter College Competition,Active,Prof. Nisha Gupta
+95,Cricket Team,Sports,2025-08-07,Member,Low,3,2,,Inactive,Prof. Nisha Gupta
+95,Drama Club,Cultural,2025-08-28,Active Member,High,10,8,,Active,Prof. Nisha Gupta
+95,NSS,Social,2025-08-07,Member,Medium,5,3,,Active,Prof. Nisha Gupta
+95,Mathematics Club,Academic,2025-08-16,Member,Low,1,0,,Active,Prof. Nisha Gupta
+96,Coding Club,Technical,2025-08-24,Member,Medium,4,3,,Active,Prof. Nisha Gupta
+96,Student Council,Other,2025-08-26,Member,Medium,4,5,,Inactive,Prof. Nisha Gupta
+97,NCC,Social,2025-08-16,Member,Low,3,1,,Active,Prof. Nisha Gupta
+97,Research Club,Academic,2025-08-03,Active Member,High,9,5,Winner - Intra College Competition,Active,Prof. Nisha Gupta
+99,Music Club,Cultural,2025-08-31,Core Team,High,9,6,,Active,Prof. Nisha Gupta
+99,Web Development Club,Technical,2025-08-16,Member,High,9,10,,Active,Prof. Nisha Gupta
+100,Mathematics Club,Academic,2025-08-06,Member,Medium,6,2,,Active,Prof. Nisha Gupta
+100,AI/ML Club,Technical,2025-08-21,Member,Low,1,1,,Active,Prof. Nisha Gupta
+100,Badminton Club,Sports,2025-08-24,Member,Low,2,1,,Active,Prof. Nisha Gupta
+103,Environmental Club,Social,2025-08-15,Member,Low,2,1,,Active,Prof. Nisha Gupta
+104,Dance Club,Cultural,2025-08-28,Active Member,Medium,6,5,Winner - Intra College Competition,Active,Prof. Nisha Gupta
+105,Football Team,Sports,2025-08-27,Member,Low,2,0,Winner - Intra College Competition,Active,Prof. Nisha Gupta
+105,Event Management Team,Other,2025-08-12,Active Member,High,8,7,,Inactive,Prof. Nisha Gupta
+106,Event Management Team,Other,2025-08-13,Member,Low,3,2,,Active,Prof. Nisha Gupta
+107,Innovation Club,Academic,2025-08-04,Active Member,Medium,6,3,Participation Certificate,Active,Prof. Nisha Gupta
+107,NCC,Social,2025-08-14,Active Member,High,9,8,,Active,Prof. Nisha Gupta
+107,Web Development Club,Technical,2025-08-24,Member,Low,2,1,,Active,Prof. Nisha Gupta
+110,Web Development Club,Technical,2025-08-11,Member,Low,1,2,,Active,Prof. Nisha Gupta
+111,NSS,Social,2025-08-22,Active Member,High,9,7,,Active,Prof. Nisha Gupta
+111,Innovation Club,Academic,2025-08-29,Member,Low,2,1,,Active,Prof. Nisha Gupta
+111,Photography Club,Cultural,2025-08-27,Member,Medium,5,4,,Inactive,Prof. Nisha Gupta
+112,Cricket Team,Sports,2025-08-28,Active Member,Medium,5,5,,Active,Prof. Nisha Gupta
+113,Student Council,Other,2025-08-11,Core Team,Very High,10,17,,Active,Prof. Nisha Gupta
+113,Cricket Team,Sports,2025-08-28,President/Head,Very High,14,13,,Active,Prof. Nisha Gupta
+114,Student Council,Other,2025-08-27,Active Member,High,9,7,,Active,Prof. Nisha Gupta
+114,Web Development Club,Technical,2025-08-02,Active Member,High,9,8,,Active,Prof. Nisha Gupta
+116,Student Council,Other,2025-08-28,Member,High,8,6,Participation Certificate,Active,Prof. Naveen Verma
+116,Mathematics Club,Academic,2025-08-06,Member,Low,2,0,,Active,Prof. Naveen Verma
+118,NSS,Social,2025-08-24,Member,Low,2,0,,Active,Prof. Naveen Verma
+118,Student Council,Other,2025-08-23,Member,Medium,4,3,,Inactive,Prof. Naveen Verma
+118,Cricket Team,Sports,2025-08-16,Core Team,Very High,13,15,,Active,Prof. Naveen Verma
+118,Drama Club,Cultural,2025-08-28,Member,Low,2,2,Participation Certificate,Active,Prof. Naveen Verma
+120,Environmental Club,Social,2025-08-20,Member,High,6,8,,Active,Prof. Naveen Verma
+122,Web Development Club,Technical,2025-08-31,Member,Medium,6,4,,Active,Prof. Naveen Verma
+124,Badminton Club,Sports,2025-08-16,Member,Medium,6,3,,Active,Prof. Naveen Verma
+124,Coding Club,Technical,2025-08-03,Core Team,High,7,6,,Active,Prof. Naveen Verma
+124,Event Management Team,Other,2025-08-08,Member,Medium,3,5,,Active,Prof. Naveen Verma
+125,Cricket Team,Sports,2025-08-19,Member,High,8,10,,Active,Prof. Naveen Verma
+125,NSS,Social,2025-08-05,Active Member,Medium,3,3,,Inactive,Prof. Naveen Verma
+125,College Magazine,Other,2025-08-02,Active Member,Medium,5,2,,Inactive,Prof. Naveen Verma
+125,Music Club,Cultural,2025-08-22,Core Team,High,7,5,,Active,Prof. Naveen Verma
+126,Web Development Club,Technical,2025-08-06,Active Member,Medium,4,3,Winner - Inter College Competition,Active,Prof. Naveen Verma
+126,Quiz Club,Academic,2025-08-14,Core Team,High,7,7,,Inactive,Prof. Naveen Verma
+126,Badminton Club,Sports,2025-08-20,Active Member,Medium,6,2,,Active,Prof. Naveen Verma
+128,Coding Club,Technical,2025-08-26,Core Team,Very High,12,20,,Active,Prof. Naveen Verma
+129,Student Council,Other,2025-08-29,Active Member,Medium,3,4,,Active,Prof. Naveen Verma
+132,Basketball Team,Sports,2025-08-07,Active Member,High,6,6,,Active,Prof. Naveen Verma
+133,Basketball Team,Sports,2025-08-14,Member,Medium,6,4,,Active,Prof. Naveen Verma
+133,Photography Club,Cultural,2025-08-02,Member,Medium,6,5,,Active,Prof. Naveen Verma
+133,NCC,Social,2025-08-03,Active Member,Medium,6,2,,Active,Prof. Naveen Verma
+134,College Magazine,Other,2025-08-14,Active Member,Medium,5,3,,Inactive,Prof. Naveen Verma
+135,Music Club,Cultural,2025-08-14,Core Team,High,10,9,,Active,Prof. Naveen Verma
+135,Research Club,Academic,2025-08-26,Member,High,8,8,Participation Certificate,Active,Prof. Naveen Verma
+135,College Magazine,Other,2025-08-17,Member,Medium,5,5,Winner - Inter College Competition,Active,Prof. Naveen Verma
+135,Environmental Club,Social,2025-08-04,Active Member,Medium,6,5,Best Performer Award,Active,Prof. Naveen Verma
+140,Web Development Club,Technical,2025-08-16,Active Member,High,10,9,,Active,Prof. Naveen Verma
+141,Quiz Club,Academic,2025-08-08,Member,Medium,5,3,,Active,Prof. Naveen Verma
+142,NCC,Social,2025-08-14,Core Team,High,7,10,,Active,Prof. Naveen Verma
+142,Coding Club,Technical,2025-08-13,Member,Low,3,2,Certificate of Excellence,Active,Prof. Naveen Verma
+145,Football Team,Sports,2025-08-29,Coordinator,Very High,15,16,,Active,Prof. Naveen Verma
+146,Music Club,Cultural,2025-08-02,Active Member,High,9,10,Best Performer Award,Active,Prof. Naveen Verma
+149,Student Council,Other,2025-08-19,President/Head,Very High,12,17,,Active,Prof. Naveen Verma
+150,Robotics Club,Technical,2025-08-21,Member,Medium,6,4,,Active,Prof. Naveen Verma
+152,Drama Club,Cultural,2025-08-10,Active Member,High,9,10,Best Performer Award,Active,Prof. Naveen Verma
+154,Robotics Club,Technical,2025-08-29,Member,Medium,3,4,Winner - Inter College Competition,Active,Prof. Naveen Verma
+158,College Magazine,Other,2025-08-24,Core Team,Very High,12,20,,Active,Prof. Naveen Verma
+158,Dance Club,Cultural,2025-08-22,Active Member,Medium,3,3,Certificate of Excellence,Inactive,Prof. Naveen Verma
+158,NCC,Social,2025-08-24,Active Member,High,7,6,,Inactive,Prof. Naveen Verma
+162,Basketball Team,Sports,2025-08-18,Member,High,8,10,,Active,Prof. Naveen Verma
+165,College Magazine,Other,2025-08-19,Member,Low,3,0,Participation Certificate,Inactive,Prof. Naveen Verma
+165,Photography Club,Cultural,2025-08-21,Member,Low,1,2,,Active,Prof. Naveen Verma
+165,Football Team,Sports,2025-08-15,Member,High,7,6,Best Performer Award,Inactive,Prof. Naveen Verma
+168,Dance Club,Cultural,2025-08-11,Member,Medium,3,4,,Active,Ms. Rajesh Ali
+168,AI/ML Club,Technical,2025-08-19,Member,High,7,6,Participation Certificate,Active,Ms. Rajesh Ali
+168,Football Team,Sports,2025-08-28,Member,Low,3,0,Best Performer Award,Active,Ms. Rajesh Ali
+169,Music Club,Cultural,2025-08-26,Member,Medium,3,4,,Active,Ms. Rajesh Ali
+169,Coding Club,Technical,2025-08-08,Member,Medium,6,4,Certificate of Excellence,Inactive,Ms. Rajesh Ali
+170,Music Club,Cultural,2025-08-13,Member,Low,3,2,,Active,Ms. Rajesh Ali
+170,Badminton Club,Sports,2025-08-15,Active Member,High,7,9,,Active,Ms. Rajesh Ali
+170,College Magazine,Other,2025-08-26,Member,Medium,4,5,,Active,Ms. Rajesh Ali
+170,Quiz Club,Academic,2025-08-02,Member,Medium,6,3,,Active,Ms. Rajesh Ali
+171,Coding Club,Technical,2025-08-21,Member,Low,3,0,,Active,Ms. Rajesh Ali
+171,Student Council,Other,2025-08-12,Member,Low,3,2,,Inactive,Ms. Rajesh Ali
+172,Mathematics Club,Academic,2025-08-27,Member,Low,2,1,Winner - Intra College Competition,Inactive,Ms. Rajesh Ali
+172,Badminton Club,Sports,2025-08-26,Member,High,7,8,,Active,Ms. Rajesh Ali
+173,Coding Club,Technical,2025-08-06,President/Head,Very High,15,15,,Active,Ms. Rajesh Ali
+173,Badminton Club,Sports,2025-08-28,Member,Low,3,1,,Active,Ms. Rajesh Ali
+174,Football Team,Sports,2025-08-31,Member,Low,1,0,Winner - Inter College Competition,Active,Ms. Rajesh Ali
+176,AI/ML Club,Technical,2025-08-08,Active Member,High,8,7,,Active,Ms. Rajesh Ali
+176,Badminton Club,Sports,2025-08-02,Active Member,Medium,6,2,,Active,Ms. Rajesh Ali
+176,Drama Club,Cultural,2025-08-15,Member,Low,2,0,,Active,Ms. Rajesh Ali
+177,Rotaract Club,Social,2025-08-09,Active Member,High,6,9,,Active,Ms. Rajesh Ali
+177,Music Club,Cultural,2025-08-23,Member,Low,1,2,,Active,Ms. Rajesh Ali
+182,Environmental Club,Social,2025-08-06,Member,Low,1,0,,Active,Ms. Rajesh Ali
+184,Dance Club,Cultural,2025-08-05,Active Member,High,6,6,,Inactive,Ms. Rajesh Ali
+185,Basketball Team,Sports,2025-08-31,Active Member,Medium,6,3,Participation Certificate,Inactive,Ms. Rajesh Ali
+185,Music Club,Cultural,2025-08-19,Member,High,10,7,,Active,Ms. Rajesh Ali
+186,Basketball Team,Sports,2025-08-17,Active Member,High,10,10,Winner - Inter College Competition,Active,Ms. Rajesh Ali
+186,Quiz Club,Academic,2025-08-13,Active Member,Medium,5,2,,Active,Ms. Rajesh Ali
+186,Rotaract Club,Social,2025-08-03,Active Member,High,6,10,,Inactive,Ms. Rajesh Ali
+187,Drama Club,Cultural,2025-08-19,Active Member,High,7,5,Participation Certificate,Active,Ms. Rajesh Ali
+187,College Magazine,Other,2025-08-23,Member,Low,2,0,Best Performer Award,Active,Ms. Rajesh Ali
+188,Badminton Club,Sports,2025-08-09,Active Member,High,7,6,,Active,Ms. Rajesh Ali
+188,Mathematics Club,Academic,2025-08-12,Member,Medium,4,2,,Inactive,Ms. Rajesh Ali
+188,Music Club,Cultural,2025-08-03,Member,Medium,5,3,,Active,Ms. Rajesh Ali
+189,Quiz Club,Academic,2025-08-12,Core Team,High,10,10,Winner - Intra College Competition,Active,Ms. Rajesh Ali
+191,Web Development Club,Technical,2025-08-23,Member,Medium,4,2,,Active,Ms. Rajesh Ali
+192,NCC,Social,2025-08-04,Active Member,Medium,4,4,,Active,Ms. Rajesh Ali
+192,Robotics Club,Technical,2025-08-10,Active Member,Medium,3,2,Best Performer Award,Active,Ms. Rajesh Ali
+193,Basketball Team,Sports,2025-08-24,Member,Medium,4,4,,Active,Ms. Rajesh Ali
+193,Music Club,Cultural,2025-08-24,Member,High,7,10,,Active,Ms. Rajesh Ali
+193,Coding Club,Technical,2025-08-29,Member,Medium,4,4,,Active,Ms. Rajesh Ali
+195,Web Development Club,Technical,2025-08-25,Member,Low,3,0,Winner - Inter College Competition,Active,Ms. Rajesh Ali
+196,NCC,Social,2025-08-31,Core Team,High,7,8,,Active,Ms. Rajesh Ali
+196,Innovation Club,Academic,2025-08-26,Member,Low,3,1,,Active,Ms. Rajesh Ali
+196,Student Council,Other,2025-08-05,Active Member,Medium,5,5,,Active,Ms. Rajesh Ali
+197,Cricket Team,Sports,2025-08-04,Member,Medium,3,5,,Active,Ms. Rajesh Ali
+197,Environmental Club,Social,2025-08-18,Core Team,High,8,10,,Active,Ms. Rajesh Ali
+198,NCC,Social,2025-08-20,Member,High,8,7,,Active,Ms. Rajesh Ali
+198,Dance Club,Cultural,2025-08-18,Member,Medium,3,5,,Active,Ms. Rajesh Ali
+200,Music Club,Cultural,2025-08-15,Active Member,Medium,4,5,,Active,Ms. Rajesh Ali
+204,Drama Club,Cultural,2025-08-17,Member,Medium,6,4,,Active,Ms. Rajesh Ali
+204,Event Management Team,Other,2025-08-26,Member,High,10,6,,Inactive,Ms. Rajesh Ali
+205,Environmental Club,Social,2025-08-03,Coordinator,Very High,15,20,,Active,Ms. Rajesh Ali
+206,NSS,Social,2025-08-21,Active Member,High,10,7,,Active,Ms. Rajesh Ali
+207,Robotics Club,Technical,2025-08-10,Member,Low,1,2,Certificate of Excellence,Active,Ms. Rajesh Ali
+210,NSS,Social,2025-08-05,Active Member,High,7,10,Winner - Intra College Competition,Active,Ms. Rajesh Ali
+211,Badminton Club,Sports,2025-08-10,Active Member,Medium,3,5,,Active,Ms. Amit Kapoor
+212,Environmental Club,Social,2025-08-31,Member,Low,2,0,,Active,Ms. Amit Kapoor
+212,Robotics Club,Technical,2025-08-08,Core Team,Very High,12,14,,Active,Ms. Amit Kapoor
+212,Innovation Club,Academic,2025-08-21,Active Member,Medium,5,4,,Active,Ms. Amit Kapoor
+212,Photography Club,Cultural,2025-08-27,Active Member,Medium,3,3,,Active,Ms. Amit Kapoor
+213,Coding Club,Technical,2025-08-15,Member,Low,1,0,,Active,Ms. Amit Kapoor
+213,Research Club,Academic,2025-08-03,Active Member,Medium,6,3,,Active,Ms. Amit Kapoor
+213,Student Council,Other,2025-08-10,Member,Low,1,0,,Active,Ms. Amit Kapoor
+215,Innovation Club,Academic,2025-08-06,Member,Low,2,0,,Active,Ms. Amit Kapoor
+215,Environmental Club,Social,2025-08-27,Member,Medium,4,3,,Inactive,Ms. Amit Kapoor
+216,Cricket Team,Sports,2025-08-27,Active Member,High,10,8,,Inactive,Ms. Amit Kapoor
+216,Mathematics Club,Academic,2025-08-03,President/Head,Very High,14,14,,Active,Ms. Amit Kapoor
+216,College Magazine,Other,2025-08-15,Core Team,Very High,10,16,,Inactive,Ms. Amit Kapoor
+218,Student Council,Other,2025-08-20,Member,Medium,5,4,,Active,Ms. Amit Kapoor
+221,Innovation Club,Academic,2025-08-04,Member,Low,2,0,Winner - Intra College Competition,Active,Ms. Amit Kapoor
+223,Photography Club,Cultural,2025-08-24,Member,High,8,6,,Active,Ms. Amit Kapoor
+223,Research Club,Academic,2025-08-07,Active Member,High,7,8,,Active,Ms. Amit Kapoor
+224,Rotaract Club,Social,2025-08-17,Member,Low,2,2,,Active,Ms. Amit Kapoor
+224,Dance Club,Cultural,2025-08-10,Member,Medium,6,3,,Active,Ms. Amit Kapoor
+225,Student Council,Other,2025-08-14,Member,Medium,6,2,,Active,Ms. Amit Kapoor
+225,Coding Club,Technical,2025-08-23,Core Team,High,10,6,,Active,Ms. Amit Kapoor
+226,Dance Club,Cultural,2025-08-20,Member,Low,2,1,,Inactive,Ms. Amit Kapoor
+226,Rotaract Club,Social,2025-08-18,Active Member,High,7,10,,Active,Ms. Amit Kapoor
+227,NCC,Social,2025-08-29,Active Member,Medium,6,2,,Inactive,Ms. Amit Kapoor
+228,Dance Club,Cultural,2025-08-11,Active Member,Medium,4,4,Winner - Inter College Competition,Active,Ms. Amit Kapoor
+232,Quiz Club,Academic,2025-08-31,Active Member,Medium,6,2,,Active,Ms. Amit Kapoor
+233,Cricket Team,Sports,2025-08-19,Member,High,9,6,Certificate of Excellence,Active,Ms. Amit Kapoor
+233,Event Management Team,Other,2025-08-18,Member,Low,1,0,,Active,Ms. Amit Kapoor
+234,Environmental Club,Social,2025-08-18,Core Team,Very High,10,20,,Active,Ms. Amit Kapoor
+234,Student Council,Other,2025-08-14,Member,Medium,5,5,,Active,Ms. Amit Kapoor
+234,Badminton Club,Sports,2025-08-16,Member,Low,2,2,Winner - Intra College Competition,Active,Ms. Amit Kapoor
+237,Mathematics Club,Academic,2025-08-28,Member,High,6,8,,Active,Ms. Amit Kapoor
+237,College Magazine,Other,2025-08-13,President/Head,Very High,14,14,Certificate of Excellence,Active,Ms. Amit Kapoor
+237,NCC,Social,2025-08-25,Member,Low,1,0,Certificate of Excellence,Active,Ms. Amit Kapoor
+238,Badminton Club,Sports,2025-08-20,Member,Low,2,1,,Active,Ms. Amit Kapoor
+238,Robotics Club,Technical,2025-08-25,Member,Low,3,0,,Active,Ms. Amit Kapoor
+239,Drama Club,Cultural,2025-08-16,Core Team,Very High,11,15,Participation Certificate,Active,Ms. Amit Kapoor
+239,Football Team,Sports,2025-08-24,Active Member,High,6,8,,Inactive,Ms. Amit Kapoor
+239,Robotics Club,Technical,2025-08-20,Member,High,8,9,,Active,Ms. Amit Kapoor
+241,NSS,Social,2025-08-22,Member,Low,3,2,,Active,Ms. Amit Kapoor
+241,Music Club,Cultural,2025-08-14,President/Head,Very High,14,19,Winner - Inter College Competition,Active,Ms. Amit Kapoor
+243,NCC,Social,2025-08-13,Active Member,Medium,4,5,,Active,Ms. Amit Kapoor
+243,Photography Club,Cultural,2025-08-13,Active Member,High,6,8,,Active,Ms. Amit Kapoor
+245,Research Club,Academic,2025-08-21,Core Team,Very High,10,16,,Active,Ms. Amit Kapoor
+245,AI/ML Club,Technical,2025-08-15,Active Member,High,10,7,,Active,Ms. Amit Kapoor
+247,NSS,Social,2025-08-21,Member,High,6,6,,Active,Ms. Amit Kapoor
+247,Music Club,Cultural,2025-08-12,Member,Medium,6,2,,Inactive,Ms. Amit Kapoor
+247,Event Management Team,Other,2025-08-05,Active Member,High,9,9,,Active,Ms. Amit Kapoor
+249,Mathematics Club,Academic,2025-08-20,Member,High,9,8,,Active,Ms. Amit Kapoor
+249,Badminton Club,Sports,2025-08-14,Active Member,High,6,6,,Active,Ms. Amit Kapoor
+250,Innovation Club,Academic,2025-08-27,Active Member,High,10,9,,Active,Ms. Amit Kapoor
+250,Cricket Team,Sports,2025-08-17,Member,High,9,9,,Active,Ms. Amit Kapoor
+250,Web Development Club,Technical,2025-08-17,Member,Low,3,2,,Active,Ms. Amit Kapoor
+250,Student Council,Other,2025-08-29,Member,Low,1,1,,Active,Ms. Amit Kapoor
+251,College Magazine,Other,2025-08-10,Member,Low,2,0,,Active,Ms. Amit Kapoor
+251,Music Club,Cultural,2025-08-12,Member,Medium,3,5,,Active,Ms. Amit Kapoor
+252,NCC,Social,2025-08-24,Member,High,9,10,Participation Certificate,Active,Ms. Amit Kapoor
+252,Event Management Team,Other,2025-08-19,Active Member,Medium,3,5,,Active,Ms. Amit Kapoor
+253,Drama Club,Cultural,2025-08-25,Active Member,High,9,8,,Active,Ms. Amit Kapoor
+254,Music Club,Cultural,2025-08-03,Active Member,Medium,6,5,,Active,Ms. Amit Kapoor
+255,NSS,Social,2025-08-11,Member,Low,1,1,,Active,Ms. Amit Kapoor
+255,Mathematics Club,Academic,2025-08-11,Active Member,Medium,6,3,,Active,Ms. Amit Kapoor
+258,Drama Club,Cultural,2025-08-12,Member,Medium,5,2,,Active,Ms. Amit Kapoor
+259,College Magazine,Other,2025-08-14,Active Member,High,8,6,,Active,Ms. Amit Kapoor
+260,Event Management Team,Other,2025-08-08,Member,Low,3,2,Best Performer Award,Active,Ms. Amit Kapoor
+260,Quiz Club,Academic,2025-08-28,Member,Medium,6,4,Winner - Intra College Competition,Active,Ms. Amit Kapoor
+260,Coding Club,Technical,2025-08-11,Core Team,High,7,6,,Active,Ms. Amit Kapoor
+262,Cricket Team,Sports,2025-08-13,Core Team,Very High,14,11,,Active,Ms. Meera Patel
+264,Event Management Team,Other,2025-08-07,Member,Low,3,1,,Active,Ms. Meera Patel
+264,Quiz Club,Academic,2025-08-05,Active Member,Medium,3,5,Participation Certificate,Active,Ms. Meera Patel
+265,Cricket Team,Sports,2025-08-19,Active Member,Medium,5,2,,Active,Ms. Meera Patel
+265,Music Club,Cultural,2025-08-23,Member,Medium,3,2,,Active,Ms. Meera Patel
+266,Coding Club,Technical,2025-08-29,Active Member,Medium,3,5,,Active,Ms. Meera Patel
+266,Drama Club,Cultural,2025-08-21,Core Team,High,10,9,Winner - Intra College Competition,Active,Ms. Meera Patel
+267,Student Council,Other,2025-08-06,Member,Low,3,1,,Active,Ms. Meera Patel
+267,NSS,Social,2025-08-13,Member,Medium,6,5,,Active,Ms. Meera Patel
+268,Event Management Team,Other,2025-08-07,Member,Medium,4,4,,Inactive,Ms. Meera Patel
+268,Basketball Team,Sports,2025-08-15,Active Member,High,7,6,,Active,Ms. Meera Patel
+269,Web Development Club,Technical,2025-08-03,Active Member,High,6,8,,Active,Ms. Meera Patel
+269,Event Management Team,Other,2025-08-18,Member,Low,3,1,,Active,Ms. Meera Patel
+269,Football Team,Sports,2025-08-04,Member,Low,3,1,,Active,Ms. Meera Patel
+269,Photography Club,Cultural,2025-08-16,Active Member,Medium,6,2,,Active,Ms. Meera Patel
+271,Quiz Club,Academic,2025-08-26,Member,Low,1,2,,Active,Ms. Meera Patel
+271,Rotaract Club,Social,2025-08-10,Active Member,High,7,5,,Active,Ms. Meera Patel
+272,Photography Club,Cultural,2025-08-13,Member,Low,3,2,,Active,Ms. Meera Patel
+272,Web Development Club,Technical,2025-08-08,Active Member,High,8,10,,Active,Ms. Meera Patel
+273,Dance Club,Cultural,2025-08-05,Active Member,Medium,6,4,,Active,Ms. Meera Patel
+273,Football Team,Sports,2025-08-11,Member,Low,1,1,,Active,Ms. Meera Patel
+273,Mathematics Club,Academic,2025-08-03,Core Team,Very High,13,13,,Active,Ms. Meera Patel
+274,Badminton Club,Sports,2025-08-04,Member,Low,1,2,,Active,Ms. Meera Patel
+274,College Magazine,Other,2025-08-05,Member,Low,1,1,,Active,Ms. Meera Patel
+277,Music Club,Cultural,2025-08-11,Member,Medium,4,5,,Inactive,Ms. Meera Patel
+277,NCC,Social,2025-08-12,Member,High,7,9,Participation Certificate,Active,Ms. Meera Patel
+278,Robotics Club,Technical,2025-08-16,Member,Medium,3,2,,Inactive,Ms. Meera Patel
+278,Event Management Team,Other,2025-08-30,Core Team,High,9,10,Winner - Inter College Competition,Inactive,Ms. Meera Patel
+280,College Magazine,Other,2025-08-17,Member,Low,2,0,,Inactive,Ms. Meera Patel
+280,Quiz Club,Academic,2025-08-29,Active Member,High,10,8,,Active,Ms. Meera Patel
+280,Robotics Club,Technical,2025-08-28,Member,Low,2,1,,Active,Ms. Meera Patel
+281,College Magazine,Other,2025-08-16,Member,High,8,5,,Active,Ms. Meera Patel
+281,Quiz Club,Academic,2025-08-24,Member,Low,2,2,,Active,Ms. Meera Patel
+282,NCC,Social,2025-08-29,Core Team,Very High,11,13,,Active,Ms. Meera Patel
+284,Environmental Club,Social,2025-08-15,Core Team,Very High,10,13,,Active,Ms. Meera Patel
+284,Badminton Club,Sports,2025-08-25,Member,Medium,6,4,,Active,Ms. Meera Patel
+285,Mathematics Club,Academic,2025-08-10,Active Member,High,7,10,Winner - Inter College Competition,Inactive,Ms. Meera Patel
+285,Web Development Club,Technical,2025-08-28,Member,Medium,5,4,,Inactive,Ms. Meera Patel
+288,Drama Club,Cultural,2025-08-22,Core Team,Very High,10,20,,Inactive,Ms. Meera Patel
+288,AI/ML Club,Technical,2025-08-24,Member,Low,3,2,,Active,Ms. Meera Patel
+293,Robotics Club,Technical,2025-08-29,President/Head,Very High,10,15,,Active,Ms. Meera Patel
+295,Environmental Club,Social,2025-08-10,Coordinator,Very High,10,19,,Active,Ms. Meera Patel
+295,Robotics Club,Technical,2025-08-03,Active Member,High,7,7,,Active,Ms. Meera Patel
+296,Rotaract Club,Social,2025-08-13,Member,Medium,4,3,,Active,Ms. Meera Patel
+296,Photography Club,Cultural,2025-08-26,Member,Medium,4,5,,Active,Ms. Meera Patel
+296,Cricket Team,Sports,2025-08-21,Member,High,9,7,,Active,Ms. Meera Patel
+298,Research Club,Academic,2025-08-09,Member,Medium,5,2,Best Performer Award,Active,Ms. Meera Patel
+298,Environmental Club,Social,2025-08-23,Member,Low,2,1,,Active,Ms. Meera Patel
+299,Student Council,Other,2025-08-22,Active Member,Medium,6,5,Best Performer Award,Active,Ms. Meera Patel
+299,Photography Club,Cultural,2025-08-13,Active Member,High,8,10,Best Performer Award,Active,Ms. Meera Patel
+300,Basketball Team,Sports,2025-08-11,Member,Medium,3,4,,Active,Ms. Meera Patel
+301,Quiz Club,Academic,2025-08-10,Active Member,High,10,10,,Inactive,Ms. Meera Patel
+301,Coding Club,Technical,2025-08-11,Core Team,Very High,11,20,,Inactive,Ms. Meera Patel
+301,NSS,Social,2025-08-27,Member,Medium,3,2,,Active,Ms. Meera Patel
+303,Photography Club,Cultural,2025-08-14,Core Team,Very High,14,11,,Active,Ms. Meera Patel
+303,Rotaract Club,Social,2025-08-03,Active Member,High,7,8,,Active,Ms. Meera Patel
+303,Football Team,Sports,2025-08-26,Member,Low,2,2,,Active,Ms. Meera Patel
+305,Basketball Team,Sports,2025-08-17,Member,Medium,3,3,,Active,Ms. Meera Patel
+305,Web Development Club,Technical,2025-08-23,Core Team,High,8,10,,Active,Ms. Meera Patel
+305,Drama Club,Cultural,2025-08-24,Member,Low,2,0,,Active,Ms. Meera Patel
+306,Environmental Club,Social,2025-08-04,Member,High,7,9,,Active,Ms. Meera Patel
+306,Drama Club,Cultural,2025-08-10,Active Member,Medium,5,5,,Active,Ms. Meera Patel
+306,Basketball Team,Sports,2025-08-29,Member,Low,3,2,,Active,Ms. Meera Patel
+311,Badminton Club,Sports,2025-08-02,Active Member,Medium,6,2,,Active,Dr. Amit Sinha
+311,Drama Club,Cultural,2025-08-04,Member,Low,3,2,,Active,Dr. Amit Sinha
+311,Research Club,Academic,2025-08-18,Member,Medium,6,5,,Active,Dr. Amit Sinha
+314,Robotics Club,Technical,2025-08-07,Active Member,Medium,6,4,,Active,Dr. Amit Sinha
+314,Football Team,Sports,2025-08-18,Member,Low,2,1,,Active,Dr. Amit Sinha
+314,Drama Club,Cultural,2025-08-04,Core Team,Very High,14,10,,Active,Dr. Amit Sinha
+316,Coding Club,Technical,2025-08-05,Active Member,High,10,6,,Active,Dr. Amit Sinha
+316,Cricket Team,Sports,2025-08-27,Member,Low,1,1,,Active,Dr. Amit Sinha
+317,Rotaract Club,Social,2025-08-23,Member,Low,2,2,,Active,Dr. Amit Sinha
+318,Research Club,Academic,2025-08-22,Member,Low,1,0,,Active,Dr. Amit Sinha
+319,Innovation Club,Academic,2025-08-31,Member,High,8,5,,Inactive,Dr. Amit Sinha
+319,Event Management Team,Other,2025-08-10,Member,High,10,8,,Active,Dr. Amit Sinha
+319,Badminton Club,Sports,2025-08-26,Member,Low,3,0,,Active,Dr. Amit Sinha
+320,Cricket Team,Sports,2025-08-28,Member,Low,3,1,Participation Certificate,Active,Dr. Amit Sinha
+320,Drama Club,Cultural,2025-08-17,Member,Medium,4,5,Winner - Intra College Competition,Active,Dr. Amit Sinha
+321,Dance Club,Cultural,2025-08-24,Member,Medium,6,3,,Active,Dr. Amit Sinha
+321,Web Development Club,Technical,2025-08-19,Member,High,6,8,,Active,Dr. Amit Sinha
+322,Badminton Club,Sports,2025-08-30,Active Member,Medium,5,3,Certificate of Excellence,Active,Dr. Amit Sinha
+322,Research Club,Academic,2025-08-10,Active Member,Medium,6,2,,Active,Dr. Amit Sinha
+322,Rotaract Club,Social,2025-08-13,Member,Low,3,2,Winner - Inter College Competition,Inactive,Dr. Amit Sinha
+325,Environmental Club,Social,2025-08-31,Member,High,6,8,,Active,Dr. Amit Sinha
+325,Dance Club,Cultural,2025-08-29,Active Member,Medium,5,4,,Inactive,Dr. Amit Sinha
+327,Cricket Team,Sports,2025-08-24,Member,High,9,7,,Active,Dr. Amit Sinha
+327,Rotaract Club,Social,2025-08-27,Member,High,6,9,,Active,Dr. Amit Sinha
+327,Quiz Club,Academic,2025-08-31,Member,High,10,5,,Active,Dr. Amit Sinha
+327,Robotics Club,Technical,2025-08-25,Member,Medium,5,4,,Active,Dr. Amit Sinha
+330,Event Management Team,Other,2025-08-20,Active Member,High,6,9,,Active,Dr. Amit Sinha
+330,NSS,Social,2025-08-26,Member,Medium,4,3,,Active,Dr. Amit Sinha
+334,Cricket Team,Sports,2025-08-09,Member,Low,1,1,,Active,Dr. Amit Sinha
+335,AI/ML Club,Technical,2025-08-22,Active Member,Medium,3,2,,Active,Dr. Amit Sinha
+335,NSS,Social,2025-08-24,President/Head,Very High,15,19,Certificate of Excellence,Active,Dr. Amit Sinha
+335,Basketball Team,Sports,2025-08-24,Member,Medium,4,3,,Active,Dr. Amit Sinha
+337,Web Development Club,Technical,2025-08-19,Member,Medium,6,4,,Active,Dr. Amit Sinha
+337,NSS,Social,2025-08-30,Core Team,High,10,6,,Inactive,Dr. Amit Sinha
+339,Drama Club,Cultural,2025-08-06,Member,Low,1,1,Winner - Intra College Competition,Active,Dr. Amit Sinha
+340,Drama Club,Cultural,2025-08-24,Active Member,High,6,7,,Inactive,Dr. Amit Sinha
+340,Rotaract Club,Social,2025-08-26,Active Member,Medium,4,3,,Active,Dr. Amit Sinha
+342,Coding Club,Technical,2025-08-08,President/Head,Very High,13,17,,Active,Dr. Amit Sinha
+342,Football Team,Sports,2025-08-19,Active Member,High,9,9,,Active,Dr. Amit Sinha
+343,Web Development Club,Technical,2025-08-24,Active Member,High,10,8,,Inactive,Dr. Amit Sinha
+347,Web Development Club,Technical,2025-08-23,Member,Low,3,1,,Active,Dr. Amit Sinha
+347,Rotaract Club,Social,2025-08-14,Member,High,6,6,,Active,Dr. Amit Sinha
+349,Badminton Club,Sports,2025-08-31,Core Team,Very High,13,11,,Active,Dr. Amit Sinha
+349,Research Club,Academic,2025-08-02,Active Member,Medium,6,5,,Active,Dr. Amit Sinha
+350,Cricket Team,Sports,2025-08-03,Active Member,High,6,7,,Active,Dr. Amit Sinha
+350,Event Management Team,Other,2025-08-23,Member,Medium,3,5,,Inactive,Dr. Amit Sinha
+352,Badminton Club,Sports,2025-08-15,Member,Medium,4,3,Participation Certificate,Active,Dr. Amit Sinha
+352,Innovation Club,Academic,2025-08-09,Member,Medium,4,5,,Active,Dr. Amit Sinha
+354,Environmental Club,Social,2025-08-20,Member,Low,1,2,,Active,Dr. Preeti Joshi
+354,Quiz Club,Academic,2025-08-15,Active Member,Medium,3,2,Certificate of Excellence,Active,Dr. Preeti Joshi
+355,NSS,Social,2025-08-05,Active Member,High,9,6,Participation Certificate,Inactive,Dr. Preeti Joshi
+356,Badminton Club,Sports,2025-08-22,Member,Medium,5,5,,Active,Dr. Preeti Joshi
+356,Research Club,Academic,2025-08-08,Core Team,Very High,13,19,,Active,Dr. Preeti Joshi
+357,Badminton Club,Sports,2025-08-18,Member,Medium,6,4,,Active,Dr. Preeti Joshi
+359,Drama Club,Cultural,2025-08-18,Active Member,High,9,7,,Active,Dr. Preeti Joshi
+359,Student Council,Other,2025-08-28,Member,Medium,6,5,,Active,Dr. Preeti Joshi
+363,Innovation Club,Academic,2025-08-30,Member,Low,2,0,,Active,Dr. Preeti Joshi
+363,Robotics Club,Technical,2025-08-21,Member,Low,2,1,,Active,Dr. Preeti Joshi
+364,Mathematics Club,Academic,2025-08-08,Active Member,Medium,3,2,,Active,Dr. Preeti Joshi
+364,Badminton Club,Sports,2025-08-21,Member,High,9,5,,Active,Dr. Preeti Joshi
+366,NSS,Social,2025-08-06,Member,Low,2,0,,Active,Dr. Preeti Joshi
+367,Web Development Club,Technical,2025-08-26,Member,High,10,10,,Inactive,Dr. Preeti Joshi
+367,Environmental Club,Social,2025-08-21,Member,High,6,8,,Active,Dr. Preeti Joshi
+368,Research Club,Academic,2025-08-27,Active Member,High,8,7,,Active,Dr. Preeti Joshi
+369,Robotics Club,Technical,2025-08-06,Member,Medium,3,2,,Active,Dr. Preeti Joshi
+369,Photography Club,Cultural,2025-08-03,Core Team,Very High,11,12,,Active,Dr. Preeti Joshi
+369,Cricket Team,Sports,2025-08-21,Member,Low,1,1,Participation Certificate,Active,Dr. Preeti Joshi
+370,Innovation Club,Academic,2025-08-09,Member,Low,2,1,,Active,Dr. Preeti Joshi
+370,Cricket Team,Sports,2025-08-26,Active Member,High,7,5,,Active,Dr. Preeti Joshi
+371,Basketball Team,Sports,2025-08-17,Active Member,Medium,3,4,,Active,Dr. Preeti Joshi
+372,Event Management Team,Other,2025-08-07,Member,High,8,5,,Active,Dr. Preeti Joshi
+372,Drama Club,Cultural,2025-08-08,Active Member,Medium,3,5,,Inactive,Dr. Preeti Joshi
+374,Student Council,Other,2025-08-03,Core Team,High,10,8,,Active,Dr. Preeti Joshi
+375,Badminton Club,Sports,2025-08-23,Member,Low,3,2,,Active,Dr. Preeti Joshi
+375,Student Council,Other,2025-08-10,Member,Low,1,0,,Active,Dr. Preeti Joshi
+376,Rotaract Club,Social,2025-08-08,Member,Low,1,0,,Active,Dr. Preeti Joshi
+376,Drama Club,Cultural,2025-08-10,Member,Medium,5,5,,Active,Dr. Preeti Joshi
+377,Student Council,Other,2025-08-30,Member,Medium,3,5,Winner - Inter College Competition,Active,Dr. Preeti Joshi
+377,AI/ML Club,Technical,2025-08-27,Member,Low,3,0,Certificate of Excellence,Active,Dr. Preeti Joshi
+378,Research Club,Academic,2025-08-12,Active Member,High,8,5,,Active,Dr. Preeti Joshi
+378,College Magazine,Other,2025-08-09,Member,Medium,4,4,,Active,Dr. Preeti Joshi
+378,Drama Club,Cultural,2025-08-19,Member,Medium,5,5,,Active,Dr. Preeti Joshi
+378,Web Development Club,Technical,2025-08-08,President/Head,Very High,13,18,,Active,Dr. Preeti Joshi
+380,Event Management Team,Other,2025-08-02,Active Member,High,8,8,,Inactive,Dr. Preeti Joshi
+380,Quiz Club,Academic,2025-08-10,Member,High,10,8,,Active,Dr. Preeti Joshi
+381,Robotics Club,Technical,2025-08-31,Active Member,High,9,10,Winner - Inter College Competition,Active,Dr. Preeti Joshi
+382,Quiz Club,Academic,2025-08-30,Member,Medium,6,5,,Active,Dr. Preeti Joshi
+384,Dance Club,Cultural,2025-08-07,Member,High,7,5,,Active,Dr. Preeti Joshi
+384,Research Club,Academic,2025-08-28,Active Member,Medium,3,4,,Active,Dr. Preeti Joshi
+385,Drama Club,Cultural,2025-08-07,Member,Medium,3,3,,Active,Dr. Preeti Joshi
+386,Innovation Club,Academic,2025-08-18,Member,Low,2,0,,Active,Dr. Preeti Joshi
+388,Event Management Team,Other,2025-08-31,Member,Medium,3,5,,Active,Dr. Preeti Joshi
+388,Drama Club,Cultural,2025-08-31,Member,Low,2,1,,Active,Dr. Preeti Joshi
+388,Mathematics Club,Academic,2025-08-18,Active Member,Medium,4,3,,Active,Dr. Preeti Joshi
+389,Research Club,Academic,2025-08-19,Member,High,8,5,,Active,Dr. Preeti Joshi
+389,Event Management Team,Other,2025-08-29,Active Member,High,7,8,Certificate of Excellence,Active,Dr. Preeti Joshi
+392,Basketball Team,Sports,2025-08-22,Coordinator,Very High,14,16,Winner - Intra College Competition,Active,Dr. Preeti Joshi
+395,Web Development Club,Technical,2025-08-05,Active Member,High,6,5,Winner - Inter College Competition,Active,Prof. Alok Nair
+396,Environmental Club,Social,2025-08-21,Member,Low,1,0,,Active,Prof. Alok Nair
+397,Student Council,Other,2025-08-31,Coordinator,Very High,12,16,,Inactive,Prof. Alok Nair
+397,Photography Club,Cultural,2025-08-12,Core Team,High,7,5,,Active,Prof. Alok Nair
+397,AI/ML Club,Technical,2025-08-21,Member,Medium,6,5,,Active,Prof. Alok Nair
+398,Innovation Club,Academic,2025-08-08,President/Head,Very High,13,11,Winner - Intra College Competition,Inactive,Prof. Alok Nair
+398,College Magazine,Other,2025-08-12,Member,Low,1,2,,Active,Prof. Alok Nair
+399,Music Club,Cultural,2025-08-02,Core Team,High,9,6,,Active,Prof. Alok Nair
+400,Badminton Club,Sports,2025-08-09,Active Member,Medium,3,5,,Active,Prof. Alok Nair
+400,Innovation Club,Academic,2025-08-13,President/Head,Very High,12,15,Certificate of Excellence,Active,Prof. Alok Nair
+401,Dance Club,Cultural,2025-08-12,Member,Medium,6,2,,Active,Prof. Alok Nair
+401,Robotics Club,Technical,2025-08-07,Member,Medium,6,4,Best Performer Award,Active,Prof. Alok Nair
+401,Environmental Club,Social,2025-08-12,Active Member,Medium,3,4,,Active,Prof. Alok Nair
+402,Music Club,Cultural,2025-08-21,Member,Low,3,0,,Active,Prof. Alok Nair
+404,Student Council,Other,2025-08-16,Active Member,High,8,8,,Active,Prof. Alok Nair
+404,Web Development Club,Technical,2025-08-06,Member,Medium,3,2,,Active,Prof. Alok Nair
+405,Event Management Team,Other,2025-08-26,Active Member,Medium,4,4,,Active,Prof. Alok Nair
+405,Environmental Club,Social,2025-08-08,Member,High,8,6,,Active,Prof. Alok Nair
+406,Badminton Club,Sports,2025-08-31,Active Member,Medium,4,2,,Inactive,Prof. Alok Nair
+406,Quiz Club,Academic,2025-08-02,Active Member,Medium,4,4,,Active,Prof. Alok Nair
+407,Badminton Club,Sports,2025-08-24,Active Member,High,8,8,,Active,Prof. Alok Nair
+410,Research Club,Academic,2025-08-05,Member,Low,3,0,,Active,Prof. Alok Nair
+410,Event Management Team,Other,2025-08-20,Member,Medium,3,4,,Active,Prof. Alok Nair
+411,Robotics Club,Technical,2025-08-03,Active Member,Medium,4,5,,Inactive,Prof. Alok Nair
+412,Innovation Club,Academic,2025-08-08,Member,High,7,8,,Active,Prof. Alok Nair
+412,Student Council,Other,2025-08-29,Member,High,6,9,,Active,Prof. Alok Nair
+417,Environmental Club,Social,2025-08-22,Member,Low,3,1,,Active,Prof. Alok Nair
+417,College Magazine,Other,2025-08-06,Active Member,Medium,3,4,Best Performer Award,Active,Prof. Alok Nair
+417,Coding Club,Technical,2025-08-25,Member,High,10,10,,Active,Prof. Alok Nair
+417,Football Team,Sports,2025-08-14,Member,High,10,9,,Active,Prof. Alok Nair
+420,Innovation Club,Academic,2025-08-10,Active Member,Medium,3,3,,Active,Prof. Alok Nair
+420,Robotics Club,Technical,2025-08-11,Member,Low,2,1,,Active,Prof. Alok Nair
+421,NSS,Social,2025-08-03,Member,Low,1,2,,Active,Prof. Alok Nair
+422,College Magazine,Other,2025-08-15,Member,High,8,5,Certificate of Excellence,Active,Prof. Alok Nair
+424,Coding Club,Technical,2025-08-03,Core Team,High,6,6,Winner - Intra College Competition,Active,Prof. Alok Nair
+424,Student Council,Other,2025-08-02,Active Member,High,8,10,,Active,Prof. Alok Nair
+427,Music Club,Cultural,2025-08-21,Active Member,High,9,7,,Active,Prof. Alok Nair
+427,Basketball Team,Sports,2025-08-19,Active Member,Medium,5,5,,Active,Prof. Alok Nair
+427,NCC,Social,2025-08-10,Member,Medium,6,3,Certificate of Excellence,Active,Prof. Alok Nair
+430,Music Club,Cultural,2025-08-21,Member,Medium,5,2,,Active,Prof. Alok Nair
+430,NSS,Social,2025-08-08,Active Member,High,7,5,,Inactive,Prof. Alok Nair
+431,Environmental Club,Social,2025-08-20,Member,Low,2,2,,Inactive,Prof. Alok Nair
+431,Innovation Club,Academic,2025-08-04,Member,Medium,6,3,,Inactive,Prof. Alok Nair
+431,Dance Club,Cultural,2025-08-28,Coordinator,Very High,15,10,,Inactive,Prof. Alok Nair
+431,College Magazine,Other,2025-08-22,Member,Medium,3,3,,Active,Prof. Alok Nair
+432,Photography Club,Cultural,2025-08-25,Active Member,High,8,5,Best Performer Award,Active,Prof. Alok Nair
+432,Football Team,Sports,2025-08-22,Member,Low,1,2,Participation Certificate,Active,Prof. Alok Nair
+432,Robotics Club,Technical,2025-08-20,Core Team,Very High,15,20,,Active,Prof. Alok Nair
+433,Football Team,Sports,2025-08-28,Active Member,Medium,4,5,,Active,Prof. Alok Nair
+434,Event Management Team,Other,2025-08-26,Member,High,8,9,,Inactive,Prof. Alok Nair
+434,Mathematics Club,Academic,2025-08-23,Member,Low,2,1,,Active,Prof. Alok Nair
+435,Web Development Club,Technical,2025-08-21,Active Member,Medium,6,4,,Inactive,Prof. Alok Nair
+436,Music Club,Cultural,2025-08-05,Active Member,Medium,3,2,Certificate of Excellence,Active,Prof. Alok Nair
+436,NSS,Social,2025-08-30,Core Team,High,6,7,,Inactive,Prof. Alok Nair
+437,AI/ML Club,Technical,2025-08-02,Member,Medium,4,4,Winner - Inter College Competition,Inactive,Prof. Alok Nair
+437,Event Management Team,Other,2025-08-26,Active Member,High,6,8,,Active,Prof. Alok Nair
+441,Dance Club,Cultural,2025-08-11,Active Member,High,10,9,,Active,Mr. Preeti Shah
+443,Basketball Team,Sports,2025-08-15,Member,Low,2,0,,Inactive,Mr. Preeti Shah
+444,Innovation Club,Academic,2025-08-20,Member,Low,2,2,,Active,Mr. Preeti Shah
+444,Environmental Club,Social,2025-08-15,Core Team,High,8,6,,Active,Mr. Preeti Shah
+444,Dance Club,Cultural,2025-08-08,Member,Medium,6,3,,Active,Mr. Preeti Shah
+445,Robotics Club,Technical,2025-08-11,Member,Low,1,2,,Active,Mr. Preeti Shah
+445,Student Council,Other,2025-08-23,Active Member,High,10,8,Winner - Intra College Competition,Active,Mr. Preeti Shah
+446,Cricket Team,Sports,2025-08-14,Member,Medium,5,5,,Active,Mr. Preeti Shah
+446,Music Club,Cultural,2025-08-22,Member,Medium,3,2,,Active,Mr. Preeti Shah
+447,Web Development Club,Technical,2025-08-05,Member,Low,3,0,,Active,Mr. Preeti Shah
+448,College Magazine,Other,2025-08-31,Member,Low,1,1,,Active,Mr. Preeti Shah
+448,Quiz Club,Academic,2025-08-05,Member,Low,1,0,,Inactive,Mr. Preeti Shah
+448,Photography Club,Cultural,2025-08-03,Core Team,High,10,9,,Active,Mr. Preeti Shah
+449,Football Team,Sports,2025-08-13,Member,Low,3,1,Certificate of Excellence,Active,Mr. Preeti Shah
+453,Event Management Team,Other,2025-08-10,Member,High,8,7,,Active,Mr. Preeti Shah
+454,Event Management Team,Other,2025-08-20,Member,Low,2,1,,Active,Mr. Preeti Shah
+454,AI/ML Club,Technical,2025-08-02,Active Member,High,6,10,Best Performer Award,Active,Mr. Preeti Shah
+454,Innovation Club,Academic,2025-08-19,Member,Low,3,0,,Inactive,Mr. Preeti Shah
+455,Event Management Team,Other,2025-08-23,Member,High,8,5,Certificate of Excellence,Active,Mr. Preeti Shah
+456,Coding Club,Technical,2025-08-21,Member,Medium,6,4,Participation Certificate,Active,Mr. Preeti Shah
+456,Cricket Team,Sports,2025-08-14,President/Head,Very High,14,11,Best Performer Award,Active,Mr. Preeti Shah
+459,Mathematics Club,Academic,2025-08-21,Active Member,High,8,5,,Inactive,Mr. Preeti Shah
+459,Cricket Team,Sports,2025-08-18,Member,High,9,7,,Inactive,Mr. Preeti Shah
+459,Event Management Team,Other,2025-08-13,Coordinator,Very High,14,16,,Active,Mr. Preeti Shah
+461,Research Club,Academic,2025-08-28,Member,Medium,6,3,,Active,Mr. Preeti Shah
+462,Web Development Club,Technical,2025-08-06,Member,Medium,3,3,,Active,Mr. Preeti Shah
+464,NSS,Social,2025-08-03,Member,High,7,7,,Active,Mr. Preeti Shah
+465,Web Development Club,Technical,2025-08-30,Core Team,Very High,14,19,,Inactive,Mr. Preeti Shah
+466,College Magazine,Other,2025-08-04,Member,Low,2,0,,Active,Mr. Preeti Shah
+467,Mathematics Club,Academic,2025-08-08,Active Member,High,7,8,,Active,Mr. Preeti Shah
+467,NSS,Social,2025-08-19,Member,Low,1,0,,Active,Mr. Preeti Shah
+467,Drama Club,Cultural,2025-08-11,Active Member,High,8,7,Winner - Intra College Competition,Inactive,Mr. Preeti Shah
+468,Quiz Club,Academic,2025-08-19,Active Member,High,10,7,,Active,Mr. Preeti Shah
+468,Environmental Club,Social,2025-08-12,Member,Medium,6,3,Participation Certificate,Active,Mr. Preeti Shah
+468,Drama Club,Cultural,2025-08-28,Member,Low,2,0,,Active,Mr. Preeti Shah
+469,Quiz Club,Academic,2025-08-11,Core Team,Very High,11,12,Winner - Inter College Competition,Active,Mr. Preeti Shah
+469,AI/ML Club,Technical,2025-08-12,Member,Medium,6,3,Winner - Intra College Competition,Inactive,Mr. Preeti Shah
+469,Cricket Team,Sports,2025-08-08,Member,Low,2,0,Participation Certificate,Active,Mr. Preeti Shah
+469,NCC,Social,2025-08-29,Coordinator,Very High,11,13,,Active,Mr. Preeti Shah
+471,Research Club,Academic,2025-08-16,Member,Low,2,1,,Active,Mr. Preeti Shah
+471,Dance Club,Cultural,2025-08-26,Member,Medium,6,5,,Active,Mr. Preeti Shah
+472,Robotics Club,Technical,2025-08-04,Member,High,6,8,,Active,Mr. Preeti Shah
+472,Event Management Team,Other,2025-08-06,Active Member,Medium,6,4,Winner - Intra College Competition,Active,Mr. Preeti Shah
+472,Badminton Club,Sports,2025-08-15,Active Member,High,10,5,,Inactive,Mr. Preeti Shah
+473,Research Club,Academic,2025-08-13,Member,Medium,4,2,,Active,Mr. Preeti Shah
+475,AI/ML Club,Technical,2025-08-17,Active Member,High,9,9,,Active,Mr. Preeti Shah
+475,Rotaract Club,Social,2025-08-16,Member,Low,2,1,,Active,Mr. Preeti Shah
+475,Mathematics Club,Academic,2025-08-16,Member,Low,3,0,,Active,Mr. Preeti Shah
+476,College Magazine,Other,2025-08-26,Member,Medium,3,3,,Active,Mr. Preeti Shah
+476,Cricket Team,Sports,2025-08-12,Active Member,Medium,6,5,,Inactive,Mr. Preeti Shah
+476,Research Club,Academic,2025-08-13,Member,Low,2,1,,Active,Mr. Preeti Shah
+477,Photography Club,Cultural,2025-08-16,Active Member,Medium,6,5,Best Performer Award,Active,Mr. Preeti Shah
+478,College Magazine,Other,2025-08-28,Member,Low,3,2,,Active,Mr. Preeti Shah
+479,NCC,Social,2025-08-31,Member,Low,2,1,Winner - Intra College Competition,Active,Mr. Preeti Shah
+481,Research Club,Academic,2025-08-25,Active Member,High,8,10,,Active,Mr. Sonal Nair
+481,Dance Club,Cultural,2025-08-13,Active Member,High,9,5,,Active,Mr. Sonal Nair
+483,AI/ML Club,Technical,2025-08-26,Member,Low,1,0,,Active,Mr. Sonal Nair
+483,Football Team,Sports,2025-08-11,Member,Low,2,0,,Active,Mr. Sonal Nair
+484,Student Council,Other,2025-08-04,Member,High,7,10,,Active,Mr. Sonal Nair
+484,Cricket Team,Sports,2025-08-02,Active Member,Medium,4,2,,Active,Mr. Sonal Nair
+484,Research Club,Academic,2025-08-21,Core Team,Very High,13,19,,Active,Mr. Sonal Nair
+485,Coding Club,Technical,2025-08-21,Member,Low,1,2,,Active,Mr. Sonal Nair
+485,College Magazine,Other,2025-08-05,Member,Low,2,0,Certificate of Excellence,Active,Mr. Sonal Nair
+487,Photography Club,Cultural,2025-08-03,Member,Medium,5,4,,Active,Mr. Sonal Nair
+487,College Magazine,Other,2025-08-13,Member,Medium,6,4,,Active,Mr. Sonal Nair
+487,Environmental Club,Social,2025-08-21,Member,Medium,4,5,,Active,Mr. Sonal Nair
+488,Rotaract Club,Social,2025-08-28,Active Member,High,7,10,,Active,Mr. Sonal Nair
+488,Drama Club,Cultural,2025-08-27,Member,Low,3,2,,Active,Mr. Sonal Nair
+492,Coding Club,Technical,2025-08-26,Member,Medium,5,2,,Inactive,Mr. Sonal Nair
+492,Research Club,Academic,2025-08-04,Core Team,High,10,7,,Active,Mr. Sonal Nair
+493,Photography Club,Cultural,2025-08-27,Member,Medium,5,4,,Active,Mr. Sonal Nair
+494,Photography Club,Cultural,2025-08-04,Active Member,High,9,5,Winner - Intra College Competition,Active,Mr. Sonal Nair
+494,NSS,Social,2025-08-27,Member,High,7,9,,Active,Mr. Sonal Nair
+494,Coding Club,Technical,2025-08-25,Member,Medium,4,5,,Inactive,Mr. Sonal Nair
+497,Innovation Club,Academic,2025-08-14,President/Head,Very High,10,15,,Active,Mr. Sonal Nair
+497,Coding Club,Technical,2025-08-31,Member,High,6,6,,Active,Mr. Sonal Nair
+498,Dance Club,Cultural,2025-08-31,Member,Medium,6,2,,Active,Mr. Sonal Nair
+500,Dance Club,Cultural,2025-08-03,Active Member,High,8,7,,Inactive,Mr. Sonal Nair
+500,NSS,Social,2025-08-13,Member,High,9,10,,Active,Mr. Sonal Nair
+501,Dance Club,Cultural,2025-08-13,Member,Medium,4,5,,Active,Mr. Sonal Nair
+503,Music Club,Cultural,2025-08-29,Active Member,High,7,7,,Active,Mr. Sonal Nair
+503,Research Club,Academic,2025-08-29,Core Team,Very High,12,10,,Active,Mr. Sonal Nair
+503,Student Council,Other,2025-08-04,Member,Medium,3,3,,Active,Mr. Sonal Nair
+503,Cricket Team,Sports,2025-08-06,Active Member,Medium,4,3,Winner - Inter College Competition,Active,Mr. Sonal Nair
+505,Robotics Club,Technical,2025-08-18,Member,High,9,5,,Active,Mr. Sonal Nair
+509,Basketball Team,Sports,2025-08-12,Active Member,High,10,5,,Active,Mr. Sonal Nair
+510,Rotaract Club,Social,2025-08-21,Member,Low,3,1,,Active,Mr. Sonal Nair
+510,Student Council,Other,2025-08-05,Active Member,Medium,4,2,Winner - Intra College Competition,Active,Mr. Sonal Nair
+510,AI/ML Club,Technical,2025-08-04,President/Head,Very High,12,20,,Active,Mr. Sonal Nair
+511,Event Management Team,Other,2025-08-19,Member,Low,2,1,,Active,Mr. Sonal Nair
+511,Mathematics Club,Academic,2025-08-04,Member,High,7,8,,Active,Mr. Sonal Nair
+511,AI/ML Club,Technical,2025-08-19,Member,Medium,4,5,,Active,Mr. Sonal Nair
+511,NCC,Social,2025-08-07,Member,Low,3,2,,Active,Mr. Sonal Nair
+512,Research Club,Academic,2025-08-06,Member,Low,2,1,,Active,Mr. Sonal Nair
+512,Coding Club,Technical,2025-08-15,Member,Medium,6,2,,Active,Mr. Sonal Nair
+512,Basketball Team,Sports,2025-08-20,Member,Medium,3,5,,Active,Mr. Sonal Nair
+513,Photography Club,Cultural,2025-08-13,Member,Low,3,2,,Active,Mr. Sonal Nair
+515,Photography Club,Cultural,2025-08-29,Active Member,High,9,6,,Active,Mr. Sonal Nair
+515,Cricket Team,Sports,2025-08-15,President/Head,Very High,13,11,,Inactive,Mr. Sonal Nair
+517,Research Club,Academic,2025-08-21,Active Member,Medium,6,2,,Active,Mr. Sonal Nair
+518,Dance Club,Cultural,2025-08-10,Core Team,Very High,10,12,,Active,Mr. Sonal Nair
+518,Student Council,Other,2025-08-24,Member,Medium,5,5,,Active,Mr. Sonal Nair
+519,Music Club,Cultural,2025-08-29,Active Member,Medium,5,3,Winner - Intra College Competition,Inactive,Mr. Sonal Nair
+519,Innovation Club,Academic,2025-08-03,Member,High,7,7,,Active,Mr. Sonal Nair
+519,Web Development Club,Technical,2025-08-03,Core Team,High,7,9,,Active,Mr. Sonal Nair
+520,Innovation Club,Academic,2025-08-29,Core Team,High,9,8,Certificate of Excellence,Active,Mr. Sonal Nair
+521,Football Team,Sports,2025-08-23,Active Member,High,9,6,,Active,Mr. Rajesh Mukherjee
+521,Research Club,Academic,2025-08-11,Member,Medium,5,4,Winner - Intra College Competition,Active,Mr. Rajesh Mukherjee
+521,Dance Club,Cultural,2025-08-18,Active Member,Medium,5,5,,Active,Mr. Rajesh Mukherjee
+522,Event Management Team,Other,2025-08-24,Member,Low,2,0,,Active,Mr. Rajesh Mukherjee
+523,Robotics Club,Technical,2025-08-11,Member,Medium,5,3,Certificate of Excellence,Active,Mr. Rajesh Mukherjee
+523,Music Club,Cultural,2025-08-04,Member,High,9,10,,Inactive,Mr. Rajesh Mukherjee
+523,Innovation Club,Academic,2025-08-24,Member,Low,1,1,Participation Certificate,Active,Mr. Rajesh Mukherjee
+526,Innovation Club,Academic,2025-08-10,Member,Medium,5,2,Certificate of Excellence,Active,Mr. Rajesh Mukherjee
+527,NSS,Social,2025-08-11,Member,Medium,5,5,,Active,Mr. Rajesh Mukherjee
+527,Innovation Club,Academic,2025-08-04,Member,Low,3,0,,Active,Mr. Rajesh Mukherjee
+528,College Magazine,Other,2025-08-27,Active Member,High,10,6,,Active,Mr. Rajesh Mukherjee
+528,Mathematics Club,Academic,2025-08-19,Active Member,Medium,5,4,,Active,Mr. Rajesh Mukherjee
+529,Mathematics Club,Academic,2025-08-21,Core Team,High,10,5,,Active,Mr. Rajesh Mukherjee
+531,Photography Club,Cultural,2025-08-29,Core Team,Very High,11,19,,Active,Mr. Rajesh Mukherjee
+532,Event Management Team,Other,2025-08-20,Core Team,High,7,6,,Active,Mr. Rajesh Mukherjee
+532,Mathematics Club,Academic,2025-08-03,Member,Medium,5,2,,Active,Mr. Rajesh Mukherjee
+533,Dance Club,Cultural,2025-08-22,Member,Low,2,0,,Active,Mr. Rajesh Mukherjee
+533,Environmental Club,Social,2025-08-15,Active Member,High,10,8,,Active,Mr. Rajesh Mukherjee
+533,Cricket Team,Sports,2025-08-29,Member,High,10,9,Winner - Intra College Competition,Active,Mr. Rajesh Mukherjee
+533,Student Council,Other,2025-08-03,Member,Low,2,2,,Active,Mr. Rajesh Mukherjee
+534,Basketball Team,Sports,2025-08-29,Member,Medium,5,3,,Active,Mr. Rajesh Mukherjee
+535,AI/ML Club,Technical,2025-08-31,Active Member,Medium,3,5,,Active,Mr. Rajesh Mukherjee
+536,Research Club,Academic,2025-08-22,Member,High,6,8,,Active,Mr. Rajesh Mukherjee
+537,Cricket Team,Sports,2025-08-16,Member,Medium,5,2,Certificate of Excellence,Active,Mr. Rajesh Mukherjee
+537,Dance Club,Cultural,2025-08-18,Member,Low,2,2,,Active,Mr. Rajesh Mukherjee
+538,AI/ML Club,Technical,2025-08-02,Active Member,Medium,3,3,Winner - Intra College Competition,Active,Mr. Rajesh Mukherjee
+538,Photography Club,Cultural,2025-08-19,Active Member,High,7,6,,Active,Mr. Rajesh Mukherjee
+540,Badminton Club,Sports,2025-08-07,Member,Low,3,1,,Active,Mr. Rajesh Mukherjee
+540,Coding Club,Technical,2025-08-11,Active Member,Medium,5,4,,Active,Mr. Rajesh Mukherjee
+540,Drama Club,Cultural,2025-08-20,Active Member,Medium,6,5,,Active,Mr. Rajesh Mukherjee
+541,Web Development Club,Technical,2025-08-13,Active Member,High,9,8,,Active,Mr. Rajesh Mukherjee
+541,NSS,Social,2025-08-22,Member,Medium,6,2,,Active,Mr. Rajesh Mukherjee
+541,Music Club,Cultural,2025-08-02,Active Member,Medium,4,2,,Active,Mr. Rajesh Mukherjee
+542,Dance Club,Cultural,2025-08-12,Member,Low,2,0,,Active,Mr. Rajesh Mukherjee
+542,Web Development Club,Technical,2025-08-20,Member,Low,3,2,,Active,Mr. Rajesh Mukherjee
+542,Cricket Team,Sports,2025-08-11,Active Member,High,6,5,,Active,Mr. Rajesh Mukherjee
+545,NCC,Social,2025-08-08,Coordinator,Very High,14,16,,Active,Mr. Rajesh Mukherjee
+546,Drama Club,Cultural,2025-08-08,Member,High,6,5,,Active,Mr. Rajesh Mukherjee
+546,College Magazine,Other,2025-08-31,Member,High,6,8,,Active,Mr. Rajesh Mukherjee
+546,Robotics Club,Technical,2025-08-08,Active Member,Medium,6,3,,Active,Mr. Rajesh Mukherjee
+546,Mathematics Club,Academic,2025-08-19,Member,High,8,5,,Active,Mr. Rajesh Mukherjee
+550,Cricket Team,Sports,2025-08-13,Member,Low,2,1,,Inactive,Mr. Rajesh Mukherjee
+550,Web Development Club,Technical,2025-08-12,Core Team,Very High,13,13,,Active,Mr. Rajesh Mukherjee
+551,Robotics Club,Technical,2025-08-09,Member,Low,3,1,,Active,Mr. Rajesh Mukherjee
+552,Football Team,Sports,2025-08-05,Member,Low,1,0,,Active,Mr. Rajesh Mukherjee
+552,Music Club,Cultural,2025-08-17,Active Member,High,9,8,,Active,Mr. Rajesh Mukherjee
+554,NCC,Social,2025-08-25,Core Team,Very High,14,16,,Active,Mr. Rajesh Mukherjee
+554,Football Team,Sports,2025-08-03,Member,Medium,4,2,,Active,Mr. Rajesh Mukherjee
+554,Mathematics Club,Academic,2025-08-28,Member,Medium,6,4,,Active,Mr. Rajesh Mukherjee
+555,Web Development Club,Technical,2025-08-05,Member,Low,3,1,,Active,Mr. Rajesh Mukherjee
+557,AI/ML Club,Technical,2025-08-09,Member,Medium,4,4,Best Performer Award,Active,Mr. Rajesh Mukherjee
+558,Student Council,Other,2025-08-06,Active Member,Medium,4,5,,Active,Mr. Rajesh Mukherjee
+558,Robotics Club,Technical,2025-08-29,Member,Medium,4,2,,Active,Mr. Rajesh Mukherjee
+560,Badminton Club,Sports,2025-08-28,Active Member,Medium,6,2,,Active,Dr. Sunita Saxena
+560,Rotaract Club,Social,2025-08-16,President/Head,Very High,13,15,,Active,Dr. Sunita Saxena
+560,Robotics Club,Technical,2025-08-18,Member,High,9,7,,Active,Dr. Sunita Saxena
+562,Robotics Club,Technical,2025-08-20,Member,Medium,5,3,Participation Certificate,Active,Dr. Sunita Saxena
+562,Badminton Club,Sports,2025-08-24,Core Team,Very High,14,18,,Active,Dr. Sunita Saxena
+562,Mathematics Club,Academic,2025-08-26,Member,Low,3,0,,Active,Dr. Sunita Saxena
+563,Innovation Club,Academic,2025-08-21,Member,High,7,7,,Inactive,Dr. Sunita Saxena
+563,Web Development Club,Technical,2025-08-08,Active Member,High,8,10,,Inactive,Dr. Sunita Saxena
+564,Innovation Club,Academic,2025-08-11,Active Member,Medium,3,5,,Inactive,Dr. Sunita Saxena
+564,Dance Club,Cultural,2025-08-11,Core Team,Very High,11,13,Participation Certificate,Inactive,Dr. Sunita Saxena
+567,Photography Club,Cultural,2025-08-25,Member,High,10,5,,Active,Dr. Sunita Saxena
+568,Coding Club,Technical,2025-08-23,Member,Medium,4,3,,Active,Dr. Sunita Saxena
+569,Event Management Team,Other,2025-08-12,Member,Low,3,0,,Active,Dr. Sunita Saxena
+569,AI/ML Club,Technical,2025-08-29,Member,Medium,5,5,,Active,Dr. Sunita Saxena
+571,Student Council,Other,2025-08-10,Core Team,High,10,7,,Active,Dr. Sunita Saxena
+571,Coding Club,Technical,2025-08-06,Member,High,6,5,Certificate of Excellence,Active,Dr. Sunita Saxena
+571,Research Club,Academic,2025-08-28,Member,Medium,6,2,,Active,Dr. Sunita Saxena
+573,Research Club,Academic,2025-08-23,Active Member,Medium,3,4,,Active,Dr. Sunita Saxena
+574,Web Development Club,Technical,2025-08-17,Member,Low,2,1,Winner - Intra College Competition,Active,Dr. Sunita Saxena
+574,NSS,Social,2025-08-25,Coordinator,Very High,11,11,Certificate of Excellence,Inactive,Dr. Sunita Saxena
+574,Innovation Club,Academic,2025-08-17,Active Member,Medium,5,2,,Active,Dr. Sunita Saxena
+575,Robotics Club,Technical,2025-08-25,Member,Low,2,1,,Active,Dr. Sunita Saxena
+575,Football Team,Sports,2025-08-06,Member,High,10,9,,Active,Dr. Sunita Saxena
+575,Mathematics Club,Academic,2025-08-22,Member,High,7,5,,Active,Dr. Sunita Saxena
+576,Innovation Club,Academic,2025-08-23,Member,Medium,4,4,,Active,Dr. Sunita Saxena
+576,Dance Club,Cultural,2025-08-27,Member,Low,3,1,,Active,Dr. Sunita Saxena
+578,Football Team,Sports,2025-08-31,Member,Low,3,1,,Active,Dr. Sunita Saxena
+578,Environmental Club,Social,2025-08-04,Member,Low,3,0,Winner - Inter College Competition,Active,Dr. Sunita Saxena
+579,Drama Club,Cultural,2025-08-12,Member,Medium,5,3,,Active,Dr. Sunita Saxena
+579,Mathematics Club,Academic,2025-08-22,Active Member,High,8,8,,Active,Dr. Sunita Saxena
+579,Robotics Club,Technical,2025-08-21,Core Team,Very High,15,20,Participation Certificate,Active,Dr. Sunita Saxena
+580,Mathematics Club,Academic,2025-08-13,Member,Medium,3,4,Participation Certificate,Active,Dr. Sunita Saxena
+580,Robotics Club,Technical,2025-08-03,Member,Low,1,1,,Active,Dr. Sunita Saxena
+583,College Magazine,Other,2025-08-09,Member,Medium,4,2,Winner - Intra College Competition,Active,Dr. Sunita Saxena
+583,Mathematics Club,Academic,2025-08-05,Member,Medium,6,5,Best Performer Award,Active,Dr. Sunita Saxena
+583,NSS,Social,2025-08-08,Member,Medium,6,2,,Active,Dr. Sunita Saxena
+585,Dance Club,Cultural,2025-08-08,Member,Medium,3,5,Winner - Intra College Competition,Active,Dr. Sunita Saxena
+585,Event Management Team,Other,2025-08-18,Active Member,Medium,4,5,,Active,Dr. Sunita Saxena
+586,Music Club,Cultural,2025-08-28,Member,Medium,5,3,,Active,Dr. Sunita Saxena
+587,Quiz Club,Academic,2025-08-12,Member,Low,1,2,,Inactive,Dr. Sunita Saxena
+587,NSS,Social,2025-08-10,Core Team,High,10,5,,Active,Dr. Sunita Saxena
+587,Student Council,Other,2025-08-28,Member,Medium,3,3,,Active,Dr. Sunita Saxena
+591,Quiz Club,Academic,2025-08-27,Member,Low,1,2,,Active,Dr. Sunita Saxena
+591,Cricket Team,Sports,2025-08-02,Member,High,10,7,,Active,Dr. Sunita Saxena
+591,College Magazine,Other,2025-08-14,Coordinator,Very High,11,10,,Active,Dr. Sunita Saxena
+592,Cricket Team,Sports,2025-08-23,Active Member,Medium,4,2,,Active,Dr. Sunita Saxena
+592,College Magazine,Other,2025-08-04,Core Team,High,6,10,,Active,Dr. Sunita Saxena
+592,Environmental Club,Social,2025-08-30,Member,High,8,6,,Active,Dr. Sunita Saxena
+594,Web Development Club,Technical,2025-08-29,Active Member,High,6,10,,Inactive,Dr. Sunita Saxena
+594,Event Management Team,Other,2025-08-12,Active Member,High,9,5,,Active,Dr. Sunita Saxena
+595,Football Team,Sports,2025-08-13,Active Member,Medium,3,3,,Active,Dr. Sunita Saxena
+595,Coding Club,Technical,2025-08-24,Member,Low,3,2,,Active,Dr. Sunita Saxena
+595,NCC,Social,2025-08-20,Member,Medium,6,5,,Inactive,Dr. Sunita Saxena
+595,Research Club,Academic,2025-08-23,Member,Low,3,2,,Active,Dr. Sunita Saxena
+596,College Magazine,Other,2025-08-23,Active Member,Medium,4,4,,Active,Dr. Sunita Saxena
+596,NCC,Social,2025-08-09,Member,Medium,3,3,,Active,Dr. Sunita Saxena
+598,Basketball Team,Sports,2025-08-10,Member,Medium,3,4,,Active,Dr. Sunita Saxena
+598,NCC,Social,2025-08-30,Member,Low,3,1,,Active,Dr. Sunita Saxena
+600,Photography Club,Cultural,2025-08-02,Member,Low,1,2,,Active,Prof. Ramesh Choudhury
+600,Student Council,Other,2025-08-03,Member,Low,2,1,Participation Certificate,Active,Prof. Ramesh Choudhury
+600,Research Club,Academic,2025-08-20,Member,High,9,8,,Inactive,Prof. Ramesh Choudhury
+601,Robotics Club,Technical,2025-08-14,Member,Medium,3,3,,Inactive,Prof. Ramesh Choudhury
+601,NCC,Social,2025-08-09,Core Team,High,10,6,,Active,Prof. Ramesh Choudhury
+601,Football Team,Sports,2025-08-22,Active Member,High,10,6,Best Performer Award,Inactive,Prof. Ramesh Choudhury
+603,Robotics Club,Technical,2025-08-10,Member,High,6,8,Winner - Inter College Competition,Active,Prof. Ramesh Choudhury
+605,Football Team,Sports,2025-08-02,Member,Medium,6,3,,Active,Prof. Ramesh Choudhury
+606,NSS,Social,2025-08-07,Active Member,High,6,5,Winner - Inter College Competition,Active,Prof. Ramesh Choudhury
+607,Dance Club,Cultural,2025-08-25,Active Member,Medium,4,4,,Active,Prof. Ramesh Choudhury
+607,Web Development Club,Technical,2025-08-25,Member,Low,3,1,Best Performer Award,Active,Prof. Ramesh Choudhury
+608,Badminton Club,Sports,2025-08-22,Member,Medium,6,4,,Active,Prof. Ramesh Choudhury
+609,Badminton Club,Sports,2025-08-21,Member,Medium,6,4,Certificate of Excellence,Inactive,Prof. Ramesh Choudhury
+611,Research Club,Academic,2025-08-05,Member,Low,1,2,Best Performer Award,Active,Prof. Ramesh Choudhury
+612,Research Club,Academic,2025-08-04,Active Member,Medium,4,5,,Active,Prof. Ramesh Choudhury
+612,Football Team,Sports,2025-08-25,Active Member,High,9,6,Winner - Inter College Competition,Active,Prof. Ramesh Choudhury
+612,NSS,Social,2025-08-09,Member,Medium,4,2,Certificate of Excellence,Active,Prof. Ramesh Choudhury
+613,Quiz Club,Academic,2025-08-19,Member,High,9,6,,Active,Prof. Ramesh Choudhury
+613,NCC,Social,2025-08-06,Member,Low,2,1,Winner - Intra College Competition,Inactive,Prof. Ramesh Choudhury
+614,Drama Club,Cultural,2025-08-25,Member,Medium,5,5,,Active,Prof. Ramesh Choudhury
+614,Environmental Club,Social,2025-08-29,Active Member,High,10,9,,Active,Prof. Ramesh Choudhury
+615,Badminton Club,Sports,2025-08-24,Active Member,Medium,6,4,Best Performer Award,Inactive,Prof. Ramesh Choudhury
+615,Event Management Team,Other,2025-08-03,Member,Medium,6,4,,Active,Prof. Ramesh Choudhury
+617,Badminton Club,Sports,2025-08-13,Member,Medium,6,3,,Active,Prof. Ramesh Choudhury
+617,Dance Club,Cultural,2025-08-15,Member,High,8,6,,Active,Prof. Ramesh Choudhury
+617,College Magazine,Other,2025-08-18,Active Member,High,9,5,,Active,Prof. Ramesh Choudhury
+617,Research Club,Academic,2025-08-24,Member,Medium,6,3,Certificate of Excellence,Active,Prof. Ramesh Choudhury
+618,Dance Club,Cultural,2025-08-02,Member,Low,3,0,,Inactive,Prof. Ramesh Choudhury
+620,College Magazine,Other,2025-08-14,Active Member,Medium,5,5,,Active,Prof. Ramesh Choudhury
+622,Student Council,Other,2025-08-14,Active Member,Medium,4,3,,Active,Prof. Ramesh Choudhury
+623,Dance Club,Cultural,2025-08-18,Member,Low,2,0,,Active,Prof. Ramesh Choudhury
+623,Robotics Club,Technical,2025-08-18,Member,Low,1,1,Participation Certificate,Active,Prof. Ramesh Choudhury
+624,Basketball Team,Sports,2025-08-14,Active Member,Medium,4,3,,Active,Prof. Ramesh Choudhury
+624,Robotics Club,Technical,2025-08-28,Active Member,Medium,4,4,,Active,Prof. Ramesh Choudhury
+624,Photography Club,Cultural,2025-08-19,Active Member,Medium,3,4,,Active,Prof. Ramesh Choudhury
+627,Robotics Club,Technical,2025-08-31,Member,Low,1,1,Winner - Inter College Competition,Active,Prof. Ramesh Choudhury
+627,Student Council,Other,2025-08-19,Active Member,High,8,5,,Active,Prof. Ramesh Choudhury
+627,NSS,Social,2025-08-02,Member,Low,3,0,,Active,Prof. Ramesh Choudhury
+628,Student Council,Other,2025-08-20,Core Team,Very High,12,18,,Active,Prof. Ramesh Choudhury
+628,NCC,Social,2025-08-23,Active Member,High,10,7,,Active,Prof. Ramesh Choudhury
+630,Innovation Club,Academic,2025-08-19,Member,High,9,9,,Active,Prof. Ramesh Choudhury
+630,Cricket Team,Sports,2025-08-29,Member,Low,2,0,,Inactive,Prof. Ramesh Choudhury
+631,Student Council,Other,2025-08-03,Member,Low,2,1,,Active,Prof. Ramesh Choudhury
+631,Robotics Club,Technical,2025-08-22,Member,Low,3,0,Winner - Intra College Competition,Active,Prof. Ramesh Choudhury
+631,Cricket Team,Sports,2025-08-25,Active Member,Medium,5,5,Winner - Inter College Competition,Active,Prof. Ramesh Choudhury
+632,Photography Club,Cultural,2025-08-18,Member,Medium,3,2,,Active,Prof. Ramesh Choudhury
+632,Robotics Club,Technical,2025-08-26,Member,Low,1,2,,Active,Prof. Ramesh Choudhury
+632,Student Council,Other,2025-08-11,Member,Medium,4,5,Certificate of Excellence,Active,Prof. Ramesh Choudhury
+633,Mathematics Club,Academic,2025-08-19,Core Team,Very High,13,18,Winner - Intra College Competition,Active,Prof. Ramesh Choudhury
+635,Cricket Team,Sports,2025-08-09,Member,Medium,5,3,,Active,Prof. Ramesh Choudhury
+635,Quiz Club,Academic,2025-08-18,Active Member,High,10,7,Winner - Inter College Competition,Active,Prof. Ramesh Choudhury
+636,Cricket Team,Sports,2025-08-23,Member,Low,3,2,,Inactive,Prof. Ramesh Choudhury
+638,Robotics Club,Technical,2025-08-12,Member,Low,2,0,Winner - Intra College Competition,Active,Mr. Ashok Shah
+639,Football Team,Sports,2025-08-31,Member,Low,1,0,,Active,Mr. Ashok Shah
+639,College Magazine,Other,2025-08-03,Member,Medium,5,3,,Inactive,Mr. Ashok Shah
+639,NSS,Social,2025-08-16,Member,Low,1,1,,Active,Mr. Ashok Shah
+640,Badminton Club,Sports,2025-08-03,Active Member,Medium,3,2,,Active,Mr. Ashok Shah
+640,Robotics Club,Technical,2025-08-29,Member,Medium,6,4,Winner - Intra College Competition,Inactive,Mr. Ashok Shah
+642,NSS,Social,2025-08-29,Member,Low,2,2,,Active,Mr. Ashok Shah
+642,Event Management Team,Other,2025-08-20,Member,Medium,6,4,,Active,Mr. Ashok Shah
+642,Drama Club,Cultural,2025-08-27,Member,Low,1,2,,Active,Mr. Ashok Shah
+642,Mathematics Club,Academic,2025-08-09,Member,High,8,9,,Active,Mr. Ashok Shah
+644,Innovation Club,Academic,2025-08-08,Active Member,High,7,8,,Inactive,Mr. Ashok Shah
+648,Event Management Team,Other,2025-08-24,Member,Medium,4,4,Participation Certificate,Active,Mr. Ashok Shah
+648,Quiz Club,Academic,2025-08-10,Core Team,High,10,5,,Active,Mr. Ashok Shah
+648,Football Team,Sports,2025-08-08,Member,Medium,4,5,,Active,Mr. Ashok Shah
+649,Cricket Team,Sports,2025-08-27,Member,Medium,3,2,,Active,Mr. Ashok Shah
+650,Badminton Club,Sports,2025-08-26,Active Member,Medium,5,4,,Active,Mr. Ashok Shah
+651,Quiz Club,Academic,2025-08-08,Member,Low,1,0,,Active,Mr. Ashok Shah
+651,College Magazine,Other,2025-08-02,Member,Low,3,0,,Active,Mr. Ashok Shah
+651,Basketball Team,Sports,2025-08-16,Active Member,High,8,7,Best Performer Award,Inactive,Mr. Ashok Shah
+651,Web Development Club,Technical,2025-08-23,Active Member,High,8,8,,Active,Mr. Ashok Shah
+654,Innovation Club,Academic,2025-08-24,Core Team,High,9,9,,Active,Mr. Ashok Shah
+654,NCC,Social,2025-08-08,Member,Low,1,1,,Active,Mr. Ashok Shah
+654,Photography Club,Cultural,2025-08-04,Member,Medium,5,2,,Inactive,Mr. Ashok Shah
+655,Badminton Club,Sports,2025-08-15,Member,Low,2,0,,Inactive,Mr. Ashok Shah
+655,College Magazine,Other,2025-08-25,Core Team,High,9,7,,Active,Mr. Ashok Shah
+656,Environmental Club,Social,2025-08-27,Core Team,Very High,11,10,,Active,Mr. Ashok Shah
+656,Music Club,Cultural,2025-08-28,Member,Medium,6,5,,Active,Mr. Ashok Shah
+656,Cricket Team,Sports,2025-08-06,Member,Low,1,2,,Active,Mr. Ashok Shah
+657,Music Club,Cultural,2025-08-03,Member,Low,1,1,,Active,Mr. Ashok Shah
+657,AI/ML Club,Technical,2025-08-19,Active Member,Medium,4,3,,Active,Mr. Ashok Shah
+658,Web Development Club,Technical,2025-08-22,Member,Low,2,2,,Active,Mr. Ashok Shah
+658,Quiz Club,Academic,2025-08-12,President/Head,Very High,12,16,,Active,Mr. Ashok Shah
+661,Innovation Club,Academic,2025-08-23,Member,Low,1,2,Winner - Intra College Competition,Active,Mr. Ashok Shah
+661,NCC,Social,2025-08-02,Member,Low,2,1,,Active,Mr. Ashok Shah
+662,Football Team,Sports,2025-08-31,Member,Medium,3,3,,Active,Mr. Ashok Shah
+662,AI/ML Club,Technical,2025-08-13,Member,Medium,5,3,Winner - Intra College Competition,Active,Mr. Ashok Shah
+662,Music Club,Cultural,2025-08-26,Active Member,Medium,5,5,,Active,Mr. Ashok Shah
+662,Mathematics Club,Academic,2025-08-14,Active Member,High,10,5,,Active,Mr. Ashok Shah
+663,AI/ML Club,Technical,2025-08-12,Member,High,9,5,,Active,Mr. Ashok Shah
+663,NCC,Social,2025-08-29,Active Member,High,10,7,Participation Certificate,Active,Mr. Ashok Shah
+663,Mathematics Club,Academic,2025-08-05,Member,Low,2,1,,Inactive,Mr. Ashok Shah
+665,Robotics Club,Technical,2025-08-05,Core Team,High,10,6,,Active,Mr. Ashok Shah
+665,Rotaract Club,Social,2025-08-28,Member,Low,3,1,,Active,Mr. Ashok Shah
+665,Football Team,Sports,2025-08-10,Member,Medium,3,5,Winner - Inter College Competition,Active,Mr. Ashok Shah
+667,Quiz Club,Academic,2025-08-09,Member,Medium,3,2,,Active,Mr. Ashok Shah
+667,AI/ML Club,Technical,2025-08-16,Coordinator,Very High,12,12,,Active,Mr. Ashok Shah
+668,Photography Club,Cultural,2025-08-15,Member,High,10,8,,Active,Mr. Ashok Shah
+668,Rotaract Club,Social,2025-08-04,Active Member,High,7,6,Winner - Inter College Competition,Active,Mr. Ashok Shah
+669,Basketball Team,Sports,2025-08-15,Member,Medium,3,5,,Active,Mr. Ashok Shah
+669,Event Management Team,Other,2025-08-27,Active Member,High,9,7,,Active,Mr. Ashok Shah
+670,Quiz Club,Academic,2025-08-02,Active Member,High,10,8,Best Performer Award,Active,Mr. Ashok Shah
+671,NSS,Social,2025-08-23,Member,High,10,8,Best Performer Award,Inactive,Mr. Ashok Shah
+671,College Magazine,Other,2025-08-20,Member,Low,2,2,,Active,Mr. Ashok Shah
+672,Coding Club,Technical,2025-08-03,Member,High,7,5,,Active,Prof. Priya Arora
+673,College Magazine,Other,2025-08-03,Coordinator,Very High,11,14,,Active,Prof. Priya Arora
+676,Basketball Team,Sports,2025-08-13,Member,Low,1,0,Winner - Intra College Competition,Active,Prof. Priya Arora
+676,Robotics Club,Technical,2025-08-31,Core Team,Very High,15,19,,Active,Prof. Priya Arora
+677,Dance Club,Cultural,2025-08-07,Active Member,Medium,6,4,Winner - Intra College Competition,Active,Prof. Priya Arora
+678,College Magazine,Other,2025-08-27,President/Head,Very High,11,19,,Inactive,Prof. Priya Arora
+678,Environmental Club,Social,2025-08-17,Member,High,7,10,,Active,Prof. Priya Arora
+679,Robotics Club,Technical,2025-08-26,Member,Low,1,0,,Active,Prof. Priya Arora
+679,Drama Club,Cultural,2025-08-23,Member,Medium,4,3,,Inactive,Prof. Priya Arora
+679,Badminton Club,Sports,2025-08-04,Member,Low,1,2,Certificate of Excellence,Active,Prof. Priya Arora
+680,Photography Club,Cultural,2025-08-16,Active Member,High,10,9,Winner - Inter College Competition,Active,Prof. Priya Arora
+682,Coding Club,Technical,2025-08-26,Active Member,High,7,10,Winner - Inter College Competition,Active,Prof. Priya Arora
+683,AI/ML Club,Technical,2025-08-30,Active Member,Medium,3,4,,Active,Prof. Priya Arora
+683,Dance Club,Cultural,2025-08-06,Member,Low,3,0,,Active,Prof. Priya Arora
+684,NSS,Social,2025-08-17,Member,Low,3,0,,Active,Prof. Priya Arora
+685,Research Club,Academic,2025-08-19,Active Member,High,9,6,,Active,Prof. Priya Arora
+685,Drama Club,Cultural,2025-08-20,Member,Medium,5,5,,Active,Prof. Priya Arora
+687,Football Team,Sports,2025-08-28,Core Team,Very High,15,15,,Inactive,Prof. Priya Arora
+687,Student Council,Other,2025-08-13,Member,High,10,8,Participation Certificate,Active,Prof. Priya Arora
+687,Coding Club,Technical,2025-08-26,Member,Low,1,2,Winner - Inter College Competition,Active,Prof. Priya Arora
+687,Innovation Club,Academic,2025-08-06,Core Team,High,7,9,,Active,Prof. Priya Arora
+690,Quiz Club,Academic,2025-08-28,Member,Medium,6,4,Certificate of Excellence,Inactive,Prof. Priya Arora
+690,NSS,Social,2025-08-03,Active Member,Medium,5,5,,Active,Prof. Priya Arora
+692,Event Management Team,Other,2025-08-21,Member,Low,3,2,,Inactive,Prof. Priya Arora
+693,Music Club,Cultural,2025-08-04,Member,High,7,9,,Active,Prof. Priya Arora
+694,Cricket Team,Sports,2025-08-07,Coordinator,Very High,10,10,,Active,Prof. Priya Arora
+695,Basketball Team,Sports,2025-08-17,Core Team,High,8,7,Certificate of Excellence,Active,Prof. Priya Arora
+698,Badminton Club,Sports,2025-08-03,Member,High,10,9,Best Performer Award,Active,Prof. Priya Arora
+698,Research Club,Academic,2025-08-25,Member,Low,2,2,,Active,Prof. Priya Arora
+698,AI/ML Club,Technical,2025-08-13,Member,Medium,3,3,,Active,Prof. Priya Arora
+699,Event Management Team,Other,2025-08-17,Core Team,Very High,14,20,,Active,Prof. Priya Arora
+700,Badminton Club,Sports,2025-08-02,Member,Low,2,0,,Active,Prof. Priya Arora
+701,Event Management Team,Other,2025-08-05,Member,Low,2,2,,Active,Prof. Priya Arora
+703,Football Team,Sports,2025-08-14,Core Team,High,6,10,,Active,Prof. Priya Arora
+703,NCC,Social,2025-08-28,Member,High,8,9,,Active,Prof. Priya Arora
+705,Drama Club,Cultural,2025-08-17,Active Member,Medium,6,4,,Active,Dr. Suresh Ahmed
+705,Basketball Team,Sports,2025-08-03,Member,Medium,5,4,Participation Certificate,Active,Dr. Suresh Ahmed
+705,Innovation Club,Academic,2025-08-10,Core Team,Very High,11,20,Participation Certificate,Inactive,Dr. Suresh Ahmed
+705,Web Development Club,Technical,2025-08-14,Member,Low,3,2,,Inactive,Dr. Suresh Ahmed
+706,Event Management Team,Other,2025-08-09,Member,Low,2,2,,Active,Dr. Suresh Ahmed
+707,College Magazine,Other,2025-08-02,Coordinator,Very High,12,17,,Active,Dr. Suresh Ahmed
+707,Robotics Club,Technical,2025-08-30,Member,Low,2,1,Winner - Inter College Competition,Active,Dr. Suresh Ahmed
+708,NCC,Social,2025-08-08,Active Member,High,6,10,,Active,Dr. Suresh Ahmed
+710,Football Team,Sports,2025-08-23,Member,High,10,6,,Active,Dr. Suresh Ahmed
+710,Music Club,Cultural,2025-08-19,Active Member,High,6,7,,Inactive,Dr. Suresh Ahmed
+712,Student Council,Other,2025-08-17,Coordinator,Very High,15,11,,Inactive,Dr. Suresh Ahmed
+712,Basketball Team,Sports,2025-08-25,Active Member,Medium,5,4,,Active,Dr. Suresh Ahmed
+712,Innovation Club,Academic,2025-08-15,Member,Low,3,1,,Inactive,Dr. Suresh Ahmed
+714,Mathematics Club,Academic,2025-08-06,Active Member,Medium,3,4,,Inactive,Dr. Suresh Ahmed
+714,Coding Club,Technical,2025-08-29,Active Member,Medium,3,5,,Active,Dr. Suresh Ahmed
+715,Coding Club,Technical,2025-08-15,Core Team,High,7,8,Participation Certificate,Active,Dr. Suresh Ahmed
+715,Mathematics Club,Academic,2025-08-31,Member,Low,1,0,,Active,Dr. Suresh Ahmed
+719,Event Management Team,Other,2025-08-22,Active Member,Medium,4,3,,Inactive,Dr. Suresh Ahmed
+719,Dance Club,Cultural,2025-08-08,Core Team,High,6,8,,Active,Dr. Suresh Ahmed
+719,Coding Club,Technical,2025-08-03,Member,High,6,9,,Active,Dr. Suresh Ahmed
+720,Drama Club,Cultural,2025-08-22,Member,High,10,9,Winner - Inter College Competition,Active,Dr. Suresh Ahmed
+720,Coding Club,Technical,2025-08-20,Member,Low,1,1,,Inactive,Dr. Suresh Ahmed
+720,Event Management Team,Other,2025-08-27,Member,Medium,4,5,Winner - Inter College Competition,Active,Dr. Suresh Ahmed
+721,Drama Club,Cultural,2025-08-28,Member,Low,2,0,,Active,Dr. Suresh Ahmed
+721,Quiz Club,Academic,2025-08-10,Member,Medium,6,5,Winner - Intra College Competition,Active,Dr. Suresh Ahmed
+722,Cricket Team,Sports,2025-08-17,Member,Low,3,1,,Active,Dr. Suresh Ahmed
+725,College Magazine,Other,2025-08-27,Core Team,Very High,14,18,,Active,Dr. Suresh Ahmed
+725,Basketball Team,Sports,2025-08-26,Active Member,High,8,9,Winner - Intra College Competition,Active,Dr. Suresh Ahmed
+727,College Magazine,Other,2025-08-22,Member,Medium,4,2,,Inactive,Dr. Suresh Ahmed
+729,Web Development Club,Technical,2025-08-05,Active Member,Medium,5,3,,Active,Dr. Suresh Ahmed
+730,Basketball Team,Sports,2025-08-19,Core Team,Very High,10,10,,Inactive,Dr. Suresh Ahmed
+730,Drama Club,Cultural,2025-08-10,Member,Low,1,2,,Active,Dr. Suresh Ahmed
+730,Innovation Club,Academic,2025-08-06,Member,Low,2,2,,Active,Dr. Suresh Ahmed
+730,Environmental Club,Social,2025-08-10,Member,High,6,8,,Active,Dr. Suresh Ahmed
+731,AI/ML Club,Technical,2025-08-08,Member,Medium,6,3,Winner - Intra College Competition,Active,Dr. Suresh Ahmed
+734,Badminton Club,Sports,2025-08-19,Member,Low,2,0,,Inactive,Dr. Suresh Ahmed
+734,Research Club,Academic,2025-08-15,Member,Low,3,1,,Inactive,Dr. Suresh Ahmed
+735,Event Management Team,Other,2025-08-19,Active Member,High,9,7,Winner - Inter College Competition,Active,Dr. Suresh Ahmed
+736,Dance Club,Cultural,2025-08-14,Member,Low,2,0,Winner - Inter College Competition,Active,Dr. Suresh Ahmed
+737,Student Council,Other,2025-08-08,Member,Low,2,0,,Active,Dr. Suresh Ahmed
+737,Coding Club,Technical,2025-08-21,Active Member,High,7,7,,Active,Dr. Suresh Ahmed
+739,College Magazine,Other,2025-08-18,Active Member,Medium,4,4,,Active,Dr. Suresh Ahmed
+742,Photography Club,Cultural,2025-08-22,Member,Low,3,1,,Inactive,Dr. Suresh Ahmed
+743,Badminton Club,Sports,2025-08-09,Member,Medium,6,3,,Active,Dr. Suresh Ahmed
+743,NSS,Social,2025-08-11,Member,High,6,8,,Inactive,Dr. Suresh Ahmed
+744,Basketball Team,Sports,2025-08-12,Core Team,High,7,8,,Inactive,Dr. Suresh Ahmed
+744,Student Council,Other,2025-08-27,Member,High,8,9,,Active,Dr. Suresh Ahmed
+747,College Magazine,Other,2025-08-27,Member,Low,1,2,Winner - Intra College Competition,Inactive,Dr. Suresh Ahmed
+747,Quiz Club,Academic,2025-08-14,Core Team,High,10,7,,Inactive,Dr. Suresh Ahmed
+747,Web Development Club,Technical,2025-08-10,Active Member,Medium,5,3,,Active,Dr. Suresh Ahmed
+750,Music Club,Cultural,2025-08-26,Member,Low,1,2,Winner - Intra College Competition,Active,Ms. Anita Shah
+751,Coding Club,Technical,2025-08-27,Member,Medium,3,4,Certificate of Excellence,Active,Ms. Anita Shah
+752,Event Management Team,Other,2025-08-26,Member,Medium,5,2,,Active,Ms. Anita Shah
+752,Drama Club,Cultural,2025-08-02,Active Member,Medium,3,2,,Active,Ms. Anita Shah
+753,Music Club,Cultural,2025-08-20,Member,Medium,5,5,,Active,Ms. Anita Shah
+753,Mathematics Club,Academic,2025-08-26,Active Member,Medium,4,2,,Active,Ms. Anita Shah
+754,AI/ML Club,Technical,2025-08-18,Member,Low,1,2,,Active,Ms. Anita Shah
+754,Student Council,Other,2025-08-02,Core Team,Very High,11,11,,Active,Ms. Anita Shah
+754,Badminton Club,Sports,2025-08-19,Core Team,High,7,6,Winner - Inter College Competition,Active,Ms. Anita Shah
+755,Drama Club,Cultural,2025-08-10,Member,Low,2,2,,Active,Ms. Anita Shah
+755,Innovation Club,Academic,2025-08-15,Member,Low,2,0,,Active,Ms. Anita Shah
+757,Event Management Team,Other,2025-08-18,Member,High,9,5,,Active,Ms. Anita Shah
+758,NCC,Social,2025-08-20,Member,High,9,6,Best Performer Award,Active,Ms. Anita Shah
+758,Dance Club,Cultural,2025-08-21,Member,High,6,10,,Active,Ms. Anita Shah
+758,Research Club,Academic,2025-08-17,Active Member,Medium,4,3,,Active,Ms. Anita Shah
+758,College Magazine,Other,2025-08-30,Member,Medium,4,2,,Active,Ms. Anita Shah
+761,Badminton Club,Sports,2025-08-17,Member,Low,2,2,,Active,Ms. Anita Shah
+761,Research Club,Academic,2025-08-19,Active Member,High,10,5,,Active,Ms. Anita Shah
+761,Coding Club,Technical,2025-08-24,Active Member,High,6,8,,Active,Ms. Anita Shah
+762,Photography Club,Cultural,2025-08-04,Member,Low,3,2,,Active,Ms. Anita Shah
+762,Quiz Club,Academic,2025-08-27,Member,High,9,9,,Active,Ms. Anita Shah
+763,Basketball Team,Sports,2025-08-21,Member,Low,3,2,Winner - Inter College Competition,Active,Ms. Anita Shah
+763,Event Management Team,Other,2025-08-13,Member,Low,2,1,Certificate of Excellence,Active,Ms. Anita Shah
+763,Photography Club,Cultural,2025-08-05,Member,Low,3,2,,Active,Ms. Anita Shah
+764,Photography Club,Cultural,2025-08-23,Active Member,Medium,3,3,Winner - Intra College Competition,Active,Ms. Anita Shah
+764,Basketball Team,Sports,2025-08-06,Member,Medium,3,2,Best Performer Award,Inactive,Ms. Anita Shah
+765,Music Club,Cultural,2025-08-31,President/Head,Very High,15,19,,Active,Ms. Anita Shah
+766,Student Council,Other,2025-08-13,Member,Medium,4,3,Participation Certificate,Active,Ms. Anita Shah
+766,Football Team,Sports,2025-08-25,Member,Low,3,0,,Active,Ms. Anita Shah
+767,NCC,Social,2025-08-23,Member,Medium,5,3,,Active,Ms. Anita Shah
+768,Coding Club,Technical,2025-08-04,Core Team,Very High,10,17,,Inactive,Ms. Anita Shah
+769,Photography Club,Cultural,2025-08-30,Member,Medium,4,3,,Active,Ms. Anita Shah
+769,Basketball Team,Sports,2025-08-28,Active Member,High,8,7,Participation Certificate,Active,Ms. Anita Shah
+770,Web Development Club,Technical,2025-08-22,Member,Medium,4,4,,Active,Ms. Anita Shah
+770,Dance Club,Cultural,2025-08-11,Member,Medium,4,4,,Active,Ms. Anita Shah
+770,Basketball Team,Sports,2025-08-21,Member,Medium,3,2,,Inactive,Ms. Anita Shah
+771,Photography Club,Cultural,2025-08-05,Member,Medium,4,5,,Inactive,Ms. Anita Shah
+771,Football Team,Sports,2025-08-09,Member,High,10,6,,Active,Ms. Anita Shah
+772,Basketball Team,Sports,2025-08-17,Member,Low,2,2,,Active,Ms. Anita Shah
+772,Coding Club,Technical,2025-08-26,Member,Low,2,0,,Active,Ms. Anita Shah
+772,Innovation Club,Academic,2025-08-15,Member,Low,3,0,Winner - Intra College Competition,Active,Ms. Anita Shah
+773,Photography Club,Cultural,2025-08-14,Core Team,Very High,12,15,Winner - Intra College Competition,Active,Ms. Anita Shah
+773,Basketball Team,Sports,2025-08-21,Member,Medium,6,4,,Active,Ms. Anita Shah
+774,Environmental Club,Social,2025-08-23,Core Team,Very High,10,20,,Active,Ms. Anita Shah
+775,Student Council,Other,2025-08-11,Member,High,7,8,,Active,Ms. Anita Shah
+775,NCC,Social,2025-08-30,Member,Medium,4,2,,Active,Ms. Anita Shah
+775,Research Club,Academic,2025-08-04,Core Team,High,10,8,,Active,Ms. Anita Shah
+775,Music Club,Cultural,2025-08-19,Member,Medium,3,3,,Active,Ms. Anita Shah
+778,Music Club,Cultural,2025-08-18,Member,High,6,8,,Active,Ms. Anita Shah
+781,Badminton Club,Sports,2025-08-19,Active Member,High,7,10,,Active,Ms. Anita Shah
+781,Web Development Club,Technical,2025-08-06,Active Member,Medium,5,2,,Active,Ms. Anita Shah
+781,College Magazine,Other,2025-08-18,Member,High,10,10,,Active,Ms. Anita Shah
+781,Research Club,Academic,2025-08-25,Member,High,8,8,Winner - Inter College Competition,Inactive,Ms. Anita Shah
+783,Research Club,Academic,2025-08-08,Member,Medium,3,2,,Active,Ms. Anita Shah
+783,Cricket Team,Sports,2025-08-22,Member,Medium,5,5,,Active,Ms. Anita Shah
+784,Basketball Team,Sports,2025-08-04,Core Team,Very High,10,15,,Inactive,Ms. Anita Shah
+784,Quiz Club,Academic,2025-08-12,Member,Low,3,0,,Active,Ms. Anita Shah
+784,Event Management Team,Other,2025-08-31,Member,Low,1,0,,Inactive,Ms. Anita Shah
+786,Research Club,Academic,2025-08-23,Active Member,High,9,10,,Active,Ms. Anita Shah
+789,Drama Club,Cultural,2025-08-30,Member,Medium,6,4,,Active,Ms. Anita Shah
+789,Research Club,Academic,2025-08-12,Member,Medium,4,4,,Active,Ms. Anita Shah
+790,Mathematics Club,Academic,2025-08-28,Member,Low,2,1,,Active,Ms. Anita Shah
+791,AI/ML Club,Technical,2025-08-26,Member,Medium,5,5,,Active,Ms. Manoj Bhatia
+792,Coding Club,Technical,2025-08-26,Active Member,High,7,7,,Active,Ms. Manoj Bhatia
+792,NSS,Social,2025-08-31,Member,Low,2,0,,Inactive,Ms. Manoj Bhatia
+793,Event Management Team,Other,2025-08-04,Member,Medium,6,3,Winner - Intra College Competition,Active,Ms. Manoj Bhatia
+793,Quiz Club,Academic,2025-08-12,Member,Low,2,2,Certificate of Excellence,Inactive,Ms. Manoj Bhatia
+795,Football Team,Sports,2025-08-12,Member,Low,3,0,,Active,Ms. Manoj Bhatia
+795,Photography Club,Cultural,2025-08-22,Active Member,Medium,6,2,Winner - Intra College Competition,Active,Ms. Manoj Bhatia
+796,Dance Club,Cultural,2025-08-03,Active Member,Medium,4,2,,Active,Ms. Manoj Bhatia
+801,Drama Club,Cultural,2025-08-20,Member,Low,1,0,,Active,Ms. Manoj Bhatia
+801,Mathematics Club,Academic,2025-08-19,Active Member,High,10,5,,Active,Ms. Manoj Bhatia
+801,Environmental Club,Social,2025-08-27,Active Member,Medium,3,3,,Active,Ms. Manoj Bhatia
+801,Robotics Club,Technical,2025-08-24,Member,Medium,3,4,Winner - Intra College Competition,Active,Ms. Manoj Bhatia
+802,Dance Club,Cultural,2025-08-16,Member,Low,2,2,,Inactive,Ms. Manoj Bhatia
+802,Badminton Club,Sports,2025-08-03,Active Member,High,8,6,,Active,Ms. Manoj Bhatia
+803,Innovation Club,Academic,2025-08-27,Member,Low,2,0,,Active,Ms. Manoj Bhatia
+804,Photography Club,Cultural,2025-08-12,Member,Medium,3,4,,Active,Ms. Manoj Bhatia
+804,NSS,Social,2025-08-18,Member,High,6,8,Winner - Intra College Competition,Inactive,Ms. Manoj Bhatia
+804,Coding Club,Technical,2025-08-31,Member,Low,1,0,,Active,Ms. Manoj Bhatia
+805,Photography Club,Cultural,2025-08-07,Member,High,9,10,,Active,Ms. Manoj Bhatia
+805,NCC,Social,2025-08-15,Active Member,Medium,5,2,,Inactive,Ms. Manoj Bhatia
+806,Music Club,Cultural,2025-08-22,Member,Medium,6,2,Winner - Inter College Competition,Active,Ms. Manoj Bhatia
+806,Rotaract Club,Social,2025-08-02,Active Member,Medium,5,5,,Active,Ms. Manoj Bhatia
+808,College Magazine,Other,2025-08-08,Member,High,8,9,,Active,Ms. Manoj Bhatia
+808,NSS,Social,2025-08-24,Active Member,Medium,5,2,,Active,Ms. Manoj Bhatia
+812,Research Club,Academic,2025-08-12,Member,Medium,4,3,,Inactive,Ms. Manoj Bhatia
+814,Rotaract Club,Social,2025-08-24,Member,Low,2,0,Participation Certificate,Active,Ms. Manoj Bhatia
+816,Event Management Team,Other,2025-08-10,Active Member,High,8,5,,Active,Ms. Manoj Bhatia
+818,College Magazine,Other,2025-08-28,Member,High,10,7,,Active,Ms. Manoj Bhatia
+818,Robotics Club,Technical,2025-08-24,Active Member,Medium,4,5,,Active,Ms. Manoj Bhatia
+818,Innovation Club,Academic,2025-08-07,Member,Low,2,1,Certificate of Excellence,Active,Ms. Manoj Bhatia
+819,Coding Club,Technical,2025-08-15,Member,Medium,3,4,Best Performer Award,Inactive,Ms. Manoj Bhatia
+820,Basketball Team,Sports,2025-08-26,Active Member,Medium,5,2,,Active,Ms. Manoj Bhatia
+821,Environmental Club,Social,2025-08-02,Active Member,Medium,6,5,,Inactive,Ms. Manoj Bhatia
+821,Photography Club,Cultural,2025-08-23,Member,Medium,3,2,,Inactive,Ms. Manoj Bhatia
+821,Badminton Club,Sports,2025-08-20,Member,High,8,8,,Active,Ms. Manoj Bhatia
+821,Mathematics Club,Academic,2025-08-11,Member,Medium,6,2,,Active,Ms. Manoj Bhatia
+823,Event Management Team,Other,2025-08-23,Active Member,Medium,5,2,,Active,Ms. Manoj Bhatia
+824,Robotics Club,Technical,2025-08-04,Active Member,High,9,7,,Active,Ms. Manoj Bhatia
+825,Drama Club,Cultural,2025-08-06,Member,High,6,5,,Inactive,Ms. Manoj Bhatia
+826,College Magazine,Other,2025-08-18,Active Member,High,10,9,,Active,Ms. Manoj Bhatia
+827,Music Club,Cultural,2025-08-30,Member,Medium,4,4,,Active,Ms. Manoj Bhatia
+827,Web Development Club,Technical,2025-08-11,Active Member,High,7,6,,Active,Ms. Manoj Bhatia
+830,Innovation Club,Academic,2025-08-11,Member,High,10,9,,Active,Ms. Manoj Bhatia
+831,Research Club,Academic,2025-08-11,Member,Medium,5,2,,Active,Ms. Alok Arora
+831,NSS,Social,2025-08-22,Member,Medium,4,2,,Active,Ms. Alok Arora
+834,Football Team,Sports,2025-08-14,Member,High,9,7,,Active,Ms. Alok Arora
+835,Cricket Team,Sports,2025-08-06,Member,Medium,5,5,,Active,Ms. Alok Arora
+836,Photography Club,Cultural,2025-08-28,Active Member,High,8,9,,Active,Ms. Alok Arora
+836,Badminton Club,Sports,2025-08-27,Member,Medium,6,3,Participation Certificate,Active,Ms. Alok Arora
+836,Coding Club,Technical,2025-08-08,Member,High,6,10,Certificate of Excellence,Active,Ms. Alok Arora
+837,Robotics Club,Technical,2025-08-20,Member,Medium,4,3,,Active,Ms. Alok Arora
+839,Event Management Team,Other,2025-08-23,Member,Low,2,2,Winner - Intra College Competition,Active,Ms. Alok Arora
+839,Photography Club,Cultural,2025-08-28,Active Member,High,6,10,,Active,Ms. Alok Arora
+839,Research Club,Academic,2025-08-11,Core Team,Very High,12,12,,Active,Ms. Alok Arora
+839,AI/ML Club,Technical,2025-08-25,Active Member,Medium,3,5,,Active,Ms. Alok Arora
+840,Environmental Club,Social,2025-08-08,Member,Medium,3,2,,Active,Ms. Alok Arora
+840,Drama Club,Cultural,2025-08-29,Member,Medium,3,2,,Active,Ms. Alok Arora
+843,Cricket Team,Sports,2025-08-13,Member,Medium,3,4,,Inactive,Ms. Alok Arora
+843,Student Council,Other,2025-08-21,Member,Medium,3,2,,Active,Ms. Alok Arora
+843,Research Club,Academic,2025-08-17,Active Member,High,7,6,,Active,Ms. Alok Arora
+844,Web Development Club,Technical,2025-08-10,Member,Low,1,2,Participation Certificate,Active,Ms. Alok Arora
+844,Dance Club,Cultural,2025-08-27,Member,Medium,6,5,,Active,Ms. Alok Arora
+847,Innovation Club,Academic,2025-08-10,Member,Low,3,2,,Active,Ms. Alok Arora
+847,Robotics Club,Technical,2025-08-31,Member,High,8,8,,Active,Ms. Alok Arora
+849,Basketball Team,Sports,2025-08-25,Member,High,7,10,,Active,Ms. Alok Arora
+850,Music Club,Cultural,2025-08-23,Member,Medium,3,5,,Active,Ms. Alok Arora
+850,Football Team,Sports,2025-08-31,Coordinator,Very High,11,13,Best Performer Award,Active,Ms. Alok Arora
+851,Research Club,Academic,2025-08-06,Active Member,Medium,6,2,,Active,Ms. Alok Arora
+852,Mathematics Club,Academic,2025-08-29,Member,Medium,5,3,,Active,Ms. Alok Arora
+852,Drama Club,Cultural,2025-08-12,Core Team,Very High,13,10,,Inactive,Ms. Alok Arora
+853,Cricket Team,Sports,2025-08-26,Member,Low,1,2,,Active,Ms. Alok Arora
+853,Robotics Club,Technical,2025-08-25,Member,High,8,5,,Active,Ms. Alok Arora
+853,Music Club,Cultural,2025-08-22,Active Member,High,7,9,,Active,Ms. Alok Arora
+854,Quiz Club,Academic,2025-08-06,Member,Medium,3,2,Participation Certificate,Active,Ms. Alok Arora
+854,Student Council,Other,2025-08-13,Member,Medium,4,5,,Active,Ms. Alok Arora
+855,Mathematics Club,Academic,2025-08-03,Coordinator,Very High,10,16,Certificate of Excellence,Active,Ms. Alok Arora
+856,College Magazine,Other,2025-08-07,Active Member,High,7,10,Participation Certificate,Active,Ms. Alok Arora
+856,Innovation Club,Academic,2025-08-27,Active Member,High,8,9,Certificate of Excellence,Active,Ms. Alok Arora
+860,Student Council,Other,2025-08-24,Active Member,Medium,3,4,,Active,Ms. Alok Arora
+860,AI/ML Club,Technical,2025-08-27,Member,High,10,5,,Active,Ms. Alok Arora
+860,Rotaract Club,Social,2025-08-23,Member,High,7,7,,Active,Ms. Alok Arora
+861,Mathematics Club,Academic,2025-08-18,Active Member,High,9,9,,Inactive,Ms. Alok Arora
+861,Robotics Club,Technical,2025-08-27,President/Head,Very High,13,20,,Active,Ms. Alok Arora
+862,NCC,Social,2025-08-24,President/Head,Very High,15,20,,Active,Ms. Alok Arora
+862,College Magazine,Other,2025-08-29,Member,Low,1,2,Winner - Inter College Competition,Active,Ms. Alok Arora
+865,Cricket Team,Sports,2025-08-18,Member,Medium,3,4,,Active,Ms. Alok Arora

@@ -1,0 +1,81 @@
+teacher_id,name,first_name,last_name,title,email,username,password,phone,branch,branch_name,year,role,subjects,experience_years,qualification,joining_date,is_hod
+1,Mr. Vinod Khanna,Vinod,Khanna,Mr.,vinod.khanna@college.edu,teacher1,pass1,+918837454107,CS,Computer Science,1,HOD & Class Coordinator,"Mathematics,Computer Science",20,M.E.,2023-01-01,True
+2,Prof. Amit Kumar,Amit,Kumar,Prof.,amit.kumar@college.edu,teacher2,pass2,+919603809663,CS,Computer Science,1,Faculty Advisor,"Data Structures,Physics",18,B.Tech,2018-12-12,False
+3,Dr. Swati Kaur,Swati,Kaur,Dr.,swati.kaur@college.edu,teacher3,pass3,+917776082527,CS,Computer Science,1,Subject Teacher 1,"Computer Science,Mathematics",8,Ph.D.,2015-11-26,False
+4,Mr. Pooja Sethi,Pooja,Sethi,Mr.,pooja.sethi@college.edu,teacher4,pass4,+919818290607,CS,Computer Science,1,Subject Teacher 2,"Computer Science,Mathematics",12,M.E.,2021-10-11,False
+5,Prof. Nisha Gupta,Nisha,Gupta,Prof.,nisha.gupta@college.edu,teacher5,pass5,+919985634381,CS,Computer Science,2,Class Coordinator,"Physics,Mathematics",19,Ph.D.,2016-11-15,False
+6,Prof. Neha Tiwari,Neha,Tiwari,Prof.,neha.tiwari@college.edu,teacher6,pass6,+917548995612,CS,Computer Science,2,Faculty Advisor,"Data Structures,Physics",13,Ph.D.,2022-11-05,False
+7,Mr. Sonal Bhatia,Sonal,Bhatia,Mr.,sonal.bhatia@college.edu,teacher7,pass7,+917535602357,CS,Computer Science,2,Subject Teacher 1,"Data Structures,Physics",19,M.Sc.,2016-09-11,False
+8,Dr. Sanjay Tiwari,Sanjay,Tiwari,Dr.,sanjay.tiwari@college.edu,teacher8,pass8,+918978708377,CS,Computer Science,2,Subject Teacher 2,"Physics,Computer Science",20,B.Tech,2015-12-19,False
+9,Prof. Naveen Verma,Naveen,Verma,Prof.,naveen.verma@college.edu,teacher9,pass9,+917652936430,CS,Computer Science,3,Class Coordinator,"Mathematics,Data Structures",13,M.Sc.,2018-05-18,False
+10,Prof. Divya Shah,Divya,Shah,Prof.,divya.shah@college.edu,teacher10,pass10,+917068901342,CS,Computer Science,3,Faculty Advisor,"Physics,Mathematics",11,Ph.D.,2023-11-04,False
+11,Dr. Meera Arora,Meera,Arora,Dr.,meera.arora@college.edu,teacher11,pass11,+918931995015,CS,Computer Science,3,Subject Teacher 1,"Computer Science,Data Structures",4,B.Tech,2020-08-17,False
+12,Ms. Divya Verma,Divya,Verma,Ms.,divya.verma@college.edu,teacher12,pass12,+918018599721,CS,Computer Science,3,Subject Teacher 2,"Physics,Mathematics",14,Ph.D.,2022-11-16,False
+13,Ms. Rajesh Ali,Rajesh,Ali,Ms.,rajesh.ali@college.edu,teacher13,pass13,+918073244902,CS,Computer Science,4,Class Coordinator,"Computer Science,Mathematics",16,M.Tech,2017-11-09,False
+14,Mr. Kavita Hussain,Kavita,Hussain,Mr.,kavita.hussain@college.edu,teacher14,pass14,+918481107569,CS,Computer Science,4,Faculty Advisor,"Mathematics,Data Structures",8,M.Tech,2023-08-20,False
+15,Prof. Vijay Nair,Vijay,Nair,Prof.,vijay.nair@college.edu,teacher15,pass15,+918317358373,CS,Computer Science,4,Subject Teacher 1,"Physics,Mathematics",11,B.Tech,2018-10-23,False
+16,Ms. Naveen Bhatia,Naveen,Bhatia,Ms.,naveen.bhatia@college.edu,teacher16,pass16,+919145314883,CS,Computer Science,4,Subject Teacher 2,"Mathematics,Computer Science",4,B.Tech,2021-04-09,False
+17,Ms. Amit Kapoor,Amit,Kapoor,Ms.,amit.kapoor@college.edu,teacher17,pass17,+917060055000,EC,Electronics & Communication,1,HOD & Class Coordinator,"Mathematics,Computer Science",11,M.E.,2022-06-11,True
+18,Dr. Sanjay Gupta,Sanjay,Gupta,Dr.,sanjay.gupta@college.edu,teacher18,pass18,+918378001020,EC,Electronics & Communication,1,Faculty Advisor,"Computer Science,Mathematics",17,M.Sc.,2018-03-14,False
+19,Prof. Vinod Shah,Vinod,Shah,Prof.,vinod.shah@college.edu,teacher19,pass19,+917808849723,EC,Electronics & Communication,1,Subject Teacher 1,"Physics,Electronics",17,M.Tech,2015-08-08,False
+20,Dr. Vijay Jain,Vijay,Jain,Dr.,vijay.jain@college.edu,teacher20,pass20,+919153634884,EC,Electronics & Communication,1,Subject Teacher 2,"Mathematics,Electronics",8,Ph.D.,2016-11-12,False
+21,Ms. Meera Patel,Meera,Patel,Ms.,meera.patel@college.edu,teacher21,pass21,+919680692788,EC,Electronics & Communication,2,Class Coordinator,"Mathematics,Computer Science",19,Ph.D.,2019-08-02,False
+22,Dr. Naveen Reddy,Naveen,Reddy,Dr.,naveen.reddy@college.edu,teacher22,pass22,+919533553304,EC,Electronics & Communication,2,Faculty Advisor,"Computer Science,Electronics",11,M.Sc.,2021-02-25,False
+23,Ms. Sunita Shah,Sunita,Shah,Ms.,sunita.shah@college.edu,teacher23,pass23,+917325572256,EC,Electronics & Communication,2,Subject Teacher 1,"Computer Science,Mathematics",5,B.Tech,2024-05-28,False
+24,Mr. Priya Mishra,Priya,Mishra,Mr.,priya.mishra@college.edu,teacher24,pass24,+919390797562,EC,Electronics & Communication,2,Subject Teacher 2,"Mathematics,Computer Science",4,B.Tech,2018-06-18,False
+25,Dr. Amit Sinha,Amit,Sinha,Dr.,amit.sinha@college.edu,teacher25,pass25,+918799113517,EC,Electronics & Communication,3,Class Coordinator,"Computer Science,Mathematics",9,M.Tech,2018-09-04,False
+26,Mr. Rajesh Ali,Rajesh,Ali,Mr.,rajesh.ali@college.edu,teacher26,pass26,+917364367500,EC,Electronics & Communication,3,Faculty Advisor,"Computer Science,Electronics",9,M.E.,2021-06-28,False
+27,Mr. Nisha Pandey,Nisha,Pandey,Mr.,nisha.pandey@college.edu,teacher27,pass27,+917566828462,EC,Electronics & Communication,3,Subject Teacher 1,"Physics,Mathematics",20,M.E.,2022-03-18,False
+28,Ms. Sanjay Banerjee,Sanjay,Banerjee,Ms.,sanjay.banerjee@college.edu,teacher28,pass28,+917642791502,EC,Electronics & Communication,3,Subject Teacher 2,"Computer Science,Physics",7,M.E.,2022-08-31,False
+29,Dr. Preeti Joshi,Preeti,Joshi,Dr.,preeti.joshi@college.edu,teacher29,pass29,+918592508795,EC,Electronics & Communication,4,Class Coordinator,"Computer Science,Mathematics",12,M.Sc.,2020-12-05,False
+30,Prof. Suresh Sharma,Suresh,Sharma,Prof.,suresh.sharma@college.edu,teacher30,pass30,+917470065906,EC,Electronics & Communication,4,Faculty Advisor,"Mathematics,Physics",7,M.Tech,2019-08-26,False
+31,Dr. Sonal Reddy,Sonal,Reddy,Dr.,sonal.reddy@college.edu,teacher31,pass31,+917081307360,EC,Electronics & Communication,4,Subject Teacher 1,"Mathematics,Electronics",14,Ph.D.,2021-11-11,False
+32,Mr. Swati Ghosh,Swati,Ghosh,Mr.,swati.ghosh@college.edu,teacher32,pass32,+918210844549,EC,Electronics & Communication,4,Subject Teacher 2,"Physics,Mathematics",8,M.Tech,2020-09-21,False
+33,Prof. Alok Nair,Alok,Nair,Prof.,alok.nair@college.edu,teacher33,pass33,+918455813120,ME,Mechanical Engineering,1,HOD & Class Coordinator,"Mechanical Engineering,Chemistry",16,B.Tech,2016-11-08,True
+34,Ms. Naveen Hussain,Naveen,Hussain,Ms.,naveen.hussain@college.edu,teacher34,pass34,+917073380018,ME,Mechanical Engineering,1,Faculty Advisor,"Mathematics,Physics",20,Ph.D.,2020-12-11,False
+35,Ms. Meera Mehta,Meera,Mehta,Ms.,meera.mehta@college.edu,teacher35,pass35,+918333959063,ME,Mechanical Engineering,1,Subject Teacher 1,"Chemistry,Physics",11,M.Tech,2016-10-02,False
+36,Ms. Neha Das,Neha,Das,Ms.,neha.das@college.edu,teacher36,pass36,+917039559717,ME,Mechanical Engineering,1,Subject Teacher 2,"Mechanical Engineering,Physics",17,M.Sc.,2021-01-03,False
+37,Mr. Preeti Shah,Preeti,Shah,Mr.,preeti.shah@college.edu,teacher37,pass37,+919188655017,ME,Mechanical Engineering,2,Class Coordinator,"Chemistry,Mathematics",12,M.E.,2018-11-08,False
+38,Prof. Pooja Patel,Pooja,Patel,Prof.,pooja.patel@college.edu,teacher38,pass38,+918600077806,ME,Mechanical Engineering,2,Faculty Advisor,"Physics,Chemistry",11,M.Sc.,2018-11-17,False
+39,Dr. Rakesh Kumar,Rakesh,Kumar,Dr.,rakesh.kumar@college.edu,teacher39,pass39,+919557805044,ME,Mechanical Engineering,2,Subject Teacher 1,"Mechanical Engineering,Physics",3,B.Tech,2023-08-24,False
+40,Ms. Manoj Ali,Manoj,Ali,Ms.,manoj.ali@college.edu,teacher40,pass40,+919341271778,ME,Mechanical Engineering,2,Subject Teacher 2,"Mechanical Engineering,Chemistry",3,M.E.,2021-05-25,False
+41,Mr. Sonal Nair,Sonal,Nair,Mr.,sonal.nair@college.edu,teacher41,pass41,+918163827038,ME,Mechanical Engineering,3,Class Coordinator,"Mathematics,Mechanical Engineering",5,M.Tech,2023-06-07,False
+42,Mr. Ajay Khan,Ajay,Khan,Mr.,ajay.khan@college.edu,teacher42,pass42,+919660968209,ME,Mechanical Engineering,3,Faculty Advisor,"Physics,Mechanical Engineering",20,M.Tech,2022-10-09,False
+43,Mr. Nisha Mukherjee,Nisha,Mukherjee,Mr.,nisha.mukherjee@college.edu,teacher43,pass43,+919124980495,ME,Mechanical Engineering,3,Subject Teacher 1,"Chemistry,Mechanical Engineering",9,M.E.,2021-02-13,False
+44,Ms. Vijay Ahmed,Vijay,Ahmed,Ms.,vijay.ahmed@college.edu,teacher44,pass44,+917030732272,ME,Mechanical Engineering,3,Subject Teacher 2,"Mathematics,Mechanical Engineering",19,Ph.D.,2022-02-09,False
+45,Mr. Rajesh Mukherjee,Rajesh,Mukherjee,Mr.,rajesh.mukherjee@college.edu,teacher45,pass45,+918043781656,ME,Mechanical Engineering,4,Class Coordinator,"Chemistry,Physics",4,Ph.D.,2015-11-06,False
+46,Mr. Neha Nair,Neha,Nair,Mr.,neha.nair@college.edu,teacher46,pass46,+919234261931,ME,Mechanical Engineering,4,Faculty Advisor,"Mathematics,Chemistry",14,Ph.D.,2023-10-24,False
+47,Dr. Swati Das,Swati,Das,Dr.,swati.das@college.edu,teacher47,pass47,+919181269288,ME,Mechanical Engineering,4,Subject Teacher 1,"Mechanical Engineering,Physics",14,B.Tech,2022-05-14,False
+48,Mr. Alok Shah,Alok,Shah,Mr.,alok.shah@college.edu,teacher48,pass48,+919117327064,ME,Mechanical Engineering,4,Subject Teacher 2,"Chemistry,Mathematics",10,M.Sc.,2018-12-21,False
+49,Dr. Sunita Saxena,Sunita,Saxena,Dr.,sunita.saxena@college.edu,teacher49,pass49,+918719803826,CE,Civil Engineering,1,HOD & Class Coordinator,"Civil Engineering,Chemistry",9,M.E.,2024-07-14,True
+50,Prof. Vinod Khanna,Vinod,Khanna,Prof.,vinod.khanna@college.edu,teacher50,pass50,+917244194006,CE,Civil Engineering,1,Faculty Advisor,"Mathematics,Civil Engineering",8,M.E.,2024-04-15,False
+51,Mr. Amit Nair,Amit,Nair,Mr.,amit.nair@college.edu,teacher51,pass51,+918806662567,CE,Civil Engineering,1,Subject Teacher 1,"Physics,Mathematics",5,M.Sc.,2017-12-24,False
+52,Dr. Preeti Nair,Preeti,Nair,Dr.,preeti.nair@college.edu,teacher52,pass52,+917847552617,CE,Civil Engineering,1,Subject Teacher 2,"Physics,Chemistry",15,Ph.D.,2018-05-23,False
+53,Prof. Ramesh Choudhury,Ramesh,Choudhury,Prof.,ramesh.choudhury@college.edu,teacher53,pass53,+917964633815,CE,Civil Engineering,2,Class Coordinator,"Mathematics,Chemistry",15,Ph.D.,2023-07-26,False
+54,Ms. Sonal Agarwal,Sonal,Agarwal,Ms.,sonal.agarwal@college.edu,teacher54,pass54,+918422282364,CE,Civil Engineering,2,Faculty Advisor,"Civil Engineering,Chemistry",4,B.Tech,2017-06-22,False
+55,Prof. Naveen Khan,Naveen,Khan,Prof.,naveen.khan@college.edu,teacher55,pass55,+919492847380,CE,Civil Engineering,2,Subject Teacher 1,"Physics,Mathematics",18,M.Tech,2016-01-09,False
+56,Dr. Swati Verma,Swati,Verma,Dr.,swati.verma@college.edu,teacher56,pass56,+917627938890,CE,Civil Engineering,2,Subject Teacher 2,"Mathematics,Physics",4,B.Tech,2019-01-25,False
+57,Mr. Ashok Shah,Ashok,Shah,Mr.,ashok.shah@college.edu,teacher57,pass57,+919970728552,CE,Civil Engineering,3,Class Coordinator,"Civil Engineering,Chemistry",8,M.E.,2022-06-09,False
+58,Ms. Manoj Desai,Manoj,Desai,Ms.,manoj.desai@college.edu,teacher58,pass58,+918821204060,CE,Civil Engineering,3,Faculty Advisor,"Mathematics,Physics",18,Ph.D.,2023-12-11,False
+59,Dr. Vinod Shah,Vinod,Shah,Dr.,vinod.shah@college.edu,teacher59,pass59,+917945607509,CE,Civil Engineering,3,Subject Teacher 1,"Chemistry,Physics",13,Ph.D.,2018-04-20,False
+60,Mr. Deepak Arora,Deepak,Arora,Mr.,deepak.arora@college.edu,teacher60,pass60,+919622828758,CE,Civil Engineering,3,Subject Teacher 2,"Physics,Mathematics",14,M.Tech,2017-05-15,False
+61,Prof. Priya Arora,Priya,Arora,Prof.,priya.arora@college.edu,teacher61,pass61,+917046922707,CE,Civil Engineering,4,Class Coordinator,"Chemistry,Civil Engineering",14,B.Tech,2023-01-22,False
+62,Mr. Sonal Jain,Sonal,Jain,Mr.,sonal.jain@college.edu,teacher62,pass62,+917170934654,CE,Civil Engineering,4,Faculty Advisor,"Civil Engineering,Chemistry",8,M.Sc.,2022-08-04,False
+63,Ms. Divya Ahmed,Divya,Ahmed,Ms.,divya.ahmed@college.edu,teacher63,pass63,+919048289560,CE,Civil Engineering,4,Subject Teacher 1,"Chemistry,Civil Engineering",19,M.Sc.,2019-12-30,False
+64,Prof. Anil Iyer,Anil,Iyer,Prof.,anil.iyer@college.edu,teacher64,pass64,+917938568237,CE,Civil Engineering,4,Subject Teacher 2,"Chemistry,Civil Engineering",10,Ph.D.,2022-04-29,False
+65,Dr. Suresh Ahmed,Suresh,Ahmed,Dr.,suresh.ahmed@college.edu,teacher65,pass65,+919937397622,EE,Electrical Engineering,1,HOD & Class Coordinator,"Computer Science,Mathematics",16,B.Tech,2016-11-19,True
+66,Ms. Swati Ali,Swati,Ali,Ms.,swati.ali@college.edu,teacher66,pass66,+918696476199,EE,Electrical Engineering,1,Faculty Advisor,"Mathematics,Physics",10,M.E.,2023-11-11,False
+67,Mr. Anil Das,Anil,Das,Mr.,anil.das@college.edu,teacher67,pass67,+919710849695,EE,Electrical Engineering,1,Subject Teacher 1,"Mathematics,Electronics",15,Ph.D.,2015-09-15,False
+68,Dr. Priya Tiwari,Priya,Tiwari,Dr.,priya.tiwari@college.edu,teacher68,pass68,+919745728385,EE,Electrical Engineering,1,Subject Teacher 2,"Physics,Mathematics",6,M.E.,2017-08-05,False
+69,Ms. Anita Shah,Anita,Shah,Ms.,anita.shah@college.edu,teacher69,pass69,+917043716389,EE,Electrical Engineering,2,Class Coordinator,"Physics,Mathematics",16,M.Sc.,2016-04-12,False
+70,Prof. Preeti Patel,Preeti,Patel,Prof.,preeti.patel@college.edu,teacher70,pass70,+919282358918,EE,Electrical Engineering,2,Faculty Advisor,"Physics,Electronics",9,M.Sc.,2016-03-07,False
+71,Dr. Swati Shah,Swati,Shah,Dr.,swati.shah@college.edu,teacher71,pass71,+918370733785,EE,Electrical Engineering,2,Subject Teacher 1,"Computer Science,Electronics",12,B.Tech,2023-10-23,False
+72,Ms. Rajesh Bhatia,Rajesh,Bhatia,Ms.,rajesh.bhatia@college.edu,teacher72,pass72,+918448228488,EE,Electrical Engineering,2,Subject Teacher 2,"Mathematics,Physics",8,M.E.,2018-04-09,False
+73,Ms. Manoj Bhatia,Manoj,Bhatia,Ms.,manoj.bhatia@college.edu,teacher73,pass73,+917742449605,EE,Electrical Engineering,3,Class Coordinator,"Electronics,Computer Science",10,B.Tech,2021-01-13,False
+74,Mr. Ritu Kaur,Ritu,Kaur,Mr.,ritu.kaur@college.edu,teacher74,pass74,+918528759975,EE,Electrical Engineering,3,Faculty Advisor,"Mathematics,Electronics",20,Ph.D.,2021-05-08,False
+75,Dr. Suresh Desai,Suresh,Desai,Dr.,suresh.desai@college.edu,teacher75,pass75,+919830323078,EE,Electrical Engineering,3,Subject Teacher 1,"Physics,Mathematics",11,M.Sc.,2024-02-21,False
+76,Prof. Priya Sharma,Priya,Sharma,Prof.,priya.sharma@college.edu,teacher76,pass76,+917001970763,EE,Electrical Engineering,3,Subject Teacher 2,"Computer Science,Physics",8,M.Sc.,2016-01-16,False
+77,Ms. Alok Arora,Alok,Arora,Ms.,alok.arora@college.edu,teacher77,pass77,+917374406949,EE,Electrical Engineering,4,Class Coordinator,"Electronics,Computer Science",15,B.Tech,2017-04-14,False
+78,Ms. Kavita Desai,Kavita,Desai,Ms.,kavita.desai@college.edu,teacher78,pass78,+917953743246,EE,Electrical Engineering,4,Faculty Advisor,"Computer Science,Electronics",12,M.E.,2019-04-04,False
+79,Dr. Anil Pandey,Anil,Pandey,Dr.,anil.pandey@college.edu,teacher79,pass79,+918617174562,EE,Electrical Engineering,4,Subject Teacher 1,"Electronics,Computer Science",5,Ph.D.,2021-10-02,False
+80,Prof. Ramesh Agarwal,Ramesh,Agarwal,Prof.,ramesh.agarwal@college.edu,teacher80,pass80,+919655142678,EE,Electrical Engineering,4,Subject Teacher 2,"Electronics,Computer Science",7,M.E.,2021-12-11,False
