@@ -78,6 +78,89 @@
       font-weight: 600;
       font-size: 18px;
     }
+    /* ============================================
+   Micro-Learning Recommendations
+   ============================================ */
+
+    .micro-learning-section {
+      margin-top: 2rem;
+    }
+
+    .micro-card {
+      display: flex;
+      align-items: center;
+      background: var(--white);
+      border-radius: var(--border-radius);
+      box-shadow: var(--box-shadow);
+      padding: 1.2rem;
+      margin-bottom: 1rem;
+      transition: var(--transition);
+      cursor: pointer;
+    }
+
+    .micro-card:hover {
+      transform: translateY(-4px);
+      box-shadow: var(--box-shadow-lg);
+    }
+
+    .micro-icon {
+      font-size: 2.2rem;
+      margin-right: 1rem;
+      color: var(--primary-color);
+    }
+
+    .micro-info h5 {
+      margin: 0;
+      font-size: 1.1rem;
+      font-weight: 700;
+    }
+
+    .micro-info p {
+      margin: 0;
+      font-size: 0.9rem;
+      color: var(--muted-text);
+    }
+
+    .micro-tags {
+      margin-top: 0.4rem;
+      display: flex;
+      gap: 0.4rem;
+    }
+
+    .micro-tag {
+      background: var(--primary-color);
+      color: white;
+      font-size: 0.75rem;
+      padding: 0.25rem 0.6rem;
+      border-radius: 6px;
+    }
+
+    .micro-progress {
+      width: 100%;
+      margin-top: 0.6rem;
+      height: 8px;
+      background: #e9ecef;
+      border-radius: 6px;
+      overflow: hidden;
+    }
+
+    .micro-progress-bar {
+      height: 100%;
+      background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+      width: 40%; /* dynamic */
+      transition: width 0.5s ease;
+    }
+
+    .xp-points {
+      margin-left: auto;
+      font-weight: 700;
+      font-size: 0.9rem;
+      background: var(--success-color);
+      color: white;
+      padding: 0.4rem 0.7rem;
+      border-radius: 6px;
+    }
+
   </style>
 </head>
 <body class="bg-light">
@@ -159,14 +242,46 @@
         </div>
 
         <!-- Personalized Recommendations -->
-        <div class="card">
-          <div class="card-header bg-warning text-dark">
-            <h5 class="mb-0">💡 Personalized Recommendations</h5>
+        <div class="micro-learning-section">
+          <h4 class="text-gradient mb-3">🎯 Micro-Learning Recommendation</h4>
+
+          <div class="micro-card">
+            <div class="micro-icon">📘</div>
+            <div class="micro-info">
+              <h5>Probability & Statistics Basics</h5>
+              <p>Short AI-selected topic based on performance</p>
+
+              <div class="micro-tags">
+                <span class="micro-tag">5 min</span>
+                <span class="micro-tag">Math Skills</span>
+              </div>
+
+              <div class="micro-progress">
+                <div class="micro-progress-bar" style="width: 30%;"></div>
+              </div>
+            </div>
+            <div class="xp-points">+50 XP</div>
           </div>
-          <div class="card-body" id="recommendations-container">
-            <p class="text-center text-muted">Loading recommendations...</p>
+
+          <div class="micro-card">
+            <div class="micro-icon">🎥</div>
+            <div class="micro-info">
+              <h5>Communication Skills Video Module</h5>
+              <p>Watch & complete task to earn XP</p>
+
+              <div class="micro-tags">
+                <span class="micro-tag">7 min</span>
+                <span class="micro-tag">Soft Skills</span>
+              </div>
+
+              <div class="micro-progress">
+                <div class="micro-progress-bar" style="width: 60%;"></div>
+              </div>
+            </div>
+            <div class="xp-points">+80 XP</div>
           </div>
         </div>
+
       </div>
     </div>
   </div>
