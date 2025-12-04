@@ -125,7 +125,7 @@ class DataLoader:
         """Load student_analytics_results.json - Detailed analytics"""
         print("\n📊 Loading analytics...")
         try:
-            file_path ='student_analytics_results.json'
+            file_path =Path('student_analytics_results.json')
             
             if not file_path.exists():
                 print(f"   ⚠️  Analytics file not found, skipping")
