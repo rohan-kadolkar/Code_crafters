@@ -127,6 +127,11 @@
               <button class="inline-clear-btn" id="clear-btn" onclick="clearSearch()">Clear</button>
             </div>
           </div>
+          <div class="col-md-2 text-end">
+            <button class="btn btn-primary w-100" onclick="openAttendanceModal()">
+              Take Attendance
+            </button>
+          </div>
         </div>
       </div>
     </div>
@@ -165,6 +170,33 @@
         <div class="modal-footer">
           <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
           <button type="button" class="btn btn-primary">Send Message</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Attendance Modal -->
+  <div class="modal fade" id="attendanceModal" tabindex="-1">
+    <div class="modal-dialog modal-lg">
+      <div class="modal-content">
+        <div class="modal-header" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white;">
+          <h5 class="modal-title">Take Attendance</h5>
+          <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal"></button>
+        </div>
+        <div class="modal-body">
+          <div class="mb-3">
+            <label for="attendance-date" class="form-label">Date</label>
+            <input type="date" id="attendance-date" class="form-control">
+          </div>
+
+          <div id="attendance-students-container">
+            <!-- table populated by JS -->
+          </div>
+        </div>
+        <div class="modal-footer">
+          <span id="attendance-status" class="me-auto text-muted"></span>
+          <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+          <button type="button" class="btn btn-primary" onclick="submitAttendance()">Save Attendance</button>
         </div>
       </div>
     </div>
@@ -357,6 +389,123 @@
     }
 
     window.addEventListener('load', loadDashboard);
+
+    let attendanceModalInstance;
+    let attendanceStudents = [];
+
+    async function openAttendanceModal() {
+      // set default date = today
+      const dateInput = document.getElementById('attendance-date');
+      if (!dateInput.value) {
+        const today = new Date().toISOString().slice(0, 10);
+        dateInput.value = today;
+      }
+
+      document.getElementById('attendance-status').textContent = 'Loading students...';
+
+      try {
+        const data = await API.get(`/teachers/${TEACHER_ID}/attendance/students`);
+        attendanceStudents = data.students || [];
+        renderAttendanceTable(attendanceStudents);
+        document.getElementById('attendance-status').textContent = '';
+      } catch (err) {
+        document.getElementById('attendance-status').textContent = 'Failed to load students';
+        console.error(err);
+      }
+
+      if (!attendanceModalInstance) {
+        attendanceModalInstance = new bootstrap.Modal(document.getElementById('attendanceModal'));
+      }
+      attendanceModalInstance.show();
+    }
+
+    function renderAttendanceTable(students) {
+      const container = document.getElementById('attendance-students-container');
+
+      if (!students.length) {
+        container.innerHTML = '<div class="alert alert-info">No students mapped to this teacher.</div>';
+        return;
+      }
+
+      let html = `
+        <table class="table table-sm align-middle">
+          <thead>
+            <tr>
+              <th>#</th>
+              <th>Roll No</th>
+              <th>Name</th>
+              <th>Present</th>
+              <th>Absent</th>
+            </tr>
+          </thead>
+          <tbody>
+      `;
+
+      students.forEach((s, idx) => {
+        const name = s.full_name || s.name || ('Student #' + s.student_id);
+        html += `
+          <tr>
+            <td>${idx + 1}</td>
+            <td>${s.roll_number || '-'}</td>
+            <td>${name}</td>
+            <td>
+              <input class="form-check-input"
+                    type="radio"
+                    name="att_${s.student_id}"
+                    value="Present"
+                    checked>
+            </td>
+            <td>
+              <input class="form-check-input"
+                    type="radio"
+                    name="att_${s.student_id}"
+                    value="Absent">
+            </td>
+          </tr>
+        `;
+      });
+
+      html += '</tbody></table>';
+      container.innerHTML = html;
+    }
+
+    async function submitAttendance() {
+      const dateVal = document.getElementById('attendance-date').value;
+      const statusLabel = document.getElementById('attendance-status');
+
+      const records = attendanceStudents.map(s => {
+        const radios = document.querySelectorAll(`input[name="att_${s.student_id}"]`);
+        let status = 'Present';
+        radios.forEach(r => { if (r.checked) status = r.value; });
+        return { student_id: s.student_id, status };
+      });
+
+      statusLabel.textContent = 'Saving...';
+
+      try {
+        const res = await fetch(`http://localhost:5000/api/teachers/${TEACHER_ID}/attendance`, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ date: dateVal, records })
+        });
+
+        const data = await res.json();
+        if (!res.ok || data.error) {
+          statusLabel.textContent = 'Error: ' + (data.error || 'Failed to save');
+          return;
+        }
+
+        statusLabel.textContent = `Saved ${data.count} records for ${data.date}`;
+        setTimeout(() => {
+          statusLabel.textContent = '';
+          attendanceModalInstance?.hide();
+        }, 1200);
+      } catch (err) {
+        console.error(err);
+        statusLabel.textContent = 'Error saving attendance';
+      }
+    }
+
   </script>
 </body>
 </html>

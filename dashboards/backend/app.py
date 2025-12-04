@@ -51,6 +51,57 @@ def login():
 # ============================================================================
 # TEACHER ENDPOINTS
 # ============================================================================
+from datetime import date
+
+@app.route('/api/teachers/<int:teacher_id>/attendance/students', methods=['GET'])
+def get_teacher_students_for_attendance(teacher_id):
+    students = query_db("""
+        SELECT 
+            s.student_id,
+            s.full_name,              -- keep if this column exists
+            s.roll_number,
+            s.branch,                 -- or s.branch_name if that's the column
+            s.year
+        FROM students s
+        JOIN student_teacher_mapping stm ON s.student_id = stm.student_id
+        WHERE stm.teacher_id = ?
+        ORDER BY s.student_id
+    """, (teacher_id,))
+    return jsonify({'students': students})
+
+
+@app.route('/api/teachers/<int:teacher_id>/attendance', methods=['POST'])
+def submit_attendance(teacher_id):
+    """
+    Body: { date: '2025-12-05', records: [{student_id: 1, status: 'Present'}, ...] }
+    """
+    payload = request.get_json() or {}
+    rec_date = payload.get('date') or str(date.today())
+    records = payload.get('records', [])
+
+    if not records:
+        return jsonify({'error': 'No attendance records provided'}), 400
+
+    conn = get_db()
+    cur = conn.cursor()
+    try:
+        for r in records:
+            sid = r.get('student_id')
+            status = r.get('status')
+            if not sid or status not in ('Present', 'Absent'):
+                continue
+            cur.execute("""
+                INSERT INTO attendance (teacher_id, student_id, date, status)
+                VALUES (?, ?, ?, ?)
+            """, (teacher_id, sid, rec_date, status))
+        conn.commit()
+        return jsonify({'success': True, 'count': len(records), 'date': rec_date}), 200
+    except Exception as e:
+        conn.rollback()
+        return jsonify({'error': str(e)}), 500
+    finally:
+        conn.close()
+
 @app.route('/api/teachers/<int:teacher_id>/dashboard', methods=['GET'])
 def teacher_dashboard(teacher_id):
     """Get complete dashboard for teacher"""
