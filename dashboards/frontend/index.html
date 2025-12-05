@@ -132,6 +132,11 @@
               Take Attendance
             </button>
           </div>
+          <div class="col-md-2 text-end">
+              <button class="btn btn-primary w-100" data-bs-toggle="modal" data-bs-target="#resourceModal">
+                Share Resource
+              </button>
+          </div>
         </div>
       </div>
     </div>
@@ -197,6 +202,45 @@
           <span id="attendance-status" class="me-auto text-muted"></span>
           <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
           <button type="button" class="btn btn-primary" onclick="submitAttendance()">Save Attendance</button>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- Resource Modal -->
+  <div class="modal fade" id="resourceModal" tabindex="-1">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header" style="background: linear-gradient(135deg,#667eea 0%,#764ba2 100%); color:white;">
+          <h5 class="modal-title">Share Resource</h5>
+          <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal"></button>
+        </div>
+        <div class="modal-body">
+          <div class="mb-3">
+            <label class="form-label">Title</label>
+            <input id="res-title" class="form-control" placeholder="e.g. Today’s Notes – Arrays">
+          </div>
+          <div class="mb-3">
+            <label class="form-label">Type</label>
+            <select id="res-type" class="form-select">
+              <option value="note">Note</option>
+              <option value="assignment">Assignment</option>
+              <option value="pdf">PDF / File link</option>
+              <option value="link">External Link</option>
+            </select>
+          </div>
+          <div class="mb-3">
+            <label class="form-label">URL or Link (optional)</label>
+            <input id="res-url" class="form-control" placeholder="https://... or drive link">
+          </div>
+          <div class="mb-3">
+            <label class="form-label">Description (optional)</label>
+            <textarea id="res-desc" class="form-control" rows="3"></textarea>
+          </div>
+        </div>
+        <div class="modal-footer">
+          <span id="res-status" class="me-auto text-muted"></span>
+          <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+          <button type="button" class="btn btn-primary" onclick="saveResource()">Share</button>
         </div>
       </div>
     </div>
@@ -503,6 +547,44 @@
       } catch (err) {
         console.error(err);
         statusLabel.textContent = 'Error saving attendance';
+      }
+    }
+
+    async function saveResource() {
+      const title = document.getElementById('res-title').value.trim();
+      const type  = document.getElementById('res-type').value;
+      const url   = document.getElementById('res-url').value.trim();
+      const desc  = document.getElementById('res-desc').value.trim();
+      const status = document.getElementById('res-status');
+
+      if (!title) {
+        status.textContent = 'Title is required';
+        return;
+      }
+
+      status.textContent = 'Saving...';
+
+      try {
+        const res = await API.post(`/teachers/${TEACHER_ID}/resources`, {
+          title,
+          type,
+          url,
+          description: desc
+        });
+
+        status.textContent = 'Shared successfully';
+        // optional: clear form
+        document.getElementById('res-title').value = '';
+        document.getElementById('res-url').value = '';
+        document.getElementById('res-desc').value = '';
+
+        setTimeout(() => {
+          status.textContent = '';
+          const modalEl = document.getElementById('resourceModal');
+          bootstrap.Modal.getInstance(modalEl)?.hide();
+        }, 1000);
+      } catch (err) {
+        status.textContent = 'Error: ' + (err.message || 'Failed to share');
       }
     }
 

@@ -7,6 +7,7 @@ from flask_cors import CORS
 import sqlite3
 import json
 from functools import wraps
+from datetime import date, datetime
 
 app = Flask(__name__)
 CORS(app)
@@ -51,7 +52,6 @@ def login():
 # ============================================================================
 # TEACHER ENDPOINTS
 # ============================================================================
-from datetime import date
 
 @app.route('/api/teachers/<int:teacher_id>/attendance/students', methods=['GET'])
 def get_teacher_students_for_attendance(teacher_id):
@@ -102,6 +102,49 @@ def submit_attendance(teacher_id):
     finally:
         conn.close()
 
+@app.route('/api/teachers/<int:teacher_id>/resources', methods=['GET'])
+def list_teacher_resources(teacher_id):
+    rows = query_db("""
+        SELECT * FROM resources
+        WHERE teacher_id = ?
+        ORDER BY datetime(created_at) DESC
+    """, (teacher_id,))
+    return jsonify({'resources': rows})
+
+
+@app.route('/api/teachers/<int:teacher_id>/resources', methods=['POST'])
+def create_teacher_resource(teacher_id):
+    data = request.get_json() or {}
+    title = data.get('title')
+    rtype = data.get('type')
+    url = data.get('url')
+    desc = data.get('description')
+
+    if not title or not rtype:
+        return jsonify({'error': 'title and type are required'}), 400
+
+    conn = get_db()
+    cur = conn.cursor()
+    try:
+        cur.execute("""
+            INSERT INTO resources (teacher_id, title, description, type, url, file_path, created_at)
+            VALUES (?, ?, ?, ?, ?, ?, ?)
+        """, (
+            teacher_id,
+            title,
+            desc,
+            rtype,
+            url,
+            None,
+            datetime.utcnow().isoformat()
+        ))
+        conn.commit()
+        return jsonify({'success': True, 'id': cur.lastrowid}), 201
+    except Exception as e:
+        conn.rollback()
+        return jsonify({'error': str(e)}), 500
+    finally:
+        conn.close()
 @app.route('/api/teachers/<int:teacher_id>/dashboard', methods=['GET'])
 def teacher_dashboard(teacher_id):
     """Get complete dashboard for teacher"""
@@ -319,6 +362,8 @@ def get_child_profile(parent_id, student_id):
 # STUDENT ENDPOINTS
 # ============================================================================
 
+
+
 @app.route('/api/students/<int:student_id>/dashboard', methods=['GET'])
 def student_dashboard(student_id):
     """Get student's personal dashboard"""
@@ -376,6 +421,30 @@ def student_performance(student_id):
     }
     
     return jsonify(performance)
+@app.route('/api/students/<int:student_id>/resources', methods=['GET'])
+def student_resources(student_id):
+    print("🔎 /api/students/%d/resources called" % student_id)
+    teachers = query_db("""
+        SELECT teacher_id
+        FROM student_teacher_mapping
+        WHERE student_id = ?
+    """, (student_id,))
+    teacher_ids = [t['teacher_id'] for t in teachers]
+
+    if not teacher_ids:
+        return jsonify({'resources': []})
+
+    placeholders = ','.join('?' * len(teacher_ids))
+    rows = query_db(f"""
+        SELECT r.*, t.name as teacher_name
+        FROM resources r
+        JOIN teachers t ON r.teacher_id = t.teacher_id
+        WHERE r.teacher_id IN ({placeholders})
+        ORDER BY datetime(r.created_at) DESC
+    """, tuple(teacher_ids))
+
+    return jsonify({'resources': rows})
+
 
 # ============================================================================
 # ADMIN ENDPOINTS

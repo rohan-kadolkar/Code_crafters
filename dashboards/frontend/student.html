@@ -206,6 +206,16 @@
           <div id="risk-status" class="risk-indicator">Loading...</div>
           <p class="text-muted mt-3 mb-0">Risk Score: <span id="risk-score">-</span></p>
         </div>
+        <!-- Shared Resources from Teachers -->
+        <div class="card mb-4">
+            <div class="card-header bg-info text-white">
+              <h5 class="mb-0">📂 Shared Resources</h5>
+            </div>
+            <div class="card-body" id="resources-container">
+              <p class="text-muted mb-0">Loading resources...</p>
+            </div>
+        </div>
+
       </div>
 
       <!-- Right Column: Details -->
@@ -337,8 +347,14 @@
         // Load subject performance
         loadSubjects(student);
 
+        
+        console.log('✅ About to call loadResources');
+        // Load shared resources
+        loadResources();
+        
         // Load recommendations
         loadRecommendations(predictions.recommendations);
+
 
       } catch (e) {
         showError('Failed to load dashboard: ' + e.message);
@@ -397,6 +413,48 @@
 
       container.innerHTML = html;
     }
+
+    async function loadResources() {
+      const container = document.getElementById('resources-container');
+      if (!container) return;
+
+      try {
+        const data = await API.get(`/students/${STUDENT_ID}/resources`);
+        const resources = data.resources || [];
+
+        if (!resources.length) {
+          container.innerHTML = '<p class="text-muted mb-0">No resources shared yet.</p>';
+          return;
+        }
+
+        let html = '<ul class="list-group">';
+        resources.forEach(r => {
+          const teacherName = r.teacher_name || `Teacher #${r.teacher_id}`;
+          const created = r.created_at ? Format.date(r.created_at) : '';
+          const typeBadge = `<span class="badge bg-secondary me-2 text-uppercase">${r.type}</span>`;
+          const link = r.url ? `<a href="${r.url}" target="_blank" rel="noopener noreferrer">Open</a>` : '';
+
+          html += `
+            <li class="list-group-item">
+              <div class="d-flex justify-content-between">
+                <div>
+                  ${typeBadge}<strong>${r.title}</strong>
+                  <div class="text-muted small">By ${teacherName}${created ? ' • ' + created : ''}</div>
+                  ${r.description ? `<div class="mt-1">${r.description}</div>` : ''}
+                </div>
+                <div class="text-end">${link}</div>
+              </div>
+            </li>
+          `;
+        });
+        html += '</ul>';
+        container.innerHTML = html;
+      } catch (err) {
+        console.error(err);
+        container.innerHTML = '<p class="text-danger mb-0">Failed to load resources.</p>';
+      }
+    }
+
 
     window.addEventListener('load', loadDashboard);
   </script>
