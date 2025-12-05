@@ -507,6 +507,90 @@ def student_resources(student_id):
 
     return jsonify({'resources': rows})
 
+# ============================================================================
+# micro learning recommendations
+# ============================================================================
+
+# app.py
+from google import genai
+from google.genai import types as gtypes
+import os
+import requests
+
+gemini_client = genai.Client(api_key="AIzaSyBWmi1YuEdSlvBm5ewrl7eJGift4xL8yCY")
+YOUTUBE_API_KEY = "AIzaSyAavTJwuwXAeRo6Lsv4HVjkdWAWXg94R0M"
+
+@app.route('/api/students/<int:student_id>/micro-learning', methods=['GET'])
+def micro_learning(student_id):
+    analytics = query_db('SELECT * FROM analytics WHERE student_id = ?',
+                         (student_id,), one=True)
+    if not analytics:
+        return jsonify({'videos': []}), 200
+
+    topics = []
+    raw = analytics.get('weaknesses')
+    if isinstance(raw, str):
+        try:
+            topics = json.loads(raw)
+        except Exception:
+            topics = [raw]
+    elif isinstance(raw, list):
+        topics = raw
+
+    if not topics:
+        return jsonify({'videos': []}), 200
+
+    # Ask Gemini for search queries instead of URLs
+    prompt = (
+        f"A student is weak in: {', '.join(topics[:3])}. "
+        "Generate 3 short YouTube search queries (each 3-5 words) "
+        "that will help them improve. Return only a JSON array of strings."
+    )
+
+    resp = gemini_client.models.generate_content(
+        model="gemini-2.5-flash",
+        contents=prompt,
+        config=gtypes.GenerateContentConfig(
+            response_mime_type="application/json"
+        ),
+    )
+
+    try:
+        queries = json.loads(resp.text)
+    except Exception:
+        queries = []
+
+    # Now search YouTube for each query
+    videos = []
+    for query in queries[:3]:
+        yt_resp = requests.get(
+            "https://www.googleapis.com/youtube/v3/search",
+            params={
+                "part": "snippet",
+                "q": query,
+                "type": "video",
+                "maxResults": 1,
+                "videoDuration": "short",  # or "medium"
+                "key": YOUTUBE_API_KEY
+            }
+        )
+        if yt_resp.status_code == 200:
+            data = yt_resp.json()
+            if data.get("items"):
+                item = data["items"][0]
+                video_id = item["id"]["videoId"]
+                videos.append({
+                    "title": item["snippet"]["title"],
+                    "url": f"https://www.youtube.com/watch?v={video_id}",
+                    "tag": topics[0] if topics else "Learning",
+                    "estimated_minutes": 5,
+                    "xp_points": 50
+                })
+
+    return jsonify({'videos': videos})
+
+
+
 
 # ============================================================================
 # ADMIN ENDPOINTS

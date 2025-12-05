@@ -253,45 +253,18 @@
 
         <!-- Personalized Recommendations -->
         <div class="micro-learning-section">
-          <h4 class="text-gradient mb-3">🎯 Micro-Learning Recommendation</h4>
-
-          <div class="micro-card">
-            <div class="micro-icon">📘</div>
-            <div class="micro-info">
-              <h5>Probability & Statistics Basics</h5>
-              <p>Short AI-selected topic based on performance</p>
-
-              <div class="micro-tags">
-                <span class="micro-tag">5 min</span>
-                <span class="micro-tag">Math Skills</span>
-              </div>
-
-              <div class="micro-progress">
-                <div class="micro-progress-bar" style="width: 30%;"></div>
-              </div>
-            </div>
-            <div class="xp-points">+50 XP</div>
+          <div class="d-flex justify-content-between align-items-center mb-3">
+            <h4 class="text-gradient mb-0">🎯 Micro-Learning to Fix Weak Areas</h4>
+            <button class="btn btn-primary btn-sm" onclick="loadMicroLearning()">
+              Generate Recommendations
+            </button>
           </div>
-
-          <div class="micro-card">
-            <div class="micro-icon">🎥</div>
-            <div class="micro-info">
-              <h5>Communication Skills Video Module</h5>
-              <p>Watch & complete task to earn XP</p>
-
-              <div class="micro-tags">
-                <span class="micro-tag">7 min</span>
-                <span class="micro-tag">Soft Skills</span>
-              </div>
-
-              <div class="micro-progress">
-                <div class="micro-progress-bar" style="width: 60%;"></div>
-              </div>
-            </div>
-            <div class="xp-points">+80 XP</div>
+          <div id="micro-learning-container">
+            <p class="text-muted mb-0">
+              Click “Generate Recommendations” to get videos that help improve your weaknesses.
+            </p>
           </div>
         </div>
-
       </div>
     </div>
   </div>
@@ -452,6 +425,49 @@
       } catch (err) {
         console.error(err);
         container.innerHTML = '<p class="text-danger mb-0">Failed to load resources.</p>';
+      }
+    }
+
+    async function loadMicroLearning() {
+      const container = document.getElementById('micro-learning-container');
+      if (!container) return;
+
+      container.innerHTML = '<p class="text-muted">Loading personalized videos...</p>';
+
+      try {
+        const data = await API.get(`/students/${STUDENT_ID}/micro-learning`);
+        const videos = data.videos || [];
+
+        if (!videos.length) {
+          container.innerHTML = '<p class="text-muted">No micro-learning suggestions right now.</p>';
+          return;
+        }
+
+        let html = '';
+        videos.forEach(v => {
+          const width = Math.min(100, (v.estimated_minutes || 5) * 10); // fake progress
+          html += `
+            <div class="micro-card" onclick="window.open('${v.url}', '_blank')">
+              <div class="micro-icon">🎥</div>
+              <div class="micro-info">
+                <h5>${v.title}</h5>
+                <p>Recommended for your strengths in ${v.tag || 'your subjects'}</p>
+                <div class="micro-tags">
+                  <span class="micro-tag">${v.estimated_minutes || 5} min</span>
+                  ${v.tag ? `<span class="micro-tag">${v.tag}</span>` : ''}
+                </div>
+                <div class="micro-progress">
+                  <div class="micro-progress-bar" style="width: ${width}%;"></div>
+                </div>
+              </div>
+              <div class="xp-points">+${v.xp_points || 50} XP</div>
+            </div>
+          `;
+        });
+        container.innerHTML = html;
+      } catch (err) {
+        console.error(err);
+        container.innerHTML = '<p class="text-danger">Failed to load micro-learning videos.</p>';
       }
     }
 
