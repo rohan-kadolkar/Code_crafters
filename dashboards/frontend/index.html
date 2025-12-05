@@ -174,7 +174,7 @@
         </div>
         <div class="modal-footer">
           <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-          <button type="button" class="btn btn-primary">Send Message</button>
+          <button type="button" class="btn btn-primary" onclick="openEmailModal()">Send Message</button>
         </div>
       </div>
     </div>
@@ -241,6 +241,41 @@
           <span id="res-status" class="me-auto text-muted"></span>
           <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
           <button type="button" class="btn btn-primary" onclick="saveResource()">Share</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Email Modal -->
+  <div class="modal fade" id="emailModal" tabindex="-1">
+    <div class="modal-dialog modal-lg">
+      <div class="modal-content">
+        <div class="modal-header" style="background: linear-gradient(135deg,#667eea 0%,#764ba2 100%); color:white;">
+          <h5 class="modal-title">Send Email to Student</h5>
+          <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal"></button>
+        </div>
+        <div class="modal-body">
+          <div class="mb-3">
+            <label class="form-label">To</label>
+            <input id="mail-to" class="form-control" readonly>
+          </div>
+          <div class="mb-3">
+            <label class="form-label">Subject</label>
+            <input id="mail-subject" class="form-control" placeholder="Subject">
+          </div>
+          <div class="mb-3">
+            <label class="form-label">Message</label>
+            <textarea id="mail-body" class="form-control" rows="5" placeholder="Write your message..."></textarea>
+          </div>
+          <div class="mb-3">
+            <label class="form-label">Attachments</label>
+            <input id="mail-files" type="file" class="form-control" multiple>
+          </div>
+        </div>
+        <div class="modal-footer">
+          <span id="mail-status" class="me-auto text-muted"></span>
+          <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+          <button type="button" class="btn btn-primary" onclick="sendStudentEmail()">Send</button>
         </div>
       </div>
     </div>
@@ -357,6 +392,44 @@
       renderStudents(filtered);
     }
 
+    // function showDetails(studentId) {
+    //   const s = allStudents.find(x => x.student_id == studentId);
+    //   if (!s) return;
+
+    //   document.getElementById('modal-student-name').textContent = s.full_name || s.name || 'Student';
+    //   document.getElementById('detail-roll').textContent = s.roll_number || '-';
+    //   document.getElementById('detail-branch').textContent = s.branch_name || s.branch || '-';
+    //   document.getElementById('detail-year').textContent = s.year || '-';
+    //   document.getElementById('detail-gpa').textContent = Format.number(s.current_semester_gpa);
+    //   document.getElementById('detail-attendance').textContent = Format.percentage(s.attendance_percentage);
+      
+    //   const risk = s.dropout_risk || 'Unknown';
+    //   const riskEl = document.getElementById('detail-risk');
+    //   riskEl.textContent = risk;
+    //   riskEl.className = 'badge ' + RiskUtils.getBadgeClass(risk);
+
+    //   // Fixed: Better handling of risk_confidence with fallback
+    //   let riskScore = '-';
+    //   if (s.risk_confidence !== null && s.risk_confidence !== undefined) {
+    //     // Try RiskUtils.formatScore first, fallback to manual formatting
+    //     if (typeof RiskUtils !== 'undefined' && RiskUtils.formatScore) {
+    //       riskScore = RiskUtils.formatScore(s.risk_confidence);
+    //     } else {
+    //       // Manual formatting as percentage
+    //       riskScore = (s.risk_confidence * 100).toFixed(1) + '%';
+    //     }
+    //   }
+    //   document.getElementById('detail-score').textContent = riskScore;
+
+    //   // Display recommendations from student_analytics_results.json
+    //   displayRecommendations(s.recommendations);
+
+    //   if (!modalInstance) {
+    //     modalInstance = new bootstrap.Modal(document.getElementById('studentModal'));
+    //   }
+    //   modalInstance.show();
+    // }
+
     function showDetails(studentId) {
       const s = allStudents.find(x => x.student_id == studentId);
       if (!s) return;
@@ -376,21 +449,24 @@
       // Fixed: Better handling of risk_confidence with fallback
       let riskScore = '-';
       if (s.risk_confidence !== null && s.risk_confidence !== undefined) {
-        // Try RiskUtils.formatScore first, fallback to manual formatting
         if (typeof RiskUtils !== 'undefined' && RiskUtils.formatScore) {
           riskScore = RiskUtils.formatScore(s.risk_confidence);
         } else {
-          // Manual formatting as percentage
           riskScore = (s.risk_confidence * 100).toFixed(1) + '%';
         }
       }
       document.getElementById('detail-score').textContent = riskScore;
 
-      // Display recommendations from student_analytics_results.json
+      // Display recommendations
       displayRecommendations(s.recommendations);
 
+      // NEW: store email + name for email modal
+      const modalEl = document.getElementById('studentModal');
+      modalEl.dataset.email = s.email || '';
+      modalEl.dataset.name  = s.full_name || s.name || 'Student';
+
       if (!modalInstance) {
-        modalInstance = new bootstrap.Modal(document.getElementById('studentModal'));
+        modalInstance = new bootstrap.Modal(modalEl);
       }
       modalInstance.show();
     }
@@ -587,6 +663,65 @@
         status.textContent = 'Error: ' + (err.message || 'Failed to share');
       }
     }
+
+    function openEmailModal() {
+      const studentModal = document.getElementById('studentModal');
+      const email = studentModal.dataset.email || '';
+      const name  = studentModal.dataset.name || 'Student';
+
+      const toInput = document.getElementById('mail-to');
+      toInput.value = email;
+      document.getElementById('mail-subject').value = `Message from your teacher`;
+      document.getElementById('mail-body').value = `Dear ${name},\n\n`;
+      document.getElementById('mail-status').textContent = '';
+
+      const emailModal = new bootstrap.Modal(document.getElementById('emailModal'));
+      emailModal.show();
+    }
+
+    async function sendStudentEmail() {
+      const to = document.getElementById('mail-to').value.trim();
+      const subject = document.getElementById('mail-subject').value.trim();
+      const body = document.getElementById('mail-body').value.trim();
+      const files = document.getElementById('mail-files').files;
+      const status = document.getElementById('mail-status');
+
+      if (!to || !subject || !body) {
+        status.textContent = 'To, subject and message are required';
+        return;
+      }
+
+      const formData = new FormData();
+      formData.append('to', to);
+      formData.append('subject', subject);
+      formData.append('body', body);
+      for (let i = 0; i < files.length; i++) {
+        formData.append('attachments', files[i]);
+      }
+
+      status.textContent = 'Sending...';
+
+      try {
+        const res = await fetch(`http://localhost:5000/api/teachers/${TEACHER_ID}/email`, {
+          method: 'POST',
+          body: formData
+        });
+        const data = await res.json();
+        if (!res.ok || data.error) {
+          status.textContent = 'Error: ' + (data.error || 'Failed to send');
+          return;
+        }
+        status.textContent = 'Email sent';
+        setTimeout(() => {
+          status.textContent = '';
+          bootstrap.Modal.getInstance(document.getElementById('emailModal'))?.hide();
+        }, 1000);
+      } catch (err) {
+        console.error(err);
+        status.textContent = 'Error sending email';
+      }
+    }
+
 
   </script>
 </body>

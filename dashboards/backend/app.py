@@ -315,6 +315,68 @@ def teacher_student_detail(teacher_id, student_id):
         })
     except Exception as e:
         return jsonify({'error': str(e)}), 500
+# ============================================================================
+# EMAIL ENDPOINTS
+# ============================================================================
+
+import smtplib
+from email.message import EmailMessage
+from flask import request, jsonify
+
+@app.route('/api/teachers/<int:teacher_id>/email', methods=['POST'])
+def send_email_to_student(teacher_id):
+    # 1. Get teacher email from DB
+    teacher = query_db(
+        "SELECT email, name, gmail_app_password FROM teachers WHERE teacher_id = ?",
+        (teacher_id,), one=True
+    )
+
+    if not teacher or not teacher.get('email'):
+        return jsonify({'error': 'Teacher email not configured'}), 400
+
+    from_addr = teacher['email']
+    smtp_pass = teacher['gmail_app_password']
+    from_name = teacher.get('name') or 'Teacher'
+
+    # 2. Read form data from frontend
+    to_addr = request.form.get('to')
+    subject = request.form.get('subject')
+    body = request.form.get('body')
+    files = request.files.getlist('attachments')
+
+    if not to_addr or not subject or not body:
+        return jsonify({'error': 'Missing fields'}), 400
+
+    # 3. Build email
+    msg = EmailMessage()
+    msg['From'] = f"{from_name} <{from_addr}>"
+    msg['To'] = to_addr
+    msg['Subject'] = subject
+    msg.set_content(body)
+
+    for f in files:
+        data = f.read()
+        msg.add_attachment(
+            data,
+            maintype='application',
+            subtype='octet-stream',
+            filename=f.filename
+        )
+
+    # 4. Send via SMTP (configure once)
+    try:
+        SMTP_USER = from_addr              # same as teacher email or a fixed sender
+        SMTP_PASS = smtp_pass   # Gmail app password (env var in real app)
+
+        with smtplib.SMTP_SSL('smtp.gmail.com', 465) as smtp:
+            smtp.login(SMTP_USER, SMTP_PASS)
+            smtp.send_message(msg)
+
+        return jsonify({'success': True})
+    except Exception as e:
+        print('Email error:', e)
+        return jsonify({'error': str(e)}), 500
+
 
 # ============================================================================
 # PARENT ENDPOINTS
